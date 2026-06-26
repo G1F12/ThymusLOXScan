@@ -4,8 +4,6 @@
 **Affiliation:** Independent researcher  
 **Correspondence:** https://github.com/G1F12/ThymusLOXScan
 
-**Correspondence:** https://github.com/G1F12/ThymusLOXScan
-
 ## Abstract
 The lysyl oxidase (LOX) family of extracellular matrix crosslinking enzymes 
 has been implicated in tissue fibrosis and aging across multiple organs, yet 
@@ -77,6 +75,6 @@ are available at https://github.com/G1F12/ThymusLOXScan.
 ## Citation
 Karatseyeu A. LOX-family gene expression is reduced in thymic fibroblasts 
 during aging and shows isoform-divergent dynamics in medullary niches. 
-bioRxiv (2025). https://github.com/G1F12/ThymusLOXScan 
+bioRxiv (2026). https://github.com/G1F12/ThymusLOXScan 
 https://doi.org/10.1101/[YOUR_BIORXIV_ID]
 
