@@ -33,13 +33,17 @@ To investigate age-dependent changes in LOX-family expression within the thymic 
 
 ## LOX-family expression is broadly reduced in thymic fibroblasts during aging
 
-Examination of LOX-family expression across the fibroblast compartment revealed a consistent downward shift in aged relative to young cells. Single-cell level analysis (Mann–Whitney U test across all fibroblasts pooled; n = 7,159 young, 6,079 aged cells) showed significant reductions for all five family members: Loxl1 (p = 2.6×10⁻¹²¹, rank-biserial effect size = −0.226), Lox (p = 4.9×10⁻⁹⁸, effect size = −0.154), Loxl2 (p = 3.2×10⁻⁷², effect size = −0.131), Loxl3 (p = 1.4×10⁻²⁶, effect size = −0.070), and Loxl4 (p = 7.7×10⁻⁴, effect size = −0.004). Notably, the Loxl4 effect size was negligible despite nominal significance, reflecting the large cell numbers rather than a biologically meaningful reduction. Pseudobulk DESeq2 analysis, which aggregates counts per biological sample and controls for inter-animal variability, confirmed statistically significant age-dependent changes for individual isoforms within specific fibroblast subtypes (described below), consistent with the direction observed at the single-cell level. The coordinated downregulation of the LOX family in fibroblasts argues against a simple pro-fibrotic remodeling response during thymic involution, and instead suggests a reduction in constitutive ECM crosslinking capacity in the aging thymic stroma.
+Examination of LOX-family expression across the fibroblast compartment revealed a consistent downward shift in aged relative to young cells. Single-cell level analysis (Mann–Whitney U test across all fibroblasts pooled; n = 7,159 young, 6,079 aged cells) showed significant reductions for all five family members: Loxl1 (p = 2.6×10⁻¹²¹, rank-biserial effect size = −0.226), Lox (p = 4.9×10⁻⁹⁸, effect size = −0.154), Loxl2 (p = 3.2×10⁻⁷², effect size = −0.131), Loxl3 (p = 1.4×10⁻²⁶, effect size = −0.070), and Loxl4 (p = 7.7×10⁻⁴, effect size = −0.004). Nominal significance (p = 7.7×10⁻⁴) but negligible effect size (effect size = −0.004), reflecting large cell numbers rather than biologically meaningful reduction. Pseudobulk DESeq2 analysis, which aggregates counts per biological sample and controls for inter-animal variability, confirmed statistically significant age-dependent changes for individual isoforms within specific fibroblast subtypes (described below), consistent with the direction observed at the single-cell level. The coordinated downregulation of the LOX family in fibroblasts argues against a simple pro-fibrotic remodeling response during thymic involution, and instead suggests a reduction in constitutive ECM crosslinking capacity in the aging thymic stroma.
 
 ## Fibroblast subtype analysis reveals spatially divergent LOX dynamics
 
 Disaggregation by fibroblast subtype revealed that the apparent global LOX decline was heterogeneous across anatomically distinct populations. The strongest pseudobulk-confirmed effect was observed in capsular fibroblasts: capsFB exhibited a robust age-associated decrease in Lox expression (log2FC = −1.46, padj = 7.5×10⁻⁵). Interstitial fibroblasts showed consistent directional reductions in both Lox (log2FC = −0.63, padj = 0.072) and Loxl1 (log2FC = −0.51, padj = 0.054), which approached but did not reach FDR significance under the conservative pseudobulk framework.
 
 Medullary fibroblasts displayed a markedly different pattern. Loxl1 was significantly elevated in aged medFB (log2FC = +0.75, padj = 0.023), while Loxl2 was concomitantly reduced (log2FC = −1.00, padj = 0.007). Lox showed a directional trend toward increased expression in aged medFB (log2FC = +1.10, padj = 0.075) that did not survive correction for multiple comparisons. These opposing isoform trajectories within the medullary niche indicate that fibroblast subtype identity, rather than a uniform aging program, determines the direction and magnitude of LOX-family regulation during thymic involution.
+
+[Вставить Figure 1: Fig_pseudobulk_volcano.png]
+
+Figure 1. Pseudobulk DESeq2 volcano plot of LOX-family expression dynamics between 18-month-old and 2-month-old murine thymic stromal cells. Dashed lines indicate significance thresholds (padj < 0.05).
 
 ## Loxl2 is selectively reduced in medullary TECs during aging
 
@@ -48,6 +52,10 @@ Among thymic epithelial populations, the most pronounced LOX-family change was o
 ## Loxl2 co-expression with structural ECM components in fibroblasts
 
 Within the fibroblast compartment, Loxl2 expression showed weak but statistically robust co-expression with structural extracellular matrix genes. Significant positive correlations were observed with Col1a1 (Spearman rho = 0.19, p = 3.2×10⁻¹¹¹) and Vim (rho = 0.14, p = 8.0×10⁻⁶³), consistent with a role for Loxl2 in fibroblast-associated matrix remodeling programs. Loxl2 did not significantly correlate with Snai1 (rho = 0.005, p = 0.578), suggesting that its co-expression with Col1a1 and Vim reflects structural ECM organization rather than Snai1-dependent epithelial-to-mesenchymal transition.
+
+[Вставить Figure 2: Fig_summary_4panel.png]
+
+Figure 2. Summary of LOX-family expression profiles and co-expression networks. (A) Dot plot of log2 fold changes across fibroblast subtypes. (B) Statistically significant pseudobulk changes (padj < 0.05). (C) Spearman correlation coefficients ($\rho$) for Loxl2 and ECM components. (D) Rank-biserial effect sizes across pooled fibroblasts.
 
 ## Methods
 
