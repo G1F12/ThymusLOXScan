@@ -1,0 +1,6 @@
+cell_type_subset,gene,present,status,n_pseudobulk_samples,n_02mo,n_18mo,cells_02mo,cells_18mo,baseMean,log2FoldChange,lfcSE,pvalue,padj
+10:aaTEC1,Lox,True,skipped_missing_stage,2,0,2,0,726,,,,,
+10:aaTEC1,Loxl1,True,skipped_missing_stage,2,0,2,0,726,,,,,
+10:aaTEC1,Loxl2,True,skipped_missing_stage,2,0,2,0,726,,,,,
+10:aaTEC1,Loxl3,True,skipped_missing_stage,2,0,2,0,726,,,,,
+10:aaTEC1,Loxl4,True,skipped_missing_stage,2,0,2,0,726,,,,,
