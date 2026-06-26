@@ -78,5 +78,5 @@ are available at https://github.com/G1F12/ThymusLOXScan.
 Karatseyeu A. LOX-family gene expression is reduced in thymic fibroblasts 
 during aging and shows isoform-divergent dynamics in medullary niches. 
 bioRxiv (2025). https://github.com/G1F12/ThymusLOXScan 
-[FILL DOI AFTER BIORXIV UPLOAD]
+https://doi.org/10.1101/[YOUR_BIORXIV_ID]
 
