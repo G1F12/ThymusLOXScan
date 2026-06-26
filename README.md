@@ -145,4 +145,4 @@ pandas 2.3.1 | numpy 2.2.6 | matplotlib 3.10.5
 [PLACEHOLDER — fill after bioRxiv upload]
 
 ## Author
-[PLACEHOLDER]
+Aliaksandr Karatseyeu
