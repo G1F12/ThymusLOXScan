@@ -127,7 +127,7 @@ ThymusLOXScan/
 - Loxl2 co-expresses with Col1a1 and Vim but not Snai1
 
 ## Reproducing the Analysis
-1. git clone [this repo]
+1. git clone https://github.com/G1F12/ThymusLOXScan
 2. pip install -r requirements.txt
 3. Download GSE240016 h5ad from GEO and place in data/raw/
 4. Run scripts in order:
