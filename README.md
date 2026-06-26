@@ -142,7 +142,7 @@ anndata 0.12.18 | pydeseq2 0.5.4 | scipy 1.16.1
 pandas 2.3.1 | numpy 2.2.6 | matplotlib 3.10.5
 
 ## Citation
-https://doi.org/10.1101/[YOUR_BIORXIV_ID]
+Preprint in preparation.
 
 ## Author
 Aliaksandr Karatseyeu
