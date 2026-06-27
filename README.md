@@ -2,6 +2,12 @@
 
 Computational reanalysis of LOX-family gene expression in aging murine thymic stromal cells.
 
+## Final public release
+
+The final safe public preprint release is available here:
+
+https://github.com/G1F12/ThymusLOXScan/releases/tag/v4.2-final-safe
+
 **Final public manuscript:** `manuscript/LOX_thymus_aging_public_preprint_v4_2_final_safe.md`
 
 Older manuscript files are working drafts.
