@@ -25,6 +25,9 @@ wheels/
 venv/
 env/
 ENV/
+virtualenv/
+.conda/
+conda-env/
 
 # Environment variables
 .env
@@ -43,11 +46,25 @@ htmlcov/
 .idea/
 .DS_Store
 Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Codex/local agent state
+.codex/
+.agents/
+
+# Local scratch/output
+tmp/
+output/
 
 # Project data outputs
 data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+data/external/*
+!data/external/.gitkeep
 figures/*
 !figures/.gitkeep
