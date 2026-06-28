@@ -1,148 +1,331 @@
 # ThymusLOXScan
 
-## Abstract
-The lysyl oxidase (LOX) family of extracellular matrix crosslinking enzymes 
-has been implicated in tissue fibrosis and aging across multiple organs, yet 
-its role in thymic involution remains unexplored. Here we analyze LOX-family 
-gene expression dynamics during murine thymic aging using a publicly available 
-single-cell RNA-seq dataset of 22,932 CD45-negative thymic stromal cells from 
-young (2-month) and aged (18-month) C57BL/6 mice. Pseudobulk differential 
-expression analysis and single-cell level testing reveal that LOX-family members 
-are broadly downregulated across thymic fibroblasts with age, with the strongest 
-effects observed for Lox and Loxl1. Fibroblast subtype-resolved analysis uncovers 
-spatially divergent isoform dynamics: capsular fibroblasts show a robust reduction 
-in Lox (log2FC = -1.46, padj = 7.5e-5), while medullary fibroblasts display 
-opposing trajectories for Loxl1 (increased) and Loxl2 (decreased), suggesting 
-niche-specific ECM remodeling programs. In medullary thymic epithelial cells, 
-Loxl2 is selectively and substantially reduced in aged mice (log2FC = -3.29, 
-padj = 9.6e-4). Loxl2 expression correlates with structural ECM components 
-Col1a1 and Vim but not with the EMT driver Snai1, pointing to a structural 
-rather than fibrotic role. These findings identify LOX-family downregulation 
-as a feature of thymic stromal aging and nominate Loxl2 as a candidate mediator 
-of age-associated ECM remodeling in both fibroblast and epithelial compartments.
+Computational reanalysis of LOX-family gene expression in aging murine thymic stromal cells.
 
-## Data Source
-Dataset: GSE240016 (Kousa et al., Nature Immunology 2024)
-Species: Mus musculus (female C57BL/6)
-Age groups: 2 months (young) vs 18 months (aged)
-Cells: 22,932 CD45-negative thymic stromal cells
+## Current public manuscript
+
+The current external-validation manuscript is:
+
+`manuscript/LOX_thymus_aging_public_preprint_v5_1_external_validation_safe.md`
+
+Previous stable release:
+`v4.2-final-safe`
+
+https://github.com/G1F12/ThymusLOXScan/releases/tag/v4.2-final-safe
+
+Older manuscript files are working drafts.
+
+## Scientific Summary
+
+This repository analyzes LOX-family gene expression in CD45-negative thymic stromal cells from young and aged mice. The analysis focuses on pseudobulk differential expression across biological samples, descriptive single-cell tests, per-sample robustness checks, and manuscript-ready figures/tables for LOX-family genes (`Lox`, `Loxl1`, `Loxl2`, `Loxl3`, `Loxl4`). The current manuscript interpretation is hypothesis-generating and does not claim protein-level validation or direct functional mechanism.
+
+## Dataset
+
+- Accession: `GSE240016`
+- Dataset: Kousa et al. thymic aging single-cell RNA-seq dataset
+- Species: mouse
+- Comparison used here: young `02mo` versus aged `18mo`
+- Main raw input expected by this repository:
+  - `data/raw/GSE240016_CD45neg_thymic_stroma_d0+annotation.h5ad`
+
+The full raw `.h5ad` file may be too large to redistribute in a lightweight code repository. External reviewers should download the public data from GEO accession `GSE240016` or the linked public data source for the study, then place the annotated CD45-negative thymic stroma AnnData file at the path above. If the file name differs after download, rename it or update script input paths accordingly.
 
 ## Repository Structure
+
 ```text
 ThymusLOXScan/
-+-- README.md
-+-- requirements.txt
-+-- data/
-    +-- processed/
-        +-- LOXL2_EMT_spearman_correlations.csv
-        +-- LOX_differential_results.csv
-        +-- fibroblast_subtype_LOX_breakdown.csv
-        +-- mTEC_Lox_Loxl2_stage_correlations.csv
-        +-- thymus_annotated.h5ad
-        +-- thymus_preprocessed.h5ad
-    +-- raw/
-        +-- GSE240016_CD45neg_thymic_stroma_d0+annotation.h5ad
-+-- figures/
-    +-- Fig2_effect_size_bubbleplot.png
-    +-- Fig_pseudobulk_volcano.png
-    +-- Fig_summary_4panel.png
-    +-- LOX_summary_figure.png
-    +-- existing_annotation_marker_dotplot_by_subset.png
-    +-- existing_umap_annotations_stage.png
-    +-- fibroblast_subtype_heatmap.png
-    +-- mTEC_Lox_Loxl2_scatter.png
-    +-- mTEC_Lox_vs_Loxl2_divergence.png
-    +-- qc_after_filtering_violin.png
-    +-- qc_before_filtering_violin.png
-    +-- umap_cell_type_stage.png
-    +-- umap_cell_type_subset.png
-    +-- LOX_EMT_correlation/
-        +-- Loxl2_vs_Col1a1_fibroblasts.png
-        +-- Loxl2_vs_Snai1_fibroblasts.png
-        +-- Loxl2_vs_Vim_fibroblasts.png
-    +-- LOX_basic/
-        +-- LOX_dotplot_cTEC_by_stage.png
-        +-- LOX_dotplot_endothelial_by_stage.png
-        +-- LOX_dotplot_fibroblasts_by_stage.png
-        +-- LOX_dotplot_mTEC_by_stage.png
-        +-- LOX_violin_all_cells_by_stage.png
-        +-- LOX_violin_by_cell_type.png
-+-- manuscript/
-    +-- discussion.md
-    +-- results_draft.md
-+-- notebooks/
-    +-- 01_scanpy_tutorial_PBMC.ipynb
-    +-- 02_data_inspection.ipynb
-    +-- 03_preprocessing_thymus.ipynb
-    +-- 04_cell_type_annotation.ipynb
-    +-- 05_LOX_expression_analysis.ipynb
-    +-- 05b_followup_analysis.ipynb
-    +-- 06_GSEA_TGFb_analysis.ipynb
-+-- results/
-    +-- LOX_master_summary.csv
-    +-- dropout_analysis_LOX.csv
-    +-- magic_imputation_LOX.csv
-    +-- pseudobulk_deseq2_LOX.csv
-    +-- sc_mannwhitney_FB_combined.csv
-    +-- sc_mannwhitney_mTEC1.csv
-    +-- sc_spearman_correlations.csv
-    +-- pseudobulk_partial/
-        +-- 0_arEC.csv
-        +-- 10_aaTEC1.csv
-        +-- 11_aaTEC2.csv
-        +-- 12_cTEC.csv
-        +-- 12_early_Pr.csv
-        +-- 13_mTEC1.csv
-        +-- 14_mTEC-prol.csv
-        +-- 15_mTEC2.csv
-        +-- 16_mimetic_basal_.csv
-        +-- 17_mimetic_tuft_.csv
-        +-- 18_mimetic_neuroendo_.csv
-        +-- 19_mimetic_goblet_.csv
-        +-- 1_capEC.csv
-        +-- 20_mimetic_microfold_.csv
-        +-- 2_venEC.csv
-        +-- 3_capsFB.csv
-        +-- 4_intFB.csv
-        +-- 5_medFB.csv
-        +-- 6_MEC.csv
-        +-- 7_vSMC_PC.csv
-        +-- 8_nmSC.csv
-        +-- 9_Fat.csv
-+-- scripts/
-    +-- download_data.py
-    +-- dropout_analysis_lox.py
-    +-- magic_imputation_lox.py
-    +-- pseudobulk_deseq2_lox.py
-    +-- summarize_results.py
-    +-- validate_pipeline.py
+|-- data/
+|   |-- raw/                         # downloaded public input data
+|   |-- processed/                   # processed AnnData objects and intermediate CSVs
+|-- notebooks/                       # exploratory preprocessing, annotation, and analysis notebooks
+|-- scripts/                         # reproducible analysis and validation scripts
+|   |-- figures/                     # final figure-generation scripts
+|-- results/
+|   |-- tables/                      # reviewer-facing pseudobulk result tables
+|   |-- figures/final/               # final manuscript figure PNG/PDF files
+|   |-- figures/per_sample/          # per-sample robustness figures
+|   |-- pseudobulk_partial/          # partial pseudobulk DESeq2 outputs
+|-- supplementary_tables/            # supplementary TSV tables and generator
+|-- reports/                         # audit, methods, and robustness reports
+|-- manuscript/                      # manuscript text and revised sections
+|-- figures/                         # older notebook-generated figures
+|-- requirements.txt                 # base Python dependencies
 ```
 
-## Key Results
-- Lox and Loxl1 show the strongest age-associated reduction across fibroblasts
-  (rank-biserial effect sizes: -0.226 and -0.154 respectively)
-- Capsular fibroblasts: Lox log2FC = -1.46 (padj = 7.5e-5)
-- Medullary fibroblasts: isoform divergence — Loxl1 up (+0.75), Loxl2 down (-1.00)
-- mTEC1: Loxl2 log2FC = -3.29 (padj = 9.6e-4)
-- Loxl2 co-expresses with Col1a1 and Vim but not Snai1
+## Required Software
 
-## Reproducing the Analysis
-1. git clone https://github.com/G1F12/ThymusLOXScan
-2. pip install -r requirements.txt
-3. Download GSE240016 h5ad from GEO and place in data/raw/
-4. Run scripts in order:
-   python scripts/pseudobulk_deseq2_lox.py
-   python scripts/dropout_analysis_lox.py
-   python scripts/magic_imputation_lox.py
-   python scripts/summarize_results.py
-5. Figures generated by running notebooks 03-05b in order
+Recommended:
 
-## Software Versions
-anndata 0.12.18 | pydeseq2 0.5.4 | scipy 1.16.1
-pandas 2.3.1 | numpy 2.2.6 | matplotlib 3.10.5
+- Python 3.11
+- R is not required for the current Python-based DESeq2 workflow, which uses `pydeseq2`
+- JupyterLab or Jupyter Notebook for running notebooks
+
+Core packages are specified in both `environment.yml` and `requirements.txt`:
+
+- `scanpy`
+- `anndata`
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scipy`
+- `leidenalg`
+- `python-igraph`
+- `pydeseq2`
+- `magic-impute`
+- `statsmodels`
+- `gseapy`
+- `jupyter`
+
+The repository does not use R, `rpy2`, or an R/Bioconductor DESeq2 installation in the current scripted workflow.
+
+## Environment Setup
+
+Preferred conda/mamba setup:
+
+```bash
+conda env create -f environment.yml
+conda activate thymus-loxscan
+```
+
+Equivalent mamba setup:
+
+```bash
+mamba env create -f environment.yml
+mamba activate thymus-loxscan
+```
+
+Pip/venv setup:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+On Windows PowerShell:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+```
+
+Optional validation:
+
+```bash
+python scripts/validate_pipeline.py
+```
+
+Note: `scripts/validate_pipeline.py` contains older checks that expect some legacy processed outputs and may warn about human-style LOX symbols. Treat validation output as a sanity check, not as the definitive manuscript pipeline.
+
+## Data Preparation
+
+Expected raw input:
+
+```text
+data/raw/GSE240016_CD45neg_thymic_stroma_d0+annotation.h5ad
+```
+
+To prepare the repository:
+
+```bash
+mkdir -p data/raw data/processed results results/tables results/figures/final
+```
+
+Then download the public `GSE240016` thymic stromal AnnData file from GEO or the linked public source and place it in `data/raw/` with the expected filename.
+
+Important: `scripts/download_data.py` currently references an older or incorrect accession in its internal text and should not be used as the authoritative download route for this manuscript without manual confirmation. The authoritative accession for this project is `GSE240016`.
+
+## Full Pipeline
+
+The notebooks record the original exploratory workflow, while the scripts regenerate the main reviewer-facing outputs. Run commands from the repository root.
+
+1. Inspect raw data:
+
+```bash
+jupyter notebook notebooks/02_data_inspection.ipynb
+```
+
+2. Preprocess and annotate cells:
+
+```bash
+jupyter notebook notebooks/03_preprocessing_thymus.ipynb
+jupyter notebook notebooks/04_cell_type_annotation.ipynb
+```
+
+Expected processed outputs include:
+
+```text
+data/processed/thymus_preprocessed.h5ad
+data/processed/thymus_annotated.h5ad
+```
+
+3. Run original LOX exploratory analyses:
+
+```bash
+jupyter notebook notebooks/05_LOX_expression_analysis.ipynb
+jupyter notebook notebooks/05b_followup_analysis.ipynb
+```
+
+4. Run pseudobulk DESeq2 analysis:
+
+```bash
+python scripts/pseudobulk_deseq2_lox.py
+python scripts/make_pseudobulk_results_table.py
+```
+
+The complete pseudobulk table script sums raw counts within biological sample and annotation group before fitting DESeq2 with design `~ stage` and contrast `18mo` versus `02mo`.
+
+5. Run descriptive single-cell and auxiliary analyses:
+
+```bash
+python scripts/dropout_analysis_lox.py
+python scripts/magic_imputation_lox.py
+python scripts/summarize_results.py
+```
+
+MAGIC-related outputs should be interpreted cautiously. In the current manuscript framing, MAGIC is visualization/supporting analysis only and should not be treated as the primary inferential test.
+
+6. Generate per-sample robustness plots:
+
+```bash
+python scripts/plot_per_sample_lox_expression.py
+```
+
+7. Generate final manuscript figures:
+
+```bash
+python scripts/figures/plot_final_volcano.py
+python scripts/figures/plot_final_summary.py
+```
+
+8. Generate supplementary tables:
+
+```bash
+python supplementary_tables/make_supplementary_tables.py
+```
+
+## Regenerating Tables
+
+Main pseudobulk LOX result tables:
+
+```bash
+python scripts/make_pseudobulk_results_table.py
+```
+
+Outputs:
+
+```text
+results/tables/lox_pseudobulk_complete_results.csv
+results/tables/lox_pseudobulk_complete_results.tsv
+```
+
+Supplementary tables:
+
+```bash
+python supplementary_tables/make_supplementary_tables.py
+```
+
+Outputs:
+
+```text
+supplementary_tables/Supplementary_Table_1_cell_counts.tsv
+supplementary_tables/Supplementary_Table_2_pseudobulk_LOX_results.tsv
+supplementary_tables/Supplementary_Table_3_single_cell_tests.tsv
+supplementary_tables/Supplementary_Table_4_correlations.tsv
+```
+
+Per-sample robustness values:
+
+```text
+results/figures/per_sample/lox_per_sample_pseudobulk_values.csv
+results/tables/mtec1_loxl2_per_sample_expression.tsv
+```
+
+## Regenerating Figures
+
+Final manuscript figures:
+
+```bash
+python scripts/figures/plot_final_volcano.py
+python scripts/figures/plot_final_summary.py
+```
+
+Outputs:
+
+```text
+results/figures/final/Fig1_pseudobulk_volcano_final.png
+results/figures/final/Fig1_pseudobulk_volcano_final.pdf
+results/figures/final/Fig2_summary_4panel_final.png
+results/figures/final/Fig2_summary_4panel_final.pdf
+```
+
+Per-sample robustness figures:
+
+```bash
+python scripts/plot_per_sample_lox_expression.py
+```
+
+Outputs:
+
+```text
+results/figures/per_sample/lox_per_sample_pseudobulk_expression.png
+results/figures/per_sample/lox_per_sample_pseudobulk_expression.pdf
+results/figures/per_sample/mtec1_loxl2_per_sample.pdf
+```
+
+Older exploratory figures are generated from notebooks and stored under `figures/`.
+
+## Manuscript Files
+
+The current external-validation manuscript is:
+
+```text
+manuscript/LOX_thymus_aging_public_preprint_v5_1_external_validation_safe.md
+```
+
+The previous stable cautious release manuscript is:
+
+```text
+manuscript/LOX_thymus_aging_public_preprint_v4_2_final_safe.md
+```
+
+Manuscript-related working files are stored in `manuscript/`, including:
+
+```text
+manuscript/manuscript.md
+manuscript/manuscript.docx
+manuscript/methods.md
+manuscript/methods_detailed.md
+manuscript/results_draft.md
+manuscript/discussion.md
+manuscript/discussion_revised.md
+manuscript/abstract_revised.md
+manuscript/data_availability.md
+```
+
+References and remaining citation gaps:
+
+```text
+manuscript/references.bib        # create or include when final references are added
+reports/reference_gaps.md        # create or include when citation-gap tracking is available
+```
+
+There is currently no automated manuscript-build script. Manuscript outputs should be edited or exported from the files in `manuscript/`.
+
+## Known Limitations
+
+- The analysis is a computational reanalysis of a public dataset and does not include new experimental validation.
+- RNA expression changes do not establish protein abundance, enzymatic activity, ECM crosslinking changes, or causal mechanisms of thymic involution.
+- Some subtype-level pseudobulk comparisons may have limited biological replicate counts; these should be interpreted cautiously.
+- Single-cell-level Mann-Whitney tests are descriptive and do not replace sample-level pseudobulk inference.
+- MAGIC/imputation outputs are not the primary inferential evidence.
+- Some older notebooks and helper scripts are exploratory and may contain legacy assumptions. The reviewer-facing scripted outputs are the preferred reproducibility path.
+- The raw public `.h5ad` file may need to be downloaded manually because redistribution and file hosting depend on the original data provider.
 
 ## Citation
-Preprint in preparation.
 
-## Author
-Aliaksandr Karatseyeu
+Preprint in preparation.

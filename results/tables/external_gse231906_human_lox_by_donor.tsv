@@ -1,0 +1,555 @@
+candidate_group	sheet	donor_id	n_cells	age_years	age	age_bin	sex	source_study	broad_cell_types	fine_cell_types	LOX_pseudobulk_expression	LOX_detection_rate	LOXL1_pseudobulk_expression	LOXL1_detection_rate	LOXL2_pseudobulk_expression	LOXL2_detection_rate	LOXL3_pseudobulk_expression	LOXL3_detection_rate	LOXL4_pseudobulk_expression	LOXL4_detection_rate	expression_status
+cTEC_like	stromal_cell_metadata	A16_TH_TOT_5	2			age_unknown		Park et al.	cTEC_lo	cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	A16_TH_TOT_5GEX_2	1			age_unknown		Park et al.	MKI67+cTEC	MKI67+cTEC											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	A16_TH_TOT_5GEX_6	1			age_unknown		Park et al.	cTEC_lo	cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	A16_TH_TOT_6	2			age_unknown		Park et al.	cTEC_lo	cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	A43_TH_45NM_5GEX_1	1106			age_unknown		Park et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	A43_TH_45NM_5GEX_2	1176			age_unknown		Park et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	A43_TH_TOT_5GEX_1	24			age_unknown		Park et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	A43_TH_TOT_5GEX_2	1			age_unknown		Park et al.	cTEC_lo	cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	GSM4466783	59			age_unknown		Bautista et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	GSM4466784	15			age_unknown		Bautista et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	GSM4466785	372			age_unknown		Bautista et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	GSM4466786	1126			age_unknown		Bautista et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	T03_TH_TOT_5GEX_1	2			age_unknown		Park et al.	cTEC_hi	cTEC_hi											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	T03_TH_TOT_5GEX_2	3			age_unknown		Park et al.	cTEC_hi	cTEC_hi											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	T07_TH_EPCAM_5GEX	716			age_unknown		Park et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	T07_TH_TOT_5GEX_1	48			age_unknown		Park et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	T07_TH_TOT_5GEX_2	29			age_unknown		Park et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor10-2	3			age_unknown		Deng et al.	cTEC_hi	cTEC_hi											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor11-2	59			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor12-2	32			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor13-2	117			age_unknown		Deng et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor14-2	4			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor16-2	6			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor17	18			age_unknown		Deng et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor18	3			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor2	10			age_unknown		Deng et al.	cTEC_lo	cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor3	195			age_unknown		Deng et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor37	12			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor38	243			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor39	569			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor4	197			age_unknown		Deng et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor40-1	18			age_unknown		Deng et al.	cTEC_lo	cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor40-2	59			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor41-1	171			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor41-2	2350			age_unknown		Deng et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor42	1824			age_unknown		Deng et al.	MKI67+cTEC;cTEC_hi;cTEC_lo	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor43	4			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor45	10			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor46	3			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor47	13			age_unknown		Deng et al.	cTEC_lo	cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor5	18			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor6	31			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor7-2	22			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor8-2	7			age_unknown		Deng et al.	cTEC_hi;cTEC_lo	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	stromal_cell_metadata	donor9-2	2			age_unknown		Deng et al.	cTEC_lo	cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor10-2	3	35.0	35 years	adult_18_39y	Female		Epi	cTEC_hi											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor11-2	59	9.0	9 years	child_1_11y	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor12-2	32	22.0	22 years	adult_18_39y	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor13-2	117	4.0	4 years	child_1_11y	Female		Epi	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor14-2	4	69.0	69 years	older_65plus	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor16-2	6	46.0	46 years	adult_40_64y	Female		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor17	18	1.75	21 months	child_1_11y	Female		Epi	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor18	3	64.0	64 years	adult_40_64y	Female		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor2	10	48.0	48 years	adult_40_64y	Female		Epi	cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor3	195	24.0	24 years	adult_18_39y	Female		Epi	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor37	12	35.0	35 years	adult_18_39y	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor38	243	61.0	61 years	adult_40_64y	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor39	569	61.0	61 years	adult_40_64y	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor4	197	5.0	5 years	child_1_11y	Female		Epi	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor40-1	18	70.0	70 years	older_65plus	Male		Epi	cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor40-2	59	70.0	70 years	older_65plus	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor41-1	171	57.0	57 years	adult_40_64y	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor41-2	2350	57.0	57 years	adult_40_64y	Male		Epi	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor42	1824	61.0	61 years	adult_40_64y	Male		Epi	MKI67+cTEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor43	4	51.0	51years	adult_40_64y	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor45	10	54.0	54 years	adult_40_64y	Female		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor46	3	55.0	55 years	adult_40_64y	Male		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor47	13	38.0	38 years	adult_18_39y	Female		Epi	cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor5	18	12.0	12 years	adolescent_12_17y	Female		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor6	31	35.0	35 years	adult_18_39y	Female		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor7-2	22	56.0	56 years	adult_40_64y	Female		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor8-2	7	35.0	35 years	adult_18_39y	Female		Epi	cTEC_hi;cTEC_lo											not_available_metadata_only
+cTEC_like	thymocyte_metadata	donor9-2	2	24.0	24 years	adult_18_39y	Female		Epi	cTEC_lo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_1	2			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_2	5			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_3	1			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_4	1			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5	31			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5GEX_1	2			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5GEX_2	2			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5GEX_3	6			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5GEX_4	2			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5GEX_5	27			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5GEX_6	18			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5GEX_7	28			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_5GEX_8	31			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_6	39			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_7	26			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A16_TH_TOT_8	29			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A43_TH_45NM_5GEX_1	2424			age_unknown		Park et al.	Endo;MKI67+Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A43_TH_45NM_5GEX_2	2519			age_unknown		Park et al.	Endo;MKI67+Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A43_TH_TOT_5GEX_1	111			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	A43_TH_TOT_5GEX_2	15			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	GSM4466783	75			age_unknown		Bautista et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	GSM4466784	89			age_unknown		Bautista et al.	Endo;MKI67+Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	GSM4466785	1959			age_unknown		Bautista et al.	Endo;MKI67+Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	GSM4466786	8173			age_unknown		Bautista et al.	Endo;MKI67+Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	T07_TH_EPCAM_5GEX	57			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	T07_TH_TOT_5GEX_1	24			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	T07_TH_TOT_5GEX_2	20			age_unknown		Park et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor1	256			age_unknown		Deng et al.	Endo;MKI67+Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor11-2	2			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor12-2	3			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor13-2	2			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor14-2	114			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor15-2	8			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor16-2	61			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor18	37			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor2	161			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor3	6			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor37	103			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor38	60			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor39	107			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor4	42			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor40-1	18			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor40-2	17			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor41-1	283			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor41-2	43			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor42	79			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor43	161			age_unknown		Deng et al.	Endo;MKI67+Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor44	15			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor45	65			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor46	183			age_unknown		Deng et al.	Endo;MKI67+Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor47	98			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor5	8			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor6	9			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor7-2	5			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	stromal_cell_metadata	donor8-2	3			age_unknown		Deng et al.	Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor1	256	56.0	56 years	adult_40_64y	Female		Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor11-2	2	9.0	9 years	child_1_11y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor12-2	3	22.0	22 years	adult_18_39y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor13-2	2	4.0	4 years	child_1_11y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor14-2	114	69.0	69 years	older_65plus	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor15-2	8	53.0	53 years	adult_40_64y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor16-2	61	46.0	46 years	adult_40_64y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor18	37	64.0	64 years	adult_40_64y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor2	161	48.0	48 years	adult_40_64y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor3	6	24.0	24 years	adult_18_39y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor37	103	35.0	35 years	adult_18_39y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor38	60	61.0	61 years	adult_40_64y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor39	107	61.0	61 years	adult_40_64y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor4	42	5.0	5 years	child_1_11y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor40-1	18	70.0	70 years	older_65plus	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor40-2	17	70.0	70 years	older_65plus	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor41-1	283	57.0	57 years	adult_40_64y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor41-2	43	57.0	57 years	adult_40_64y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor42	79	61.0	61 years	adult_40_64y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor43	161	51.0	51years	adult_40_64y	Male		Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor44	15	37.0	37years	adult_18_39y	Male		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor45	65	54.0	54 years	adult_40_64y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor46	183	55.0	55 years	adult_40_64y	Male		Endo	Endo;MKI67+Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor47	98	38.0	38 years	adult_18_39y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor5	8	12.0	12 years	adolescent_12_17y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor6	9	35.0	35 years	adult_18_39y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor7-2	5	56.0	56 years	adult_40_64y	Female		Endo	Endo											not_available_metadata_only
+endothelial	thymocyte_metadata	donor8-2	3	35.0	35 years	adult_18_39y	Female		Endo	Endo											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_2	1			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_3	1			age_unknown		Park et al.	mTEC_lo	mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_5	5			age_unknown		Park et al.	TEC(myo);cTEC_lo;post_AIRE_mTEC	TEC(myo);cTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_5GEX_2	2			age_unknown		Park et al.	MKI67+cTEC;TEC(neuron)	MKI67+cTEC;TEC(neuron)											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_5GEX_4	2			age_unknown		Park et al.	TEC(myo);TEC(neuron)	TEC(myo);TEC(neuron)											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_5GEX_6	4			age_unknown		Park et al.	Immature_TEC;cTEC_lo;post_AIRE_mTEC	Immature_TEC;cTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_5GEX_7	3			age_unknown		Park et al.	Immature_TEC;post_AIRE_mTEC	Immature_TEC;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_5GEX_8	4			age_unknown		Park et al.	Immature_TEC;TEC(myo);post_AIRE_mTEC	Immature_TEC;TEC(myo);post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_6	7			age_unknown		Park et al.	Immature_TEC;TEC(neuron);cTEC_lo;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(neuron);cTEC_lo;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_7	2			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A16_TH_TOT_8	1			age_unknown		Park et al.	TEC(myo)	TEC(myo)											not_available_metadata_only
+epithelial	stromal_cell_metadata	A43_TH_45NM_5GEX_1	2142			age_unknown		Park et al.	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A43_TH_45NM_5GEX_2	2167			age_unknown		Park et al.	Immature_TEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A43_TH_TOT_5GEX_1	76			age_unknown		Park et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	A43_TH_TOT_5GEX_2	4			age_unknown		Park et al.	cTEC_lo;mTEC_lo;post_AIRE_mTEC	cTEC_lo;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	GSM4466783	159			age_unknown		Bautista et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	GSM4466784	164			age_unknown		Bautista et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	GSM4466785	912			age_unknown		Bautista et al.	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	GSM4466786	2031			age_unknown		Bautista et al.	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	T03_TH_TOT_5GEX_1	4			age_unknown		Park et al.	cTEC_hi;mTEC_hi;mTEC_lo	cTEC_hi;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	T03_TH_TOT_5GEX_2	3			age_unknown		Park et al.	cTEC_hi	cTEC_hi											not_available_metadata_only
+epithelial	stromal_cell_metadata	T06_TH_TOT_5GEX_3	2			age_unknown		Park et al.	TEC(myo);post_AIRE_mTEC	TEC(myo);post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	T07_TH_EPCAM_5GEX	1899			age_unknown		Park et al.	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	T07_TH_TOT_5GEX_1	131			age_unknown		Park et al.	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	T07_TH_TOT_5GEX_2	98			age_unknown		Park et al.	Immature_TEC;MKI67+mTEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+mTEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor10-2	23			age_unknown		Deng et al.	TEC(myo);TEC(neuron);cTEC_hi;mTEC_hi	TEC(myo);TEC(neuron);cTEC_hi;mTEC_hi											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor11-2	66			age_unknown		Deng et al.	TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo	TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor12-2	48			age_unknown		Deng et al.	TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor13-2	139			age_unknown		Deng et al.	Immature_TEC;MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo	Immature_TEC;MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor14-2	5			age_unknown		Deng et al.	Immature_TEC;cTEC_hi;cTEC_lo	Immature_TEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor15-2	1			age_unknown		Deng et al.	TEC(neuron)	TEC(neuron)											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor16-2	11			age_unknown		Deng et al.	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor17	32			age_unknown		Deng et al.	MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi	MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor18	19			age_unknown		Deng et al.	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor2	16			age_unknown		Deng et al.	TEC(neuron);cTEC_lo;post_AIRE_mTEC	TEC(neuron);cTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor3	217			age_unknown		Deng et al.	Immature_TEC;MKI67+cTEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+cTEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor37	27			age_unknown		Deng et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor38	328			age_unknown		Deng et al.	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor39	800			age_unknown		Deng et al.	Immature_TEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor4	212			age_unknown		Deng et al.	Immature_TEC;MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo	Immature_TEC;MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor40-1	44			age_unknown		Deng et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_lo;mTEC_hi;mTEC_lo	Immature_TEC;TEC(myo);TEC(neuron);cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor40-2	113			age_unknown		Deng et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor41-1	378			age_unknown		Deng et al.	Immature_TEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor41-2	4103			age_unknown		Deng et al.	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor42	3236			age_unknown		Deng et al.	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor43	9			age_unknown		Deng et al.	TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;post_AIRE_mTEC	TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor44	11			age_unknown		Deng et al.	Immature_TEC;TEC(neuron)	Immature_TEC;TEC(neuron)											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor45	33			age_unknown		Deng et al.	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor46	68			age_unknown		Deng et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor47	29			age_unknown		Deng et al.	TEC(neuron);cTEC_lo;mTEC_lo;post_AIRE_mTEC	TEC(neuron);cTEC_lo;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor5	45			age_unknown		Deng et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor6	33			age_unknown		Deng et al.	TEC(myo);cTEC_hi;cTEC_lo;mTEC_hi	TEC(myo);cTEC_hi;cTEC_lo;mTEC_hi											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor7-2	100			age_unknown		Deng et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor8-2	43			age_unknown		Deng et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo	Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	stromal_cell_metadata	donor9-2	12			age_unknown		Deng et al.	Immature_TEC;TEC(myo);TEC(neuron);cTEC_lo;mTEC_hi	Immature_TEC;TEC(myo);TEC(neuron);cTEC_lo;mTEC_hi											not_available_metadata_only
+epithelial	thymocyte_metadata	donor10-2	24	35.0	35 years	adult_18_39y	Female		Epi	Ciliated;TEC(myo);TEC(neuron);cTEC_hi;mTEC_hi											not_available_metadata_only
+epithelial	thymocyte_metadata	donor11-2	71	9.0	9 years	child_1_11y	Male		Epi	Ciliated;Ionocyte;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor12-2	50	22.0	22 years	adult_18_39y	Male		Epi	Ciliated;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor13-2	143	4.0	4 years	child_1_11y	Female		Epi	Ciliated;Immature_TEC;Ionocyte;MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor14-2	11	69.0	69 years	older_65plus	Male		Epi	Ciliated;Immature_TEC;cTEC_hi;cTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor15-2	1	53.0	53 years	adult_40_64y	Male		Epi	TEC(neuron)											not_available_metadata_only
+epithelial	thymocyte_metadata	donor16-2	11	46.0	46 years	adult_40_64y	Female		Epi	Immature_TEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor17	32	1.75	21 months	child_1_11y	Female		Epi	MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi											not_available_metadata_only
+epithelial	thymocyte_metadata	donor18	22	64.0	64 years	adult_40_64y	Female		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor2	17	48.0	48 years	adult_40_64y	Female		Epi	Ciliated;TEC(neuron);cTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor3	225	24.0	24 years	adult_18_39y	Female		Epi	Ciliated;Immature_TEC;MKI67+cTEC;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor37	31	35.0	35 years	adult_18_39y	Male		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor38	331	61.0	61 years	adult_40_64y	Male		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor39	817	61.0	61 years	adult_40_64y	Male		Epi	Ciliated;Immature_TEC;Ionocyte;MKI67+mTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor4	213	5.0	5 years	child_1_11y	Female		Epi	Ciliated;Immature_TEC;MKI67+cTEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor40-1	54	70.0	70 years	older_65plus	Male		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(myo);TEC(neuron);Tuft;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor40-2	148	70.0	70 years	older_65plus	Male		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(myo);TEC(neuron);Tuft;cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor41-1	492	57.0	57 years	adult_40_64y	Male		Epi	Ciliated;Immature_TEC;MKI67+mTEC;TEC(myo);TEC(neuron);Tuft;cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor41-2	4143	57.0	57 years	adult_40_64y	Male		Epi	Ciliated;Immature_TEC;Ionocyte;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);Tuft;cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor42	3375	61.0	61 years	adult_40_64y	Male		Epi	Ciliated;Immature_TEC;Ionocyte;MKI67+cTEC;MKI67+mTEC;TEC(myo);TEC(neuron);Tuft;cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor43	11	51.0	51years	adult_40_64y	Male		Epi	Ionocyte;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor44	13	37.0	37years	adult_18_39y	Male		Epi	Ciliated;Immature_TEC;TEC(neuron)											not_available_metadata_only
+epithelial	thymocyte_metadata	donor45	41	54.0	54 years	adult_40_64y	Female		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor46	70	55.0	55 years	adult_40_64y	Male		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor47	30	38.0	38 years	adult_18_39y	Female		Epi	Ciliated;TEC(neuron);cTEC_lo;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor5	48	12.0	12 years	adolescent_12_17y	Female		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+epithelial	thymocyte_metadata	donor6	35	35.0	35 years	adult_18_39y	Female		Epi	Ciliated;TEC(myo);cTEC_hi;cTEC_lo;mTEC_hi											not_available_metadata_only
+epithelial	thymocyte_metadata	donor7-2	114	56.0	56 years	adult_40_64y	Female		Epi	Ciliated;Immature_TEC;Ionocyte;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor8-2	51	35.0	35 years	adult_18_39y	Female		Epi	Ciliated;Immature_TEC;TEC(myo);TEC(neuron);cTEC_hi;cTEC_lo;mTEC_hi;mTEC_lo											not_available_metadata_only
+epithelial	thymocyte_metadata	donor9-2	13	24.0	24 years	adult_18_39y	Female		Epi	Immature_TEC;Ionocyte;TEC(myo);TEC(neuron);cTEC_lo;mTEC_hi											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_1	13			age_unknown		Park et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_2	11			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_3	10			age_unknown		Park et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_4	8			age_unknown		Park et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5	55			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5GEX_1	6			age_unknown		Park et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5GEX_2	9			age_unknown		Park et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5GEX_3	9			age_unknown		Park et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5GEX_4	15			age_unknown		Park et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5GEX_5	59			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5GEX_6	45			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5GEX_7	43			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_5GEX_8	41			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_6	45			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_7	56			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A16_TH_TOT_8	68			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A43_TH_45NM_5GEX_1	3721			age_unknown		Park et al.	Fb_1;Fb_2;MKI67+VSMCs;VSMCs	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A43_TH_45NM_5GEX_2	3873			age_unknown		Park et al.	Fb_1;Fb_2;MKI67+VSMCs;VSMCs	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A43_TH_TOT_5GEX_1	180			age_unknown		Park et al.	Fb_1;Fb_2;MKI67+VSMCs;VSMCs	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	A43_TH_TOT_5GEX_2	22			age_unknown		Park et al.	Fb_1;VSMCs	Fb_1;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	GSM4466783	125			age_unknown		Bautista et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	GSM4466784	227			age_unknown		Bautista et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	GSM4466785	2194			age_unknown		Bautista et al.	Fb_1;Fb_2;MKI67+VSMCs;VSMCs	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	GSM4466786	6236			age_unknown		Bautista et al.	Fb_1;Fb_2;MKI67+VSMCs;VSMCs	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	T03_TH_TOT_5GEX_2	1			age_unknown		Park et al.	Fb_2	Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	T07_TH_EPCAM_5GEX	79			age_unknown		Park et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	T07_TH_TOT_5GEX_1	47			age_unknown		Park et al.	Fb_1;VSMCs	Fb_1;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	T07_TH_TOT_5GEX_2	54			age_unknown		Park et al.	Fb_1;Fb_2;MKI67+VSMCs;VSMCs	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor1	69			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor10-2	2			age_unknown		Deng et al.	Fb_1	Fb_1											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor11-2	30			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor12-2	10			age_unknown		Deng et al.	Fb_1	Fb_1											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor13-2	6			age_unknown		Deng et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor14-2	373			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor15-2	237			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor16-2	383			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor17	4			age_unknown		Deng et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor18	579			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor2	43			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor3	26			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor37	703			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor38	12272			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor39	7335			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor4	25			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor40-1	598			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor40-2	1014			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor41-1	684			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor41-2	300			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor42	1511			age_unknown		Deng et al.	Fb_1;Fb_2;MKI67+VSMCs;VSMCs	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor43	705			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor44	596			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor45	592			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor46	6652			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor47	1354			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor5	10			age_unknown		Deng et al.	Fb_1;Fb_2	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor6	79			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor7-2	243			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor8-2	110			age_unknown		Deng et al.	Fb_1;Fb_2;VSMCs	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	stromal_cell_metadata	donor9-2	83			age_unknown		Deng et al.	Fb_1;Fb_2;MKI67+VSMCs;VSMCs	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor1	69	56.0	56 years	adult_40_64y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor10-2	2	35.0	35 years	adult_18_39y	Female		Mes	Fb_1											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor11-2	30	9.0	9 years	child_1_11y	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor12-2	10	22.0	22 years	adult_18_39y	Male		Mes	Fb_1											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor13-2	6	4.0	4 years	child_1_11y	Female		Mes	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor14-2	373	69.0	69 years	older_65plus	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor15-2	237	53.0	53 years	adult_40_64y	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor16-2	383	46.0	46 years	adult_40_64y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor17	4	1.75	21 months	child_1_11y	Female		Mes	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor18	579	64.0	64 years	adult_40_64y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor2	43	48.0	48 years	adult_40_64y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor3	26	24.0	24 years	adult_18_39y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor37	703	35.0	35 years	adult_18_39y	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor38	12274	61.0	61 years	adult_40_64y	Male		Mes	Fb_1;Fb_2;MKI67+Fb;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor39	7338	61.0	61 years	adult_40_64y	Male		Mes	Fb_1;Fb_2;MKI67+Fb;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor4	25	5.0	5 years	child_1_11y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor40-1	598	70.0	70 years	older_65plus	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor40-2	1014	70.0	70 years	older_65plus	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor41-1	685	57.0	57 years	adult_40_64y	Male		Mes	Fb_1;Fb_2;MKI67+Fb;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor41-2	300	57.0	57 years	adult_40_64y	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor42	1511	61.0	61 years	adult_40_64y	Male		Mes	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor43	705	51.0	51years	adult_40_64y	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor44	596	37.0	37years	adult_18_39y	Male		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor45	592	54.0	54 years	adult_40_64y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor46	6677	55.0	55 years	adult_40_64y	Male		Mes	Fb_1;Fb_2;MKI67+Fb;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor47	1354	38.0	38 years	adult_18_39y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor5	10	12.0	12 years	adolescent_12_17y	Female		Mes	Fb_1;Fb_2											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor6	79	35.0	35 years	adult_18_39y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor7-2	243	56.0	56 years	adult_40_64y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor8-2	110	35.0	35 years	adult_18_39y	Female		Mes	Fb_1;Fb_2;VSMCs											not_available_metadata_only
+fibroblast_like_mesenchymal	thymocyte_metadata	donor9-2	83	24.0	24 years	adult_18_39y	Female		Mes	Fb_1;Fb_2;MKI67+VSMCs;VSMCs											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A16_TH_TOT_2	1			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A16_TH_TOT_3	1			age_unknown		Park et al.	mTEC_lo	mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A16_TH_TOT_5	2			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A16_TH_TOT_5GEX_6	1			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A16_TH_TOT_5GEX_7	1			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A16_TH_TOT_5GEX_8	1			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A16_TH_TOT_6	3			age_unknown		Park et al.	mTEC_lo;post_AIRE_mTEC	mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A16_TH_TOT_7	2			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A43_TH_45NM_5GEX_1	579			age_unknown		Park et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A43_TH_45NM_5GEX_2	566			age_unknown		Park et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A43_TH_TOT_5GEX_1	17			age_unknown		Park et al.	mTEC_lo;post_AIRE_mTEC	mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	A43_TH_TOT_5GEX_2	3			age_unknown		Park et al.	mTEC_lo;post_AIRE_mTEC	mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	GSM4466783	89			age_unknown		Bautista et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	GSM4466784	127			age_unknown		Bautista et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	GSM4466785	362			age_unknown		Bautista et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	GSM4466786	481			age_unknown		Bautista et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	T03_TH_TOT_5GEX_1	2			age_unknown		Park et al.	mTEC_hi;mTEC_lo	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	T06_TH_TOT_5GEX_3	1			age_unknown		Park et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	T07_TH_EPCAM_5GEX	858			age_unknown		Park et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	T07_TH_TOT_5GEX_1	62			age_unknown		Park et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	T07_TH_TOT_5GEX_2	56			age_unknown		Park et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor10-2	4			age_unknown		Deng et al.	mTEC_hi	mTEC_hi											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor11-2	1			age_unknown		Deng et al.	mTEC_lo	mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor12-2	11			age_unknown		Deng et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor13-2	6			age_unknown		Deng et al.	mTEC_hi;mTEC_lo	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor16-2	1			age_unknown		Deng et al.	mTEC_lo	mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor17	2			age_unknown		Deng et al.	mTEC_hi	mTEC_hi											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor18	2			age_unknown		Deng et al.	mTEC_lo	mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor2	1			age_unknown		Deng et al.	post_AIRE_mTEC	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor3	11			age_unknown		Deng et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor37	7			age_unknown		Deng et al.	mTEC_hi;mTEC_lo	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor38	27			age_unknown		Deng et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor39	92			age_unknown		Deng et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor4	3			age_unknown		Deng et al.	mTEC_hi;mTEC_lo	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor40-1	8			age_unknown		Deng et al.	mTEC_hi;mTEC_lo	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor40-2	27			age_unknown		Deng et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor41-1	90			age_unknown		Deng et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor41-2	965			age_unknown		Deng et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor42	685			age_unknown		Deng et al.	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor43	2			age_unknown		Deng et al.	mTEC_hi;post_AIRE_mTEC	mTEC_hi;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor45	14			age_unknown		Deng et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor46	36			age_unknown		Deng et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor47	14			age_unknown		Deng et al.	mTEC_lo;post_AIRE_mTEC	mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor5	10			age_unknown		Deng et al.	mTEC_hi;mTEC_lo;post_AIRE_mTEC	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor6	1			age_unknown		Deng et al.	mTEC_hi	mTEC_hi											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor7-2	23			age_unknown		Deng et al.	mTEC_hi;mTEC_lo	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor8-2	8			age_unknown		Deng et al.	mTEC_hi;mTEC_lo	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	stromal_cell_metadata	donor9-2	2			age_unknown		Deng et al.	mTEC_hi	mTEC_hi											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor10-2	4	35.0	35 years	adult_18_39y	Female		Epi	mTEC_hi											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor11-2	1	9.0	9 years	child_1_11y	Male		Epi	mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor12-2	11	22.0	22 years	adult_18_39y	Male		Epi	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor13-2	6	4.0	4 years	child_1_11y	Female		Epi	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor16-2	1	46.0	46 years	adult_40_64y	Female		Epi	mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor17	2	1.75	21 months	child_1_11y	Female		Epi	mTEC_hi											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor18	2	64.0	64 years	adult_40_64y	Female		Epi	mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor2	1	48.0	48 years	adult_40_64y	Female		Epi	post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor3	11	24.0	24 years	adult_18_39y	Female		Epi	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor37	7	35.0	35 years	adult_18_39y	Male		Epi	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor38	27	61.0	61 years	adult_40_64y	Male		Epi	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor39	92	61.0	61 years	adult_40_64y	Male		Epi	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor4	3	5.0	5 years	child_1_11y	Female		Epi	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor40-1	8	70.0	70 years	older_65plus	Male		Epi	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor40-2	27	70.0	70 years	older_65plus	Male		Epi	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor41-1	90	57.0	57 years	adult_40_64y	Male		Epi	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor41-2	965	57.0	57 years	adult_40_64y	Male		Epi	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor42	685	61.0	61 years	adult_40_64y	Male		Epi	MKI67+mTEC;mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor43	2	51.0	51years	adult_40_64y	Male		Epi	mTEC_hi;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor45	14	54.0	54 years	adult_40_64y	Female		Epi	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor46	36	55.0	55 years	adult_40_64y	Male		Epi	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor47	14	38.0	38 years	adult_18_39y	Female		Epi	mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor5	10	12.0	12 years	adolescent_12_17y	Female		Epi	mTEC_hi;mTEC_lo;post_AIRE_mTEC											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor6	1	35.0	35 years	adult_18_39y	Female		Epi	mTEC_hi											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor7-2	23	56.0	56 years	adult_40_64y	Female		Epi	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor8-2	8	35.0	35 years	adult_18_39y	Female		Epi	mTEC_hi;mTEC_lo											not_available_metadata_only
+mTEC_like	thymocyte_metadata	donor9-2	2	24.0	24 years	adult_18_39y	Female		Epi	mTEC_hi											not_available_metadata_only
+other	ETP_TP_metadata	GSM4127993	1697			age_unknown		Le et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4299783	976			age_unknown		Lavaert et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4299784	278			age_unknown		Lavaert et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4299785	920			age_unknown		Lavaert et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4299786	3895			age_unknown		Lavaert et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4299787	5445			age_unknown		Lavaert et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4299788	4446			age_unknown		Lavaert et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4299789	4650			age_unknown		Lavaert et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4505165	1117			age_unknown		Le et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4505166	2165			age_unknown		Le et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4505168	337			age_unknown		Le et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	GSM4505169	141			age_unknown		Le et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor1	5			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor10-2	4			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor11-2	26			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor12-2	13			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor13-2	10			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor14-2	16			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor15-2	16			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor16-2	12			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor17	14			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor18	68			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor2	41			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor3	54			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor31	601			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor32	1193			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor33	434			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor34	1271			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor35	1096			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor36	836			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor37	1473			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor38	2			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor39	164			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor4	18			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor40-1	142			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor40-2	246			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor41-1	308			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor41-2	1			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor42	39			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor43	491			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor44	349			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor45	449			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor46	645			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor47	188			age_unknown		Deng et al.	ETP;TP1;TP2	ETP;TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor5	7			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor6	22			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor7-2	19			age_unknown		Deng et al.	TP1;TP2	TP1;TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor8-2	8			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	ETP_TP_metadata	donor9-2	20			age_unknown		Deng et al.	TP2	TP2											not_available_metadata_only
+other	PBMC_metadata	donor10-1	3720	35.0	35 years	adult_18_39y	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor11-1	8466	9.0	9 years	child_1_11y	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor12-1	8778	22.0	22 years	adult_18_39y	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor13-1	9483	4.0	4 years	child_1_11y	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor14-1	6657	69.0	69 years	older_65plus	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor15-1	6414	53.0	53 years	adult_40_64y	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor16-1	7335	46.0	46 years	adult_40_64y	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor19	5921	105.0	105 years	older_65plus	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor20	9825	100.0	100 years	older_65plus	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor21	5138	105.0	105 years	older_65plus	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor22	9468	104.0	104 years	older_65plus	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor23	8258	100.0	100 years	older_65plus	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor24	1257	103.0	103 years	older_65plus	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor25	979	102.0	102 years	older_65plus	Female		ABC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC	ABC;CD4+CTL;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-2;Vδ2Vγ9T;cDC											not_available_metadata_only
+other	PBMC_metadata	donor26	12974	1.0	1 years	child_1_11y	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor27	11513	5.0	5 years	child_1_11y	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor28	11329	0.8333333333333334	10 months	infant_lt1y	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor29	10080	4.0	4 years	child_1_11y	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor30	11395	1.0	1 years	child_1_11y	Male		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor7-1	8245	56.0	56 years	adult_40_64y	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor8-1	8174	35.0	35 years	adult_18_39y	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	PBMC_metadata	donor9-1	8733	24.0	24 years	adult_18_39y	Female		ABC;HSPC;MK;Memory_B;Mono1;Mono2;Mono3;NK;Naive_B;Plasma;Tcell;cDC;pDC	ABC;CD4+CTL;CD4+RTE;CD4+TCM;CD4+TEFF;CD4+TEM;CD4+TN;CD56_Bright_NK;CD56_Dim_NK;CD8+RTE;CD8+TCM;CD8+TEM-B;CD8+TEM-K;CD8+TN;HSPC;IFN_T;LAG3+NK;MAIT;MK;Memory_B;Mono1;Mono2;Mono3;Naive_B;Plasma;T_un;Tex;Treg;Vδ1T-1;Vδ1T-2;Vδ2Vγ9T;cDC;pDC											not_available_metadata_only
+other	stromal_cell_metadata	A16_TH_TOT_4	1			age_unknown		Park et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	A16_TH_TOT_5	2			age_unknown		Park et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	A16_TH_TOT_5GEX_3	1			age_unknown		Park et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	A16_TH_TOT_5GEX_6	1			age_unknown		Park et al.	Tuft	Tuft											not_available_metadata_only
+other	stromal_cell_metadata	A16_TH_TOT_6	2			age_unknown		Park et al.	Ciliated;Ionocyte	Ciliated;Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	A43_TH_45NM_5GEX_1	27			age_unknown		Park et al.	Ciliated;Ionocyte;Tuft	Ciliated;Ionocyte;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	A43_TH_45NM_5GEX_2	43			age_unknown		Park et al.	Ciliated;Ionocyte;MKI67+Fb;Tuft	Ciliated;Ionocyte;MKI67+Fb;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	GSM4466783	3			age_unknown		Bautista et al.	Ciliated;Ionocyte;MKI67+Fb	Ciliated;Ionocyte;MKI67+Fb											not_available_metadata_only
+other	stromal_cell_metadata	GSM4466784	20			age_unknown		Bautista et al.	Ciliated;Ionocyte;MKI67+Fb	Ciliated;Ionocyte;MKI67+Fb											not_available_metadata_only
+other	stromal_cell_metadata	GSM4466785	29			age_unknown		Bautista et al.	Ciliated;Ionocyte;MKI67+Fb;Tuft	Ciliated;Ionocyte;MKI67+Fb;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	GSM4466786	29			age_unknown		Bautista et al.	Ciliated;Ionocyte;Tuft	Ciliated;Ionocyte;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	T07_TH_EPCAM_5GEX	20			age_unknown		Park et al.	Ciliated;Ionocyte;Tuft	Ciliated;Ionocyte;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	T07_TH_TOT_5GEX_1	3			age_unknown		Park et al.	Ionocyte;MKI67+Fb;Tuft	Ionocyte;MKI67+Fb;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	donor10-2	1			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor11-2	5			age_unknown		Deng et al.	Ciliated;Ionocyte	Ciliated;Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	donor12-2	2			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor13-2	4			age_unknown		Deng et al.	Ciliated;Ionocyte	Ciliated;Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	donor14-2	6			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor18	3			age_unknown		Deng et al.	Ciliated;Ionocyte	Ciliated;Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	donor2	1			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor3	8			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor37	4			age_unknown		Deng et al.	Ciliated;Ionocyte	Ciliated;Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	donor38	5			age_unknown		Deng et al.	Ciliated;Ionocyte;MKI67+Fb	Ciliated;Ionocyte;MKI67+Fb											not_available_metadata_only
+other	stromal_cell_metadata	donor39	20			age_unknown		Deng et al.	Ciliated;Ionocyte;MKI67+Fb	Ciliated;Ionocyte;MKI67+Fb											not_available_metadata_only
+other	stromal_cell_metadata	donor4	1			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor40-1	10			age_unknown		Deng et al.	Ciliated;Ionocyte;Tuft	Ciliated;Ionocyte;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	donor40-2	35			age_unknown		Deng et al.	Ciliated;Ionocyte;Tuft	Ciliated;Ionocyte;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	donor41-1	115			age_unknown		Deng et al.	Ciliated;MKI67+Fb;Tuft	Ciliated;MKI67+Fb;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	donor41-2	40			age_unknown		Deng et al.	Ciliated;Ionocyte;Tuft	Ciliated;Ionocyte;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	donor42	139			age_unknown		Deng et al.	Ciliated;Ionocyte;Tuft	Ciliated;Ionocyte;Tuft											not_available_metadata_only
+other	stromal_cell_metadata	donor43	2			age_unknown		Deng et al.	Ionocyte	Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	donor44	2			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor45	8			age_unknown		Deng et al.	Ciliated;Ionocyte	Ciliated;Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	donor46	27			age_unknown		Deng et al.	Ciliated;Ionocyte;MKI67+Fb	Ciliated;Ionocyte;MKI67+Fb											not_available_metadata_only
+other	stromal_cell_metadata	donor47	1			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor5	3			age_unknown		Deng et al.	Ciliated;Ionocyte	Ciliated;Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	donor6	2			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor7-2	14			age_unknown		Deng et al.	Ciliated;Ionocyte	Ciliated;Ionocyte											not_available_metadata_only
+other	stromal_cell_metadata	donor8-2	8			age_unknown		Deng et al.	Ciliated	Ciliated											not_available_metadata_only
+other	stromal_cell_metadata	donor9-2	1			age_unknown		Deng et al.	Ionocyte	Ionocyte											not_available_metadata_only
+other	thymocyte_metadata	donor1	4460	56.0	56 years	adult_40_64y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DP_P;DP_Q;ETP;HSP_DP;IFN_response;ImmatureNK;Lti;Macrophage;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Plasma;TP1;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;γδT_3											not_available_metadata_only
+other	thymocyte_metadata	donor10-2	2534	35.0	35 years	adult_18_39y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;Lti;Macrophage;MatureNK;MemoryB;NKT_like_CD8ααT;Neutrophil;Plasma;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor11-2	6125	9.0	9 years	child_1_11y	Male		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Neutrophil;Plasma;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor12-2	4323	22.0	22 years	adult_18_39y	Male		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;Monocyte;NKT_like_CD8ααT;NaiveB;Plasma;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor13-2	6011	4.0	4 years	child_1_11y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;Macrophage;Mast;MemoryB;MemoryNK;NKT_like_CD8ααT;NaiveB;Plasma;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor14-2	5389	69.0	69 years	older_65plus	Male		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Plasma;TP1;TP2;Treg;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3											not_available_metadata_only
+other	thymocyte_metadata	donor15-2	4389	53.0	53 years	adult_40_64y	Male		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Plasma;TP2;Treg;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor16-2	5546	46.0	46 years	adult_40_64y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;MemoryNK;NKT_like_CD8ααT;NaiveB;Neutrophil;Plasma;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor17	5120	1.75	21 months	child_1_11y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;Lti;Macrophage;MemoryB;MemoryNK;Monocyte;NaiveB;Neutrophil;Plasma;TP1;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor18	9209	64.0	64 years	adult_40_64y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;ETP;GNG4+CD8ααT;HSP_DP;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Plasma;TP1;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor2	7593	48.0	48 years	adult_40_64y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Neutrophil;Plasma;TP1;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor3	6442	24.0	24 years	adult_18_39y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Neutrophil;Plasma;TP1;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor31	9008	3.0	3 years	child_1_11y	Male		Hema	DN_P;DN_Q1;DN_Q2;ETP;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor32	10175	0.08333333333333333	1 month	infant_lt1y	Male		Hema	DN_P;DN_Q1;DN_Q2;ETP;ISP-like;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor33	6855	3.0	3 years	child_1_11y	Female		Hema	DN_P;DN_Q1;DN_Q2;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor34	8261	0.03285420944558522	12 days	infant_lt1y	Male		Hema	DN_P;DN_Q1;DN_Q2;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor35	10460	3.0	3 years	child_1_11y	Female		Hema	DN_P;DN_Q1;DN_Q2;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor36	7883	0.16666666666666666	2 months	infant_lt1y	Female		Hema	DN_P;DN_Q1;DN_Q2;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor37	1480	35.0	35 years	adult_18_39y	Male		Hema	DN_P;DN_Q1;ETP;TP1;TP2											not_available_metadata_only
+other	thymocyte_metadata	donor38	9	61.0	61 years	adult_40_64y	Male		Hema	DN_P;DN_Q1;TP2											not_available_metadata_only
+other	thymocyte_metadata	donor39	568	61.0	61 years	adult_40_64y	Male		Hema	DN_P;DN_Q1;DN_Q2;ISP-like;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor4	8845	5.0	5 years	child_1_11y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;MemoryB;MemoryNK;Monocyte;NaiveB;Neutrophil;Plasma;TP1;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor40-1	512	70.0	70 years	older_65plus	Male		Hema	DN_P;DN_Q1;DN_Q2;ETP;TP1;TP2											not_available_metadata_only
+other	thymocyte_metadata	donor40-2	982	70.0	70 years	older_65plus	Male		Hema	DN_P;DN_Q1;DN_Q2;ETP;TP1;TP2											not_available_metadata_only
+other	thymocyte_metadata	donor41-1	404	57.0	57 years	adult_40_64y	Male		Hema	DN_P;DN_Q1;DN_Q2;ETP;TP1;TP2											not_available_metadata_only
+other	thymocyte_metadata	donor41-2	17	57.0	57 years	adult_40_64y	Male		Hema	DN_P;DN_Q1;DN_Q2;TP2											not_available_metadata_only
+other	thymocyte_metadata	donor42	393	61.0	61 years	adult_40_64y	Male		Hema	DN_P;DN_Q1;DN_Q2;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor43	536	51.0	51years	adult_40_64y	Male		Hema	DN_P;DN_Q1;DN_Q2;ETP;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor44	359	37.0	37years	adult_18_39y	Male		Hema	DN_P;DN_Q1;ETP;TP1;TP2											not_available_metadata_only
+other	thymocyte_metadata	donor45	451	54.0	54 years	adult_40_64y	Female		Hema	DN_P;DN_Q2;ETP;TP1;TP2											not_available_metadata_only
+other	thymocyte_metadata	donor46	662	55.0	55 years	adult_40_64y	Male		Hema	DN_P;DN_Q1;ETP;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor47	348	38.0	38 years	adult_18_39y	Female		Hema	DN_P;DN_Q1;DN_Q2;ETP;TP1;TP2;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor5	6821	12.0	12 years	adolescent_12_17y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Neutrophil;Plasma;TP1;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor6	8355	35.0	35 years	adult_18_39y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Plasma;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor7-2	5752	56.0	56 years	adult_40_64y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Macrophage;MatureNK;MemoryB;MemoryNK;NKT_like_CD8ααT;NaiveB;Neutrophil;Plasma;TP1;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3											not_available_metadata_only
+other	thymocyte_metadata	donor8-2	4720	35.0	35 years	adult_18_39y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;MatureNK;MemoryB;MemoryNK;Monocyte;NKT_like_CD8ααT;NaiveB;Neutrophil;Plasma;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only
+other	thymocyte_metadata	donor9-2	3378	24.0	24 years	adult_18_39y	Female		Hema	Agonist_1;Agonist_2;CD4 SOX4hi SP;CD4 SOX4lo SP;CD8 SOX4hi SP;CD8 SOX4lo SP;DC1;DC1P;DC2;DN_P;DN_Q1;DN_Q2;DP_P;DP_Q;GNG4+CD8ααT;HSP_DP;IFN_CD8ααT;IFN_response;ISP-like;ImmatureNK;Lti;Macrophage;Mast;MatureNK;MemoryB;MemoryNK;NKT_like_CD8ααT;NaiveB;Plasma;TP2;Treg;ZNF683+CD8ααT;aDC;memory-like CD4 T;memory-like CD8 T;pDC;pre-CD4 T;pre-CD8 T;pre_Treg1;pre_Treg2;αβ_Entry;γδT_1;γδT_2;γδT_3;γδT_P											not_available_metadata_only

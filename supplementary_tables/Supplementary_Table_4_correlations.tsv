@@ -1,0 +1,6 @@
+gene1	gene2	compartment	method	rho	pvalue	adjusted_pvalue
+Lox	Loxl2	pooled fibroblasts; stage=02mo	Spearman correlation	0.0570539533614694	1.36206570981331e-06	
+Lox	Loxl2	pooled fibroblasts; stage=18mo	Spearman correlation	0.0645816973005246	4.66681986402814e-07	
+Loxl2	Col1a1	pooled fibroblasts; stage=all	Spearman correlation	0.1929519644795697	3.2034305837455887e-111	
+Loxl2	Snai1	pooled fibroblasts; stage=all	Spearman correlation	0.004829902481184	0.5784416117637068	
+Loxl2	Vim	pooled fibroblasts; stage=all	Spearman correlation	0.144648967060617	8.019905145043324e-63	

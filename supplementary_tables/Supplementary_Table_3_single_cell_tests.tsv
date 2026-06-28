@@ -1,0 +1,11 @@
+gene	compartment	n_young_cells	n_aged_cells	test	pvalue	adjusted_pvalue	rank_biserial_effect_size
+Lox	mTEC1	579	1056	Mann-Whitney U test	0.1232338505169859		0.0278284790914324
+Loxl1	mTEC1	579	1056	Mann-Whitney U test	0.6354480922372157		-0.0060972418485372
+Loxl2	mTEC1	579	1056	Mann-Whitney U test	2.7050693013367666e-17		-0.0822865965353012
+Loxl3	mTEC1	579	1056	Mann-Whitney U test	0.4218928180324154		-0.0036913827393101
+Loxl4	mTEC1	579	1056	Mann-Whitney U test	0.8915677710206025		0.0005233683990161
+Lox	pooled fibroblasts	7159	6079	Mann-Whitney U test	4.8913218860715496e-98		-0.1540632728349442
+Loxl1	pooled fibroblasts	7159	6079	Mann-Whitney U test	2.624135863944489e-121		-0.2258161105990936
+Loxl2	pooled fibroblasts	7159	6079	Mann-Whitney U test	3.1923399474055285e-72		-0.130612829481437
+Loxl3	pooled fibroblasts	7159	6079	Mann-Whitney U test	1.4166069969077446e-26		-0.0703127726862868
+Loxl4	pooled fibroblasts	7159	6079	Mann-Whitney U test	0.0007687665741426		-0.0044902796698707

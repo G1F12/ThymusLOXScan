@@ -1,10 +1,17 @@
-scanpy
-anndata
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-leidenalg
-python-igraph
-jupyter
+# Python environment for ThymusLOXScan.
+# Minimum versions reflect imports used by scripts/notebooks and the local
+# versions used during repository audit where available.
+python-igraph>=0.11
+leidenalg>=0.10
+numpy>=2.2.6
+pandas>=2.3.1
+scipy>=1.16.1
+matplotlib>=3.10.5
+seaborn>=0.13.2
+statsmodels>=0.14.6
+anndata>=0.12.18
+scanpy>=1.11.5
+pydeseq2>=0.5.4
+magic-impute>=3.0.0
+gseapy>=1.1
+jupyter>=1.0
