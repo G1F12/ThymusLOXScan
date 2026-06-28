@@ -42,6 +42,36 @@ Interpretation:
 - Similar LOXL2 protein in young and aged would suggest transcript-only, dropout-sensitive, or post-transcriptionally buffered signal.
 - No reliable LOXL2 staining would make the antibody/protein-level question unresolved rather than negative, unless controls are strong.
 
+## Candidate LOXL2 antibodies to evaluate
+
+These candidates are starting points for discussion with a histology or imaging lab. None should be treated as guaranteed for the exact mouse thymus aging question, and mouse tissue compatibility needs to be checked before interpreting a young/aged comparison.
+
+| Antibody / catalogue | Vendor/resource | Host/clonality | Listed applications | Listed species reactivity | IHC/IF relevance | Caveats | Suggested use in pilot |
+|---|---|---|---|---|---|---|---|
+| CAB025848 / MAB2639 | Human Protein Atlas / R&D Systems | Mouse monoclonal | HPA lists tissue IHC with IHC reliability approved; R&D product page lists IHC among applications | HPA context is human protein atlas use; R&D page lists human as the main species reactivity and mouse under cited use rather than as the primary listed species | Most relevant public IHC-associated LOXL2 starting point from HPA | Mouse-on-mouse staining may be difficult; mouse thymus and mTEC specificity are not established by these public pages | Discuss first as an FFPE IHC feasibility candidate, with positive-control tissue and species-specific controls |
+| HPA036257 | Human Protein Atlas / Atlas Antibodies | Rabbit polyclonal | HPA lists ICC/IF enhanced and protein array supported; HPA IHC is not available | Human antigen context on HPA | Potential IF-oriented reagent to discuss if tissue IF optimization is planned | HPA does not provide tissue IHC support for this antibody; polyclonal specificity and mouse thymus performance need local checks | Consider only as an exploratory IF/orthogonal candidate after checking mouse cross-reactivity and control tissue |
+| HPA056542 | Human Protein Atlas / Atlas Antibodies | Rabbit polyclonal | HPA lists ICC/IF enhanced, WB uncertain, and protein array supported; HPA IHC is not available | Human antigen context on HPA | Potential IF-oriented reagent to discuss if a second rabbit polyclonal is useful | HPA does not provide tissue IHC support for this antibody; WB uncertainty and mouse thymus performance are caveats | Consider as a secondary/orthogonal feasibility reagent rather than the primary FFPE IHC choice |
+| ab96233 | Abcam | Rabbit polyclonal | Vendor page lists WB, IHC-P, ICC/IF, and ELISA-style use | Vendor page is human-focused on the accessed product information | Relevant to human IHC-P/IF examples, not direct mouse thymus support | Not a direct mouse thymus solution unless mouse reactivity and tissue performance are separately supported | Discuss only if the lab has prior mouse experience with this reagent or can run appropriate controls |
+
+Source pages checked for this planning table: HPA LOXL2 antibody summary (`https://www.proteinatlas.org/ENSG00000134013-LOXL2/summary/antibody`), R&D Systems MAB2639 product page (`https://www.rndsystems.com/products/human-lysyl-oxidase-homolog-2-loxl2-antibody-262418_mab2639`), and Abcam ab96233 product page (`https://www.abcam.com/en-us/products/primary-antibodies/loxl2-antibody-ab96233`).
+
+## Suggested pilot staining conditions to discuss with the lab
+
+- FFPE versus frozen sections should be chosen based on the antibody page, lab experience, and control tissue availability.
+- Start from vendor or HPA antigen retrieval and dilution guidance rather than inventing new conditions.
+- Include no-primary and secondary-only controls.
+- Include a positive-control tissue recommended by the vendor or HPA when feasible.
+- Use identical imaging settings for young and aged sections.
+- Prefer co-staining, or adjacent sections, with epithelial and medullary markers such as EPCAM, KRT8, KRT5, AIRE, CCL21A, or H2-Aa depending on antibody compatibility.
+- Consider an orthogonal antibody if the initial signal is ambiguous.
+
+## Expected staining interpretation
+
+- Young-higher epithelial or medullary LOXL2 staining would support the transcript candidate.
+- Similar young and aged staining would weaken the protein-level version of the candidate.
+- Failed or nonspecific staining is inconclusive, not negative.
+- Antibody specificity controls determine whether the result is interpretable.
+
 ## Priority 2: RNA-level spatial validation
 Question:
 Does Loxl2 RNA localize to medullary/epithelial thymic regions and decrease with age?

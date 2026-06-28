@@ -135,6 +135,7 @@ ThymusLOXScan/
 
 ## Links
 
+- License: `LICENSE`
 - One-page summary: `one_page_summary.md`
 - Wet-lab validation plan: `wet_lab_validation_plan.md`
 - Current v5.2 manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_2_dropout_protein_feasibility.md`
@@ -146,3 +147,9 @@ ThymusLOXScan/
 ## Citation
 
 Preprint in preparation.
+
+## License
+
+Code and scripts are released under the MIT License. Manuscript text, documentation, and non-raw-data project reports are intended for reuse under CC BY 4.0 unless otherwise noted.
+
+Third-party datasets remain under their original licenses and terms. Large public datasets, including GTEx, GEO, ArrayExpress, CELLxGENE, HPA, PRIDE, and related resources, are not redistributed by this repository.

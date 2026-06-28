@@ -1,0 +1,7 @@
+requirement	status	detail
+local_search_paths	checked	D:\ThymusLOXScan\data\external\GTEx; D:\ThymusLOXScan\data\external\gtex
+candidate_files_found	0	
+gene_tpm_expression_matrix	missing	
+sample_attributes	missing	
+subject_phenotype_age_metadata	missing	
+classification	age analysis not possible from available public/local files	missing_files
