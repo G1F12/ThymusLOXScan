@@ -1,0 +1,8 @@
+claim_mapping	expected_direction	internal_direction	n_external_supporting	n_external_opposite	n_external_not_testable_or_inconclusive	net_external_consistency_score	conclusion
+broad_FB_Lox_aged_lower	aged-lower	aged-lower	1	0	2	1	externally_directionally_supported
+broad_FB_Loxl2_aged_lower	aged-lower	aged-lower	1	0	2	1	externally_directionally_supported
+capsFB_Lox_aged_lower	aged-lower	aged-lower	0	0	3	0	only_internally_observed_or_not_testable_external
+medFB_Loxl1_aged_higher	aged-higher	aged-higher	0	0	3	0	only_internally_observed_or_not_testable_external
+medFB_Loxl2_aged_lower	aged-lower	aged-lower	0	0	3	0	only_internally_observed_or_not_testable_external
+epithelial_Loxl2_aged_lower	aged-lower	aged-lower	2	0	1	2	externally_directionally_supported
+mTEC1_Loxl2_aged_lower	aged-lower	aged-lower	3	0	2	3	externally_directionally_supported_approximate_mTEC_like
