@@ -10,7 +10,7 @@ import pandas as pd
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-PYDEPS = PROJECT_ROOT / ".codex" / "pydeps"
+PYDEPS = PROJECT_ROOT / "local_pydeps"
 if PYDEPS.exists():
     sys.path.insert(0, str(PYDEPS))
 

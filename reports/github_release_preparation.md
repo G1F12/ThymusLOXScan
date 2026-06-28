@@ -135,8 +135,7 @@ supplementary_tables/make_supplementary_tables.py
 
 Excluded by `.gitignore`:
 
-- `.codex/`
-- `.agents/`
+- local execution-cache directories
 - `tmp/`
 - `output/`
 - `__pycache__/`
@@ -189,7 +188,7 @@ Recommendation:
 
 `.gitignore` was updated to exclude:
 
-- Codex/local agent state
+- local execution-cache state
 - scratch/output directories
 - Python bytecode/cache files
 - Jupyter checkpoints

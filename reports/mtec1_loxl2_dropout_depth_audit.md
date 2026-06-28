@@ -52,7 +52,7 @@ Dropout/depth artifact is not fully ruled out. The signal remains directionally 
 
 ## Manuscript recommendation
 
-The current v5.1 manuscript wording should remain unchanged, assuming the current wording already stays cautious; alternatively add one short dropout/depth limitation sentence. No manuscript file was changed in this task.
+The v5.2 manuscript should retain cautious wording: mTEC1 `Loxl2` remains a transcript-level candidate with partial/unresolved dropout/depth risk, not a protein-level or functional finding.
 
 ## Output files
 

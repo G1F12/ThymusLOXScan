@@ -8,7 +8,7 @@ Primary requested GEO accession: GSE198256
     Current GEO metadata: Homo sapiens monocyte RNA-seq from acute and
     convalescent severe COVID-19 patients.
     Important: this accession does not appear to be the mouse aging thymus
-    scRNA-seq dataset described in the project prompt. The script still
+    scRNA-seq dataset expected for the current thymus analysis. The script still
     downloads the available GEO supplementary files for auditability, but users
     should verify the intended thymus accession before biological analysis.
     Species: Homo sapiens according to GEO.
@@ -142,7 +142,7 @@ def download_geo_accession() -> list[Path]:
 def download_hca_backup() -> Path | None:
     """Attempt to download the backup CELLxGENE/HCA thymus AnnData file."""
     print("\n=== Backup Human Cell Atlas / CELLxGENE thymus dataset ===")
-    print("Attempting backup download from the URL supplied in the project prompt.")
+    print("Attempting backup download from the configured thymus dataset URL.")
     return download_url(HCA_THYMUS_URL, RAW_DIR / "hca_thymus.h5ad")
 
 

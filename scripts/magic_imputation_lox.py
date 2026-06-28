@@ -7,11 +7,11 @@ from pathlib import Path
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-PYDEPS = PROJECT_ROOT / ".codex" / "pydeps"
+PYDEPS = PROJECT_ROOT / "local_pydeps"
 if PYDEPS.exists():
     sys.path.insert(0, str(PYDEPS))
 
-os.environ.setdefault("MPLCONFIGDIR", str(PROJECT_ROOT / ".codex" / "matplotlib"))
+os.environ.setdefault("MPLCONFIGDIR", str(PROJECT_ROOT / "local_cache" / "matplotlib"))
 
 import anndata as ad
 import magic

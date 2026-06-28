@@ -1,7 +1,7 @@
 # Wet-lab validation plan: LOXL2 and LOX-family candidates in aging thymic stroma
 
 ## Goal
-Test whether the transcript-level LOX-family candidates observed in public scRNA-seq data correspond to reproducible RNA/protein differences in young versus aged thymic tissue.
+Evaluate whether transcript-level LOX-family candidates observed in public scRNA-seq data correspond to reproducible RNA or protein differences in young versus aged thymic tissue.
 
 ## Priority 1: LOXL2 protein localization in thymic epithelium
 Question:

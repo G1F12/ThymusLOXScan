@@ -1,7 +1,7 @@
 # One-page summary: LOX-family transcript changes in aging murine thymic stroma
 
 ## Project
-Computational reanalysis of public murine thymic stromal scRNA-seq data to examine LOX-family transcript changes during aging.
+Computational reanalysis of public murine thymic stromal scRNA-seq data to examine LOX-family transcript patterns during aging.
 
 ## Dataset
 - Primary dataset: GSE240016.
@@ -10,7 +10,7 @@ Computational reanalysis of public murine thymic stromal scRNA-seq data to exami
 - Biological-sample-aware pseudobulk was used as the main inferential framework.
 
 ## Main finding
-LOX-family transcript changes in aging thymic stroma are subtype-dependent rather than uniformly fibroblast-wide.
+LOX-family transcript differences in aging thymic stroma appear subtype-dependent rather than uniformly fibroblast-wide.
 
 ## Key internal observations
 - capsFB: aged-lower Lox.

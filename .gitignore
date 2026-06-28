@@ -51,9 +51,11 @@ Desktop.ini
 *.swo
 *~
 
-# Codex/local agent state
+# Local execution caches
 .codex/
 .agents/
+local_pydeps/
+local_cache/
 
 # Local scratch/output
 tmp/

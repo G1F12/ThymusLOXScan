@@ -23,6 +23,5 @@ All referenced local paths in the v5.2 manuscript exist in the repository worksp
 ## Repository hygiene
 
 - No large raw data were added by this update.
-- `README` files were not modified.
-- GitHub release files were not modified.
-- No commit or push was performed.
+- Public-facing documentation should identify v5.2 as the current manuscript/release.
+- No large raw or processed data files are required for the v5.2 public documentation set.

@@ -112,8 +112,7 @@ Recommended analysis/audit reports to include for transparency:
 Recommended exclusions:
 
 - `.git/`
-- `.codex/`
-- `.agents/`
+- local execution-cache directories
 - `tmp/`
 - `output/`, unless specific outputs are intentionally curated
 - `__pycache__/` and `*.pyc`

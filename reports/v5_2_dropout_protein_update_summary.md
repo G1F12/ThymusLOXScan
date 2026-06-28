@@ -31,4 +31,4 @@ The mTEC1 `Loxl2` result remains framed as a real transcript-level candidate sig
 
 ## Release recommendation
 
-A patch release is recommended if the public manuscript should incorporate the completed mTEC1 dropout/depth audit and LOXL2 protein/spatial feasibility audit. The update is interpretive and safety-focused rather than a claim-strengthening release.
+The v5.2 release incorporates the completed mTEC1 dropout/depth audit and LOXL2 protein/spatial feasibility audit. The update is interpretive and safety-focused rather than claim-strengthening.
