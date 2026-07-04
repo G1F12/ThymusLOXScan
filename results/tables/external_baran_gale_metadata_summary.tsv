@@ -1,0 +1,9 @@
+section	field	value
+dataset	source	MouseThymusAgeing ExperimentHub SMART-seq2 cached RDS
+dataset	technology	SMART-seq2
+dataset	n_cells	2327
+metadata	age_weeks	1;4;16;32;52
+metadata	sample_proxy	SortDay; no clean donor-level replicate field was available in parsed colData
+metadata	sort_type_labels	cTEC;gmTEC;mTEChi;mTEClo
+metadata	subtype_labels	Intertypical TEC;Mature cTEC;Mature mTEC;Perinatal cTEC;Post-Aire mTEC;Proliferating TEC;Tuft-like mTEC;nTEC;sTEC
+loading	r_export_status	not used; FileNotFoundError: R export not found: D:\ThymusLOXScan\data\external\BaranGale\baran_gale_lox_cell_values_export.tsv
