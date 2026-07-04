@@ -1,0 +1,9 @@
+sample_id	age_group	mouse_id	library_run_accession	batch_date_processing_metadata	total_cells	mTEC1_cells	mTEC1_included_in_four_sample_test	all_median_total_counts	all_median_detected_genes	all_median_mito_frac	mTEC1_median_total_counts	mTEC1_median_detected_genes	mTEC1_median_mito_frac
+mo02_CD45neg1_d0	02mo	not_available_in_h5ad	not_available_locally	day=d0 only; no batch/date/run field in h5ad	3381	300	yes	5474.0	2182.0	0.023609	8038.5	2819.5	0.022639
+mo02_CD45neg2_d0	02mo	not_available_in_h5ad	not_available_locally	day=d0 only; no batch/date/run field in h5ad	3015	279	yes	5945.0	2336.0	0.022671	9032.0	3006.0	0.022114
+mo02_EC_d0	02mo	not_available_in_h5ad	not_available_locally	day=d0 only; no batch/date/run field in h5ad	572	0	no	3283.0	1641.5	0.019298	NA	NA	NA
+mo02_FB_d0	02mo	not_available_in_h5ad	not_available_locally	day=d0 only; no batch/date/run field in h5ad	3994	0	no	7571.5	2659.0	0.023062	NA	NA	NA
+mo18_CD45neg1_d0	18mo	not_available_in_h5ad	not_available_locally	day=d0 only; no batch/date/run field in h5ad	1997	289	yes	4857.0	2113.0	0.025527	5641.0	2317.0	0.028678
+mo18_CD45neg2_d0	18mo	not_available_in_h5ad	not_available_locally	day=d0 only; no batch/date/run field in h5ad	4289	764	yes	4303.0	1907.0	0.027937	5457.0	2175.5	0.029213
+mo18_EC_d0	18mo	not_available_in_h5ad	not_available_locally	day=d0 only; no batch/date/run field in h5ad	710	3	no	2499.0	1355.5	0.014675	5318.0	1993.0	0.036281
+mo18_FB_d0	18mo	not_available_in_h5ad	not_available_locally	day=d0 only; no batch/date/run field in h5ad	4974	2	no	3069.0	1527.0	0.019623	8238.5	3051.5	0.023515

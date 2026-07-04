@@ -1,0 +1,10 @@
+metric	value	source	interpretation
+raw_pseudobulk_DESeq2_log2FC_18mo_vs_02mo	-3.291149	results/tables/lox_pseudobulk_complete_results.tsv	Raw DESeq2 effect size; small-n estimate likely unstable.
+sample_level_mean_log2CPM1_delta_aged_minus_young	-2.520949	scripts/mtec1_loxl2_permutation_test.py	Recomputed from adata.raw.X across the four mTEC1 biological samples.
+median_young_log2CPM1	3.463775	scripts/mtec1_loxl2_permutation_test.py	Median across two young biological samples.
+median_aged_log2CPM1	0.942826	scripts/mtec1_loxl2_permutation_test.py	Median across two aged biological samples.
+detection_delta_aged_minus_young	-0.083617	scripts/mtec1_loxl2_permutation_test.py	Recomputed sample-level mean detection-rate difference.
+downsampled_log2CPM1_delta_aged_minus_young	-2.765639	results/tables/mtec1_loxl2_downsampling_summary.tsv	Prior depth-matched downsampling audit.
+downsampled_detection_delta_aged_minus_young	-0.046533	results/tables/mtec1_loxl2_downsampling_summary.tsv	Prior depth-matched downsampling audit.
+DESeq2_lfcShrink_available	no	local environment	Rscript was not available; apeglm/ashr shrinkage was not run.
+recommended_reporting	report sample-level and downsampled effect sizes alongside raw DESeq2 LFC	audit recommendation	Do not present the raw LFC alone as a stable effect-size estimate.

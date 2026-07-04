@@ -1,0 +1,141 @@
+gene	annotation_level	group_or_subtype	status	n_young_samples	n_aged_samples	young_cell_count	aged_cell_count	raw_pvalue	original_padj	log2FC_18mo_vs_02mo	global_bh_fdr_lox_x_subtype_matrix	global_fdr_classification
+Lox	cell_type	6:MEC	ok	3	3	160	634	0.5867944393071967		-0.3534857984311015	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	cell_type	6:MEC	ok	3	3	160	634	0.5320998582407889	0.9642242930722538	-0.2123650037643031	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	cell_type	6:MEC	ok	3	3	160	634	0.0393360105914706	0.7060577138522591	-1.1649323199017867	0.2687960723750491	not_significant_after_global_matrix_correction
+Loxl3	cell_type	6:MEC	ok	3	3	160	634	0.6783328426426087		0.2870051915231473	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	cell_type	6:MEC	ok	3	3	160	634	0.8884099301194806		-0.2143837736844727	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	cell_type	7:vSMC/PC	ok	3	4	268	712	0.7389485113502088	0.9997808816588244	-0.262742286566923	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	cell_type	7:vSMC/PC	ok	3	4	268	712	0.67815960897988	0.9997808816588244	0.5510198093889093	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	cell_type	7:vSMC/PC	ok	3	4	268	712	0.0275600177202313	0.9997808816588244	-1.9593858397618331	0.22599214530589667	not_significant_after_global_matrix_correction
+Loxl3	cell_type	7:vSMC/PC	ok	3	4	268	712	0.7029732080234168	0.9997808816588244	0.4121468623397055	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	cell_type	7:vSMC/PC	not_tested_zero_counts	3	4	268	712					not_tested
+Lox	cell_type	8:nmSC	ok	1	3	10	56	0.941276887457048	0.9947259863158392	0.3915652256741113	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	cell_type	8:nmSC	ok	1	3	10	56	0.648368213075019	0.9947259863158392	1.1568271255898934	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	cell_type	8:nmSC	ok	1	3	10	56	0.5329840612923333	0.9947259863158392	2.8287824191318944	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	cell_type	8:nmSC	ok	1	3	10	56	0.762363105259795	0.9947259863158392	-0.8053320910395455	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	cell_type	8:nmSC	ok	1	3	10	56	0.9420427769314446	0.9947259863158392	0.3915645303811785	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	cell_type	EC	ok	3	1	966	683	0.6075052815229932		-0.7227314906290185	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	cell_type	EC	ok	3	1	966	683	0.1132729513557468		-5.942191702406822	0.6634558579408028	not_significant_after_global_matrix_correction
+Loxl2	cell_type	EC	ok	3	1	966	683	0.4912732216721323		1.0373564696691049	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	cell_type	EC	ok	3	1	966	683	0.3553455371861822		-2.303259975673004	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	cell_type	EC	ok	3	1	966	683	0.7461466990671137		-2.0842078513889013	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	cell_type	FB	ok	3	3	7159	6081	1.0677204297735093e-06	4.363802253793245e-05	-1.2949016364588477	6.566480643107082e-05	global_FDR_lt_0.05
+Loxl1	cell_type	FB	ok	3	3	7159	6081	0.0011722968993116	0.0143501963005337	-0.6157903047606486	0.028838503723065362	global_FDR_lt_0.05
+Loxl2	cell_type	FB	ok	3	3	7159	6081	0.0019398021242926	0.0208187989521313	-0.5168644214764081	0.0385456632889713	global_FDR_lt_0.05
+Loxl3	cell_type	FB	ok	3	3	7159	6081	0.7982113831782185	0.933533454825535	-0.0451030634157154	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	cell_type	FB	ok	3	3	7159	6081	0.7284582765890419	0.9009972691651156	-0.2540785689400777	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	cell_type	TEC	ok	2	3	2383	3785	0.0100717859998613	0.1256365554786752	2.09315972375714	0.12388296779829397	not_significant_after_global_matrix_correction
+Loxl1	cell_type	TEC	ok	2	3	2383	3785	0.9146249319875724	0.9740717079894968	0.060479906463839	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	cell_type	TEC	ok	2	3	2383	3785	0.0165549383370096	0.1647285445031163	-1.5933834029364908	0.16968811795434838	not_significant_after_global_matrix_correction
+Loxl3	cell_type	TEC	ok	2	3	2383	3785	0.3381411949319339	0.6803497382921965	-0.7908084124025462	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	cell_type	TEC	ok	2	3	2383	3785	0.4077990286584847	0.7346065906486033	-0.6426503763516245	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	0:arEC	ok	3	1	205	117	0.9407890771293224	0.9996518015907346	-0.1060411111363069	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	0:arEC	ok	3	1	205	117	0.4147514341147389	0.9996518015907346	-3.306236252562489	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	0:arEC	ok	3	1	205	117	0.8549342036926232	0.9996518015907346	-0.3212957006025501	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	0:arEC	ok	3	1	205	117	0.4147514341147389	0.9996518015907346	-3.306236252562489	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	0:arEC	not_tested_zero_counts	3	1	205	117					not_tested
+Lox	subtype	10:aaTEC1	skipped_missing_stage	0	2	0	726					not_tested
+Loxl1	subtype	10:aaTEC1	skipped_missing_stage	0	2	0	726					not_tested
+Loxl2	subtype	10:aaTEC1	skipped_missing_stage	0	2	0	726					not_tested
+Loxl3	subtype	10:aaTEC1	skipped_missing_stage	0	2	0	726					not_tested
+Loxl4	subtype	10:aaTEC1	skipped_missing_stage	0	2	0	726					not_tested
+Lox	subtype	11:aaTEC2	ok	1	3	10	257	0.5871638023500646	0.9997613420850404	1.0735265571622967	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	11:aaTEC2	ok	1	3	10	257	0.2225321363218608	0.9997613420850404	-2.3121470258463592	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	11:aaTEC2	ok	1	3	10	257	0.9510660272417276	0.9997613420850404	-0.150673777074278	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	11:aaTEC2	ok	1	3	10	257	0.5183654908777109	0.9997613420850404	-1.3880970612132608	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	11:aaTEC2	not_tested_zero_counts	1	3	10	257					not_tested
+Lox	subtype	12:cTEC	ok	2	2	48	326	0.365683626555316		1.281949017491939	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	12:cTEC	ok	2	2	48	326	0.8759076227798709		-0.3178218765183014	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	12:cTEC	ok	2	2	48	326	0.132397265062296		-2.6629516725080804	0.7402210728482911	not_significant_after_global_matrix_correction
+Loxl3	subtype	12:cTEC	ok	2	2	48	326	0.4370058286303581		-2.33608280238697	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	12:cTEC	not_tested_zero_counts	2	2	48	326					not_tested
+Lox	subtype	12:early Pr	ok	2	2	38	357	0.3369825413157075		-0.6694233454593053	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	12:early Pr	ok	2	2	38	357	0.1915466359917064		3.193905988434545	0.9424094490791955	not_significant_after_global_matrix_correction
+Loxl2	subtype	12:early Pr	ok	2	2	38	357	0.2494833273291204		-2.984860165274444	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	12:early Pr	ok	2	2	38	357	0.8789860615674893		0.7904542046541909	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	12:early Pr	not_tested_zero_counts	2	2	38	357					not_tested
+Lox	subtype	13:mTEC1	ok	2	2	579	1053	0.0363995867818083	0.1300877696543736	0.7946098112468681	0.2687960723750491	not_significant_after_global_matrix_correction
+Loxl1	subtype	13:mTEC1	ok	2	2	579	1053	0.6367155917731782	0.8118395017644121	0.2601428503247021	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	13:mTEC1	ok	2	2	579	1053	8.524910941339315e-05	0.0009563256575355	-3.2911494397505088	0.0034952134859491195	global_FDR_lt_0.05
+Loxl3	subtype	13:mTEC1	ok	2	2	579	1053	0.9503044669211173		0.1017528447706945	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	13:mTEC1	ok	2	2	579	1053	0.6640791605220585		0.7967897534622436	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	14:mTEC-prol	ok	2	2	242	143	0.3614265818088686		-2.0532515476383195	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	14:mTEC-prol	ok	2	2	242	143	0.4341382446713832		-1.1639305604741117	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	14:mTEC-prol	ok	2	2	242	143	0.930869253632605		-0.0575925380211404	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	14:mTEC-prol	ok	2	2	242	143	0.7483752201639182		-1.063437312302589	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	14:mTEC-prol	ok	2	2	242	143	0.592715645712051		-1.6099031508886557	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	15:mTEC2	ok	2	2	928	452	0.6768478600665025		0.5167151621531384	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	15:mTEC2	ok	2	2	928	452	0.0728433655250227		-1.366506787177563	0.4715649452409364	not_significant_after_global_matrix_correction
+Loxl2	subtype	15:mTEC2	ok	2	2	928	452	0.5424723796205508		-0.3065825347628291	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	15:mTEC2	ok	2	2	928	452	0.6871034032192801		-0.2508356621997876	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	15:mTEC2	ok	2	2	928	452	0.692711491617883		-0.9439331486190724	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	16:mimetic(basal)	ok	2	2	123	40	0.9991590451598896		-0.0030777863625488	0.9991590451598896	not_significant_after_global_matrix_correction
+Loxl1	subtype	16:mimetic(basal)	ok	2	2	123	40	0.7080101807260384		-1.6998635594885645	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	16:mimetic(basal)	ok	2	2	123	40	0.705012594174788		1.37081585378069	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	16:mimetic(basal)	ok	2	2	123	40	0.9839678651959822		0.107665196708694	0.9990050334890787	not_significant_after_global_matrix_correction
+Loxl4	subtype	16:mimetic(basal)	not_tested_zero_counts	2	2	123	40					not_tested
+Lox	subtype	17:mimetic(tuft)	ok	2	2	243	162	0.9330109138483994		0.3563110041944593	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	17:mimetic(tuft)	ok	2	2	243	162	0.6331915388172122		-0.8021344286124709	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	17:mimetic(tuft)	ok	2	2	243	162	0.6496006317033554		-2.1158549034865066	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	17:mimetic(tuft)	ok	2	2	243	162	0.739820605555134		1.7744668716963232	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	17:mimetic(tuft)	not_tested_zero_counts	2	2	243	162					not_tested
+Lox	subtype	18:mimetic(neuroendo)	ok	2	2	87	121	0.8746637334206604		0.8469250033568729	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	18:mimetic(neuroendo)	ok	2	2	87	121	0.3754230656419682		-1.8293598808703453	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	18:mimetic(neuroendo)	ok	2	2	87	121	0.2890315355718887		-2.308245048403328	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	18:mimetic(neuroendo)	ok	2	2	87	121	0.948675670456822		-0.2489879561682226	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	18:mimetic(neuroendo)	not_tested_zero_counts	2	2	87	121					not_tested
+Lox	subtype	19:mimetic(goblet)	ok	2	2	41	119	0.8688977600387489		0.151835774866609	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	19:mimetic(goblet)	ok	2	2	41	119	0.633102074324685		2.285193786881998	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	19:mimetic(goblet)	ok	2	2	41	119	0.9212468732724524		-0.5288648993775361	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	19:mimetic(goblet)	not_tested_zero_counts	2	2	41	119					not_tested
+Loxl4	subtype	19:mimetic(goblet)	ok	2	2	41	119	0.917266661058365		-0.5560673531923062	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	1:capEC	ok	3	1	588	490	0.62459183442621	0.9997764860265292	-2.8271410723916706	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	1:capEC	ok	3	1	588	490	0.1462059979472894	0.9997764860265292	-5.60005146847653	0.7818842498920258	not_significant_after_global_matrix_correction
+Loxl2	subtype	1:capEC	ok	3	1	588	490	0.5587420329589984	0.9997764860265292	1.2080618172690116	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	1:capEC	ok	3	1	588	490	0.9339368372448204	0.9997764860265292	-0.3524488707171099	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	1:capEC	not_tested_zero_counts	3	1	588	490					not_tested
+Lox	subtype	20:mimetic(microfold)	not_tested_zero_counts	2	1	28	13					not_tested
+Loxl1	subtype	20:mimetic(microfold)	ok	2	1	28	13	0.7645444924971474	0.9997607667239906	-1.666849575966744	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	20:mimetic(microfold)	ok	2	1	28	13	0.5627684301239275	0.9997607667239906	-3.384080640364037	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	20:mimetic(microfold)	ok	2	1	28	13	0.6468192910226239	0.9997607667239906	-1.3225253712945173	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	20:mimetic(microfold)	ok	2	1	28	13	0.8864292032197996	0.9997607667239906	-0.7955103498843934	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	2:venEC	ok	3	1	173	76	0.5864730586599658	0.9995340279615031	-2.83680075666836	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	2:venEC	ok	3	1	173	76	0.7433685900890059	0.9995340279615031	-1.8194156449395216	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	2:venEC	ok	3	1	173	76	0.6278161126243451	0.9995340279615031	2.160105204132211	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	2:venEC	ok	3	1	173	76	0.6775537600765799	0.9995340279615031	-2.2651204758115235	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	2:venEC	ok	3	1	173	76	0.8424402295829176	0.9995340279615031	-1.2809771713291933	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	3:capsFB	ok	3	3	2598	1268	5.37656913172565e-07	7.52478034885109e-05	-1.461983266265079	6.566480643107082e-05	global_FDR_lt_0.05
+Loxl1	subtype	3:capsFB	ok	3	3	2598	1268	0.08382227566267	0.4824702101144022	-0.2539896112183952	0.5155069953254205	not_significant_after_global_matrix_correction
+Loxl2	subtype	3:capsFB	ok	3	3	2598	1268	0.4320517852653824	0.8661897693973287	0.1467134845580635	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	3:capsFB	ok	3	3	2598	1268	0.3930276654916106	0.8480762601501095	-0.1843459999455056	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	3:capsFB	ok	3	3	2598	1268	0.6662166101069448	0.9448631146652802	0.4569331626702036	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	4:intFB	ok	3	3	2691	1880	0.0043584520216457	0.0716375401347848	-0.625956479206368	0.05956551096249122	global_FDR_lt_0.10
+Loxl1	subtype	4:intFB	ok	3	3	2691	1880	0.0029021938209416	0.0541318283216391	-0.5123242678042881	0.044621229996977096	global_FDR_lt_0.05
+Loxl2	subtype	4:intFB	ok	3	3	2691	1880	0.0195541664878017	0.1898400016846443	-0.5784463994404674	0.18501249830766223	not_significant_after_global_matrix_correction
+Loxl3	subtype	4:intFB	ok	3	3	2691	1880	0.4294417996670224	0.855435277090965	0.210541770945323	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	4:intFB	ok	3	3	2691	1880	0.6474196239208694		-0.5893481356593899	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	5:medFB	ok	3	3	1841	2881	0.0111519746061231	0.0747288780909326	1.101093219618501	0.12469935241392194	not_significant_after_global_matrix_correction
+Loxl1	subtype	5:medFB	ok	3	3	1841	2881	0.0021936556343317	0.022557597703736	0.7505055180833843	0.0385456632889713	global_FDR_lt_0.05
+Loxl2	subtype	5:medFB	ok	3	3	1841	2881	0.0004412166683791	0.0067177089389437	-0.9954827176484546	0.013567412552657324	global_FDR_lt_0.05
+Loxl3	subtype	5:medFB	ok	3	3	1841	2881	0.1874143747184368	0.4751276386464128	0.3968840261474753	0.9424094490791955	not_significant_after_global_matrix_correction
+Loxl4	subtype	5:medFB	ok	3	3	1841	2881	0.7740749212543258		-0.6270507310510817	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	6:MEC	ok	3	3	160	634	0.5867944393071967		-0.3534857984311015	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	6:MEC	ok	3	3	160	634	0.5320998582407889	0.9642242930722538	-0.2123650037643031	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	6:MEC	ok	3	3	160	634	0.0393360105914706	0.7060577138522591	-1.1649323199017867	0.2687960723750491	not_significant_after_global_matrix_correction
+Loxl3	subtype	6:MEC	ok	3	3	160	634	0.6783328426426087		0.2870051915231473	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	6:MEC	ok	3	3	160	634	0.8884099301194806		-0.2143837736844727	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	7:vSMC/PC	ok	3	4	268	712	0.7389485113502088	0.9997808816588244	-0.262742286566923	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	7:vSMC/PC	ok	3	4	268	712	0.67815960897988	0.9997808816588244	0.5510198093889093	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	7:vSMC/PC	ok	3	4	268	712	0.0275600177202313	0.9997808816588244	-1.9593858397618331	0.22599214530589667	not_significant_after_global_matrix_correction
+Loxl3	subtype	7:vSMC/PC	ok	3	4	268	712	0.7029732080234168	0.9997808816588244	0.4121468623397055	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	7:vSMC/PC	not_tested_zero_counts	3	4	268	712					not_tested
+Lox	subtype	8:nmSC	ok	1	3	10	56	0.941276887457048	0.9947259863158392	0.3915652256741113	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	8:nmSC	ok	1	3	10	56	0.648368213075019	0.9947259863158392	1.1568271255898934	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	8:nmSC	ok	1	3	10	56	0.5329840612923333	0.9947259863158392	2.8287824191318944	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl3	subtype	8:nmSC	ok	1	3	10	56	0.762363105259795	0.9947259863158392	-0.8053320910395455	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	8:nmSC	ok	1	3	10	56	0.9420427769314446	0.9947259863158392	0.3915645303811785	0.9748426779227708	not_significant_after_global_matrix_correction
+Lox	subtype	9:Fat	ok	1	2	15	44	0.9029180489231524	0.999806114744774	-0.3844096305732658	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl1	subtype	9:Fat	ok	1	2	15	44	0.8209811474030957	0.999806114744774	-0.585874257800052	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl2	subtype	9:Fat	ok	1	2	15	44	0.990883041346891	0.999806114744774	-0.0325814089014426	0.9990050334890787	not_significant_after_global_matrix_correction
+Loxl3	subtype	9:Fat	ok	1	2	15	44	0.7779331007600759	0.999806114744774	0.9362030810551322	0.9748426779227708	not_significant_after_global_matrix_correction
+Loxl4	subtype	9:Fat	ok	1	2	15	44	0.8180834625755622	0.999806114744774	1.0852067259226037	0.9748426779227708	not_significant_after_global_matrix_correction
