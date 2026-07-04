@@ -3,7 +3,17 @@
 # Export only LOX-family data and metadata from the official MouseThymusAgeing API.
 # This script intentionally avoids raw sequencing/alignment files and full matrices.
 
-project_root <- normalizePath(file.path(dirname(sys.frame(1)$ofile), ".."), mustWork = TRUE)
+args_file <- tryCatch(normalizePath(sys.frame(1)$ofile), error = function(e) NA_character_)
+if (is.na(args_file)) {
+  cmd <- commandArgs(trailingOnly = FALSE)
+  file_arg <- grep("^--file=", cmd, value = TRUE)
+  args_file <- if (length(file_arg)) normalizePath(sub("^--file=", "", file_arg[[1]])) else NA_character_
+}
+project_root <- if (!is.na(args_file)) {
+  normalizePath(file.path(dirname(args_file), ".."), mustWork = TRUE)
+} else {
+  normalizePath(getwd(), mustWork = TRUE)
+}
 out_dir <- file.path(project_root, "data", "external", "metadata", "emtab8560")
 report_path <- file.path(project_root, "reports", "external_emtab8560_r_export_report.md")
 feasibility_path <- file.path(project_root, "reports", "external_emtab8560_r_export_feasibility.md")
@@ -82,6 +92,11 @@ write.table(assay_inventory, file.path(out_dir, "emtab8560_assay_inventory.tsv")
 
 coldata <- as.data.frame(SummarizedExperiment::colData(sce))
 coldata$cell_barcode <- colnames(sce)
+if ("counts" %in% SummarizedExperiment::assayNames(sce)) {
+  counts_mat <- SummarizedExperiment::assay(sce, "counts")
+  coldata$total_counts_all_features <- as.numeric(Matrix::colSums(counts_mat))
+  coldata$detected_features_all_features <- as.numeric(Matrix::colSums(counts_mat > 0))
+}
 write.table(coldata, file.path(out_dir, "emtab8560_coldata.tsv"),
             sep = "\t", quote = FALSE, row.names = FALSE)
 
@@ -90,16 +105,27 @@ rowdata$feature_id <- rownames(sce)
 write.table(rowdata, file.path(out_dir, "emtab8560_rowdata.tsv"),
             sep = "\t", quote = FALSE, row.names = FALSE)
 
-gene_cols <- grep("symbol|gene", colnames(rowdata), ignore.case = TRUE, value = TRUE)
+lox_gene_ids <- c(
+  Lox = "ENSMUSG00000030084",
+  Loxl1 = "ENSMUSG00000032383",
+  Loxl2 = "ENSMUSG00000034205",
+  Loxl3 = "ENSMUSG00000026922",
+  Loxl4 = "ENSMUSG00000029723"
+)
+
 feature_symbol <- rep(NA_character_, nrow(rowdata))
+gene_cols <- grep("symbol|gene|Geneid", colnames(rowdata), ignore.case = TRUE, value = TRUE)
 for (col in gene_cols) {
   vals <- as.character(rowdata[[col]])
-  hit <- vals %in% lox_genes
-  feature_symbol[hit] <- vals[hit]
+  hit_symbol <- vals %in% lox_genes
+  feature_symbol[hit_symbol] <- vals[hit_symbol]
+  for (gene in names(lox_gene_ids)) {
+    hit_id <- vals == lox_gene_ids[[gene]]
+    feature_symbol[hit_id] <- gene
+  }
 }
-if (any(is.na(feature_symbol))) {
-  feature_symbol[rownames(sce) %in% lox_genes] <- rownames(sce)[rownames(sce) %in% lox_genes]
-}
+feature_symbol[rownames(sce) %in% lox_genes] <- rownames(sce)[rownames(sce) %in% lox_genes]
+feature_symbol[rownames(sce) %in% lox_gene_ids] <- names(lox_gene_ids)[match(rownames(sce)[rownames(sce) %in% lox_gene_ids], lox_gene_ids)]
 lox_idx <- which(feature_symbol %in% lox_genes)
 
 export_assay <- function(assay_name, out_name) {
@@ -114,6 +140,15 @@ export_assay <- function(assay_name, out_name) {
     df
   )
   write.table(df, file.path(out_dir, out_name), sep = "\t", quote = FALSE, row.names = FALSE)
+  long_df <- data.frame(
+    feature_id = rep(rownames(mat), times = ncol(mat)),
+    gene = rep(feature_symbol[lox_idx], times = ncol(mat)),
+    cell_barcode = rep(colnames(mat), each = nrow(mat)),
+    value = as.vector(as.matrix(mat)),
+    stringsAsFactors = FALSE
+  )
+  write.table(long_df, file.path(out_dir, sub("\\.tsv$", "_long.tsv", out_name)),
+              sep = "\t", quote = FALSE, row.names = FALSE)
   TRUE
 }
 
@@ -138,6 +173,8 @@ writeLines(c(
   "- `data/external/metadata/emtab8560/emtab8560_assay_inventory.tsv`",
   if (counts_exported) "- `data/external/metadata/emtab8560/emtab8560_lox_counts.tsv`" else "- LOX raw counts not exported.",
   if (logcounts_exported) "- `data/external/metadata/emtab8560/emtab8560_lox_logcounts.tsv`" else "- LOX logcounts not exported.",
+  if (counts_exported) "- `data/external/metadata/emtab8560/emtab8560_lox_counts_long.tsv`" else NULL,
+  if (logcounts_exported) "- `data/external/metadata/emtab8560/emtab8560_lox_logcounts_long.tsv`" else NULL,
   "",
   "## Biological ID Fields",
   "",

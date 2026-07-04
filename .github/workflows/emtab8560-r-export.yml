@@ -1,0 +1,62 @@
+name: emtab8560-r-export
+
+on:
+  workflow_dispatch:
+
+jobs:
+  export-and-reanalyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install pandas numpy scipy matplotlib requests
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: "release"
+
+      - name: Install R/Bioconductor dependencies
+        run: |
+          install.packages("BiocManager", repos = "https://cloud.r-project.org")
+          BiocManager::install(
+            c("MouseThymusAgeing", "SingleCellExperiment", "SummarizedExperiment", "scuttle", "Matrix"),
+            ask = FALSE,
+            update = FALSE
+          )
+        shell: Rscript {0}
+
+      - name: Run MouseThymusAgeing R export
+        run: Rscript scripts/external_validation_emtab8560_mtec_export.R
+
+      - name: Fetch official E-MTAB-8560 metadata
+        run: python scripts/external_validation_emtab8560_metadata_fetch.py
+
+      - name: Audit biological unit
+        run: python scripts/external_validation_emtab8560_biological_unit_audit.py
+
+      - name: Run mTEC LOX-family reanalysis
+        run: python scripts/external_validation_emtab8560_mtec_lox_reanalysis.py
+
+      - name: Upload derived outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: emtab8560-mtec-derived-outputs
+          if-no-files-found: error
+          path: |
+            reports/external_emtab8560_*.md
+            reports/v5_5_emtab8560_mtec_*.md
+            results/tables/external_emtab8560_*.tsv
+            results/figures/external_validation/emtab8560_mtec/*.png
+            results/figures/external_validation/emtab8560_mtec/*.pdf
