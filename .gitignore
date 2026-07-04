@@ -59,6 +59,7 @@ local_cache/
 
 # Local scratch/output
 tmp/
+private_outreach/
 output/
 
 # Project data outputs
