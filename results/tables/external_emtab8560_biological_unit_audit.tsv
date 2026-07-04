@@ -1,0 +1,4 @@
+question	answer	evidence
+classification	infeasible in current environment	Rscript was unavailable or R export did not produce emtab8560_coldata.tsv.
+true biological mouse/individual ID	not verified	Official R object colData could not be exported through MouseThymusAgeing API.
+cells treated as biological replicates	no	No inferential per-cell or per-mouse model was run.
