@@ -1,0 +1,17 @@
+technical_field	age_coincides	young_values	aged_values	assessment
+GSM accession	yes_or_sample_specific	GSM7679869;GSM7679870	GSM7679885;GSM7679886	values differ between age groups or are sample-specific
+SRR run accessions	yes_or_sample_specific	SRR25509581;SRR25509582;SRR25509583;SRR25509584;SRR25509585;SRR25509586;SRR25509587;SRR25509588	SRR25509525;SRR25509526;SRR25509527;SRR25509528	values differ between age groups or are sample-specific
+BioSample	yes_or_sample_specific	SAMN36828569;SAMN36828570	SAMN36828553;SAMN36828554	values differ between age groups or are sample-specific
+sequencing run date	unavailable			field not present in GEO/SRA/BioSample metadata
+SRA load timestamp	yes_or_sample_specific	2023-08-03 19:04:42;2023-08-03 19:09:14;2023-08-03 19:09:40;2023-08-03 19:09:54;2023-08-03 19:08:53;2023-08-03 19:09:01;2023-08-03 19:10:19;2023-08-03 19:14:29	2023-08-03 19:13:15;2023-08-03 19:18:07;2023-08-03 19:19:44;2023-08-03 19:20:50	values differ between age groups or are sample-specific
+SRA load calendar date	no	2023-08-03	2023-08-03	available values do not separate young and aged samples
+SRA release calendar date	no	2024-06-27	2024-06-27	available values do not separate young and aged samples
+library prep date	unavailable			field not present in GEO/SRA/BioSample metadata
+library strategy	no	RNA-Seq	RNA-Seq	available values do not separate young and aged samples
+library source	no	TRANSCRIPTOMIC SINGLE CELL	TRANSCRIPTOMIC SINGLE CELL	available values do not separate young and aged samples
+library selection	no	cDNA	cDNA	available values do not separate young and aged samples
+instrument	no	Illumina NovaSeq 6000	Illumina NovaSeq 6000	available values do not separate young and aged samples
+center	no	THE MARCEL VAN DEN BRINK LAB, DEPARTMENT OF IMMUNOLOGY, MEMORIAL SLOAN KETTERING CANCER CENTER	THE MARCEL VAN DEN BRINK LAB, DEPARTMENT OF IMMUNOLOGY, MEMORIAL SLOAN KETTERING CANCER CENTER	available values do not separate young and aged samples
+lane/flowcell	unavailable			field not present in GEO/SRA/BioSample metadata
+sort/enrichment condition	no	CD45- thymic stroma cells	CD45- thymic stroma cells	available values do not separate young and aged samples
+day/timepoint	no	d0	d0	available values do not separate young and aged samples
