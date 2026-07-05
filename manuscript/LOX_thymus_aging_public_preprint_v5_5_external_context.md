@@ -162,7 +162,7 @@ Final manuscript figures were generated with `scripts/figures/plot_final_volcano
 
 ### Software
 
-The reproducible Python environment is specified in `environment.yml` and `requirements.txt`. The current workflow uses Python 3.11, Scanpy, AnnData, NumPy, pandas, SciPy, Matplotlib, seaborn, statsmodels, PyDESeq2, MAGIC, GSEApy, python-igraph, and leidenalg. No R, rpy2, or Bioconductor DESeq2 workflow is used by the current repository scripts.
+The reproducible Python environment is specified in `environment.yml` and `requirements.txt`. The current workflow uses Python 3.11, Scanpy, AnnData, NumPy, pandas, SciPy, Matplotlib, seaborn, statsmodels, PyDESeq2, MAGIC, GSEApy, python-igraph, and leidenalg. The primary GSE240016 pseudobulk analyses in this repository use Python/PyDESeq2 rather than an R/Bioconductor DESeq2 workflow. The E-MTAB-8560 external-context analysis uses an R/Bioconductor export path for MouseThymusAgeing/SingleCellExperiment resources, followed by derived per-mouse summaries and Python-based audit/reanalysis scripts.
 
 ## Discussion
 

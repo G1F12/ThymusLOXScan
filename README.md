@@ -14,6 +14,10 @@ Current release:
 
 `v5.2-dropout-protein-feasibility`
 
+Latest working draft:
+
+`manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
+
 Previous releases:
 
 - `v5.0-external-validation`: previous external-validation update.
@@ -28,6 +32,7 @@ Recent audit work improved the official GSE240016 GEO/SRA metadata mapping, but 
 ## Key Outputs
 
 - Current public manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_2_dropout_protein_feasibility.md`
+- Latest working draft: `manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
 - One-page collaborator summary: `one_page_summary.md`
 - Wet-lab validation plan: `wet_lab_validation_plan.md`
 - Main pseudobulk table: `results/tables/lox_pseudobulk_complete_results.tsv`

@@ -48,3 +48,6 @@ https://github.com/G1F12/ThymusLOXScan
 
 ## Current manuscript
 manuscript/LOX_thymus_aging_public_preprint_v5_2_dropout_protein_feasibility.md
+
+## Latest working draft
+manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md
