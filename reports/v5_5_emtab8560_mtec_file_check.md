@@ -1,34 +1,33 @@
 # v5.5 E-MTAB-8560 mTEC File Check
 
-## Scripts Created
-
-- `scripts/external_validation_emtab8560_mtec_export.R`
-- `scripts/external_validation_emtab8560_metadata_fetch.py`
-- `scripts/external_validation_emtab8560_biological_unit_audit.py`
-- `scripts/external_validation_emtab8560_mtec_lox_reanalysis.py`
-
-## Reports Created
-
-- `reports/external_emtab8560_r_export_feasibility.md`
-- `reports/external_emtab8560_metadata_source_notes.md`
-- `reports/external_emtab8560_biological_unit_audit.md`
-- `reports/external_emtab8560_mtec_lox_reanalysis.md`
-- `reports/external_emtab8560_vs_gse240016_interpretation.md`
-- `reports/v5_5_emtab8560_mtec_update_summary.md`
-- `reports/v5_5_emtab8560_mtec_safety_check.md`
-- `reports/v5_5_emtab8560_mtec_file_check.md`
-
 ## Tables Created
 
-- `results/tables/external_emtab8560_biological_unit_audit.tsv`
+- `results/tables/external_emtab8560_mtec_lox_pseudobulk.tsv`
+- `results/tables/external_emtab8560_mtec_lox_by_age.tsv`
+- `results/tables/external_emtab8560_mtec_lox_models.tsv`
+- `results/tables/external_emtab8560_mtec_lox_permutation.tsv`
+- `results/tables/external_emtab8560_mtec_lox_global_fdr.tsv`
 
-No pseudobulk, model, permutation, global FDR, or figure outputs were created because the official R export was unavailable.
+## Figures Created
+
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_lox_family_mtec_effect_heatmap.pdf`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_lox_family_mtec_effect_heatmap.png`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_combined_mtec_log2cpm_by_age.pdf`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_combined_mtec_log2cpm_by_age.png`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_mtechi_detection_by_age.pdf`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_mtechi_detection_by_age.png`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_mtechi_log2cpm_by_age.pdf`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_mtechi_log2cpm_by_age.png`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_mteclo_detection_by_age.pdf`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_mteclo_detection_by_age.png`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_mteclo_log2cpm_by_age.pdf`
+- `/home/runner/work/ThymusLOXScan/ThymusLOXScan/results/figures/external_validation/emtab8560_mtec/emtab8560_loxl2_mteclo_log2cpm_by_age.png`
 
 ## Checks
 
 - No FASTQ, BAM, SRA, or raw alignment files downloaded.
 - No `.h5ad` file created or staged.
-- No large data files included for commit.
+- No large raw data files included for commit.
 - No `data/raw` or `data/processed` files staged.
 - No `private_outreach` files staged.
 - No manuscript files staged.
