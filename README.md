@@ -21,6 +21,10 @@ Previous releases:
 
 Older manuscript files are retained as working drafts or historical versions.
 
+## Latest Analyses
+
+Recent audit work improved the official GSE240016 GEO/SRA metadata mapping, but did not rule out batch confounding. The E-MTAB-8560 R/Bioconductor reanalysis was completed as external mTEC-focused transcript-level context. E-MTAB-8560 is mixed/inconclusive overall, with the clearest aged-lower `Loxl2` pattern in mTEClo and cTEC and weaker support in mTEChi. No protein, functional, or causal validation is claimed.
+
 ## Key Outputs
 
 - Current public manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_2_dropout_protein_feasibility.md`
