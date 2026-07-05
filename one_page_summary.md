@@ -47,7 +47,7 @@ LOXL2 IHC or IF on young versus aged mouse thymus sections, ideally co-stained w
 https://github.com/G1F12/ThymusLOXScan
 
 ## Current manuscript
-manuscript/LOX_thymus_aging_public_preprint_v5_2_dropout_protein_feasibility.md
-
-## Latest working draft
 manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md
+
+## Current release
+v5.5-external-mtec-context

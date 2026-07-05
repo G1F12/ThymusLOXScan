@@ -8,18 +8,19 @@ This repository analyzes public single-cell RNA-seq data from CD45-negative muri
 
 Current manuscript:
 
-`manuscript/LOX_thymus_aging_public_preprint_v5_2_dropout_protein_feasibility.md`
+`manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
 
 Current release:
 
-`v5.2-dropout-protein-feasibility`
+`v5.5-external-mtec-context`
 
-Latest working draft:
+Current public PDF:
 
-`manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
+`manuscript/pdf/LOX_thymus_aging_public_preprint_v5_5_external_context.pdf`
 
 Previous releases:
 
+- `v5.2-dropout-protein-feasibility`: previous dropout/depth and protein-feasibility update.
 - `v5.0-external-validation`: previous external-validation update.
 - `v4.2-final-safe`: previous stable cautious release.
 
@@ -31,8 +32,8 @@ Recent audit work improved the official GSE240016 GEO/SRA metadata mapping, but 
 
 ## Key Outputs
 
-- Current public manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_2_dropout_protein_feasibility.md`
-- Latest working draft: `manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
+- Current public manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
+- Current public PDF: `manuscript/pdf/LOX_thymus_aging_public_preprint_v5_5_external_context.pdf`
 - One-page collaborator summary: `one_page_summary.md`
 - Wet-lab validation plan: `wet_lab_validation_plan.md`
 - Main pseudobulk table: `results/tables/lox_pseudobulk_complete_results.tsv`
@@ -147,9 +148,11 @@ ThymusLOXScan/
 - License: `LICENSE`
 - One-page summary: `one_page_summary.md`
 - Wet-lab validation plan: `wet_lab_validation_plan.md`
-- Current v5.2 manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_2_dropout_protein_feasibility.md`
+- Current v5.5 manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
+- Current v5.5 public PDF: `manuscript/pdf/LOX_thymus_aging_public_preprint_v5_5_external_context.pdf`
 - Releases: https://github.com/G1F12/ThymusLOXScan/releases
-- Current release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.2-dropout-protein-feasibility
+- Current release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.5-external-mtec-context
+- Previous v5.2 release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.2-dropout-protein-feasibility
 - Previous external-validation update: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.0-external-validation
 - Previous stable cautious release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v4.2-final-safe
 
