@@ -1,0 +1,9 @@
+dataset_id	limitation_type	limitation	severity	implication
+park_tec	age coverage	Primarily developmental with selected postnatal stages	medium	Use as developmental TEC context, not aged-adult behavior
+park_tec	matrix semantics	Value semantics partial; mean values withheld	medium	Use detection context only
+yayon_tec	age coverage	Developmental/early-life focus	medium	Use as TEC context, not aged-adult behavior
+yayon_tec	matrix semantics	No raw layer and value semantics partial; mean values withheld	medium	Use detection context only
+gse147520_epithelial	metadata	Donor and sex fields unavailable in inspected H5AD	high	Sample-aware context only
+gse147520_epithelial	matrix layer	Compact X omits target genes; raw.X required for detection	high	Layer-specific caveat required
+gse147520_epithelial	age coverage	Adult coverage limited	medium	Not direct aged-adult interpretation
+cross_dataset	synthesis	No mean-value synthesis and no statistical tests	medium	Exploratory context matrix only

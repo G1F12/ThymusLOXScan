@@ -1,0 +1,46 @@
+dataset_id	annotation_level	annotation_field	compartment_or_label	n_donor_sample_groups_or_sample_groups	genes_detectable_count	detection_summary_available	caveat
+park_tec	fine	celltypes	Epi_GCM2	4	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	fine	celltypes	TEC(myo)	18	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	fine	celltypes	TEC(neuro)	25	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	fine	celltypes	cTEC	21	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	fine	celltypes	mTEC(I)	24	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	fine	celltypes	mTEC(II)	20	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	fine	celltypes	mTEC(III)	16	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	fine	celltypes	mTEC(IV)	10	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	fine	celltypes	mcTEC	18	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	broad	cell_type	cortical thymic epithelial cell	21	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	broad	cell_type	epithelial cell of thymus	4	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	broad	cell_type	medullary thymic epithelial cell	33	5	yes	developmental focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	TEC-cilliated	16	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	TEC-myo	22	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	TEC-neuro	25	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	TEC-tuft	4	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	cTECI	27	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	cTECII	19	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	cTECIII	15	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	mTECI	28	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	mTECI-trans	22	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	mTECII	21	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	mTECIII	21	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	mcTEC	26	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	fine	cell_type_level_4_explore	mcTEC-Prolif	15	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	broad	cell_type_level_2	cTEC	28	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	broad	cell_type_level_2	mTEC	29	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	broad	cell_type_level_2	mTEC-mimetic	26	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	broad	cell_type_level_2	mcTEC	27	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	broad	cell_type_level_2	see_lv4_explore	4	5	yes	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+gse147520_epithelial	fine	cell_types_epith	Aire+ mTEC hi	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	fine	cell_types_epith	Corneocyte-like mTEC	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	fine	cell_types_epith	Immature TEC	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	fine	cell_types_epith	Myelin+	3	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	fine	cell_types_epith	Myoid	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	fine	cell_types_epith	Neuroendocrine	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	fine	cell_types_epith	cTEC hi	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	fine	cell_types_epith	cTEC lo	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	fine	cell_types_epith	mTEC lo	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	broad	cell_type_broad_derived	TEC-like	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	broad	cell_type_broad_derived	cTEC-like	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	broad	cell_type_broad_derived	mTEC-like	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	broad	cell_type_broad_derived	myoid-like	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	broad	cell_type_broad_derived	neuroendocrine-like	5	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	broad	cell_type_broad_derived	other_epithelial	3	5	yes	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited

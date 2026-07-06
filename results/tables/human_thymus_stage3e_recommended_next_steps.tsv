@@ -1,0 +1,5 @@
+priority	next_step	rationale	expected_value	risk_or_blocker	should_modify_manuscript_now
+P1	GSE231906 controlled large-data pilot	Most directly age-relevant human thymus candidate from Stage 1/2	May test aged-adult donor-aware feasibility	Large 3.7 GB archive and unverified matrix-to-metadata join	no
+P1	Wet-lab mouse LOXL2 IHC/RNA-ISH proposal in parallel	Orthogonal follow-up for the mouse candidate signal	Protein/spatial or transcript localization context in original model	Requires experimental design and resources	no
+P2	Cross-human context matrix review	Summarize what human datasets can and cannot support	Prevents overinterpretation before manuscript decisions	Still exploratory and heterogeneous	no
+P3	Manuscript update after aged-adult or orthogonal follow-up	Current human context is useful but not decisive	Cleaner claim scope	Premature update risks overstatement	no

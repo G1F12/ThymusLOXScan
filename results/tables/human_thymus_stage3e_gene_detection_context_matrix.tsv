@@ -1,0 +1,16 @@
+dataset_id	gene	gene_present	detection_summary_available	detection_matrix	fine_context_available	broad_context_available	donor_aware_or_sample_aware	mean_value_available	caveat
+park_tec	LOX	yes	yes	X	yes	yes	donor/sample-aware	no	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	LOXL1	yes	yes	X	yes	yes	donor/sample-aware	no	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	LOXL2	yes	yes	X	yes	yes	donor/sample-aware	no	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	LOXL3	yes	yes	X	yes	yes	donor/sample-aware	no	developmental focus; matrix value semantics partial; not aged-adult focused
+park_tec	LOXL4	yes	yes	X	yes	yes	donor/sample-aware	no	developmental focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	LOX	yes	yes	X	yes	yes	donor/sample-aware	no	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	LOXL1	yes	yes	X	yes	yes	donor/sample-aware	no	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	LOXL2	yes	yes	X	yes	yes	donor/sample-aware	no	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	LOXL3	yes	yes	X	yes	yes	donor/sample-aware	no	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+yayon_tec	LOXL4	yes	yes	X	yes	yes	donor/sample-aware	no	developmental/early-life focus; matrix value semantics partial; not aged-adult focused
+gse147520_epithelial	LOX	yes	yes	raw.X	yes	yes	sample-aware only; donor unavailable	no	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	LOXL1	yes	yes	raw.X	yes	yes	sample-aware only; donor unavailable	no	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	LOXL2	yes	yes	raw.X	yes	yes	sample-aware only; donor unavailable	no	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	LOXL3	yes	yes	raw.X	yes	yes	sample-aware only; donor unavailable	no	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
+gse147520_epithelial	LOXL4	yes	yes	raw.X	yes	yes	sample-aware only; donor unavailable	no	donor and sex unavailable; compact X omits targets; raw.X required for detection; adult coverage limited
