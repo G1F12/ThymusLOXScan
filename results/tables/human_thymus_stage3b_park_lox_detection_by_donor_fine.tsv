@@ -1,0 +1,781 @@
+gene	donor_id	sample_id	development_stage	sex	celltypes	n_cells	n_detected	detection_fraction
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	45	0	0
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	71	1	0.0140845
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	21	0	0
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	2036	48	0.0235756
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	20	0	0
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	48	2	0.0416667
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	2	0	0
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	3	0	0
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	43	1	0.0232558
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	91	3	0.032967
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	18	0	0
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	2054	42	0.0204479
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	17	1	0.0588235
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	65	8	0.123077
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	4	0	0
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	4	0	0
+LOX	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	2	0	0
+LOX	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	2	0	0
+LOX	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	2	0	0
+LOX	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	68	7	0.102941
+LOX	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	2	0	0
+LOX	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	2	0	0
+LOX	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	1	0	0
+LOX	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	1	0	0
+LOX	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	27	0	0
+LOX	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	34	0	0
+LOX	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	66	1	0.0151515
+LOX	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	4	0	0
+LOX	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	55	10	0.181818
+LOX	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	5	0	0
+LOX	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	67	0	0
+LOX	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	114	0	0
+LOX	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	770	48	0.0623377
+LOX	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	36	1	0.0277778
+LOX	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	218	27	0.123853
+LOX	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	13	0	0
+LOX	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	1	0	0
+LOX	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	3	0	0
+LOX	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	2	0	0
+LOX	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	7	0	0
+LOX	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOX	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	60	1	0.0166667
+LOX	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	4	0	0
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	1	0	0
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	21	2	0.0952381
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	2628	53	0.0201674
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	145	6	0.0413793
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	10	1	0.1
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	1	0	0
+LOX	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	3	0	0
+LOX	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	24	0	0
+LOX	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	2774	50	0.0180245
+LOX	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	165	2	0.0121212
+LOX	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	22	3	0.136364
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	35	0	0
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	1	0	0
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	13	0	0
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	1754	47	0.0267959
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	4	0	0
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	1	0	0
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	32	0	0
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	18	2	0.111111
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	1774	31	0.0174746
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	7	0	0
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	4	0	0
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	1	0	0
+LOX	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	4	0	0
+LOX	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	19	0	0
+LOX	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	7	0	0
+LOX	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	10	0	0
+LOX	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOX	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	4	0	0
+LOX	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOX	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	8	0	0
+LOX	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	7	0	0
+LOX	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	2	0	0
+LOX	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	1	1	1
+LOX	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	7	0	0
+LOX	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	7	0	0
+LOX	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	1	0	0
+LOX	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	2	0	0
+LOX	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOX	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOX	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	9	0	0
+LOX	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOX	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOX	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	8	0	0
+LOX	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOX	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOX	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOX	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	1	0	0
+LOX	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOX	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOX	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOX	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	2	1	0.5
+LOX	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	1	0	0
+LOX	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOX	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	1	0	0
+LOX	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOX	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	4	0	0
+LOX	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOX	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	2	0	0
+LOX	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	3	0	0
+LOX	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOX	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	1	0	0
+LOX	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	4	0	0
+LOX	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOX	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	4	0	0
+LOX	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOX	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOX	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	1	0	0
+LOX	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOX	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	1	0	0
+LOX	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	3	0	0
+LOX	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	2	0	0
+LOX	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOX	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOX	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOX	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	16	0	0
+LOX	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOX	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	1	0	0
+LOX	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	12	0	0
+LOX	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	2	0	0
+LOX	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	5	0	0
+LOX	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	8	0	0
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	7	0	0
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	9	0	0
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	34	1	0.0294118
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	132	18	0.136364
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	47	1	0.0212766
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	12	0	0
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	2	0	0
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	241	17	0.0705394
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	16	0	0
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	44	0	0
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	235	0	0
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	852	15	0.0176056
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	357	11	0.0308123
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	116	1	0.00862069
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	28	0	0
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	396	19	0.0479798
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	2	0	0
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	1	0	0
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	30	0	0
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	44	1	0.0227273
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	19	1	0.0526316
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	7	0	0
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	3	0	0
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	34	3	0.0882353
+LOX	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	4	0	0
+LOX	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	18	0	0
+LOX	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	34	0	0
+LOX	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	16	2	0.125
+LOX	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	9	0	0
+LOX	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	18	1	0.0555556
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	45	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	71	5	0.0704225
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	21	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	2036	34	0.0166994
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	20	5	0.25
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	48	2	0.0416667
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	2	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	3	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	43	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	91	4	0.043956
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	18	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	2054	34	0.0165531
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	17	4	0.235294
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	65	2	0.0307692
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	4	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	4	0	0
+LOXL1	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	2	0	0
+LOXL1	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	2	0	0
+LOXL1	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	2	0	0
+LOXL1	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	68	4	0.0588235
+LOXL1	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	2	0	0
+LOXL1	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	2	0	0
+LOXL1	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	1	0	0
+LOXL1	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	1	0	0
+LOXL1	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	27	2	0.0740741
+LOXL1	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	34	1	0.0294118
+LOXL1	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	66	1	0.0151515
+LOXL1	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	4	1	0.25
+LOXL1	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	55	2	0.0363636
+LOXL1	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	5	0	0
+LOXL1	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	67	5	0.0746269
+LOXL1	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	114	4	0.0350877
+LOXL1	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	770	13	0.0168831
+LOXL1	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	36	5	0.138889
+LOXL1	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	218	9	0.0412844
+LOXL1	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	13	0	0
+LOXL1	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	1	0	0
+LOXL1	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	3	1	0.333333
+LOXL1	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	2	0	0
+LOXL1	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	7	0	0
+LOXL1	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL1	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	60	10	0.166667
+LOXL1	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	1	1	1
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	4	1	0.25
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	1	0	0
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	21	5	0.238095
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	2628	620	0.235921
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	145	33	0.227586
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	10	1	0.1
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	1	0	0
+LOXL1	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	3	1	0.333333
+LOXL1	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	24	3	0.125
+LOXL1	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	2774	689	0.248378
+LOXL1	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	165	39	0.236364
+LOXL1	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	22	1	0.0454545
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	35	10	0.285714
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	1	0	0
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	13	3	0.230769
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	1754	545	0.310718
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	4	2	0.5
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	1	0	0
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	32	9	0.28125
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	18	6	0.333333
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	1774	605	0.341037
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	7	2	0.285714
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	4	1	0.25
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	1	0	0
+LOXL1	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	4	1	0.25
+LOXL1	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	19	2	0.105263
+LOXL1	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	7	0	0
+LOXL1	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	10	0	0
+LOXL1	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOXL1	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	4	1	0.25
+LOXL1	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	2	2	1
+LOXL1	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	8	1	0.125
+LOXL1	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	7	1	0.142857
+LOXL1	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	2	0	0
+LOXL1	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL1	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	7	0	0
+LOXL1	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	7	0	0
+LOXL1	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	1	0	0
+LOXL1	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	2	0	0
+LOXL1	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOXL1	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOXL1	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	9	0	0
+LOXL1	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOXL1	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL1	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	8	0	0
+LOXL1	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOXL1	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL1	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL1	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	1	0	0
+LOXL1	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL1	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL1	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL1	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	2	0	0
+LOXL1	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	1	0	0
+LOXL1	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOXL1	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	1	0	0
+LOXL1	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL1	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	4	0	0
+LOXL1	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL1	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	2	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	3	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	1	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	4	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	4	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	1	1	1
+LOXL1	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	1	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	2	1	0.5
+LOXL1	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	1	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	3	1	0.333333
+LOXL1	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	2	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL1	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL1	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	16	4	0.25
+LOXL1	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL1	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	1	0	0
+LOXL1	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	12	0	0
+LOXL1	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	2	0	0
+LOXL1	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	5	1	0.2
+LOXL1	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	8	2	0.25
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	7	1	0.142857
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	9	1	0.111111
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	34	2	0.0588235
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	132	10	0.0757576
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	47	11	0.234043
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	12	0	0
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	2	1	0.5
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	241	24	0.0995851
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	16	6	0.375
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	44	5	0.113636
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	235	13	0.0553191
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	852	98	0.115023
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	357	88	0.246499
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	116	20	0.172414
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	28	5	0.178571
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	396	34	0.0858586
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	2	0	0
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	1	0	0
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	30	0	0
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	44	9	0.204545
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	19	5	0.263158
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	7	0	0
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	3	2	0.666667
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	34	6	0.176471
+LOXL1	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	4	1	0.25
+LOXL1	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	18	1	0.0555556
+LOXL1	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	34	3	0.0882353
+LOXL1	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	16	6	0.375
+LOXL1	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	9	1	0.111111
+LOXL1	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	18	2	0.111111
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	45	1	0.0222222
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	71	2	0.028169
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	21	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	2036	11	0.00540275
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	20	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	48	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	2	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	3	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	43	1	0.0232558
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	91	2	0.021978
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	18	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	2054	10	0.00486855
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	17	2	0.117647
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	65	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	4	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	4	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	2	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	2	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	2	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	68	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	2	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	2	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	1	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	1	0	0
+LOXL2	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	27	2	0.0740741
+LOXL2	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	34	1	0.0294118
+LOXL2	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	66	0	0
+LOXL2	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	4	0	0
+LOXL2	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	55	0	0
+LOXL2	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	5	0	0
+LOXL2	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	67	7	0.104478
+LOXL2	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	114	3	0.0263158
+LOXL2	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	770	4	0.00519481
+LOXL2	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	36	0	0
+LOXL2	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	218	2	0.00917431
+LOXL2	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	13	0	0
+LOXL2	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	1	0	0
+LOXL2	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	3	0	0
+LOXL2	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	2	0	0
+LOXL2	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	7	0	0
+LOXL2	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL2	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	60	1	0.0166667
+LOXL2	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	4	0	0
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	1	0	0
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	21	1	0.047619
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	2628	76	0.0289193
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	145	6	0.0413793
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	10	2	0.2
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	1	0	0
+LOXL2	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	3	0	0
+LOXL2	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	24	0	0
+LOXL2	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	2774	110	0.0396539
+LOXL2	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	165	6	0.0363636
+LOXL2	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	22	0	0
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	35	1	0.0285714
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	1	0	0
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	13	0	0
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	1754	43	0.0245154
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	4	0	0
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	1	0	0
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	32	1	0.03125
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	18	0	0
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	1774	53	0.029876
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	7	0	0
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	4	0	0
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	1	0	0
+LOXL2	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	4	0	0
+LOXL2	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	19	0	0
+LOXL2	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	7	0	0
+LOXL2	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	10	0	0
+LOXL2	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOXL2	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	4	0	0
+LOXL2	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL2	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	8	0	0
+LOXL2	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	7	0	0
+LOXL2	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	2	1	0.5
+LOXL2	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL2	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	7	1	0.142857
+LOXL2	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	7	0	0
+LOXL2	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	1	0	0
+LOXL2	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	2	0	0
+LOXL2	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	1	1	1
+LOXL2	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOXL2	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	9	0	0
+LOXL2	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOXL2	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL2	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	8	0	0
+LOXL2	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	3	1	0.333333
+LOXL2	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	2	1	0.5
+LOXL2	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL2	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	1	0	0
+LOXL2	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	2	1	0.5
+LOXL2	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL2	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL2	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	2	0	0
+LOXL2	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	1	0	0
+LOXL2	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOXL2	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	1	0	0
+LOXL2	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL2	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	4	0	0
+LOXL2	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL2	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	2	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	3	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	1	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	4	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	4	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	1	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	1	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	3	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	2	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	16	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	1	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	12	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	2	1	0.5
+LOXL2	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	5	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	8	1	0.125
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	7	3	0.428571
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	9	0	0
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	34	1	0.0294118
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	132	18	0.136364
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	47	7	0.148936
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	12	0	0
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	2	0	0
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	241	18	0.0746888
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	16	14	0.875
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	44	4	0.0909091
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	235	6	0.0255319
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	852	10	0.0117371
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	357	18	0.0504202
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	116	1	0.00862069
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	28	0	0
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	396	20	0.0505051
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	2	1	0.5
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	1	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	30	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	44	1	0.0227273
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	19	1	0.0526316
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	7	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	3	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	34	4	0.117647
+LOXL2	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	4	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	18	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	34	2	0.0588235
+LOXL2	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	16	1	0.0625
+LOXL2	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	9	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	18	1	0.0555556
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	45	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	71	1	0.0140845
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	21	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	2036	3	0.00147348
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	20	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	48	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	2	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	3	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	43	1	0.0232558
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	91	2	0.021978
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	18	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	2054	4	0.00194742
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	17	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	65	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	4	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	4	0	0
+LOXL3	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	2	0	0
+LOXL3	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	2	1	0.5
+LOXL3	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	2	0	0
+LOXL3	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	68	0	0
+LOXL3	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	2	0	0
+LOXL3	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	2	0	0
+LOXL3	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	1	0	0
+LOXL3	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	1	0	0
+LOXL3	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	27	0	0
+LOXL3	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	34	0	0
+LOXL3	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	66	1	0.0151515
+LOXL3	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	4	0	0
+LOXL3	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	55	0	0
+LOXL3	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	5	0	0
+LOXL3	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	67	0	0
+LOXL3	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	114	1	0.00877193
+LOXL3	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	770	0	0
+LOXL3	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	36	0	0
+LOXL3	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	218	0	0
+LOXL3	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	13	0	0
+LOXL3	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	1	0	0
+LOXL3	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	3	0	0
+LOXL3	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	2	0	0
+LOXL3	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	7	0	0
+LOXL3	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	2	1	0.5
+LOXL3	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	60	0	0
+LOXL3	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	4	0	0
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	1	1	1
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	21	0	0
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	2628	8	0.00304414
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	145	0	0
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	10	0	0
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	1	0	0
+LOXL3	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	3	0	0
+LOXL3	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	24	0	0
+LOXL3	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	2774	11	0.00396539
+LOXL3	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	165	3	0.0181818
+LOXL3	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	22	0	0
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	35	0	0
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	1	1	1
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	13	0	0
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	1754	5	0.00285063
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	4	0	0
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	1	0	0
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	32	0	0
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	18	0	0
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	1774	8	0.00450958
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	7	0	0
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	4	0	0
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	1	0	0
+LOXL3	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	4	0	0
+LOXL3	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	19	0	0
+LOXL3	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	7	0	0
+LOXL3	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	10	0	0
+LOXL3	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOXL3	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	4	0	0
+LOXL3	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL3	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	8	0	0
+LOXL3	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	7	0	0
+LOXL3	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	2	0	0
+LOXL3	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL3	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	7	0	0
+LOXL3	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	7	0	0
+LOXL3	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	1	0	0
+LOXL3	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	2	0	0
+LOXL3	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOXL3	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOXL3	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	9	0	0
+LOXL3	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOXL3	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL3	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	8	0	0
+LOXL3	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOXL3	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL3	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL3	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	1	0	0
+LOXL3	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL3	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL3	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL3	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	2	0	0
+LOXL3	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	1	0	0
+LOXL3	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOXL3	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	1	0	0
+LOXL3	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	2	1	0.5
+LOXL3	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	4	0	0
+LOXL3	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL3	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	2	0	0
+LOXL3	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	3	0	0
+LOXL3	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL3	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	1	1	1
+LOXL3	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	4	0	0
+LOXL3	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOXL3	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	4	0	0
+LOXL3	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	1	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	1	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	3	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	2	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	1	1	1
+LOXL3	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL3	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	16	1	0.0625
+LOXL3	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL3	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	1	0	0
+LOXL3	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	12	0	0
+LOXL3	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	2	1	0.5
+LOXL3	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	5	0	0
+LOXL3	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	8	1	0.125
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	7	0	0
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	9	0	0
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	34	0	0
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	132	1	0.00757576
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	47	2	0.0425532
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	12	0	0
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	2	0	0
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	241	1	0.00414938
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	16	1	0.0625
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	44	2	0.0454545
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	235	1	0.00425532
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	852	6	0.00704225
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	357	8	0.022409
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	116	0	0
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	28	0	0
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	396	2	0.00505051
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	2	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	1	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	30	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	44	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	19	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	7	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	3	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	34	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	4	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	18	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	34	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	16	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	9	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	18	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	45	12	0.266667
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	71	1	0.0140845
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	21	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	2036	47	0.0230845
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	20	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	48	1	0.0208333
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	2	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	3	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	43	11	0.255814
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	91	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	18	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	2054	42	0.0204479
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	17	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	65	4	0.0615385
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	4	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	4	0	0
+LOXL4	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	2	0	0
+LOXL4	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	2	0	0
+LOXL4	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	2	0	0
+LOXL4	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	68	4	0.0588235
+LOXL4	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	2	0	0
+LOXL4	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	2	0	0
+LOXL4	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	1	0	0
+LOXL4	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	1	1	1
+LOXL4	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	27	2	0.0740741
+LOXL4	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	34	0	0
+LOXL4	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	66	2	0.030303
+LOXL4	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	4	1	0.25
+LOXL4	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	55	2	0.0363636
+LOXL4	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	5	0	0
+LOXL4	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	67	3	0.0447761
+LOXL4	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	114	1	0.00877193
+LOXL4	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	770	15	0.0194805
+LOXL4	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	36	2	0.0555556
+LOXL4	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	218	4	0.0183486
+LOXL4	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	13	0	0
+LOXL4	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	1	0	0
+LOXL4	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	3	0	0
+LOXL4	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	2	0	0
+LOXL4	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	7	0	0
+LOXL4	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL4	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	60	0	0
+LOXL4	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	4	0	0
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	1	0	0
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	21	1	0.047619
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	2628	18	0.00684932
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	145	1	0.00689655
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	10	0	0
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	1	0	0
+LOXL4	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	3	0	0
+LOXL4	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	24	1	0.0416667
+LOXL4	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	2774	14	0.00504686
+LOXL4	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	165	2	0.0121212
+LOXL4	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	22	0	0
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	35	2	0.0571429
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	1	0	0
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	13	1	0.0769231
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	1754	27	0.0153934
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	4	0	0
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	1	0	0
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	32	1	0.03125
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	18	1	0.0555556
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	1774	27	0.0152198
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	7	0	0
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	4	0	0
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	1	0	0
+LOXL4	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	4	0	0
+LOXL4	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	19	0	0
+LOXL4	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	7	0	0
+LOXL4	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	10	1	0.1
+LOXL4	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOXL4	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	4	0	0
+LOXL4	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL4	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	8	0	0
+LOXL4	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	7	0	0
+LOXL4	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	2	0	0
+LOXL4	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL4	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	7	0	0
+LOXL4	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	7	0	0
+LOXL4	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	1	0	0
+LOXL4	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	2	0	0
+LOXL4	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOXL4	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOXL4	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	9	0	0
+LOXL4	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	1	0	0
+LOXL4	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL4	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	8	0	0
+LOXL4	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	3	0	0
+LOXL4	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL4	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL4	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	1	0	0
+LOXL4	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	2	0	0
+LOXL4	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL4	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL4	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	2	0	0
+LOXL4	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	1	0	0
+LOXL4	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOXL4	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	1	0	0
+LOXL4	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL4	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	4	0	0
+LOXL4	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL4	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	2	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	3	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	1	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	4	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	2	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	4	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	1	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	1	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	2	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	1	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	3	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	2	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	2	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	1	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	1	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	16	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	1	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	1	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	12	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	2	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	5	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	8	0	0
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	7	0	0
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	9	0	0
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	34	0	0
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	132	11	0.0833333
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	47	1	0.0212766
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	12	0	0
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	2	1	0.5
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	241	3	0.0124481
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	16	2	0.125
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	44	1	0.0227273
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	235	0	0
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	852	76	0.0892019
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	357	11	0.0308123
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	116	0	0
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	28	2	0.0714286
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	396	28	0.0707071
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	2	1	0.5
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	1	0	0
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	30	1	0.0333333
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	44	1	0.0227273
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	19	1	0.0526316
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	7	0	0
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	3	0	0
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	34	1	0.0294118
+LOXL4	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	4	0	0
+LOXL4	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	18	0	0
+LOXL4	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	34	4	0.117647
+LOXL4	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	16	0	0
+LOXL4	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	9	0	0
+LOXL4	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	18	0	0

@@ -1,0 +1,291 @@
+gene	donor_id	sample_id	development_stage	sex	cell_type	n_cells	n_detected	detection_fraction
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	21	0	0
+LOX	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	2225	51	0.0229213
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cortical thymic epithelial cell	18	0	0
+LOX	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	2278	55	0.024144
+LOX	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	2	0	0
+LOX	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	74	7	0.0945946
+LOX	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	4	0	0
+LOX	A45	A45_TH_45NM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	191	11	0.0575916
+LOX	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	1218	76	0.0623974
+LOX	A45	A45_TH_TOT_5GEX	15-19 year-old	male	medullary thymic epithelial cell	13	0	0
+LOX	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cortical thymic epithelial cell	60	1	0.0166667
+LOX	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	medullary thymic epithelial cell	3	0	0
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	cortical thymic epithelial cell	2628	53	0.0201674
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	epithelial cell of thymus	4	0	0
+LOX	C40	C40_TH_TOT_1	organogenesis stage	female	medullary thymic epithelial cell	178	9	0.0505618
+LOX	C40	C40_TH_TOT_2	organogenesis stage	female	cortical thymic epithelial cell	2774	50	0.0180245
+LOX	C40	C40_TH_TOT_2	organogenesis stage	female	epithelial cell of thymus	3	0	0
+LOX	C40	C40_TH_TOT_2	organogenesis stage	female	medullary thymic epithelial cell	211	5	0.0236967
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	cortical thymic epithelial cell	1754	47	0.0267959
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	epithelial cell of thymus	35	0	0
+LOX	C41	C41_TH_TOT_1	organogenesis stage	male	medullary thymic epithelial cell	19	0	0
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	cortical thymic epithelial cell	1774	31	0.0174746
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	epithelial cell of thymus	32	0	0
+LOX	C41	C41_TH_TOT_2	organogenesis stage	male	medullary thymic epithelial cell	30	2	0.0666667
+LOX	F21	F21_TH_45N	16th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOX	F21	F21_TH_45N	16th week post-fertilization stage	male	medullary thymic epithelial cell	40	0	0
+LOX	F22	F22_TH_TOT	10th week post-fertilization stage	female	cortical thymic epithelial cell	8	0	0
+LOX	F22	F22_TH_TOT	10th week post-fertilization stage	female	medullary thymic epithelial cell	9	0	0
+LOX	F30	F30_TH_45N	15th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOX	F30	F30_TH_45N	15th week post-fertilization stage	male	medullary thymic epithelial cell	13	1	0.0769231
+LOX	F38	F38_TH_45N_1	13th week post-fertilization stage	male	medullary thymic epithelial cell	12	0	0
+LOX	F38	F38_TH_45N_2	13th week post-fertilization stage	male	medullary thymic epithelial cell	13	0	0
+LOX	F41	F41_TH_45N	17th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOX	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	7	1	0.142857
+LOX	F45	F45_TH_45N	12th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOX	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	medullary thymic epithelial cell	9	0	0
+LOX	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cortical thymic epithelial cell	3	0	0
+LOX	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	medullary thymic epithelial cell	6	0	0
+LOX	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cortical thymic epithelial cell	4	0	0
+LOX	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	medullary thymic epithelial cell	3	0	0
+LOX	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOX	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOX	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cortical thymic epithelial cell	1	0	0
+LOX	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	medullary thymic epithelial cell	5	0	0
+LOX	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cortical thymic epithelial cell	2	0	0
+LOX	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	medullary thymic epithelial cell	3	0	0
+LOX	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cortical thymic epithelial cell	16	0	0
+LOX	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	medullary thymic epithelial cell	15	0	0
+LOX	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cortical thymic epithelial cell	5	0	0
+LOX	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	medullary thymic epithelial cell	10	0	0
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cortical thymic epithelial cell	34	1	0.0294118
+LOX	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	450	36	0.08
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cortical thymic epithelial cell	235	0	0
+LOX	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	medullary thymic epithelial cell	1809	46	0.0254284
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cortical thymic epithelial cell	30	0	0
+LOX	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	medullary thymic epithelial cell	110	5	0.0454545
+LOX	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cortical thymic epithelial cell	18	0	0
+LOX	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	medullary thymic epithelial cell	81	3	0.037037
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	21	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	2225	46	0.0206742
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cortical thymic epithelial cell	18	0	0
+LOXL1	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	2278	44	0.0193152
+LOXL1	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	2	0	0
+LOXL1	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	74	4	0.0540541
+LOXL1	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	4	0	0
+LOXL1	A45	A45_TH_45NM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	191	7	0.0366492
+LOXL1	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	1218	36	0.0295567
+LOXL1	A45	A45_TH_TOT_5GEX	15-19 year-old	male	medullary thymic epithelial cell	13	1	0.0769231
+LOXL1	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cortical thymic epithelial cell	60	10	0.166667
+LOXL1	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	medullary thymic epithelial cell	3	1	0.333333
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	cortical thymic epithelial cell	2628	620	0.235921
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	epithelial cell of thymus	4	1	0.25
+LOXL1	C40	C40_TH_TOT_1	organogenesis stage	female	medullary thymic epithelial cell	178	39	0.219101
+LOXL1	C40	C40_TH_TOT_2	organogenesis stage	female	cortical thymic epithelial cell	2774	689	0.248378
+LOXL1	C40	C40_TH_TOT_2	organogenesis stage	female	epithelial cell of thymus	3	1	0.333333
+LOXL1	C40	C40_TH_TOT_2	organogenesis stage	female	medullary thymic epithelial cell	211	43	0.203791
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	cortical thymic epithelial cell	1754	545	0.310718
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	epithelial cell of thymus	35	10	0.285714
+LOXL1	C41	C41_TH_TOT_1	organogenesis stage	male	medullary thymic epithelial cell	19	5	0.263158
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	cortical thymic epithelial cell	1774	605	0.341037
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	epithelial cell of thymus	32	9	0.28125
+LOXL1	C41	C41_TH_TOT_2	organogenesis stage	male	medullary thymic epithelial cell	30	9	0.3
+LOXL1	F21	F21_TH_45N	16th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOXL1	F21	F21_TH_45N	16th week post-fertilization stage	male	medullary thymic epithelial cell	40	4	0.1
+LOXL1	F22	F22_TH_TOT	10th week post-fertilization stage	female	cortical thymic epithelial cell	8	1	0.125
+LOXL1	F22	F22_TH_TOT	10th week post-fertilization stage	female	medullary thymic epithelial cell	9	3	0.333333
+LOXL1	F30	F30_TH_45N	15th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOXL1	F30	F30_TH_45N	15th week post-fertilization stage	male	medullary thymic epithelial cell	13	0	0
+LOXL1	F38	F38_TH_45N_1	13th week post-fertilization stage	male	medullary thymic epithelial cell	12	0	0
+LOXL1	F38	F38_TH_45N_2	13th week post-fertilization stage	male	medullary thymic epithelial cell	13	0	0
+LOXL1	F41	F41_TH_45N	17th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOXL1	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	7	0	0
+LOXL1	F45	F45_TH_45N	12th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOXL1	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	medullary thymic epithelial cell	9	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cortical thymic epithelial cell	3	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	medullary thymic epithelial cell	6	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cortical thymic epithelial cell	4	0	0
+LOXL1	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	medullary thymic epithelial cell	3	1	0.333333
+LOXL1	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cortical thymic epithelial cell	1	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	medullary thymic epithelial cell	5	2	0.4
+LOXL1	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cortical thymic epithelial cell	2	0	0
+LOXL1	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	medullary thymic epithelial cell	3	0	0
+LOXL1	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cortical thymic epithelial cell	16	4	0.25
+LOXL1	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	medullary thymic epithelial cell	15	0	0
+LOXL1	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cortical thymic epithelial cell	5	1	0.2
+LOXL1	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	medullary thymic epithelial cell	10	2	0.2
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cortical thymic epithelial cell	34	2	0.0588235
+LOXL1	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	450	48	0.106667
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cortical thymic epithelial cell	235	13	0.0553191
+LOXL1	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	medullary thymic epithelial cell	1809	256	0.141515
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cortical thymic epithelial cell	30	0	0
+LOXL1	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	medullary thymic epithelial cell	110	22	0.2
+LOXL1	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cortical thymic epithelial cell	18	1	0.0555556
+LOXL1	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	medullary thymic epithelial cell	81	13	0.160494
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	21	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	2225	14	0.00629213
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cortical thymic epithelial cell	18	0	0
+LOXL2	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	2278	15	0.00658472
+LOXL2	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	2	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	74	0	0
+LOXL2	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	4	0	0
+LOXL2	A45	A45_TH_45NM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	191	3	0.0157068
+LOXL2	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	1218	16	0.0131363
+LOXL2	A45	A45_TH_TOT_5GEX	15-19 year-old	male	medullary thymic epithelial cell	13	0	0
+LOXL2	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cortical thymic epithelial cell	60	1	0.0166667
+LOXL2	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	medullary thymic epithelial cell	3	0	0
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	cortical thymic epithelial cell	2628	76	0.0289193
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	epithelial cell of thymus	4	0	0
+LOXL2	C40	C40_TH_TOT_1	organogenesis stage	female	medullary thymic epithelial cell	178	9	0.0505618
+LOXL2	C40	C40_TH_TOT_2	organogenesis stage	female	cortical thymic epithelial cell	2774	110	0.0396539
+LOXL2	C40	C40_TH_TOT_2	organogenesis stage	female	epithelial cell of thymus	3	0	0
+LOXL2	C40	C40_TH_TOT_2	organogenesis stage	female	medullary thymic epithelial cell	211	6	0.028436
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	cortical thymic epithelial cell	1754	43	0.0245154
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	epithelial cell of thymus	35	1	0.0285714
+LOXL2	C41	C41_TH_TOT_1	organogenesis stage	male	medullary thymic epithelial cell	19	0	0
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	cortical thymic epithelial cell	1774	53	0.029876
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	epithelial cell of thymus	32	1	0.03125
+LOXL2	C41	C41_TH_TOT_2	organogenesis stage	male	medullary thymic epithelial cell	30	0	0
+LOXL2	F21	F21_TH_45N	16th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOXL2	F21	F21_TH_45N	16th week post-fertilization stage	male	medullary thymic epithelial cell	40	0	0
+LOXL2	F22	F22_TH_TOT	10th week post-fertilization stage	female	cortical thymic epithelial cell	8	0	0
+LOXL2	F22	F22_TH_TOT	10th week post-fertilization stage	female	medullary thymic epithelial cell	9	0	0
+LOXL2	F30	F30_TH_45N	15th week post-fertilization stage	male	cortical thymic epithelial cell	7	1	0.142857
+LOXL2	F30	F30_TH_45N	15th week post-fertilization stage	male	medullary thymic epithelial cell	13	1	0.0769231
+LOXL2	F38	F38_TH_45N_1	13th week post-fertilization stage	male	medullary thymic epithelial cell	12	1	0.0833333
+LOXL2	F38	F38_TH_45N_2	13th week post-fertilization stage	male	medullary thymic epithelial cell	13	1	0.0769231
+LOXL2	F41	F41_TH_45N	17th week post-fertilization stage	female	medullary thymic epithelial cell	4	1	0.25
+LOXL2	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	7	1	0.142857
+LOXL2	F45	F45_TH_45N	12th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOXL2	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	medullary thymic epithelial cell	9	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cortical thymic epithelial cell	3	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	medullary thymic epithelial cell	6	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cortical thymic epithelial cell	4	0	0
+LOXL2	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	medullary thymic epithelial cell	3	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cortical thymic epithelial cell	1	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	medullary thymic epithelial cell	5	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cortical thymic epithelial cell	2	0	0
+LOXL2	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	medullary thymic epithelial cell	3	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cortical thymic epithelial cell	16	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	medullary thymic epithelial cell	15	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cortical thymic epithelial cell	5	0	0
+LOXL2	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	medullary thymic epithelial cell	10	2	0.2
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cortical thymic epithelial cell	34	1	0.0294118
+LOXL2	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	450	46	0.102222
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cortical thymic epithelial cell	235	6	0.0255319
+LOXL2	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	medullary thymic epithelial cell	1809	67	0.037037
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cortical thymic epithelial cell	30	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	medullary thymic epithelial cell	110	7	0.0636364
+LOXL2	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cortical thymic epithelial cell	18	0	0
+LOXL2	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	medullary thymic epithelial cell	81	4	0.0493827
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	21	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	2225	4	0.00179775
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cortical thymic epithelial cell	18	0	0
+LOXL3	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	2278	7	0.00307287
+LOXL3	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	2	0	0
+LOXL3	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	74	1	0.0135135
+LOXL3	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	4	0	0
+LOXL3	A45	A45_TH_45NM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	191	1	0.0052356
+LOXL3	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	1218	1	0.000821018
+LOXL3	A45	A45_TH_TOT_5GEX	15-19 year-old	male	medullary thymic epithelial cell	13	0	0
+LOXL3	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cortical thymic epithelial cell	60	0	0
+LOXL3	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	medullary thymic epithelial cell	3	1	0.333333
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	cortical thymic epithelial cell	2628	8	0.00304414
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	epithelial cell of thymus	4	0	0
+LOXL3	C40	C40_TH_TOT_1	organogenesis stage	female	medullary thymic epithelial cell	178	1	0.00561798
+LOXL3	C40	C40_TH_TOT_2	organogenesis stage	female	cortical thymic epithelial cell	2774	11	0.00396539
+LOXL3	C40	C40_TH_TOT_2	organogenesis stage	female	epithelial cell of thymus	3	0	0
+LOXL3	C40	C40_TH_TOT_2	organogenesis stage	female	medullary thymic epithelial cell	211	3	0.014218
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	cortical thymic epithelial cell	1754	5	0.00285063
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	epithelial cell of thymus	35	0	0
+LOXL3	C41	C41_TH_TOT_1	organogenesis stage	male	medullary thymic epithelial cell	19	1	0.0526316
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	cortical thymic epithelial cell	1774	8	0.00450958
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	epithelial cell of thymus	32	0	0
+LOXL3	C41	C41_TH_TOT_2	organogenesis stage	male	medullary thymic epithelial cell	30	0	0
+LOXL3	F21	F21_TH_45N	16th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOXL3	F21	F21_TH_45N	16th week post-fertilization stage	male	medullary thymic epithelial cell	40	0	0
+LOXL3	F22	F22_TH_TOT	10th week post-fertilization stage	female	cortical thymic epithelial cell	8	0	0
+LOXL3	F22	F22_TH_TOT	10th week post-fertilization stage	female	medullary thymic epithelial cell	9	0	0
+LOXL3	F30	F30_TH_45N	15th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOXL3	F30	F30_TH_45N	15th week post-fertilization stage	male	medullary thymic epithelial cell	13	0	0
+LOXL3	F38	F38_TH_45N_1	13th week post-fertilization stage	male	medullary thymic epithelial cell	12	0	0
+LOXL3	F38	F38_TH_45N_2	13th week post-fertilization stage	male	medullary thymic epithelial cell	13	0	0
+LOXL3	F41	F41_TH_45N	17th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOXL3	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	7	0	0
+LOXL3	F45	F45_TH_45N	12th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOXL3	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	medullary thymic epithelial cell	9	1	0.111111
+LOXL3	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cortical thymic epithelial cell	3	0	0
+LOXL3	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	medullary thymic epithelial cell	6	1	0.166667
+LOXL3	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cortical thymic epithelial cell	4	0	0
+LOXL3	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	medullary thymic epithelial cell	3	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cortical thymic epithelial cell	1	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	medullary thymic epithelial cell	5	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cortical thymic epithelial cell	2	0	0
+LOXL3	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	medullary thymic epithelial cell	3	1	0.333333
+LOXL3	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cortical thymic epithelial cell	16	1	0.0625
+LOXL3	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	medullary thymic epithelial cell	15	0	0
+LOXL3	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cortical thymic epithelial cell	5	0	0
+LOXL3	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	medullary thymic epithelial cell	10	2	0.2
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cortical thymic epithelial cell	34	0	0
+LOXL3	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	450	4	0.00888889
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cortical thymic epithelial cell	235	1	0.00425532
+LOXL3	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	medullary thymic epithelial cell	1809	19	0.010503
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cortical thymic epithelial cell	30	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	medullary thymic epithelial cell	110	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cortical thymic epithelial cell	18	0	0
+LOXL3	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	medullary thymic epithelial cell	81	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	21	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	2225	61	0.0274157
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cortical thymic epithelial cell	18	0	0
+LOXL4	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	2278	57	0.0250219
+LOXL4	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cortical thymic epithelial cell	2	0	0
+LOXL4	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	medullary thymic epithelial cell	74	4	0.0540541
+LOXL4	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	medullary thymic epithelial cell	4	1	0.25
+LOXL4	A45	A45_TH_45NM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	191	7	0.0366492
+LOXL4	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	medullary thymic epithelial cell	1218	25	0.0205255
+LOXL4	A45	A45_TH_TOT_5GEX	15-19 year-old	male	medullary thymic epithelial cell	13	0	0
+LOXL4	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cortical thymic epithelial cell	60	0	0
+LOXL4	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	medullary thymic epithelial cell	3	0	0
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	cortical thymic epithelial cell	2628	18	0.00684932
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	epithelial cell of thymus	4	0	0
+LOXL4	C40	C40_TH_TOT_1	organogenesis stage	female	medullary thymic epithelial cell	178	2	0.011236
+LOXL4	C40	C40_TH_TOT_2	organogenesis stage	female	cortical thymic epithelial cell	2774	14	0.00504686
+LOXL4	C40	C40_TH_TOT_2	organogenesis stage	female	epithelial cell of thymus	3	0	0
+LOXL4	C40	C40_TH_TOT_2	organogenesis stage	female	medullary thymic epithelial cell	211	3	0.014218
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	cortical thymic epithelial cell	1754	27	0.0153934
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	epithelial cell of thymus	35	2	0.0571429
+LOXL4	C41	C41_TH_TOT_1	organogenesis stage	male	medullary thymic epithelial cell	19	1	0.0526316
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	cortical thymic epithelial cell	1774	27	0.0152198
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	epithelial cell of thymus	32	1	0.03125
+LOXL4	C41	C41_TH_TOT_2	organogenesis stage	male	medullary thymic epithelial cell	30	1	0.0333333
+LOXL4	F21	F21_TH_45N	16th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOXL4	F21	F21_TH_45N	16th week post-fertilization stage	male	medullary thymic epithelial cell	40	1	0.025
+LOXL4	F22	F22_TH_TOT	10th week post-fertilization stage	female	cortical thymic epithelial cell	8	0	0
+LOXL4	F22	F22_TH_TOT	10th week post-fertilization stage	female	medullary thymic epithelial cell	9	0	0
+LOXL4	F30	F30_TH_45N	15th week post-fertilization stage	male	cortical thymic epithelial cell	7	0	0
+LOXL4	F30	F30_TH_45N	15th week post-fertilization stage	male	medullary thymic epithelial cell	13	0	0
+LOXL4	F38	F38_TH_45N_1	13th week post-fertilization stage	male	medullary thymic epithelial cell	12	0	0
+LOXL4	F38	F38_TH_45N_2	13th week post-fertilization stage	male	medullary thymic epithelial cell	13	0	0
+LOXL4	F41	F41_TH_45N	17th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOXL4	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	7	0	0
+LOXL4	F45	F45_TH_45N	12th week post-fertilization stage	female	medullary thymic epithelial cell	4	0	0
+LOXL4	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	medullary thymic epithelial cell	9	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cortical thymic epithelial cell	3	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	medullary thymic epithelial cell	6	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cortical thymic epithelial cell	4	0	0
+LOXL4	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	medullary thymic epithelial cell	3	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	medullary thymic epithelial cell	1	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cortical thymic epithelial cell	1	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	medullary thymic epithelial cell	5	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cortical thymic epithelial cell	2	0	0
+LOXL4	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	medullary thymic epithelial cell	3	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cortical thymic epithelial cell	16	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	medullary thymic epithelial cell	15	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cortical thymic epithelial cell	5	0	0
+LOXL4	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	medullary thymic epithelial cell	10	0	0
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cortical thymic epithelial cell	34	0	0
+LOXL4	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	medullary thymic epithelial cell	450	16	0.0355556
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cortical thymic epithelial cell	235	0	0
+LOXL4	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	medullary thymic epithelial cell	1809	120	0.066335
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cortical thymic epithelial cell	30	1	0.0333333
+LOXL4	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	medullary thymic epithelial cell	110	4	0.0363636
+LOXL4	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cortical thymic epithelial cell	18	0	0
+LOXL4	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	medullary thymic epithelial cell	81	4	0.0493827

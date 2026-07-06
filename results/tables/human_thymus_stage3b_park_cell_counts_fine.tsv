@@ -1,0 +1,157 @@
+donor_id	sample_id	development_stage	sex	celltypes	n_cells
+A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	45
+A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	71
+A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	21
+A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	2036
+A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	20
+A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	48
+A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	2
+A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	3
+A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	43
+A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	91
+A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	18
+A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	2054
+A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	17
+A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	65
+A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	4
+A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	4
+A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	2
+A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	2
+A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	2
+A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	68
+A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	2
+A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	2
+A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	1
+A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	1
+A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	27
+A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	34
+A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	66
+A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	4
+A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	55
+A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	5
+A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	67
+A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	114
+A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	770
+A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	36
+A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	218
+A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	13
+A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	1
+A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	3
+A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	2
+A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	7
+C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	2
+C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	60
+C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	1
+C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	4
+C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	1
+C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	21
+C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	2628
+C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	145
+C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	10
+C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	1
+C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	3
+C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	24
+C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	2774
+C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	165
+C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	22
+C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	35
+C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	1
+C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	13
+C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	1754
+C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	4
+C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	1
+C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	32
+C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	18
+C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	1774
+C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	7
+C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	4
+C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	1
+F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	4
+F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	19
+F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	7
+F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	10
+F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	3
+F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	4
+F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	2
+F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	8
+F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	7
+F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	2
+F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	1
+F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	7
+F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	7
+F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	1
+F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	2
+F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	1
+F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	2
+F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	9
+F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	1
+F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	1
+F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	8
+F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	3
+F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	2
+F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	1
+F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	1
+F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	2
+F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	2
+F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	1
+F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	2
+F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	1
+F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	2
+F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	1
+F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	2
+F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	4
+F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	1
+F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	2
+F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	3
+F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	1
+F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	1
+F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	4
+F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	2
+F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	4
+F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	1
+F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	1
+F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	1
+F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	2
+F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	1
+F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	3
+F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	2
+F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	2
+F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	1
+F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	1
+F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	16
+F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	1
+F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	1
+F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	12
+F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	2
+F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	5
+F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	8
+F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	7
+F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	9
+F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	34
+F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	132
+F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	47
+F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	12
+F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	2
+F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	241
+T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	16
+T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	44
+T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	235
+T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	852
+T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	357
+T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	116
+T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	28
+T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	396
+T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	2
+T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	1
+T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	30
+T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	44
+T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	19
+T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	7
+T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	3
+T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	34
+T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	4
+T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	18
+T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	34
+T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	16
+T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	9
+T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	18

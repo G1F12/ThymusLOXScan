@@ -1,0 +1,6 @@
+gene	donor_id	sample_id	development_stage	sex	celltypes	n_cells	mean_value	median_value	nonzero_mean_value	matrix_used	value_semantics_label	not_generated_reason
+LOX										not_generated	not_generated	X and raw.X are present and target genes are available, but the H5AD does not provide enough local matrix annotation to label values as raw counts or normalized expression for mean-value summaries.
+LOXL1										not_generated	not_generated	X and raw.X are present and target genes are available, but the H5AD does not provide enough local matrix annotation to label values as raw counts or normalized expression for mean-value summaries.
+LOXL2										not_generated	not_generated	X and raw.X are present and target genes are available, but the H5AD does not provide enough local matrix annotation to label values as raw counts or normalized expression for mean-value summaries.
+LOXL3										not_generated	not_generated	X and raw.X are present and target genes are available, but the H5AD does not provide enough local matrix annotation to label values as raw counts or normalized expression for mean-value summaries.
+LOXL4										not_generated	not_generated	X and raw.X are present and target genes are available, but the H5AD does not provide enough local matrix annotation to label values as raw counts or normalized expression for mean-value summaries.

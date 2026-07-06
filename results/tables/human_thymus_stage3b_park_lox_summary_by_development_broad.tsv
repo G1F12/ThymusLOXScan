@@ -1,0 +1,116 @@
+gene	development_stage	cell_type	donor_count	sample_count	donor_sample_group_count	total_cells	median_detection_fraction	mean_detection_fraction	mean_value_summary	value_semantics_label
+LOX	10th week post-fertilization stage	cortical thymic epithelial cell	2	3	3	29	0	0	not_generated	not_generated
+LOX	10th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	34	0	0	not_generated	not_generated
+LOX	11th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	7	0	0	not_generated	not_generated
+LOX	11th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	9	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	3	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	medullary thymic epithelial cell	2	6	6	23	0	0	not_generated	not_generated
+LOX	13th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	25	0	0	not_generated	not_generated
+LOX	15-19 year-old	medullary thymic epithelial cell	1	3	3	1422	0.0575916	0.0399963	not_generated	not_generated
+LOX	15th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	13	0.0769231	0.0769231	not_generated	not_generated
+LOX	16th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOX	16th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	40	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	34	0.0294118	0.0294118	not_generated	not_generated
+LOX	17th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	461	0.08	0.0742857	not_generated	not_generated
+LOX	3-month-old stage	cortical thymic epithelial cell	1	3	3	283	0	0	not_generated	not_generated
+LOX	3-month-old stage	medullary thymic epithelial cell	1	3	3	2000	0.037037	0.0359733	not_generated	not_generated
+LOX	9th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	60	0.0166667	0.0166667	not_generated	not_generated
+LOX	9th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	3	0	0	not_generated	not_generated
+LOX	fourth decade stage	cortical thymic epithelial cell	1	3	3	41	0	0	not_generated	not_generated
+LOX	fourth decade stage	medullary thymic epithelial cell	1	4	4	4581	0.0235326	0.035415	not_generated	not_generated
+LOX	organogenesis stage	cortical thymic epithelial cell	2	4	4	8930	0.019096	0.0206156	not_generated	not_generated
+LOX	organogenesis stage	epithelial cell of thymus	2	4	4	74	0	0	not_generated	not_generated
+LOX	organogenesis stage	medullary thymic epithelial cell	2	4	4	438	0.0371293	0.0352313	not_generated	not_generated
+LOXL1	10th week post-fertilization stage	cortical thymic epithelial cell	2	3	3	29	0.2	0.191667	not_generated	not_generated
+LOXL1	10th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	34	0.2	0.177778	not_generated	not_generated
+LOXL1	11th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	7	0	0	not_generated	not_generated
+LOXL1	11th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	9	0.166666	0.166666	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	3	0	0	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	medullary thymic epithelial cell	2	6	6	23	0	0.0666667	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	25	0	0	not_generated	not_generated
+LOXL1	15-19 year-old	medullary thymic epithelial cell	1	3	3	1422	0.0366492	0.0477097	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	13	0	0	not_generated	not_generated
+LOXL1	16th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOXL1	16th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	40	0.1	0.1	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	34	0.0588235	0.0588235	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	461	0	0.0355557	not_generated	not_generated
+LOXL1	3-month-old stage	cortical thymic epithelial cell	1	3	3	283	0.0553191	0.0369582	not_generated	not_generated
+LOXL1	3-month-old stage	medullary thymic epithelial cell	1	3	3	2000	0.160494	0.167336	not_generated	not_generated
+LOXL1	9th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	60	0.166667	0.166667	not_generated	not_generated
+LOXL1	9th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	3	0.333333	0.333333	not_generated	not_generated
+LOXL1	fourth decade stage	cortical thymic epithelial cell	1	3	3	41	0	0	not_generated	not_generated
+LOXL1	fourth decade stage	medullary thymic epithelial cell	1	4	4	4581	0.0199947	0.0235109	not_generated	not_generated
+LOXL1	organogenesis stage	cortical thymic epithelial cell	2	4	4	8930	0.279548	0.284013	not_generated	not_generated
+LOXL1	organogenesis stage	epithelial cell of thymus	2	4	4	74	0.283482	0.287574	not_generated	not_generated
+LOXL1	organogenesis stage	medullary thymic epithelial cell	2	4	4	438	0.241129	0.246513	not_generated	not_generated
+LOXL2	10th week post-fertilization stage	cortical thymic epithelial cell	2	3	3	29	0	0	not_generated	not_generated
+LOXL2	10th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	34	0	0.0666667	not_generated	not_generated
+LOXL2	11th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	7	0	0	not_generated	not_generated
+LOXL2	11th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	9	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	3	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	medullary thymic epithelial cell	2	6	6	23	0	0	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	25	0.0801282	0.0801282	not_generated	not_generated
+LOXL2	15-19 year-old	medullary thymic epithelial cell	1	3	3	1422	0.0131363	0.00961437	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0.142857	0.142857	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	13	0.0769231	0.0769231	not_generated	not_generated
+LOXL2	16th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOXL2	16th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	40	0	0	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	34	0.0294118	0.0294118	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	461	0.142857	0.165026	not_generated	not_generated
+LOXL2	3-month-old stage	cortical thymic epithelial cell	1	3	3	283	0	0.00851063	not_generated	not_generated
+LOXL2	3-month-old stage	medullary thymic epithelial cell	1	3	3	2000	0.0493827	0.0500187	not_generated	not_generated
+LOXL2	9th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	60	0.0166667	0.0166667	not_generated	not_generated
+LOXL2	9th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	3	0	0	not_generated	not_generated
+LOXL2	fourth decade stage	cortical thymic epithelial cell	1	3	3	41	0	0	not_generated	not_generated
+LOXL2	fourth decade stage	medullary thymic epithelial cell	1	4	4	4581	0.00314606	0.00321921	not_generated	not_generated
+LOXL2	organogenesis stage	cortical thymic epithelial cell	2	4	4	8930	0.0293976	0.0307411	not_generated	not_generated
+LOXL2	organogenesis stage	epithelial cell of thymus	2	4	4	74	0.0142857	0.0149553	not_generated	not_generated
+LOXL2	organogenesis stage	medullary thymic epithelial cell	2	4	4	438	0.014218	0.0197494	not_generated	not_generated
+LOXL3	10th week post-fertilization stage	cortical thymic epithelial cell	2	3	3	29	0	0.0208333	not_generated	not_generated
+LOXL3	10th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	34	0	0.0666667	not_generated	not_generated
+LOXL3	11th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	7	0	0	not_generated	not_generated
+LOXL3	11th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	9	0.0833335	0.0833335	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	3	0	0	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	medullary thymic epithelial cell	2	6	6	23	0	0.074074	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	25	0	0	not_generated	not_generated
+LOXL3	15-19 year-old	medullary thymic epithelial cell	1	3	3	1422	0.000821018	0.00201887	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	13	0	0	not_generated	not_generated
+LOXL3	16th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOXL3	16th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	40	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	34	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	461	0	0.00296296	not_generated	not_generated
+LOXL3	3-month-old stage	cortical thymic epithelial cell	1	3	3	283	0	0.00141844	not_generated	not_generated
+LOXL3	3-month-old stage	medullary thymic epithelial cell	1	3	3	2000	0	0.003501	not_generated	not_generated
+LOXL3	9th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	60	0	0	not_generated	not_generated
+LOXL3	9th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	3	0.333333	0.333333	not_generated	not_generated
+LOXL3	fourth decade stage	cortical thymic epithelial cell	1	3	3	41	0	0	not_generated	not_generated
+LOXL3	fourth decade stage	medullary thymic epithelial cell	1	4	4	4581	0.00243531	0.00459603	not_generated	not_generated
+LOXL3	organogenesis stage	cortical thymic epithelial cell	2	4	4	8930	0.00350476	0.00359243	not_generated	not_generated
+LOXL3	organogenesis stage	epithelial cell of thymus	2	4	4	74	0	0	not_generated	not_generated
+LOXL3	organogenesis stage	medullary thymic epithelial cell	2	4	4	438	0.00991799	0.0181169	not_generated	not_generated
+LOXL4	10th week post-fertilization stage	cortical thymic epithelial cell	2	3	3	29	0	0	not_generated	not_generated
+LOXL4	10th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	34	0	0	not_generated	not_generated
+LOXL4	11th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	7	0	0	not_generated	not_generated
+LOXL4	11th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	9	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	cortical thymic epithelial cell	1	2	2	3	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	medullary thymic epithelial cell	2	6	6	23	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	medullary thymic epithelial cell	1	2	2	25	0	0	not_generated	not_generated
+LOXL4	15-19 year-old	medullary thymic epithelial cell	1	3	3	1422	0.0205255	0.0190582	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	13	0	0	not_generated	not_generated
+LOXL4	16th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	7	0	0	not_generated	not_generated
+LOXL4	16th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	40	0.025	0.025	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	34	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	medullary thymic epithelial cell	2	3	3	461	0	0.0118519	not_generated	not_generated
+LOXL4	3-month-old stage	cortical thymic epithelial cell	1	3	3	283	0	0.0111111	not_generated	not_generated
+LOXL4	3-month-old stage	medullary thymic epithelial cell	1	3	3	2000	0.0493827	0.0506938	not_generated	not_generated
+LOXL4	9th week post-fertilization stage	cortical thymic epithelial cell	1	1	1	60	0	0	not_generated	not_generated
+LOXL4	9th week post-fertilization stage	medullary thymic epithelial cell	1	1	1	3	0	0	not_generated	not_generated
+LOXL4	fourth decade stage	cortical thymic epithelial cell	1	3	3	41	0	0	not_generated	not_generated
+LOXL4	fourth decade stage	medullary thymic epithelial cell	1	4	4	4581	0.0407349	0.0891229	not_generated	not_generated
+LOXL4	organogenesis stage	cortical thymic epithelial cell	2	4	4	8930	0.0110346	0.0106273	not_generated	not_generated
+LOXL4	organogenesis stage	epithelial cell of thymus	2	4	4	74	0.015625	0.0220982	not_generated	not_generated
+LOXL4	organogenesis stage	medullary thymic epithelial cell	2	4	4	438	0.0237757	0.0278547	not_generated	not_generated

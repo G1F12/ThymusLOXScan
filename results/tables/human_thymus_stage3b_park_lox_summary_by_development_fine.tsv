@@ -1,0 +1,366 @@
+gene	development_stage	celltypes	donor_count	sample_count	donor_sample_group_count	total_cells	median_detection_fraction	mean_detection_fraction	mean_value_summary	value_semantics_label
+LOX	10th week post-fertilization stage	TEC(myo)	2	2	2	4	0	0	not_generated	not_generated
+LOX	10th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOX	10th week post-fertilization stage	cTEC	2	3	3	29	0	0	not_generated	not_generated
+LOX	10th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOX	10th week post-fertilization stage	mTEC(II)	1	1	1	1	0	0	not_generated	not_generated
+LOX	10th week post-fertilization stage	mcTEC	2	3	3	27	0	0	not_generated	not_generated
+LOX	11th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOX	11th week post-fertilization stage	cTEC	1	2	2	7	0	0	not_generated	not_generated
+LOX	11th week post-fertilization stage	mTEC(I)	1	2	2	2	0	0	not_generated	not_generated
+LOX	11th week post-fertilization stage	mTEC(IV)	1	1	1	1	0	0	not_generated	not_generated
+LOX	11th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	TEC(neuro)	2	3	3	5	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	cTEC	1	2	2	3	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	mTEC(I)	2	4	4	9	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	mTEC(II)	2	2	2	2	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	mcTEC	2	3	3	6	0	0	not_generated	not_generated
+LOX	13th week post-fertilization stage	TEC(myo)	1	2	2	2	0	0	not_generated	not_generated
+LOX	13th week post-fertilization stage	TEC(neuro)	1	2	2	3	0	0	not_generated	not_generated
+LOX	13th week post-fertilization stage	mTEC(I)	1	2	2	17	0	0	not_generated	not_generated
+LOX	13th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOX	15-19 year-old	TEC(myo)	1	2	2	94	0	0	not_generated	not_generated
+LOX	15-19 year-old	TEC(neuro)	1	3	3	149	0	0	not_generated	not_generated
+LOX	15-19 year-old	mTEC(I)	1	3	3	839	0.0151515	0.0258297	not_generated	not_generated
+LOX	15-19 year-old	mTEC(II)	1	3	3	42	0	0.00925927	not_generated	not_generated
+LOX	15-19 year-old	mTEC(III)	1	3	3	280	0.123853	0.10189	not_generated	not_generated
+LOX	15-19 year-old	mTEC(IV)	1	2	2	18	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	TEC(myo)	1	1	1	2	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	TEC(neuro)	1	1	1	1	1	1	not_generated	not_generated
+LOX	15th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	mTEC(I)	1	1	1	7	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOX	16th week post-fertilization stage	TEC(myo)	1	1	1	4	0	0	not_generated	not_generated
+LOX	16th week post-fertilization stage	TEC(neuro)	1	1	1	19	0	0	not_generated	not_generated
+LOX	16th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOX	16th week post-fertilization stage	mTEC(I)	1	1	1	10	0	0	not_generated	not_generated
+LOX	16th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOX	16th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	TEC(myo)	2	3	3	11	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	TEC(neuro)	2	2	2	11	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	cTEC	1	1	1	34	0.0294118	0.0294118	not_generated	not_generated
+LOX	17th week post-fertilization stage	mTEC(I)	2	2	2	133	0.068182	0.068182	not_generated	not_generated
+LOX	17th week post-fertilization stage	mTEC(II)	2	2	2	48	0.0106383	0.0106383	not_generated	not_generated
+LOX	17th week post-fertilization stage	mTEC(III)	1	1	1	12	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	mTEC(IV)	1	1	1	2	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	mcTEC	2	3	3	244	0.0705394	0.19018	not_generated	not_generated
+LOX	3-month-old stage	TEC(myo)	1	2	2	18	0	0	not_generated	not_generated
+LOX	3-month-old stage	TEC(neuro)	1	3	3	49	0	0	not_generated	not_generated
+LOX	3-month-old stage	cTEC	1	3	3	283	0	0	not_generated	not_generated
+LOX	3-month-old stage	mTEC(I)	1	3	3	930	0.0176056	0.0134443	not_generated	not_generated
+LOX	3-month-old stage	mTEC(II)	1	3	3	392	0.0526316	0.0694813	not_generated	not_generated
+LOX	3-month-old stage	mTEC(III)	1	3	3	132	0	0.00287356	not_generated	not_generated
+LOX	3-month-old stage	mTEC(IV)	1	2	2	31	0	0	not_generated	not_generated
+LOX	3-month-old stage	mcTEC	1	3	3	448	0.0555556	0.0639236	not_generated	not_generated
+LOX	9th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOX	9th week post-fertilization stage	cTEC	1	1	1	60	0.0166667	0.0166667	not_generated	not_generated
+LOX	9th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOX	fourth decade stage	TEC(myo)	1	3	3	90	0	0.00775193	not_generated	not_generated
+LOX	fourth decade stage	TEC(neuro)	1	3	3	164	0.0140845	0.0156838	not_generated	not_generated
+LOX	fourth decade stage	cTEC	1	3	3	41	0	0	not_generated	not_generated
+LOX	fourth decade stage	mTEC(I)	1	4	4	4160	0.0220118	0.0367411	not_generated	not_generated
+LOX	fourth decade stage	mTEC(II)	1	3	3	38	0	0.0196078	not_generated	not_generated
+LOX	fourth decade stage	mTEC(III)	1	3	3	114	0.0416667	0.0549146	not_generated	not_generated
+LOX	fourth decade stage	mTEC(IV)	1	2	2	6	0	0	not_generated	not_generated
+LOX	fourth decade stage	mcTEC	1	3	3	9	0	0	not_generated	not_generated
+LOX	organogenesis stage	Epi_GCM2	2	4	4	74	0	0	not_generated	not_generated
+LOX	organogenesis stage	TEC(myo)	2	2	2	2	0	0	not_generated	not_generated
+LOX	organogenesis stage	TEC(neuro)	2	4	4	76	0.0476191	0.0515873	not_generated	not_generated
+LOX	organogenesis stage	cTEC	2	4	4	8930	0.019096	0.0206156	not_generated	not_generated
+LOX	organogenesis stage	mTEC(II)	2	4	4	321	0.0060606	0.0133751	not_generated	not_generated
+LOX	organogenesis stage	mTEC(III)	2	4	4	37	0.05	0.059091	not_generated	not_generated
+LOX	organogenesis stage	mTEC(IV)	2	2	2	2	0	0	not_generated	not_generated
+LOXL1	10th week post-fertilization stage	TEC(myo)	2	2	2	4	0.5	0.5	not_generated	not_generated
+LOXL1	10th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	10th week post-fertilization stage	cTEC	2	3	3	29	0.2	0.191667	not_generated	not_generated
+LOXL1	10th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	10th week post-fertilization stage	mTEC(II)	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	10th week post-fertilization stage	mcTEC	2	3	3	27	0.142857	0.130952	not_generated	not_generated
+LOXL1	11th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOXL1	11th week post-fertilization stage	cTEC	1	2	2	7	0	0	not_generated	not_generated
+LOXL1	11th week post-fertilization stage	mTEC(I)	1	2	2	2	0.5	0.5	not_generated	not_generated
+LOXL1	11th week post-fertilization stage	mTEC(IV)	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	11th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	TEC(neuro)	2	3	3	5	0	0.166667	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	cTEC	1	2	2	3	0	0	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	mTEC(I)	2	4	4	9	0	0	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	mTEC(II)	2	2	2	2	0	0	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	mcTEC	2	3	3	6	0	0.111111	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	TEC(myo)	1	2	2	2	0	0	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	TEC(neuro)	1	2	2	3	0	0	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	mTEC(I)	1	2	2	17	0	0	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOXL1	15-19 year-old	TEC(myo)	1	2	2	94	0.0743505	0.0743505	not_generated	not_generated
+LOXL1	15-19 year-old	TEC(neuro)	1	3	3	149	0.0294118	0.0214998	not_generated	not_generated
+LOXL1	15-19 year-old	mTEC(I)	1	3	3	839	0.0168831	0.121789	not_generated	not_generated
+LOXL1	15-19 year-old	mTEC(II)	1	3	3	42	0.138889	0.12963	not_generated	not_generated
+LOXL1	15-19 year-old	mTEC(III)	1	3	3	280	0.0363636	0.0258827	not_generated	not_generated
+LOXL1	15-19 year-old	mTEC(IV)	1	2	2	18	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	TEC(myo)	1	1	1	2	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	mTEC(I)	1	1	1	7	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOXL1	16th week post-fertilization stage	TEC(myo)	1	1	1	4	0.25	0.25	not_generated	not_generated
+LOXL1	16th week post-fertilization stage	TEC(neuro)	1	1	1	19	0.105263	0.105263	not_generated	not_generated
+LOXL1	16th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL1	16th week post-fertilization stage	mTEC(I)	1	1	1	10	0	0	not_generated	not_generated
+LOXL1	16th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOXL1	16th week post-fertilization stage	mcTEC	1	1	1	4	0.25	0.25	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	TEC(myo)	2	3	3	11	0	0.047619	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	TEC(neuro)	2	2	2	11	0.0555555	0.0555555	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	cTEC	1	1	1	34	0.0588235	0.0588235	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	mTEC(I)	2	2	2	133	0.0378788	0.0378788	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	mTEC(II)	2	2	2	48	0.117022	0.117022	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	mTEC(III)	1	1	1	12	0	0	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	mTEC(IV)	1	1	1	2	0.5	0.5	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	mcTEC	2	3	3	244	0	0.033195	not_generated	not_generated
+LOXL1	3-month-old stage	TEC(myo)	1	2	2	18	0.1875	0.1875	not_generated	not_generated
+LOXL1	3-month-old stage	TEC(neuro)	1	3	3	49	0.113636	0.121212	not_generated	not_generated
+LOXL1	3-month-old stage	cTEC	1	3	3	283	0.0553191	0.0369582	not_generated	not_generated
+LOXL1	3-month-old stage	mTEC(I)	1	3	3	930	0.115023	0.135934	not_generated	not_generated
+LOXL1	3-month-old stage	mTEC(II)	1	3	3	392	0.263158	0.294886	not_generated	not_generated
+LOXL1	3-month-old stage	mTEC(III)	1	3	3	132	0.111111	0.0945083	not_generated	not_generated
+LOXL1	3-month-old stage	mTEC(IV)	1	2	2	31	0.422619	0.422619	not_generated	not_generated
+LOXL1	3-month-old stage	mcTEC	1	3	3	448	0.111111	0.12448	not_generated	not_generated
+LOXL1	9th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOXL1	9th week post-fertilization stage	cTEC	1	1	1	60	0.166667	0.166667	not_generated	not_generated
+LOXL1	9th week post-fertilization stage	mTEC(I)	1	1	1	1	1	1	not_generated	not_generated
+LOXL1	fourth decade stage	TEC(myo)	1	3	3	90	0	0	not_generated	not_generated
+LOXL1	fourth decade stage	TEC(neuro)	1	3	3	164	0.043956	0.0381262	not_generated	not_generated
+LOXL1	fourth decade stage	cTEC	1	3	3	41	0	0	not_generated	not_generated
+LOXL1	fourth decade stage	mTEC(I)	1	4	4	4160	0.0166263	0.023019	not_generated	not_generated
+LOXL1	fourth decade stage	mTEC(II)	1	3	3	38	0.235294	0.161765	not_generated	not_generated
+LOXL1	fourth decade stage	mTEC(III)	1	3	3	114	0.0307692	0.0241453	not_generated	not_generated
+LOXL1	fourth decade stage	mTEC(IV)	1	2	2	6	0	0	not_generated	not_generated
+LOXL1	fourth decade stage	mcTEC	1	3	3	9	0	0	not_generated	not_generated
+LOXL1	organogenesis stage	Epi_GCM2	2	4	4	74	0.283482	0.287574	not_generated	not_generated
+LOXL1	organogenesis stage	TEC(myo)	2	2	2	2	0	0	not_generated	not_generated
+LOXL1	organogenesis stage	TEC(neuro)	2	4	4	76	0.234432	0.231799	not_generated	not_generated
+LOXL1	organogenesis stage	cTEC	2	4	4	8930	0.279548	0.284013	not_generated	not_generated
+LOXL1	organogenesis stage	mTEC(II)	2	4	4	321	0.261039	0.312416	not_generated	not_generated
+LOXL1	organogenesis stage	mTEC(III)	2	4	4	37	0.0727273	0.0988636	not_generated	not_generated
+LOXL1	organogenesis stage	mTEC(IV)	2	2	2	2	0	0	not_generated	not_generated
+LOXL2	10th week post-fertilization stage	TEC(myo)	2	2	2	4	0.25	0.25	not_generated	not_generated
+LOXL2	10th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	10th week post-fertilization stage	cTEC	2	3	3	29	0	0	not_generated	not_generated
+LOXL2	10th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	10th week post-fertilization stage	mTEC(II)	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	10th week post-fertilization stage	mcTEC	2	3	3	27	0	0.0416667	not_generated	not_generated
+LOXL2	11th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOXL2	11th week post-fertilization stage	cTEC	1	2	2	7	0	0	not_generated	not_generated
+LOXL2	11th week post-fertilization stage	mTEC(I)	1	2	2	2	0	0	not_generated	not_generated
+LOXL2	11th week post-fertilization stage	mTEC(IV)	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	11th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	TEC(neuro)	2	3	3	5	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	cTEC	1	2	2	3	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	mTEC(I)	2	4	4	9	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	mTEC(II)	2	2	2	2	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	mcTEC	2	3	3	6	0	0	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	TEC(myo)	1	2	2	2	0.5	0.5	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	TEC(neuro)	1	2	2	3	0	0	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	mTEC(I)	1	2	2	17	0	0	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	mTEC(II)	1	1	1	3	0.333333	0.333333	not_generated	not_generated
+LOXL2	15-19 year-old	TEC(myo)	1	2	2	94	0.089276	0.089276	not_generated	not_generated
+LOXL2	15-19 year-old	TEC(neuro)	1	3	3	149	0.0263158	0.0185759	not_generated	not_generated
+LOXL2	15-19 year-old	mTEC(I)	1	3	3	839	0	0.0017316	not_generated	not_generated
+LOXL2	15-19 year-old	mTEC(II)	1	3	3	42	0	0	not_generated	not_generated
+LOXL2	15-19 year-old	mTEC(III)	1	3	3	280	0	0.0030581	not_generated	not_generated
+LOXL2	15-19 year-old	mTEC(IV)	1	2	2	18	0	0	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	TEC(myo)	1	1	1	2	0.5	0.5	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	cTEC	1	1	1	7	0.142857	0.142857	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	mTEC(I)	1	1	1	7	0	0	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOXL2	16th week post-fertilization stage	TEC(myo)	1	1	1	4	0	0	not_generated	not_generated
+LOXL2	16th week post-fertilization stage	TEC(neuro)	1	1	1	19	0	0	not_generated	not_generated
+LOXL2	16th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL2	16th week post-fertilization stage	mTEC(I)	1	1	1	10	0	0	not_generated	not_generated
+LOXL2	16th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOXL2	16th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	TEC(myo)	2	3	3	11	0.5	0.47619	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	TEC(neuro)	2	2	2	11	0	0	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	cTEC	1	1	1	34	0.0294118	0.0294118	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	mTEC(I)	2	2	2	133	0.068182	0.068182	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	mTEC(II)	2	2	2	48	0.074468	0.074468	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	mTEC(III)	1	1	1	12	0	0	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	mTEC(IV)	1	1	1	2	0	0	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	mcTEC	2	3	3	244	0	0.0248963	not_generated	not_generated
+LOXL2	3-month-old stage	TEC(myo)	1	2	2	18	0.6875	0.6875	not_generated	not_generated
+LOXL2	3-month-old stage	TEC(neuro)	1	3	3	49	0	0.030303	not_generated	not_generated
+LOXL2	3-month-old stage	cTEC	1	3	3	283	0	0.00851063	not_generated	not_generated
+LOXL2	3-month-old stage	mTEC(I)	1	3	3	930	0.0227273	0.031096	not_generated	not_generated
+LOXL2	3-month-old stage	mTEC(II)	1	3	3	392	0.0526316	0.0551839	not_generated	not_generated
+LOXL2	3-month-old stage	mTEC(III)	1	3	3	132	0	0.00287356	not_generated	not_generated
+LOXL2	3-month-old stage	mTEC(IV)	1	2	2	31	0	0	not_generated	not_generated
+LOXL2	3-month-old stage	mcTEC	1	3	3	448	0.0555556	0.0745692	not_generated	not_generated
+LOXL2	9th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOXL2	9th week post-fertilization stage	cTEC	1	1	1	60	0.0166667	0.0166667	not_generated	not_generated
+LOXL2	9th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	fourth decade stage	TEC(myo)	1	3	3	90	0.0222222	0.0151593	not_generated	not_generated
+LOXL2	fourth decade stage	TEC(neuro)	1	3	3	164	0.021978	0.0167157	not_generated	not_generated
+LOXL2	fourth decade stage	cTEC	1	3	3	41	0	0	not_generated	not_generated
+LOXL2	fourth decade stage	mTEC(I)	1	4	4	4160	0.00243428	0.00256783	not_generated	not_generated
+LOXL2	fourth decade stage	mTEC(II)	1	3	3	38	0	0.0392157	not_generated	not_generated
+LOXL2	fourth decade stage	mTEC(III)	1	3	3	114	0	0	not_generated	not_generated
+LOXL2	fourth decade stage	mTEC(IV)	1	2	2	6	0	0	not_generated	not_generated
+LOXL2	fourth decade stage	mcTEC	1	3	3	9	0	0	not_generated	not_generated
+LOXL2	organogenesis stage	Epi_GCM2	2	4	4	74	0.0142857	0.0149553	not_generated	not_generated
+LOXL2	organogenesis stage	TEC(myo)	2	2	2	2	0	0	not_generated	not_generated
+LOXL2	organogenesis stage	TEC(neuro)	2	4	4	76	0	0.0119048	not_generated	not_generated
+LOXL2	organogenesis stage	cTEC	2	4	4	8930	0.0293976	0.0307411	not_generated	not_generated
+LOXL2	organogenesis stage	mTEC(II)	2	4	4	321	0.0181818	0.0194357	not_generated	not_generated
+LOXL2	organogenesis stage	mTEC(III)	2	4	4	37	0	0.05	not_generated	not_generated
+LOXL2	organogenesis stage	mTEC(IV)	2	2	2	2	0	0	not_generated	not_generated
+LOXL3	10th week post-fertilization stage	TEC(myo)	2	2	2	4	0.25	0.25	not_generated	not_generated
+LOXL3	10th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	10th week post-fertilization stage	cTEC	2	3	3	29	0	0.0208333	not_generated	not_generated
+LOXL3	10th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	10th week post-fertilization stage	mTEC(II)	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	10th week post-fertilization stage	mcTEC	2	3	3	27	0	0.0416667	not_generated	not_generated
+LOXL3	11th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOXL3	11th week post-fertilization stage	cTEC	1	2	2	7	0	0	not_generated	not_generated
+LOXL3	11th week post-fertilization stage	mTEC(I)	1	2	2	2	0	0	not_generated	not_generated
+LOXL3	11th week post-fertilization stage	mTEC(IV)	1	1	1	1	1	1	not_generated	not_generated
+LOXL3	11th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	TEC(neuro)	2	3	3	5	0	0.166667	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	cTEC	1	2	2	3	0	0	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	mTEC(I)	2	4	4	9	0	0	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	mTEC(II)	2	2	2	2	0.5	0.5	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	mcTEC	2	3	3	6	0	0	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	TEC(myo)	1	2	2	2	0	0	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	TEC(neuro)	1	2	2	3	0	0	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	mTEC(I)	1	2	2	17	0	0	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOXL3	15-19 year-old	TEC(myo)	1	2	2	94	0	0	not_generated	not_generated
+LOXL3	15-19 year-old	TEC(neuro)	1	3	3	149	0	0.00292398	not_generated	not_generated
+LOXL3	15-19 year-old	mTEC(I)	1	3	3	839	0	0.0050505	not_generated	not_generated
+LOXL3	15-19 year-old	mTEC(II)	1	3	3	42	0	0	not_generated	not_generated
+LOXL3	15-19 year-old	mTEC(III)	1	3	3	280	0	0	not_generated	not_generated
+LOXL3	15-19 year-old	mTEC(IV)	1	2	2	18	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	TEC(myo)	1	1	1	2	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	mTEC(I)	1	1	1	7	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOXL3	16th week post-fertilization stage	TEC(myo)	1	1	1	4	0	0	not_generated	not_generated
+LOXL3	16th week post-fertilization stage	TEC(neuro)	1	1	1	19	0	0	not_generated	not_generated
+LOXL3	16th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL3	16th week post-fertilization stage	mTEC(I)	1	1	1	10	0	0	not_generated	not_generated
+LOXL3	16th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOXL3	16th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	TEC(myo)	2	3	3	11	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	TEC(neuro)	2	2	2	11	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	cTEC	1	1	1	34	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	mTEC(I)	2	2	2	133	0.00378788	0.00378788	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	mTEC(II)	2	2	2	48	0.0212766	0.0212766	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	mTEC(III)	1	1	1	12	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	mTEC(IV)	1	1	1	2	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	mcTEC	2	3	3	244	0	0.00138313	not_generated	not_generated
+LOXL3	3-month-old stage	TEC(myo)	1	2	2	18	0.03125	0.03125	not_generated	not_generated
+LOXL3	3-month-old stage	TEC(neuro)	1	3	3	49	0	0.0151515	not_generated	not_generated
+LOXL3	3-month-old stage	cTEC	1	3	3	283	0	0.00141844	not_generated	not_generated
+LOXL3	3-month-old stage	mTEC(I)	1	3	3	930	0	0.00234742	not_generated	not_generated
+LOXL3	3-month-old stage	mTEC(II)	1	3	3	392	0	0.00746967	not_generated	not_generated
+LOXL3	3-month-old stage	mTEC(III)	1	3	3	132	0	0	not_generated	not_generated
+LOXL3	3-month-old stage	mTEC(IV)	1	2	2	31	0	0	not_generated	not_generated
+LOXL3	3-month-old stage	mcTEC	1	3	3	448	0	0.0016835	not_generated	not_generated
+LOXL3	9th week post-fertilization stage	TEC(neuro)	1	1	1	2	0.5	0.5	not_generated	not_generated
+LOXL3	9th week post-fertilization stage	cTEC	1	1	1	60	0	0	not_generated	not_generated
+LOXL3	9th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	fourth decade stage	TEC(myo)	1	3	3	90	0	0.00775193	not_generated	not_generated
+LOXL3	fourth decade stage	TEC(neuro)	1	3	3	164	0.021978	0.178687	not_generated	not_generated
+LOXL3	fourth decade stage	cTEC	1	3	3	41	0	0	not_generated	not_generated
+LOXL3	fourth decade stage	mTEC(I)	1	4	4	4160	0.00073674	0.000855225	not_generated	not_generated
+LOXL3	fourth decade stage	mTEC(II)	1	3	3	38	0	0	not_generated	not_generated
+LOXL3	fourth decade stage	mTEC(III)	1	3	3	114	0	0	not_generated	not_generated
+LOXL3	fourth decade stage	mTEC(IV)	1	2	2	6	0	0	not_generated	not_generated
+LOXL3	fourth decade stage	mcTEC	1	3	3	9	0	0	not_generated	not_generated
+LOXL3	organogenesis stage	Epi_GCM2	2	4	4	74	0	0	not_generated	not_generated
+LOXL3	organogenesis stage	TEC(myo)	2	2	2	2	1	1	not_generated	not_generated
+LOXL3	organogenesis stage	TEC(neuro)	2	4	4	76	0	0	not_generated	not_generated
+LOXL3	organogenesis stage	cTEC	2	4	4	8930	0.00350476	0.00359243	not_generated	not_generated
+LOXL3	organogenesis stage	mTEC(II)	2	4	4	321	0	0.00454545	not_generated	not_generated
+LOXL3	organogenesis stage	mTEC(III)	2	4	4	37	0	0	not_generated	not_generated
+LOXL3	organogenesis stage	mTEC(IV)	2	2	2	2	0	0	not_generated	not_generated
+LOXL4	10th week post-fertilization stage	TEC(myo)	2	2	2	4	0	0	not_generated	not_generated
+LOXL4	10th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	10th week post-fertilization stage	cTEC	2	3	3	29	0	0	not_generated	not_generated
+LOXL4	10th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	10th week post-fertilization stage	mTEC(II)	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	10th week post-fertilization stage	mcTEC	2	3	3	27	0	0	not_generated	not_generated
+LOXL4	11th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOXL4	11th week post-fertilization stage	cTEC	1	2	2	7	0	0	not_generated	not_generated
+LOXL4	11th week post-fertilization stage	mTEC(I)	1	2	2	2	0	0	not_generated	not_generated
+LOXL4	11th week post-fertilization stage	mTEC(IV)	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	11th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	TEC(neuro)	2	3	3	5	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	cTEC	1	2	2	3	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	mTEC(I)	2	4	4	9	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	mTEC(II)	2	2	2	2	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	mcTEC	2	3	3	6	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	TEC(myo)	1	2	2	2	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	TEC(neuro)	1	2	2	3	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	mTEC(I)	1	2	2	17	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOXL4	15-19 year-old	TEC(myo)	1	2	2	94	0.0594251	0.0594251	not_generated	not_generated
+LOXL4	15-19 year-old	TEC(neuro)	1	3	3	149	0	0.00292398	not_generated	not_generated
+LOXL4	15-19 year-old	mTEC(I)	1	3	3	839	0.0194805	0.0165945	not_generated	not_generated
+LOXL4	15-19 year-old	mTEC(II)	1	3	3	42	0.0555556	0.101852	not_generated	not_generated
+LOXL4	15-19 year-old	mTEC(III)	1	3	3	280	0.0183486	0.0182374	not_generated	not_generated
+LOXL4	15-19 year-old	mTEC(IV)	1	2	2	18	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	TEC(myo)	1	1	1	2	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	TEC(neuro)	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	mTEC(I)	1	1	1	7	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	mTEC(III)	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOXL4	16th week post-fertilization stage	TEC(myo)	1	1	1	4	0	0	not_generated	not_generated
+LOXL4	16th week post-fertilization stage	TEC(neuro)	1	1	1	19	0	0	not_generated	not_generated
+LOXL4	16th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL4	16th week post-fertilization stage	mTEC(I)	1	1	1	10	0.1	0.1	not_generated	not_generated
+LOXL4	16th week post-fertilization stage	mTEC(II)	1	1	1	3	0	0	not_generated	not_generated
+LOXL4	16th week post-fertilization stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	TEC(myo)	2	3	3	11	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	TEC(neuro)	2	2	2	11	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	cTEC	1	1	1	34	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	mTEC(I)	2	2	2	133	0.0416666	0.0416666	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	mTEC(II)	2	2	2	48	0.0106383	0.0106383	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	mTEC(III)	1	1	1	12	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	mTEC(IV)	1	1	1	2	0.5	0.5	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	mcTEC	2	3	3	244	0	0.00414937	not_generated	not_generated
+LOXL4	3-month-old stage	TEC(myo)	1	2	2	18	0.3125	0.3125	not_generated	not_generated
+LOXL4	3-month-old stage	TEC(neuro)	1	3	3	49	0	0.00757577	not_generated	not_generated
+LOXL4	3-month-old stage	cTEC	1	3	3	283	0	0.0111111	not_generated	not_generated
+LOXL4	3-month-old stage	mTEC(I)	1	3	3	930	0.0892019	0.0765254	not_generated	not_generated
+LOXL4	3-month-old stage	mTEC(II)	1	3	3	392	0.0308123	0.0278146	not_generated	not_generated
+LOXL4	3-month-old stage	mTEC(III)	1	3	3	132	0	0	not_generated	not_generated
+LOXL4	3-month-old stage	mTEC(IV)	1	2	2	31	0.0357143	0.0357143	not_generated	not_generated
+LOXL4	3-month-old stage	mcTEC	1	3	3	448	0.0294118	0.033373	not_generated	not_generated
+LOXL4	9th week post-fertilization stage	TEC(neuro)	1	1	1	2	0	0	not_generated	not_generated
+LOXL4	9th week post-fertilization stage	cTEC	1	1	1	60	0	0	not_generated	not_generated
+LOXL4	9th week post-fertilization stage	mTEC(I)	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	fourth decade stage	TEC(myo)	1	3	3	90	0.255814	0.17416	not_generated	not_generated
+LOXL4	fourth decade stage	TEC(neuro)	1	3	3	164	0	0.00469483	not_generated	not_generated
+LOXL4	fourth decade stage	cTEC	1	3	3	41	0	0	not_generated	not_generated
+LOXL4	fourth decade stage	mTEC(I)	1	4	4	4160	0.0217662	0.025589	not_generated	not_generated
+LOXL4	fourth decade stage	mTEC(II)	1	3	3	38	0	0	not_generated	not_generated
+LOXL4	fourth decade stage	mTEC(III)	1	3	3	114	0.0615385	0.360791	not_generated	not_generated
+LOXL4	fourth decade stage	mTEC(IV)	1	2	2	6	0	0	not_generated	not_generated
+LOXL4	fourth decade stage	mcTEC	1	3	3	9	0	0	not_generated	not_generated
+LOXL4	organogenesis stage	Epi_GCM2	2	4	4	74	0.015625	0.0220982	not_generated	not_generated
+LOXL4	organogenesis stage	TEC(myo)	2	2	2	2	0	0	not_generated	not_generated
+LOXL4	organogenesis stage	TEC(neuro)	2	4	4	76	0.0515873	0.0554411	not_generated	not_generated
+LOXL4	organogenesis stage	cTEC	2	4	4	8930	0.0110346	0.0106273	not_generated	not_generated
+LOXL4	organogenesis stage	mTEC(II)	2	4	4	321	0.00344828	0.00475444	not_generated	not_generated
+LOXL4	organogenesis stage	mTEC(III)	2	4	4	37	0	0	not_generated	not_generated
+LOXL4	organogenesis stage	mTEC(IV)	2	2	2	2	0	0	not_generated	not_generated
