@@ -1,0 +1,3 @@
+matrix_name	available	matrix_type	notes
+X	yes	anndata._core.sparse_dataset._CSRDataset; shape=(18524, 32088); dtype=float32	Primary matrix present; semantic meaning must be interpreted from dataset documentation before mean-value summaries.
+raw.X	yes	anndata._core.sparse_dataset._CSRDataset; shape=(18524, 32088); dtype=float32	Raw object exists; exact count/normalization semantics are not asserted by this audit.

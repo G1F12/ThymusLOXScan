@@ -1,0 +1,21 @@
+metric	value
+dataset	CELLxGENE_Park_TEC
+h5ad_path	data\external\human_thymus\cellxgene_park_tec\park_tec.h5ad
+n_cells	18524
+n_features	32088
+selected_donor_field	donor_id
+donor_field_status	selected_preferred
+selected_sample_field	sample_id
+sample_field_status	selected_preferred
+selected_age_development_field	development_stage
+age_development_field_status	selected_first_preferred_with_alternatives:development_stage_ontology_term_id
+selected_sex_field	sex
+sex_field_status	selected_preferred
+selected_cell_type_field	celltypes
+cell_type_field_status	selected_first_preferred_with_alternatives:cell_type
+target_genes_present	LOX; LOXL1; LOXL2; LOXL3; LOXL4
+cell_count_groups	156
+detection_preview_rows	780
+matrix_semantics	partial
+matrix_note	X is present and raw exists, but layer/count semantics were not asserted by this Stage 3A audit; detection fractions use X > 0 only.
+statistical_tests_run	no

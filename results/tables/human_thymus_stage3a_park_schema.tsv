@@ -1,0 +1,12 @@
+metric	value
+h5ad_path	data\external\human_thymus\cellxgene_park_tec\park_tec.h5ad
+file_size_bytes	264307759
+n_obs	18524
+n_vars	32088
+raw_exists	yes
+x_matrix_type	anndata._core.sparse_dataset._CSRDataset; shape=(18524, 32088); dtype=float32
+raw_x_matrix_type	anndata._core.sparse_dataset._CSRDataset; shape=(18524, 32088); dtype=float32
+n_obs_columns	29
+n_var_columns	6
+n_layers	0
+uns_keys	cell_type_ontology_term_id_colors; citation; is_pre_analysis; organism; organism_ontology_term_id; schema_reference; schema_version; title

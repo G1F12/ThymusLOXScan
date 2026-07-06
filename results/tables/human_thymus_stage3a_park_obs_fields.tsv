@@ -1,0 +1,30 @@
+field_name	dtype	non_null_count	unique_count	examples	candidate_role
+celltypes	category	18524	9	mTEC(I); TEC(neuro); mTEC(II); cTEC; mcTEC; TEC(myo); mTEC(III); mTEC(IV); Epi_GCM2	cell_type
+cell_type_ontology_term_id	category	18524	3	CL:0002365; CL:0002364; CL:0002293	cell_type
+sample_id	category	18524	33	F21_TH_45N; F22_TH_TOT; F30_TH_45N; F38_TH_45N_1; F38_TH_45N_2; F41_TH_45N; F41_TH_45N_5GEX; F45_TH_45N; F45_TH_45N_5GEX; F64_TH_TOT_5GEX_1; F64_TH_TOT_5GEX_2; F67_TH_TOT_5GEX_1	sample
+assay_ontology_term_id	category	18524	3	EFO:0009899; EFO:0011025; EFO:0009922	assay
+development_stage_ontology_term_id	category	18524	12	HsapDv:0000053; HsapDv:0000047; HsapDv:0000052; HsapDv:0000050; HsapDv:0000054; HsapDv:0000049; HsapDv:0000048; HsapDv:0000046; HsapDv:0000176; HsapDv:0000268; HsapDv:0000015; HsapDv:0000238	age_or_development
+disease_ontology_term_id	category	18524	1	PATO:0000461	disease
+self_reported_ethnicity_ontology_term_id	category	18524	1	unknown	other
+is_primary_data	bool	18524	1	False	other
+sex_ontology_term_id	category	18524	2	PATO:0000384; PATO:0000383	sex
+tissue_ontology_term_id	category	18524	1	UBERON:0002370	tissue
+n_counts	float64	18524	12006	8438.0; 5518.0; 6320.0; 6612.0; 16532.0; 4871.0; 2625.0; 10765.0; 6064.0; 12059.0; 2979.0; 19169.0	other
+n_genes	int64	18524	5391	2645; 1966; 2449; 2285; 4061; 1777; 1121; 2902; 2247; 3323; 1240; 4109	other
+donor_id	category	18524	16	F21; F22; F30; F38; F41; F45; F64; F67; C34; T07; F83; A45	donor
+sort	category	18524	4	45N; TOT; EPCAM; 45NM	batch_like
+method	category	18524	2	3GEX; 5GEX	assay;batch_like
+file	category	18524	33	FCAImmP7179370; FCAImmP7198432; FCAImmP7277565; FCAImmP7528284; FCAImmP7528285; FCAImmP7555852; FCAImmP7555861; FCAImmP7579219; FCAImmP7579231; FCAImmP7851890; FCAImmP7851891; FCAImmP7851892	sample;batch_like
+mito	float64	18524	18165	0.02725764364004135; 0.021747009828686714; 0.03544303774833679; 0.0146702965721488; 0.0330873467028141; 0.05235064774751663; 0.01485714316368103; 0.035949837416410446; 0.023746700957417488; 0.030516626313328743; 0.05135951563715935; 0.03401324898004532	other
+doublet_scores	float64	18524	867	0.16631578947368425; 0.13214285714285712; 0.1933962264150944; 0.13812154696132595; 0.20393120393120387; 0.14448669201520914; 0.22788203753351202; 0.1585365853658537; 0.29180327868852457; 0.12121212121212119; 0.18367346938775517; 0.5161290322580641	other
+predicted_doublets	bool	18524	2	False; True	other
+suspension_type	category	18524	1	cell	suspension_type
+tissue_type	category	18524	1	tissue	tissue
+cell_type	category	18524	3	medullary thymic epithelial cell; cortical thymic epithelial cell; epithelial cell of thymus	cell_type
+assay	category	18524	3	10x 3' v2; 10x 5' v1; 10x 3' v3	assay
+disease	category	18524	1	normal	disease
+sex	category	18524	2	male; female	sex
+tissue	category	18524	1	thymus	tissue
+self_reported_ethnicity	category	18524	1	unknown	other
+development_stage	category	18524	12	16th week post-fertilization stage; 10th week post-fertilization stage; 15th week post-fertilization stage; 13th week post-fertilization stage; 17th week post-fertilization stage; 12th week post-fertilization stage; 11th week post-fertilization stage; 9th week post-fertilization stage; 3-month-old stage; 15-19 year-old; organogenesis stage; fourth decade stage	age_or_development
+observation_joinid	object	18524	18524	LGkNh?+7W6; gEWLbQGKsi; wq`%#e;D2e; NO+RC)wefF; B_WM`CWHW7; 20{f*eIXHT; =lT!?X!oT{; VE3oct>m9s; mOcI5iXSv*; 9D}L7qXHh^; *(RHhQ*1&1; z*4ClehRDH	other

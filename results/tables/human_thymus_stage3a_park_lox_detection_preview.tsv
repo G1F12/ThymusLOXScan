@@ -1,0 +1,781 @@
+dataset	donor_id	sample_id	development_stage	sex	celltypes	target_gene	gene_present	n_cells	n_detected	detection_fraction	mean_value	matrix_used	matrix_semantics	notes
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	LOX	yes	45	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	LOX	yes	71	1	0.0140845		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	LOX	yes	21	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	LOX	yes	2036	48	0.0235756		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	LOX	yes	20	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	LOX	yes	48	2	0.0416667		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	LOX	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	LOX	yes	43	1	0.0232558		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	LOX	yes	91	3	0.032967		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	LOX	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	LOX	yes	2054	42	0.0204479		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	LOX	yes	17	1	0.0588235		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	LOX	yes	65	8	0.123077		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	LOX	yes	68	7	0.102941		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	LOX	yes	27	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	LOX	yes	34	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	LOX	yes	66	1	0.0151515		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	LOX	yes	55	10	0.181818		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	LOX	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	LOX	yes	67	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	LOX	yes	114	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	LOX	yes	770	48	0.0623377		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	LOX	yes	36	1	0.0277778		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	LOX	yes	218	27	0.123853		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	LOX	yes	13	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	LOX	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	LOX	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	LOX	yes	60	1	0.0166667		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	LOX	yes	21	2	0.0952381		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	LOX	yes	2628	53	0.0201674		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	LOX	yes	145	6	0.0413793		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	LOX	yes	10	1	0.1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	LOX	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	LOX	yes	24	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	LOX	yes	2774	50	0.0180245		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	LOX	yes	165	2	0.0121212		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	LOX	yes	22	3	0.136364		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	LOX	yes	35	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	LOX	yes	13	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	LOX	yes	1754	47	0.0267959		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	LOX	yes	32	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	LOX	yes	18	2	0.111111		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	LOX	yes	1774	31	0.0174746		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	LOX	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	LOX	yes	19	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	LOX	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	LOX	yes	10	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	LOX	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	LOX	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	LOX	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	LOX	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	LOX	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	LOX	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	LOX	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	LOX	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	LOX	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	LOX	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	LOX	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	LOX	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	LOX	yes	16	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	LOX	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	LOX	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	LOX	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOX	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOX	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	LOX	yes	34	1	0.0294118		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	LOX	yes	132	18	0.136364		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOX	yes	47	1	0.0212766		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	LOX	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	LOX	yes	241	17	0.0705394		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	LOX	yes	16	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	LOX	yes	44	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	LOX	yes	235	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	LOX	yes	852	15	0.0176056		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	LOX	yes	357	11	0.0308123		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	LOX	yes	116	1	0.00862069		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	LOX	yes	28	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	LOX	yes	396	19	0.0479798		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	LOX	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	LOX	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	LOX	yes	30	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	LOX	yes	44	1	0.0227273		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	LOX	yes	19	1	0.0526316		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	LOX	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	LOX	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	LOX	yes	34	3	0.0882353		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	LOX	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	LOX	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	LOX	yes	34	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	LOX	yes	16	2	0.125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	LOX	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	LOX	yes	18	1	0.0555556		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	LOXL1	yes	45	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	LOXL1	yes	71	5	0.0704225		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	LOXL1	yes	21	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	LOXL1	yes	2036	34	0.0166994		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	LOXL1	yes	20	5	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	LOXL1	yes	48	2	0.0416667		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	LOXL1	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	LOXL1	yes	43	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	LOXL1	yes	91	4	0.043956		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	LOXL1	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	LOXL1	yes	2054	34	0.0165531		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	LOXL1	yes	17	4	0.235294		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	LOXL1	yes	65	2	0.0307692		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	LOXL1	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	LOXL1	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	LOXL1	yes	68	4	0.0588235		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	LOXL1	yes	27	2	0.0740741		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	LOXL1	yes	34	1	0.0294118		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	LOXL1	yes	66	1	0.0151515		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	LOXL1	yes	4	1	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	LOXL1	yes	55	2	0.0363636		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	LOXL1	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	LOXL1	yes	67	5	0.0746269		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	LOXL1	yes	114	4	0.0350877		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	LOXL1	yes	770	13	0.0168831		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	LOXL1	yes	36	5	0.138889		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	LOXL1	yes	218	9	0.0412844		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	LOXL1	yes	13	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	LOXL1	yes	3	1	0.333333		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	LOXL1	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	LOXL1	yes	60	10	0.166667		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	LOXL1	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	LOXL1	yes	4	1	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	LOXL1	yes	21	5	0.238095		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	LOXL1	yes	2628	620	0.235921		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	LOXL1	yes	145	33	0.227586		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	LOXL1	yes	10	1	0.1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	LOXL1	yes	3	1	0.333333		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	LOXL1	yes	24	3	0.125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	LOXL1	yes	2774	689	0.248378		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	LOXL1	yes	165	39	0.236364		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	LOXL1	yes	22	1	0.0454545		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	LOXL1	yes	35	10	0.285714		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	LOXL1	yes	13	3	0.230769		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	LOXL1	yes	1754	545	0.310718		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	LOXL1	yes	4	2	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	LOXL1	yes	32	9	0.28125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	LOXL1	yes	18	6	0.333333		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	LOXL1	yes	1774	605	0.341037		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	LOXL1	yes	7	2	0.285714		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	LOXL1	yes	4	1	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	LOXL1	yes	4	1	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	LOXL1	yes	19	2	0.105263		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	LOXL1	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	LOXL1	yes	10	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	LOXL1	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	LOXL1	yes	4	1	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	LOXL1	yes	2	2	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	LOXL1	yes	8	1	0.125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	LOXL1	yes	7	1	0.142857		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	LOXL1	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	LOXL1	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	LOXL1	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	LOXL1	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	LOXL1	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	LOXL1	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	LOXL1	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	LOXL1	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	LOXL1	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	LOXL1	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	LOXL1	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	LOXL1	yes	3	1	0.333333		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	LOXL1	yes	16	4	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	LOXL1	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	LOXL1	yes	5	1	0.2		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	LOXL1	yes	8	2	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOXL1	yes	7	1	0.142857		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOXL1	yes	9	1	0.111111		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	LOXL1	yes	34	2	0.0588235		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	LOXL1	yes	132	10	0.0757576		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOXL1	yes	47	11	0.234043		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	LOXL1	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	LOXL1	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	LOXL1	yes	241	24	0.0995851		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	LOXL1	yes	16	6	0.375		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	LOXL1	yes	44	5	0.113636		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	LOXL1	yes	235	13	0.0553191		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	LOXL1	yes	852	98	0.115023		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	LOXL1	yes	357	88	0.246499		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	LOXL1	yes	116	20	0.172414		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	LOXL1	yes	28	5	0.178571		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	LOXL1	yes	396	34	0.0858586		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	LOXL1	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	LOXL1	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	LOXL1	yes	30	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	LOXL1	yes	44	9	0.204545		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	LOXL1	yes	19	5	0.263158		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	LOXL1	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	LOXL1	yes	3	2	0.666667		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	LOXL1	yes	34	6	0.176471		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	LOXL1	yes	4	1	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	LOXL1	yes	18	1	0.0555556		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	LOXL1	yes	34	3	0.0882353		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	LOXL1	yes	16	6	0.375		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	LOXL1	yes	9	1	0.111111		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	LOXL1	yes	18	2	0.111111		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	LOXL2	yes	45	1	0.0222222		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	LOXL2	yes	71	2	0.028169		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	LOXL2	yes	21	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	LOXL2	yes	2036	11	0.00540275		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	LOXL2	yes	20	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	LOXL2	yes	48	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	LOXL2	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	LOXL2	yes	43	1	0.0232558		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	LOXL2	yes	91	2	0.021978		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	LOXL2	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	LOXL2	yes	2054	10	0.00486855		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	LOXL2	yes	17	2	0.117647		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	LOXL2	yes	65	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	LOXL2	yes	68	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	LOXL2	yes	27	2	0.0740741		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	LOXL2	yes	34	1	0.0294118		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	LOXL2	yes	66	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	LOXL2	yes	55	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	LOXL2	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	LOXL2	yes	67	7	0.104478		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	LOXL2	yes	114	3	0.0263158		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	LOXL2	yes	770	4	0.00519481		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	LOXL2	yes	36	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	LOXL2	yes	218	2	0.00917431		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	LOXL2	yes	13	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	LOXL2	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	LOXL2	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	LOXL2	yes	60	1	0.0166667		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	LOXL2	yes	21	1	0.047619		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	LOXL2	yes	2628	76	0.0289193		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	LOXL2	yes	145	6	0.0413793		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	LOXL2	yes	10	2	0.2		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	LOXL2	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	LOXL2	yes	24	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	LOXL2	yes	2774	110	0.0396539		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	LOXL2	yes	165	6	0.0363636		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	LOXL2	yes	22	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	LOXL2	yes	35	1	0.0285714		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	LOXL2	yes	13	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	LOXL2	yes	1754	43	0.0245154		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	LOXL2	yes	32	1	0.03125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	LOXL2	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	LOXL2	yes	1774	53	0.029876		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	LOXL2	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	LOXL2	yes	19	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	LOXL2	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	LOXL2	yes	10	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	LOXL2	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	LOXL2	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	LOXL2	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	LOXL2	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	LOXL2	yes	7	1	0.142857		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	LOXL2	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	LOXL2	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	LOXL2	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	LOXL2	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	LOXL2	yes	3	1	0.333333		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	LOXL2	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOXL2	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	LOXL2	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	LOXL2	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	LOXL2	yes	16	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	LOXL2	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	LOXL2	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	LOXL2	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	LOXL2	yes	8	1	0.125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOXL2	yes	7	3	0.428571		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOXL2	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	LOXL2	yes	34	1	0.0294118		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	LOXL2	yes	132	18	0.136364		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOXL2	yes	47	7	0.148936		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	LOXL2	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	LOXL2	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	LOXL2	yes	241	18	0.0746888		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	LOXL2	yes	16	14	0.875		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	LOXL2	yes	44	4	0.0909091		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	LOXL2	yes	235	6	0.0255319		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	LOXL2	yes	852	10	0.0117371		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	LOXL2	yes	357	18	0.0504202		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	LOXL2	yes	116	1	0.00862069		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	LOXL2	yes	28	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	LOXL2	yes	396	20	0.0505051		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	LOXL2	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	LOXL2	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	LOXL2	yes	30	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	LOXL2	yes	44	1	0.0227273		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	LOXL2	yes	19	1	0.0526316		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	LOXL2	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	LOXL2	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	LOXL2	yes	34	4	0.117647		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	LOXL2	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	LOXL2	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	LOXL2	yes	34	2	0.0588235		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	LOXL2	yes	16	1	0.0625		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	LOXL2	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	LOXL2	yes	18	1	0.0555556		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	LOXL3	yes	45	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	LOXL3	yes	71	1	0.0140845		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	LOXL3	yes	21	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	LOXL3	yes	2036	3	0.00147348		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	LOXL3	yes	20	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	LOXL3	yes	48	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	LOXL3	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	LOXL3	yes	43	1	0.0232558		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	LOXL3	yes	91	2	0.021978		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	LOXL3	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	LOXL3	yes	2054	4	0.00194742		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	LOXL3	yes	17	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	LOXL3	yes	65	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	LOXL3	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	LOXL3	yes	68	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	LOXL3	yes	27	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	LOXL3	yes	34	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	LOXL3	yes	66	1	0.0151515		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	LOXL3	yes	55	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	LOXL3	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	LOXL3	yes	67	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	LOXL3	yes	114	1	0.00877193		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	LOXL3	yes	770	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	LOXL3	yes	36	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	LOXL3	yes	218	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	LOXL3	yes	13	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	LOXL3	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	LOXL3	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	LOXL3	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	LOXL3	yes	60	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	LOXL3	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	LOXL3	yes	21	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	LOXL3	yes	2628	8	0.00304414		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	LOXL3	yes	145	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	LOXL3	yes	10	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	LOXL3	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	LOXL3	yes	24	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	LOXL3	yes	2774	11	0.00396539		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	LOXL3	yes	165	3	0.0181818		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	LOXL3	yes	22	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	LOXL3	yes	35	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	LOXL3	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	LOXL3	yes	13	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	LOXL3	yes	1754	5	0.00285063		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	LOXL3	yes	32	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	LOXL3	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	LOXL3	yes	1774	8	0.00450958		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	LOXL3	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	LOXL3	yes	19	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	LOXL3	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	LOXL3	yes	10	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	LOXL3	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	LOXL3	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	LOXL3	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	LOXL3	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	LOXL3	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	LOXL3	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	LOXL3	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	LOXL3	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	LOXL3	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	LOXL3	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	LOXL3	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	LOXL3	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	LOXL3	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	LOXL3	yes	16	1	0.0625		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	LOXL3	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	LOXL3	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	LOXL3	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	LOXL3	yes	8	1	0.125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOXL3	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOXL3	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	LOXL3	yes	34	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	LOXL3	yes	132	1	0.00757576		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOXL3	yes	47	2	0.0425532		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	LOXL3	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	LOXL3	yes	241	1	0.00414938		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	LOXL3	yes	16	1	0.0625		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	LOXL3	yes	44	2	0.0454545		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	LOXL3	yes	235	1	0.00425532		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	LOXL3	yes	852	6	0.00704225		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	LOXL3	yes	357	8	0.022409		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	LOXL3	yes	116	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	LOXL3	yes	28	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	LOXL3	yes	396	2	0.00505051		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	LOXL3	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	LOXL3	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	LOXL3	yes	30	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	LOXL3	yes	44	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	LOXL3	yes	19	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	LOXL3	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	LOXL3	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	LOXL3	yes	34	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	LOXL3	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	LOXL3	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	LOXL3	yes	34	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	LOXL3	yes	16	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	LOXL3	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	LOXL3	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	LOXL4	yes	45	12	0.266667		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	LOXL4	yes	71	1	0.0140845		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	LOXL4	yes	21	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	LOXL4	yes	2036	47	0.0230845		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	LOXL4	yes	20	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	LOXL4	yes	48	1	0.0208333		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	LOXL4	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	LOXL4	yes	43	11	0.255814		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	LOXL4	yes	91	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	LOXL4	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	LOXL4	yes	2054	42	0.0204479		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	LOXL4	yes	17	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	LOXL4	yes	65	4	0.0615385		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	LOXL4	yes	68	4	0.0588235		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	LOXL4	yes	1	1	1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	LOXL4	yes	27	2	0.0740741		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	LOXL4	yes	34	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	LOXL4	yes	66	2	0.030303		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	LOXL4	yes	4	1	0.25		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	LOXL4	yes	55	2	0.0363636		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	LOXL4	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	LOXL4	yes	67	3	0.0447761		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	LOXL4	yes	114	1	0.00877193		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	LOXL4	yes	770	15	0.0194805		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	LOXL4	yes	36	2	0.0555556		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	LOXL4	yes	218	4	0.0183486		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	LOXL4	yes	13	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	LOXL4	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	LOXL4	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	LOXL4	yes	60	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	LOXL4	yes	21	1	0.047619		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	LOXL4	yes	2628	18	0.00684932		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	LOXL4	yes	145	1	0.00689655		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	LOXL4	yes	10	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	LOXL4	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	LOXL4	yes	24	1	0.0416667		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	LOXL4	yes	2774	14	0.00504686		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	LOXL4	yes	165	2	0.0121212		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	LOXL4	yes	22	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	LOXL4	yes	35	2	0.0571429		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	LOXL4	yes	13	1	0.0769231		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	LOXL4	yes	1754	27	0.0153934		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	LOXL4	yes	32	1	0.03125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	LOXL4	yes	18	1	0.0555556		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	LOXL4	yes	1774	27	0.0152198		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	LOXL4	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	LOXL4	yes	19	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	LOXL4	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	LOXL4	yes	10	1	0.1		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	LOXL4	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	LOXL4	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	LOXL4	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	LOXL4	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	LOXL4	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	LOXL4	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	LOXL4	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	LOXL4	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	LOXL4	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	LOXL4	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	LOXL4	yes	16	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	LOXL4	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	LOXL4	yes	2	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	LOXL4	yes	5	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	LOXL4	yes	8	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	LOXL4	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	LOXL4	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	LOXL4	yes	34	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	LOXL4	yes	132	11	0.0833333		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	LOXL4	yes	47	1	0.0212766		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	LOXL4	yes	12	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	LOXL4	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	LOXL4	yes	241	3	0.0124481		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	LOXL4	yes	16	2	0.125		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	LOXL4	yes	44	1	0.0227273		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	LOXL4	yes	235	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	LOXL4	yes	852	76	0.0892019		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	LOXL4	yes	357	11	0.0308123		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	LOXL4	yes	116	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	LOXL4	yes	28	2	0.0714286		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	LOXL4	yes	396	28	0.0707071		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	LOXL4	yes	2	1	0.5		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	LOXL4	yes	1	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	LOXL4	yes	30	1	0.0333333		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	LOXL4	yes	44	1	0.0227273		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	LOXL4	yes	19	1	0.0526316		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	LOXL4	yes	7	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	LOXL4	yes	3	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	LOXL4	yes	34	1	0.0294118		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	LOXL4	yes	4	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	LOXL4	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	LOXL4	yes	34	4	0.117647		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	LOXL4	yes	16	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	LOXL4	yes	9	0	0		X	partial	Detection preview only; no statistical test was run.
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	LOXL4	yes	18	0	0		X	partial	Detection preview only; no statistical test was run.

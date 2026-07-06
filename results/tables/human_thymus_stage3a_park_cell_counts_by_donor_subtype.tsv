@@ -1,0 +1,157 @@
+dataset	donor_id	sample_id	development_stage	sex	celltypes	cell_count
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(myo)	45
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	TEC(neuro)	71
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	cTEC	21
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(I)	2036
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(II)	20
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(III)	48
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mTEC(IV)	2
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_1	fourth decade stage	male	mcTEC	3
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(myo)	43
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	TEC(neuro)	91
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	cTEC	18
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(I)	2054
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(II)	17
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(III)	65
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mTEC(IV)	4
+CELLxGENE_Park_TEC	A43	A43_TH_45NM_5GEX_2	fourth decade stage	male	mcTEC	4
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(myo)	2
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	TEC(neuro)	2
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	cTEC	2
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mTEC(I)	68
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_1	fourth decade stage	male	mcTEC	2
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(I)	2
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(II)	1
+CELLxGENE_Park_TEC	A43	A43_TH_TOT_5GEX_2	fourth decade stage	male	mTEC(III)	1
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(myo)	27
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	TEC(neuro)	34
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(I)	66
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(II)	4
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(III)	55
+CELLxGENE_Park_TEC	A45	A45_TH_45NM_5GEX	15-19 year-old	male	mTEC(IV)	5
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(myo)	67
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	TEC(neuro)	114
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(I)	770
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(II)	36
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(III)	218
+CELLxGENE_Park_TEC	A45	A45_TH_EPCAM_5GEX	15-19 year-old	male	mTEC(IV)	13
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	TEC(neuro)	1
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(I)	3
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(II)	2
+CELLxGENE_Park_TEC	A45	A45_TH_TOT_5GEX	15-19 year-old	male	mTEC(III)	7
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	TEC(neuro)	2
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	cTEC	60
+CELLxGENE_Park_TEC	C34	C34_TH_TOT_5GEX	9th week post-fertilization stage	female	mTEC(I)	1
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	Epi_GCM2	4
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(myo)	1
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	TEC(neuro)	21
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	cTEC	2628
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(II)	145
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(III)	10
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_1	organogenesis stage	female	mTEC(IV)	1
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	Epi_GCM2	3
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	TEC(neuro)	24
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	cTEC	2774
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(II)	165
+CELLxGENE_Park_TEC	C40	C40_TH_TOT_2	organogenesis stage	female	mTEC(III)	22
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	Epi_GCM2	35
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(myo)	1
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	TEC(neuro)	13
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	cTEC	1754
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(II)	4
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_1	organogenesis stage	male	mTEC(III)	1
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	Epi_GCM2	32
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	TEC(neuro)	18
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	cTEC	1774
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(II)	7
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(III)	4
+CELLxGENE_Park_TEC	C41	C41_TH_TOT_2	organogenesis stage	male	mTEC(IV)	1
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(myo)	4
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	TEC(neuro)	19
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	cTEC	7
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(I)	10
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mTEC(II)	3
+CELLxGENE_Park_TEC	F21	F21_TH_45N	16th week post-fertilization stage	male	mcTEC	4
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	TEC(myo)	2
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	cTEC	8
+CELLxGENE_Park_TEC	F22	F22_TH_TOT	10th week post-fertilization stage	female	mcTEC	7
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(myo)	2
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	TEC(neuro)	1
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	cTEC	7
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(I)	7
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mTEC(III)	1
+CELLxGENE_Park_TEC	F30	F30_TH_45N	15th week post-fertilization stage	male	mcTEC	2
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(myo)	1
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	TEC(neuro)	2
+CELLxGENE_Park_TEC	F38	F38_TH_45N_1	13th week post-fertilization stage	male	mTEC(I)	9
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(myo)	1
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	TEC(neuro)	1
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(I)	8
+CELLxGENE_Park_TEC	F38	F38_TH_45N_2	13th week post-fertilization stage	male	mTEC(II)	3
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	TEC(myo)	2
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mTEC(I)	1
+CELLxGENE_Park_TEC	F41	F41_TH_45N	17th week post-fertilization stage	female	mcTEC	1
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(myo)	2
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	TEC(neuro)	2
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mTEC(II)	1
+CELLxGENE_Park_TEC	F41	F41_TH_45N_5GEX	17th week post-fertilization stage	female	mcTEC	2
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	TEC(neuro)	1
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mTEC(I)	2
+CELLxGENE_Park_TEC	F45	F45_TH_45N	12th week post-fertilization stage	female	mcTEC	1
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	TEC(neuro)	2
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(I)	4
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mTEC(II)	1
+CELLxGENE_Park_TEC	F45	F45_TH_45N_5GEX	12th week post-fertilization stage	female	mcTEC	2
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	cTEC	3
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(I)	1
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mTEC(IV)	1
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_1	11th week post-fertilization stage	male	mcTEC	4
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	TEC(neuro)	2
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	cTEC	4
+CELLxGENE_Park_TEC	F64	F64_TH_TOT_5GEX_2	11th week post-fertilization stage	male	mTEC(I)	1
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_1	12th week post-fertilization stage	female	mTEC(I)	1
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_2	12th week post-fertilization stage	female	mTEC(III)	1
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	TEC(neuro)	2
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	cTEC	1
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_3	12th week post-fertilization stage	female	mcTEC	3
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	cTEC	2
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(I)	2
+CELLxGENE_Park_TEC	F67	F67_TH_TOT_5GEX_4	12th week post-fertilization stage	female	mTEC(II)	1
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	TEC(neuro)	1
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	cTEC	16
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(I)	1
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mTEC(II)	1
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_1	10th week post-fertilization stage	male	mcTEC	12
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	TEC(myo)	2
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	cTEC	5
+CELLxGENE_Park_TEC	F74	F74_TH_TOT_5GEX_2	10th week post-fertilization stage	male	mcTEC	8
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(myo)	7
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	TEC(neuro)	9
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	cTEC	34
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(I)	132
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(II)	47
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(III)	12
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mTEC(IV)	2
+CELLxGENE_Park_TEC	F83	F83_TH_EPCAM_5GEX	17th week post-fertilization stage	female	mcTEC	241
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(myo)	16
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	TEC(neuro)	44
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	cTEC	235
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(I)	852
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(II)	357
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(III)	116
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mTEC(IV)	28
+CELLxGENE_Park_TEC	T07	T07_TH_EPCAM_5GEX	3-month-old stage	male	mcTEC	396
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(myo)	2
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	TEC(neuro)	1
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	cTEC	30
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(I)	44
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(II)	19
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(III)	7
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mTEC(IV)	3
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_1	3-month-old stage	male	mcTEC	34
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	TEC(neuro)	4
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	cTEC	18
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(I)	34
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(II)	16
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mTEC(III)	9
+CELLxGENE_Park_TEC	T07	T07_TH_TOT_5GEX_2	3-month-old stage	male	mcTEC	18
