@@ -1,0 +1,15 @@
+candidate_id	accession	source	url_type	url	requires_manual_download	notes
+HTD_CELLXGENE_PARK_TEC	CELLxGENE de13e3e2-23b6-40ed-a413-e9e12d7d3910	CELLxGENE	collection_api	https://api.cellxgene.cziscience.com/curation/v1/collections/de13e3e2-23b6-40ed-a413-e9e12d7d3910	no	Public metadata endpoint used for file and field inventory
+HTD_CELLXGENE_PARK_TEC	CELLxGENE de13e3e2-23b6-40ed-a413-e9e12d7d3910	CELLxGENE	collection_page	https://cellxgene.cziscience.com/collections/de13e3e2-23b6-40ed-a413-e9e12d7d3910	no	Interactive collection page
+HTD_CELLXGENE_PARK_TEC	CELLxGENE de13e3e2-23b6-40ed-a413-e9e12d7d3910	CELLxGENE	dataset_explorer	https://cellxgene.cziscience.com/e/04c0bdd8-840f-488e-b72d-2a1229bc65db.cxg/	no	Explorer for Human Thymic Epithelial Cells - A cell atlas of human thymic development defines T cell repertoire formation
+HTD_CELLXGENE_YAYON_TEC	CELLxGENE fc19ae6c-d7c1-4dce-b703-62c5d52061b4	CELLxGENE	collection_api	https://api.cellxgene.cziscience.com/curation/v1/collections/fc19ae6c-d7c1-4dce-b703-62c5d52061b4	no	Public metadata endpoint used for file and field inventory
+HTD_CELLXGENE_YAYON_TEC	CELLxGENE fc19ae6c-d7c1-4dce-b703-62c5d52061b4	CELLxGENE	collection_page	https://cellxgene.cziscience.com/collections/fc19ae6c-d7c1-4dce-b703-62c5d52061b4	no	Interactive collection page
+HTD_CELLXGENE_YAYON_TEC	CELLxGENE fc19ae6c-d7c1-4dce-b703-62c5d52061b4	CELLxGENE	dataset_explorer	https://cellxgene.cziscience.com/e/93a3b257-359b-4266-b23f-64875d37a9e3.cxg/	no	Explorer for thymus scRNA-seq atlas - fibroblast subset
+HTD_CELLXGENE_YAYON_TEC	CELLxGENE fc19ae6c-d7c1-4dce-b703-62c5d52061b4	CELLxGENE	dataset_explorer	https://cellxgene.cziscience.com/e/63b0a978-5820-4c3a-96a8-af098c1b0166.cxg/	no	Explorer for thymus scRNA-seq atlas - thymic epithelial cell subset
+HTD_CELLXGENE_YAYON_TEC	CELLxGENE fc19ae6c-d7c1-4dce-b703-62c5d52061b4	CELLxGENE	dataset_explorer	https://cellxgene.cziscience.com/e/577b8c6e-892b-4d62-b140-1fdca940a649.cxg/	no	Explorer for thymus scRNA-seq atlas - vascular cell subset
+HTD_CELLXGENE_PARK_TEC	HCA c1810dbc-16d2-45c3-b45e-3e675f88d87b	Human Cell Atlas	project_page	https://explore.data.humancellatlas.org/projects/c1810dbc-16d2-45c3-b45e-3e675f88d87b	no	HCA project page for Park atlas metadata and accessions
+HTD_CELLXGENE_PARK_TEC	E-MTAB-8581	ArrayExpress/BioStudies	study_page	https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-8581	no	ArrayExpress/BioStudies landing page; CELLxGENE metadata is more directly useful for Stage 2
+HTD_GSE147520_STROMA	GSE147520	GEO	series_page	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147520	no	Official GEO series metadata page
+HTD_GSE147520_STROMA	GSE147520	GEO	supplementary_directory	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE147nnn/GSE147520/suppl/	no	FTP/HTTPS supplementary-file directory; inventory only
+HTD_GSE231906_AGING	GSE231906	GEO	series_page	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231906	no	Official GEO series metadata page
+HTD_GSE231906_AGING	GSE231906	GEO	supplementary_directory	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE231nnn/GSE231906/suppl/	no	FTP/HTTPS supplementary-file directory; inventory only
