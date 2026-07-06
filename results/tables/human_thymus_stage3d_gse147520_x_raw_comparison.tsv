@@ -1,0 +1,6 @@
+gene	x_var_id	raw_var_id	x_min	x_max	raw_min	raw_max	x_nonzero_fraction	raw_nonzero_fraction	x_unique_values	raw_unique_values	x_mostly_integer_like	raw_mostly_integer_like	x_raw_identical	notes
+LOX		LOX			0	2.74173		0.01871		92_in_5000_sample	not_available	no	no	Target-gene vector inspected where available.
+LOXL1		LOXL1			0	2.44945		0.0584512		306_in_5000_sample	not_available	no	no	Target-gene vector inspected where available.
+LOXL2		LOXL2			0	2.75129		0.0450165		216_in_5000_sample	not_available	no	no	Target-gene vector inspected where available.
+LOXL3		LOXL3			0	2.06462		0.00450165		28_in_5000_sample	not_available	yes	no	Target-gene vector inspected where available.
+LOXL4		LOXL4			0	2.75404		0.0208905		103_in_5000_sample	not_available	no	no	Target-gene vector inspected where available.

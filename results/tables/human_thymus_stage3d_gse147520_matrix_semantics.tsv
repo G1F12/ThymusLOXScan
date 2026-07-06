@@ -1,0 +1,26 @@
+metric	value
+h5ad_path	data\external\human_thymus\GSE147520\GSE147520_epithelial_cells.h5ad
+h5ad_gz_path	data\external\human_thymus\GSE147520\GSE147520_epithelial_cells.h5ad.gz
+n_obs	14217
+n_vars	804
+x_shape	(14217, 804)
+x_dtype	float32
+x_storage	dense
+x_class	h5py._hl.dataset.Dataset
+raw_exists	yes
+raw_x_shape	(14217, 26587)
+raw_x_dtype	float32
+raw_x_storage	sparse
+raw_x_class	anndata._core.sparse_dataset._CSRDataset
+layers	none
+uns_keys	cell_types_epith_colors; leiden; leiden_colors; leiden_plotter_colors; neighbors; pca; phase_colors; samples_colors
+schema_reference	
+schema_version	
+title	
+var_columns	gene_ids-0-Fetus-0; gene_ids-1-Fetus-0; gene_ids-2-Fetus-0; gene_ids-0-Peds-0; gene_ids-1-Peds-0; gene_ids-2-Peds-0; feature_types-2-Peds-0; gene_ids-3-Peds-0; feature_types-3-Peds-0; gene_ids-1; feature_types-1; n_cells; highly_variable; means; dispersions; dispersions_norm
+raw_var_columns	gene_ids-0-Fetus-0; gene_ids-1-Fetus-0; gene_ids-2-Fetus-0; gene_ids-0-Peds-0; gene_ids-1-Peds-0; gene_ids-2-Peds-0; feature_types-2-Peds-0; gene_ids-3-Peds-0; feature_types-3-Peds-0; gene_ids-1; feature_types-1; n_cells
+matrix_semantics_clear	partial
+recommended_detection_matrix	raw.X
+recommended_mean_value_matrix	not_selected
+mean_value_allowed	no
+reason	Target genes are absent from compact X but present in raw.X; detection summaries use raw.X > 0, while mean-value summaries are not generated because value semantics remain partial.

@@ -1,0 +1,216 @@
+gene	age_development	cell_types_epith	donor_count	sample_count	donor_sample_group_count	total_cells	median_detection_fraction	mean_detection_fraction	mean_value_summary	value_semantics_label	not_generated_reason
+LOX	Adult (25 yo)	Aire+ mTEC hi	1	1	1	11	0	0	not_generated	not_generated	
+LOX	Adult (25 yo)	Corneocyte-like mTEC	1	1	1	31	0.225806	0.225806	not_generated	not_generated	
+LOX	Adult (25 yo)	Immature TEC	1	1	1	1515	0.0283828	0.0283828	not_generated	not_generated	
+LOX	Adult (25 yo)	Myelin+	1	1	1	59	0	0	not_generated	not_generated	
+LOX	Adult (25 yo)	Myoid	1	1	1	35	0.0857143	0.0857143	not_generated	not_generated	
+LOX	Adult (25 yo)	Neuroendocrine	1	1	1	130	0.0384615	0.0384615	not_generated	not_generated	
+LOX	Adult (25 yo)	cTEC hi	1	1	1	2	0	0	not_generated	not_generated	
+LOX	Adult (25 yo)	cTEC lo	1	1	1	25	0	0	not_generated	not_generated	
+LOX	Adult (25 yo)	mTEC lo	1	1	1	823	0.0400972	0.0400972	not_generated	not_generated	
+LOX	Fetal (19 weeks)	Aire+ mTEC hi	1	1	1	79	0.0506329	0.0506329	not_generated	not_generated	
+LOX	Fetal (19 weeks)	Corneocyte-like mTEC	1	1	1	56	0.0178571	0.0178571	not_generated	not_generated	
+LOX	Fetal (19 weeks)	Immature TEC	1	1	1	1257	0.0182975	0.0182975	not_generated	not_generated	
+LOX	Fetal (19 weeks)	Myelin+	1	1	1	19	0.0526316	0.0526316	not_generated	not_generated	
+LOX	Fetal (19 weeks)	Myoid	1	1	1	104	0.0384615	0.0384615	not_generated	not_generated	
+LOX	Fetal (19 weeks)	Neuroendocrine	1	1	1	161	0.0186335	0.0186335	not_generated	not_generated	
+LOX	Fetal (19 weeks)	cTEC hi	1	1	1	2469	0.018631	0.018631	not_generated	not_generated	
+LOX	Fetal (19 weeks)	cTEC lo	1	1	1	2706	0.0103474	0.0103474	not_generated	not_generated	
+LOX	Fetal (19 weeks)	mTEC lo	1	1	1	888	0.0112613	0.0112613	not_generated	not_generated	
+LOX	Fetal (23 weeks)	Aire+ mTEC hi	1	1	1	98	0	0	not_generated	not_generated	
+LOX	Fetal (23 weeks)	Corneocyte-like mTEC	1	1	1	247	0.0121457	0.0121457	not_generated	not_generated	
+LOX	Fetal (23 weeks)	Immature TEC	1	1	1	259	0.019305	0.019305	not_generated	not_generated	
+LOX	Fetal (23 weeks)	Myelin+	1	1	1	88	0	0	not_generated	not_generated	
+LOX	Fetal (23 weeks)	Myoid	1	1	1	364	0.00549451	0.00549451	not_generated	not_generated	
+LOX	Fetal (23 weeks)	Neuroendocrine	1	1	1	722	0.00969529	0.00969529	not_generated	not_generated	
+LOX	Fetal (23 weeks)	cTEC hi	1	1	1	215	0.0139535	0.0139535	not_generated	not_generated	
+LOX	Fetal (23 weeks)	cTEC lo	1	1	1	379	0.0105541	0.0105541	not_generated	not_generated	
+LOX	Fetal (23 weeks)	mTEC lo	1	1	1	66	0	0	not_generated	not_generated	
+LOX	Postnatal (10 months)	Aire+ mTEC hi	1	1	1	35	0	0	not_generated	not_generated	
+LOX	Postnatal (10 months)	Corneocyte-like mTEC	1	1	1	295	0.040678	0.040678	not_generated	not_generated	
+LOX	Postnatal (10 months)	Immature TEC	1	1	1	264	0.0227273	0.0227273	not_generated	not_generated	
+LOX	Postnatal (10 months)	Myoid	1	1	1	40	0.025	0.025	not_generated	not_generated	
+LOX	Postnatal (10 months)	Neuroendocrine	1	1	1	69	0.0144928	0.0144928	not_generated	not_generated	
+LOX	Postnatal (10 months)	cTEC hi	1	1	1	151	0.013245	0.013245	not_generated	not_generated	
+LOX	Postnatal (10 months)	cTEC lo	1	1	1	47	0.0425532	0.0425532	not_generated	not_generated	
+LOX	Postnatal (10 months)	mTEC lo	1	1	1	273	0.018315	0.018315	not_generated	not_generated	
+LOX	Postnatal (6 days)	Aire+ mTEC hi	1	1	1	20	0	0	not_generated	not_generated	
+LOX	Postnatal (6 days)	Corneocyte-like mTEC	1	1	1	83	0	0	not_generated	not_generated	
+LOX	Postnatal (6 days)	Immature TEC	1	1	1	12	0	0	not_generated	not_generated	
+LOX	Postnatal (6 days)	Myoid	1	1	1	4	0	0	not_generated	not_generated	
+LOX	Postnatal (6 days)	Neuroendocrine	1	1	1	2	0	0	not_generated	not_generated	
+LOX	Postnatal (6 days)	cTEC hi	1	1	1	93	0.0107527	0.0107527	not_generated	not_generated	
+LOX	Postnatal (6 days)	cTEC lo	1	1	1	5	0	0	not_generated	not_generated	
+LOX	Postnatal (6 days)	mTEC lo	1	1	1	16	0.0625	0.0625	not_generated	not_generated	
+LOXL1	Adult (25 yo)	Aire+ mTEC hi	1	1	1	11	0.0909091	0.0909091	not_generated	not_generated	
+LOXL1	Adult (25 yo)	Corneocyte-like mTEC	1	1	1	31	0.0645161	0.0645161	not_generated	not_generated	
+LOXL1	Adult (25 yo)	Immature TEC	1	1	1	1515	0.00792079	0.00792079	not_generated	not_generated	
+LOXL1	Adult (25 yo)	Myelin+	1	1	1	59	0	0	not_generated	not_generated	
+LOXL1	Adult (25 yo)	Myoid	1	1	1	35	0.0571429	0.0571429	not_generated	not_generated	
+LOXL1	Adult (25 yo)	Neuroendocrine	1	1	1	130	0.0692308	0.0692308	not_generated	not_generated	
+LOXL1	Adult (25 yo)	cTEC hi	1	1	1	2	0	0	not_generated	not_generated	
+LOXL1	Adult (25 yo)	cTEC lo	1	1	1	25	0.04	0.04	not_generated	not_generated	
+LOXL1	Adult (25 yo)	mTEC lo	1	1	1	823	0.0291616	0.0291616	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	Aire+ mTEC hi	1	1	1	79	0.0886076	0.0886076	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	Corneocyte-like mTEC	1	1	1	56	0.107143	0.107143	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	Immature TEC	1	1	1	1257	0.052506	0.052506	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	Myelin+	1	1	1	19	0.157895	0.157895	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	Myoid	1	1	1	104	0.134615	0.134615	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	Neuroendocrine	1	1	1	161	0.0931677	0.0931677	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	cTEC hi	1	1	1	2469	0.0741191	0.0741191	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	cTEC lo	1	1	1	2706	0.0764967	0.0764967	not_generated	not_generated	
+LOXL1	Fetal (19 weeks)	mTEC lo	1	1	1	888	0.0743243	0.0743243	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	Aire+ mTEC hi	1	1	1	98	0.0510204	0.0510204	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	Corneocyte-like mTEC	1	1	1	247	0.0283401	0.0283401	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	Immature TEC	1	1	1	259	0.042471	0.042471	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	Myelin+	1	1	1	88	0.0340909	0.0340909	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	Myoid	1	1	1	364	0.0686813	0.0686813	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	Neuroendocrine	1	1	1	722	0.0692521	0.0692521	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	cTEC hi	1	1	1	215	0.0418605	0.0418605	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	cTEC lo	1	1	1	379	0.0817942	0.0817942	not_generated	not_generated	
+LOXL1	Fetal (23 weeks)	mTEC lo	1	1	1	66	0.151515	0.151515	not_generated	not_generated	
+LOXL1	Postnatal (10 months)	Aire+ mTEC hi	1	1	1	35	0.0857143	0.0857143	not_generated	not_generated	
+LOXL1	Postnatal (10 months)	Corneocyte-like mTEC	1	1	1	295	0.0474576	0.0474576	not_generated	not_generated	
+LOXL1	Postnatal (10 months)	Immature TEC	1	1	1	264	0.0265152	0.0265152	not_generated	not_generated	
+LOXL1	Postnatal (10 months)	Myoid	1	1	1	40	0	0	not_generated	not_generated	
+LOXL1	Postnatal (10 months)	Neuroendocrine	1	1	1	69	0.0434783	0.0434783	not_generated	not_generated	
+LOXL1	Postnatal (10 months)	cTEC hi	1	1	1	151	0.0331126	0.0331126	not_generated	not_generated	
+LOXL1	Postnatal (10 months)	cTEC lo	1	1	1	47	0.0425532	0.0425532	not_generated	not_generated	
+LOXL1	Postnatal (10 months)	mTEC lo	1	1	1	273	0.0879121	0.0879121	not_generated	not_generated	
+LOXL1	Postnatal (6 days)	Aire+ mTEC hi	1	1	1	20	0	0	not_generated	not_generated	
+LOXL1	Postnatal (6 days)	Corneocyte-like mTEC	1	1	1	83	0	0	not_generated	not_generated	
+LOXL1	Postnatal (6 days)	Immature TEC	1	1	1	12	0	0	not_generated	not_generated	
+LOXL1	Postnatal (6 days)	Myoid	1	1	1	4	0	0	not_generated	not_generated	
+LOXL1	Postnatal (6 days)	Neuroendocrine	1	1	1	2	0	0	not_generated	not_generated	
+LOXL1	Postnatal (6 days)	cTEC hi	1	1	1	93	0.0430108	0.0430108	not_generated	not_generated	
+LOXL1	Postnatal (6 days)	cTEC lo	1	1	1	5	0	0	not_generated	not_generated	
+LOXL1	Postnatal (6 days)	mTEC lo	1	1	1	16	0	0	not_generated	not_generated	
+LOXL2	Adult (25 yo)	Aire+ mTEC hi	1	1	1	11	0.0909091	0.0909091	not_generated	not_generated	
+LOXL2	Adult (25 yo)	Corneocyte-like mTEC	1	1	1	31	0.0322581	0.0322581	not_generated	not_generated	
+LOXL2	Adult (25 yo)	Immature TEC	1	1	1	1515	0.0132013	0.0132013	not_generated	not_generated	
+LOXL2	Adult (25 yo)	Myelin+	1	1	1	59	0.0508475	0.0508475	not_generated	not_generated	
+LOXL2	Adult (25 yo)	Myoid	1	1	1	35	0.0571429	0.0571429	not_generated	not_generated	
+LOXL2	Adult (25 yo)	Neuroendocrine	1	1	1	130	0.0307692	0.0307692	not_generated	not_generated	
+LOXL2	Adult (25 yo)	cTEC hi	1	1	1	2	0	0	not_generated	not_generated	
+LOXL2	Adult (25 yo)	cTEC lo	1	1	1	25	0	0	not_generated	not_generated	
+LOXL2	Adult (25 yo)	mTEC lo	1	1	1	823	0.0109356	0.0109356	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	Aire+ mTEC hi	1	1	1	79	0.0506329	0.0506329	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	Corneocyte-like mTEC	1	1	1	56	0.0535714	0.0535714	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	Immature TEC	1	1	1	1257	0.0278441	0.0278441	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	Myelin+	1	1	1	19	0.0526316	0.0526316	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	Myoid	1	1	1	104	0.115385	0.115385	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	Neuroendocrine	1	1	1	161	0.0372671	0.0372671	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	cTEC hi	1	1	1	2469	0.054273	0.054273	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	cTEC lo	1	1	1	2706	0.0395418	0.0395418	not_generated	not_generated	
+LOXL2	Fetal (19 weeks)	mTEC lo	1	1	1	888	0.0574324	0.0574324	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	Aire+ mTEC hi	1	1	1	98	0.0510204	0.0510204	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	Corneocyte-like mTEC	1	1	1	247	0.0607287	0.0607287	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	Immature TEC	1	1	1	259	0.0617761	0.0617761	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	Myelin+	1	1	1	88	0.0568182	0.0568182	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	Myoid	1	1	1	364	0.252747	0.252747	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	Neuroendocrine	1	1	1	722	0.0526316	0.0526316	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	cTEC hi	1	1	1	215	0.0697674	0.0697674	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	cTEC lo	1	1	1	379	0.055409	0.055409	not_generated	not_generated	
+LOXL2	Fetal (23 weeks)	mTEC lo	1	1	1	66	0.106061	0.106061	not_generated	not_generated	
+LOXL2	Postnatal (10 months)	Aire+ mTEC hi	1	1	1	35	0	0	not_generated	not_generated	
+LOXL2	Postnatal (10 months)	Corneocyte-like mTEC	1	1	1	295	0.0237288	0.0237288	not_generated	not_generated	
+LOXL2	Postnatal (10 months)	Immature TEC	1	1	1	264	0.0227273	0.0227273	not_generated	not_generated	
+LOXL2	Postnatal (10 months)	Myoid	1	1	1	40	0.225	0.225	not_generated	not_generated	
+LOXL2	Postnatal (10 months)	Neuroendocrine	1	1	1	69	0	0	not_generated	not_generated	
+LOXL2	Postnatal (10 months)	cTEC hi	1	1	1	151	0.0264901	0.0264901	not_generated	not_generated	
+LOXL2	Postnatal (10 months)	cTEC lo	1	1	1	47	0	0	not_generated	not_generated	
+LOXL2	Postnatal (10 months)	mTEC lo	1	1	1	273	0.018315	0.018315	not_generated	not_generated	
+LOXL2	Postnatal (6 days)	Aire+ mTEC hi	1	1	1	20	0	0	not_generated	not_generated	
+LOXL2	Postnatal (6 days)	Corneocyte-like mTEC	1	1	1	83	0	0	not_generated	not_generated	
+LOXL2	Postnatal (6 days)	Immature TEC	1	1	1	12	0	0	not_generated	not_generated	
+LOXL2	Postnatal (6 days)	Myoid	1	1	1	4	0.5	0.5	not_generated	not_generated	
+LOXL2	Postnatal (6 days)	Neuroendocrine	1	1	1	2	0	0	not_generated	not_generated	
+LOXL2	Postnatal (6 days)	cTEC hi	1	1	1	93	0	0	not_generated	not_generated	
+LOXL2	Postnatal (6 days)	cTEC lo	1	1	1	5	0	0	not_generated	not_generated	
+LOXL2	Postnatal (6 days)	mTEC lo	1	1	1	16	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	Aire+ mTEC hi	1	1	1	11	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	Corneocyte-like mTEC	1	1	1	31	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	Immature TEC	1	1	1	1515	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	Myelin+	1	1	1	59	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	Myoid	1	1	1	35	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	Neuroendocrine	1	1	1	130	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	cTEC hi	1	1	1	2	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	cTEC lo	1	1	1	25	0	0	not_generated	not_generated	
+LOXL3	Adult (25 yo)	mTEC lo	1	1	1	823	0.00121507	0.00121507	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	Aire+ mTEC hi	1	1	1	79	0	0	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	Corneocyte-like mTEC	1	1	1	56	0.0178571	0.0178571	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	Immature TEC	1	1	1	1257	0.00159109	0.00159109	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	Myelin+	1	1	1	19	0.157895	0.157895	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	Myoid	1	1	1	104	0.0192308	0.0192308	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	Neuroendocrine	1	1	1	161	0	0	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	cTEC hi	1	1	1	2469	0.00405022	0.00405022	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	cTEC lo	1	1	1	2706	0.00369549	0.00369549	not_generated	not_generated	
+LOXL3	Fetal (19 weeks)	mTEC lo	1	1	1	888	0.00225225	0.00225225	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	Aire+ mTEC hi	1	1	1	98	0	0	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	Corneocyte-like mTEC	1	1	1	247	0.00404858	0.00404858	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	Immature TEC	1	1	1	259	0	0	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	Myelin+	1	1	1	88	0.0340909	0.0340909	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	Myoid	1	1	1	364	0.0164835	0.0164835	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	Neuroendocrine	1	1	1	722	0.0152355	0.0152355	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	cTEC hi	1	1	1	215	0.00930233	0.00930233	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	cTEC lo	1	1	1	379	0	0	not_generated	not_generated	
+LOXL3	Fetal (23 weeks)	mTEC lo	1	1	1	66	0.0151515	0.0151515	not_generated	not_generated	
+LOXL3	Postnatal (10 months)	Aire+ mTEC hi	1	1	1	35	0	0	not_generated	not_generated	
+LOXL3	Postnatal (10 months)	Corneocyte-like mTEC	1	1	1	295	0	0	not_generated	not_generated	
+LOXL3	Postnatal (10 months)	Immature TEC	1	1	1	264	0.0151515	0.0151515	not_generated	not_generated	
+LOXL3	Postnatal (10 months)	Myoid	1	1	1	40	0	0	not_generated	not_generated	
+LOXL3	Postnatal (10 months)	Neuroendocrine	1	1	1	69	0.057971	0.057971	not_generated	not_generated	
+LOXL3	Postnatal (10 months)	cTEC hi	1	1	1	151	0	0	not_generated	not_generated	
+LOXL3	Postnatal (10 months)	cTEC lo	1	1	1	47	0	0	not_generated	not_generated	
+LOXL3	Postnatal (10 months)	mTEC lo	1	1	1	273	0.003663	0.003663	not_generated	not_generated	
+LOXL3	Postnatal (6 days)	Aire+ mTEC hi	1	1	1	20	0	0	not_generated	not_generated	
+LOXL3	Postnatal (6 days)	Corneocyte-like mTEC	1	1	1	83	0	0	not_generated	not_generated	
+LOXL3	Postnatal (6 days)	Immature TEC	1	1	1	12	0	0	not_generated	not_generated	
+LOXL3	Postnatal (6 days)	Myoid	1	1	1	4	0	0	not_generated	not_generated	
+LOXL3	Postnatal (6 days)	Neuroendocrine	1	1	1	2	0	0	not_generated	not_generated	
+LOXL3	Postnatal (6 days)	cTEC hi	1	1	1	93	0	0	not_generated	not_generated	
+LOXL3	Postnatal (6 days)	cTEC lo	1	1	1	5	0	0	not_generated	not_generated	
+LOXL3	Postnatal (6 days)	mTEC lo	1	1	1	16	0	0	not_generated	not_generated	
+LOXL4	Adult (25 yo)	Aire+ mTEC hi	1	1	1	11	0	0	not_generated	not_generated	
+LOXL4	Adult (25 yo)	Corneocyte-like mTEC	1	1	1	31	0.0322581	0.0322581	not_generated	not_generated	
+LOXL4	Adult (25 yo)	Immature TEC	1	1	1	1515	0.0864686	0.0864686	not_generated	not_generated	
+LOXL4	Adult (25 yo)	Myelin+	1	1	1	59	0.0169492	0.0169492	not_generated	not_generated	
+LOXL4	Adult (25 yo)	Myoid	1	1	1	35	0.171429	0.171429	not_generated	not_generated	
+LOXL4	Adult (25 yo)	Neuroendocrine	1	1	1	130	0.0153846	0.0153846	not_generated	not_generated	
+LOXL4	Adult (25 yo)	cTEC hi	1	1	1	2	0	0	not_generated	not_generated	
+LOXL4	Adult (25 yo)	cTEC lo	1	1	1	25	0.04	0.04	not_generated	not_generated	
+LOXL4	Adult (25 yo)	mTEC lo	1	1	1	823	0.0595383	0.0595383	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	Aire+ mTEC hi	1	1	1	79	0	0	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	Corneocyte-like mTEC	1	1	1	56	0	0	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	Immature TEC	1	1	1	1257	0.00636436	0.00636436	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	Myelin+	1	1	1	19	0	0	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	Myoid	1	1	1	104	0	0	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	Neuroendocrine	1	1	1	161	0	0	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	cTEC hi	1	1	1	2469	0.00445525	0.00445525	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	cTEC lo	1	1	1	2706	0.00443459	0.00443459	not_generated	not_generated	
+LOXL4	Fetal (19 weeks)	mTEC lo	1	1	1	888	0.00900901	0.00900901	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	Aire+ mTEC hi	1	1	1	98	0.0102041	0.0102041	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	Corneocyte-like mTEC	1	1	1	247	0	0	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	Immature TEC	1	1	1	259	0.011583	0.011583	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	Myelin+	1	1	1	88	0	0	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	Myoid	1	1	1	364	0.00274725	0.00274725	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	Neuroendocrine	1	1	1	722	0.00415512	0.00415512	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	cTEC hi	1	1	1	215	0.00465116	0.00465116	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	cTEC lo	1	1	1	379	0	0	not_generated	not_generated	
+LOXL4	Fetal (23 weeks)	mTEC lo	1	1	1	66	0	0	not_generated	not_generated	
+LOXL4	Postnatal (10 months)	Aire+ mTEC hi	1	1	1	35	0	0	not_generated	not_generated	
+LOXL4	Postnatal (10 months)	Corneocyte-like mTEC	1	1	1	295	0.0135593	0.0135593	not_generated	not_generated	
+LOXL4	Postnatal (10 months)	Immature TEC	1	1	1	264	0.0530303	0.0530303	not_generated	not_generated	
+LOXL4	Postnatal (10 months)	Myoid	1	1	1	40	0.175	0.175	not_generated	not_generated	
+LOXL4	Postnatal (10 months)	Neuroendocrine	1	1	1	69	0	0	not_generated	not_generated	
+LOXL4	Postnatal (10 months)	cTEC hi	1	1	1	151	0.00662252	0.00662252	not_generated	not_generated	
+LOXL4	Postnatal (10 months)	cTEC lo	1	1	1	47	0.0212766	0.0212766	not_generated	not_generated	
+LOXL4	Postnatal (10 months)	mTEC lo	1	1	1	273	0.0952381	0.0952381	not_generated	not_generated	
+LOXL4	Postnatal (6 days)	Aire+ mTEC hi	1	1	1	20	0	0	not_generated	not_generated	
+LOXL4	Postnatal (6 days)	Corneocyte-like mTEC	1	1	1	83	0	0	not_generated	not_generated	
+LOXL4	Postnatal (6 days)	Immature TEC	1	1	1	12	0.166667	0.166667	not_generated	not_generated	
+LOXL4	Postnatal (6 days)	Myoid	1	1	1	4	0	0	not_generated	not_generated	
+LOXL4	Postnatal (6 days)	Neuroendocrine	1	1	1	2	0	0	not_generated	not_generated	
+LOXL4	Postnatal (6 days)	cTEC hi	1	1	1	93	0	0	not_generated	not_generated	
+LOXL4	Postnatal (6 days)	cTEC lo	1	1	1	5	0	0	not_generated	not_generated	
+LOXL4	Postnatal (6 days)	mTEC lo	1	1	1	16	0.1875	0.1875	not_generated	not_generated	

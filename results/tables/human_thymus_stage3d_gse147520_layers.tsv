@@ -1,0 +1,3 @@
+matrix_name	available	matrix_type	notes
+X	yes	h5py._hl.dataset.Dataset; shape=(14217, 804); dtype=float32	Primary matrix present; target-gene availability and value semantics require audit.
+raw.X	yes	anndata._core.sparse_dataset._CSRDataset; shape=(14217, 26587); dtype=float32	Raw object status recorded from AnnData.

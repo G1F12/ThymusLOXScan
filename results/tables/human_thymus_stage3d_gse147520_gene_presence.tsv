@@ -1,0 +1,6 @@
+target_gene	present	match_location	matching_var_ids	matching_raw_var_ids	notes
+LOX	yes	raw.var		LOX	Target gene detected.
+LOXL1	yes	raw.var		LOXL1	Target gene detected.
+LOXL2	yes	raw.var		LOXL2	Target gene detected.
+LOXL3	yes	raw.var		LOXL3	Target gene detected.
+LOXL4	yes	raw.var		LOXL4	Target gene detected.

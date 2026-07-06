@@ -1,0 +1,11 @@
+field_name	dtype	non_null_count	unique_count	examples	candidate_role
+n_genes	int64	14217	3137	1053; 773; 1272; 722; 1415; 2066; 1075; 805; 1187; 1203; 834; 1051	other
+percent_mito	float32	14217	13556	0.018401938; 0.024840312; 0.025029797; 0.02549575; 0.030841434; 0.025546739; 0.022040816; 0.021364575; 0.020280236; 0.013383522; 0.018033741; 0.017971246	other
+n_counts	float32	14217	6829	2065.0; 1409.0; 2517.0; 1412.0; 2983.0; 5167.0; 2450.0; 1451.0; 2712.0; 2391.0; 1719.0; 2504.0	other
+S_score	float32	14217	14217	-0.020894155; 0.027784698; 0.066656776; -0.11465213; 0.022946008; 0.3551702; -0.008525036; -0.07761843; 0.46439436; 0.19185784; -0.13477936; -0.15249127	other
+G2M_score	float32	14217	14212	0.15041359; -0.060643584; 0.031185916; 0.016879529; -0.19800012; 0.18722512; 0.13173704; 0.019704118; 0.29893303; 0.17867674; -0.15204987; -0.0380198	other
+phase	category	14217	3	G2M; S; G1	other
+leiden	category	14217	9	0; 1; 3; 2; 4; 8; 5; 7; 9	cell_type
+leiden_plotter	category	14217	9	0; 1; 3; 2; 4; 8; 5; 7; 9	cell_type
+cell_types_epith	category	14217	9	Immature TEC; cTEC lo; mTEC lo; cTEC hi; Neuroendocrine; Aire+ mTEC hi; Corneocyte-like mTEC; Myoid; Myelin+	cell_type
+samples	category	14217	5	Fetal (19 weeks); Fetal (23 weeks); Postnatal (10 months); Postnatal (6 days); Adult (25 yo)	sample;age_or_development

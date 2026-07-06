@@ -1,0 +1,216 @@
+gene	donor_id	samples	age_development	sex	cell_types_epith	n_cells	n_detected	detection_fraction	matrix_used	not_generated_reason
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Aire+ mTEC hi	11	0	0	raw.X	
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Corneocyte-like mTEC	31	7	0.225806	raw.X	
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Immature TEC	1515	43	0.0283828	raw.X	
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myelin+	59	0	0	raw.X	
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myoid	35	3	0.0857143	raw.X	
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Neuroendocrine	130	5	0.0384615	raw.X	
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC hi	2	0	0	raw.X	
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC lo	25	0	0	raw.X	
+LOX	not_available	Adult (25 yo)	Adult (25 yo)	not_available	mTEC lo	823	33	0.0400972	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Aire+ mTEC hi	79	4	0.0506329	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Corneocyte-like mTEC	56	1	0.0178571	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Immature TEC	1257	23	0.0182975	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myelin+	19	1	0.0526316	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myoid	104	4	0.0384615	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Neuroendocrine	161	3	0.0186335	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC hi	2469	46	0.018631	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC lo	2706	28	0.0103474	raw.X	
+LOX	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	mTEC lo	888	10	0.0112613	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Aire+ mTEC hi	98	0	0	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Corneocyte-like mTEC	247	3	0.0121457	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Immature TEC	259	5	0.019305	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myelin+	88	0	0	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myoid	364	2	0.00549451	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Neuroendocrine	722	7	0.00969529	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC hi	215	3	0.0139535	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC lo	379	4	0.0105541	raw.X	
+LOX	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	mTEC lo	66	0	0	raw.X	
+LOX	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Aire+ mTEC hi	35	0	0	raw.X	
+LOX	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Corneocyte-like mTEC	295	12	0.040678	raw.X	
+LOX	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Immature TEC	264	6	0.0227273	raw.X	
+LOX	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Myoid	40	1	0.025	raw.X	
+LOX	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Neuroendocrine	69	1	0.0144928	raw.X	
+LOX	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC hi	151	2	0.013245	raw.X	
+LOX	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC lo	47	2	0.0425532	raw.X	
+LOX	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	mTEC lo	273	5	0.018315	raw.X	
+LOX	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Aire+ mTEC hi	20	0	0	raw.X	
+LOX	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Corneocyte-like mTEC	83	0	0	raw.X	
+LOX	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Immature TEC	12	0	0	raw.X	
+LOX	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Myoid	4	0	0	raw.X	
+LOX	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Neuroendocrine	2	0	0	raw.X	
+LOX	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC hi	93	1	0.0107527	raw.X	
+LOX	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC lo	5	0	0	raw.X	
+LOX	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	mTEC lo	16	1	0.0625	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Aire+ mTEC hi	11	1	0.0909091	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Corneocyte-like mTEC	31	2	0.0645161	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Immature TEC	1515	12	0.00792079	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myelin+	59	0	0	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myoid	35	2	0.0571429	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Neuroendocrine	130	9	0.0692308	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC hi	2	0	0	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC lo	25	1	0.04	raw.X	
+LOXL1	not_available	Adult (25 yo)	Adult (25 yo)	not_available	mTEC lo	823	24	0.0291616	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Aire+ mTEC hi	79	7	0.0886076	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Corneocyte-like mTEC	56	6	0.107143	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Immature TEC	1257	66	0.052506	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myelin+	19	3	0.157895	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myoid	104	14	0.134615	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Neuroendocrine	161	15	0.0931677	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC hi	2469	183	0.0741191	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC lo	2706	207	0.0764967	raw.X	
+LOXL1	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	mTEC lo	888	66	0.0743243	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Aire+ mTEC hi	98	5	0.0510204	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Corneocyte-like mTEC	247	7	0.0283401	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Immature TEC	259	11	0.042471	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myelin+	88	3	0.0340909	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myoid	364	25	0.0686813	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Neuroendocrine	722	50	0.0692521	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC hi	215	9	0.0418605	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC lo	379	31	0.0817942	raw.X	
+LOXL1	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	mTEC lo	66	10	0.151515	raw.X	
+LOXL1	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Aire+ mTEC hi	35	3	0.0857143	raw.X	
+LOXL1	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Corneocyte-like mTEC	295	14	0.0474576	raw.X	
+LOXL1	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Immature TEC	264	7	0.0265152	raw.X	
+LOXL1	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Myoid	40	0	0	raw.X	
+LOXL1	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Neuroendocrine	69	3	0.0434783	raw.X	
+LOXL1	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC hi	151	5	0.0331126	raw.X	
+LOXL1	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC lo	47	2	0.0425532	raw.X	
+LOXL1	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	mTEC lo	273	24	0.0879121	raw.X	
+LOXL1	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Aire+ mTEC hi	20	0	0	raw.X	
+LOXL1	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Corneocyte-like mTEC	83	0	0	raw.X	
+LOXL1	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Immature TEC	12	0	0	raw.X	
+LOXL1	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Myoid	4	0	0	raw.X	
+LOXL1	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Neuroendocrine	2	0	0	raw.X	
+LOXL1	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC hi	93	4	0.0430108	raw.X	
+LOXL1	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC lo	5	0	0	raw.X	
+LOXL1	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	mTEC lo	16	0	0	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Aire+ mTEC hi	11	1	0.0909091	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Corneocyte-like mTEC	31	1	0.0322581	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Immature TEC	1515	20	0.0132013	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myelin+	59	3	0.0508475	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myoid	35	2	0.0571429	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Neuroendocrine	130	4	0.0307692	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC hi	2	0	0	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC lo	25	0	0	raw.X	
+LOXL2	not_available	Adult (25 yo)	Adult (25 yo)	not_available	mTEC lo	823	9	0.0109356	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Aire+ mTEC hi	79	4	0.0506329	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Corneocyte-like mTEC	56	3	0.0535714	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Immature TEC	1257	35	0.0278441	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myelin+	19	1	0.0526316	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myoid	104	12	0.115385	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Neuroendocrine	161	6	0.0372671	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC hi	2469	134	0.054273	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC lo	2706	107	0.0395418	raw.X	
+LOXL2	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	mTEC lo	888	51	0.0574324	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Aire+ mTEC hi	98	5	0.0510204	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Corneocyte-like mTEC	247	15	0.0607287	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Immature TEC	259	16	0.0617761	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myelin+	88	5	0.0568182	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myoid	364	92	0.252747	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Neuroendocrine	722	38	0.0526316	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC hi	215	15	0.0697674	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC lo	379	21	0.055409	raw.X	
+LOXL2	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	mTEC lo	66	7	0.106061	raw.X	
+LOXL2	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Aire+ mTEC hi	35	0	0	raw.X	
+LOXL2	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Corneocyte-like mTEC	295	7	0.0237288	raw.X	
+LOXL2	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Immature TEC	264	6	0.0227273	raw.X	
+LOXL2	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Myoid	40	9	0.225	raw.X	
+LOXL2	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Neuroendocrine	69	0	0	raw.X	
+LOXL2	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC hi	151	4	0.0264901	raw.X	
+LOXL2	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC lo	47	0	0	raw.X	
+LOXL2	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	mTEC lo	273	5	0.018315	raw.X	
+LOXL2	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Aire+ mTEC hi	20	0	0	raw.X	
+LOXL2	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Corneocyte-like mTEC	83	0	0	raw.X	
+LOXL2	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Immature TEC	12	0	0	raw.X	
+LOXL2	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Myoid	4	2	0.5	raw.X	
+LOXL2	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Neuroendocrine	2	0	0	raw.X	
+LOXL2	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC hi	93	0	0	raw.X	
+LOXL2	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC lo	5	0	0	raw.X	
+LOXL2	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	mTEC lo	16	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Aire+ mTEC hi	11	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Corneocyte-like mTEC	31	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Immature TEC	1515	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myelin+	59	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myoid	35	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Neuroendocrine	130	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC hi	2	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC lo	25	0	0	raw.X	
+LOXL3	not_available	Adult (25 yo)	Adult (25 yo)	not_available	mTEC lo	823	1	0.00121507	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Aire+ mTEC hi	79	0	0	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Corneocyte-like mTEC	56	1	0.0178571	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Immature TEC	1257	2	0.00159109	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myelin+	19	3	0.157895	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myoid	104	2	0.0192308	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Neuroendocrine	161	0	0	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC hi	2469	10	0.00405022	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC lo	2706	10	0.00369549	raw.X	
+LOXL3	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	mTEC lo	888	2	0.00225225	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Aire+ mTEC hi	98	0	0	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Corneocyte-like mTEC	247	1	0.00404858	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Immature TEC	259	0	0	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myelin+	88	3	0.0340909	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myoid	364	6	0.0164835	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Neuroendocrine	722	11	0.0152355	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC hi	215	2	0.00930233	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC lo	379	0	0	raw.X	
+LOXL3	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	mTEC lo	66	1	0.0151515	raw.X	
+LOXL3	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Aire+ mTEC hi	35	0	0	raw.X	
+LOXL3	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Corneocyte-like mTEC	295	0	0	raw.X	
+LOXL3	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Immature TEC	264	4	0.0151515	raw.X	
+LOXL3	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Myoid	40	0	0	raw.X	
+LOXL3	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Neuroendocrine	69	4	0.057971	raw.X	
+LOXL3	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC hi	151	0	0	raw.X	
+LOXL3	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC lo	47	0	0	raw.X	
+LOXL3	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	mTEC lo	273	1	0.003663	raw.X	
+LOXL3	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Aire+ mTEC hi	20	0	0	raw.X	
+LOXL3	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Corneocyte-like mTEC	83	0	0	raw.X	
+LOXL3	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Immature TEC	12	0	0	raw.X	
+LOXL3	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Myoid	4	0	0	raw.X	
+LOXL3	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Neuroendocrine	2	0	0	raw.X	
+LOXL3	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC hi	93	0	0	raw.X	
+LOXL3	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC lo	5	0	0	raw.X	
+LOXL3	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	mTEC lo	16	0	0	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Aire+ mTEC hi	11	0	0	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Corneocyte-like mTEC	31	1	0.0322581	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Immature TEC	1515	131	0.0864686	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myelin+	59	1	0.0169492	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Myoid	35	6	0.171429	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	Neuroendocrine	130	2	0.0153846	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC hi	2	0	0	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	cTEC lo	25	1	0.04	raw.X	
+LOXL4	not_available	Adult (25 yo)	Adult (25 yo)	not_available	mTEC lo	823	49	0.0595383	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Aire+ mTEC hi	79	0	0	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Corneocyte-like mTEC	56	0	0	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Immature TEC	1257	8	0.00636436	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myelin+	19	0	0	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Myoid	104	0	0	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	Neuroendocrine	161	0	0	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC hi	2469	11	0.00445525	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	cTEC lo	2706	12	0.00443459	raw.X	
+LOXL4	not_available	Fetal (19 weeks)	Fetal (19 weeks)	not_available	mTEC lo	888	8	0.00900901	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Aire+ mTEC hi	98	1	0.0102041	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Corneocyte-like mTEC	247	0	0	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Immature TEC	259	3	0.011583	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myelin+	88	0	0	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Myoid	364	1	0.00274725	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	Neuroendocrine	722	3	0.00415512	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC hi	215	1	0.00465116	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	cTEC lo	379	0	0	raw.X	
+LOXL4	not_available	Fetal (23 weeks)	Fetal (23 weeks)	not_available	mTEC lo	66	0	0	raw.X	
+LOXL4	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Aire+ mTEC hi	35	0	0	raw.X	
+LOXL4	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Corneocyte-like mTEC	295	4	0.0135593	raw.X	
+LOXL4	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Immature TEC	264	14	0.0530303	raw.X	
+LOXL4	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Myoid	40	7	0.175	raw.X	
+LOXL4	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	Neuroendocrine	69	0	0	raw.X	
+LOXL4	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC hi	151	1	0.00662252	raw.X	
+LOXL4	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	cTEC lo	47	1	0.0212766	raw.X	
+LOXL4	not_available	Postnatal (10 months)	Postnatal (10 months)	not_available	mTEC lo	273	26	0.0952381	raw.X	
+LOXL4	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Aire+ mTEC hi	20	0	0	raw.X	
+LOXL4	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Corneocyte-like mTEC	83	0	0	raw.X	
+LOXL4	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Immature TEC	12	2	0.166667	raw.X	
+LOXL4	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Myoid	4	0	0	raw.X	
+LOXL4	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	Neuroendocrine	2	0	0	raw.X	
+LOXL4	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC hi	93	0	0	raw.X	
+LOXL4	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	cTEC lo	5	0	0	raw.X	
+LOXL4	not_available	Postnatal (6 days)	Postnatal (6 days)	not_available	mTEC lo	16	3	0.1875	raw.X	

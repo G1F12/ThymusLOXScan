@@ -1,0 +1,13 @@
+metric	value
+h5ad_path	data\external\human_thymus\GSE147520\GSE147520_epithelial_cells.h5ad
+h5ad_gz_path	data\external\human_thymus\GSE147520\GSE147520_epithelial_cells.h5ad.gz
+file_size_bytes	261986958
+n_obs	14217
+n_vars	804
+raw_exists	yes
+x_matrix_type	h5py._hl.dataset.Dataset; shape=(14217, 804); dtype=float32
+raw_x_matrix_type	anndata._core.sparse_dataset._CSRDataset; shape=(14217, 26587); dtype=float32
+n_obs_columns	10
+n_var_columns	16
+n_layers	0
+uns_keys	cell_types_epith_colors; leiden; leiden_colors; leiden_plotter_colors; neighbors; pca; phase_colors; samples_colors
