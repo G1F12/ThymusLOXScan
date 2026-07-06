@@ -1,0 +1,8 @@
+field_name	dtype	non_null_count	unique_count	examples	candidate_role
+feature_is_filtered	bool	35477	1	False	feature_metadata
+n_cells	float64	26804	7058	86.0; 19.0; 20.0; 1030.0; 7.0; 1429.0; 278.0; 191.0; 6.0; 13.0; 316.0; 5208.0	feature_metadata
+feature_name	category	35477	35468	MIR1302-2HG; FAM138A; OR4F5; ENSG00000239945; ENSG00000239906; ENSG00000241860; ENSG00000241599; ENSG00000286448; ENSG00000236601; OR4F29; ENSG00000235146; OR4F16	gene_symbol
+feature_reference	category	35477	1	NCBITaxon:9606	feature_metadata
+feature_biotype	category	35477	1	gene	feature_metadata
+feature_length	category	35477	5038	517; 1015; 2618; 1319; 323; 861; 457; 728; 620; 939; 675; 456	feature_metadata
+feature_type	category	35477	22	lncRNA; protein_coding; transcribed_unprocessed_pseudogene; IG_V_pseudogene; unprocessed_pseudogene; processed_pseudogene; IG_V_gene; IG_C_gene; IG_J_gene; transcribed_unitary_pseudogene; TR_C_gene; TR_J_gene	feature_metadata

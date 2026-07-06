@@ -1,0 +1,56 @@
+field_name	dtype	non_null_count	unique_count	examples	candidate_role
+mapped_reference_annotation	category	25726	1	GENCODE 32	other
+donor_id	category	25726	18	fetal_23w_donor; fetal_19w_donor; T07; U40; U48; postnatal_10m_donor; F21; F23; F30; F38; F45; F64	donor
+donor_age	category	25726	14	23 weeks (post-conception); 19 weeks (post-conception); 3 months; 7 days; 6 months; 10 months; 16 weeks (post-conception); 11 weeks (post-conception); 14 weeks (post-conception); 13 weeks (post-conception); 12 weeks (post-conception); 17 weeks (post-conception)	donor;age_or_development
+self_reported_ethnicity_ontology_term_id	category	25726	1	unknown	other
+donor_living_at_sample_collection	category	25726	3	na; unknown; True	donor;sample
+sample_uuid	category	25726	18	a91a34ff-dae2-423c-b0b1-68a16bfefdf7; a7950939-be01-4802-8510-033b603df184; 4e5cdd69-d190-402c-a1ae-3b43593e4bf7; 48275f55-14d7-4f72-9d10-8908b16d9891; 0ed75953-3d97-4a71-8bf1-0df90e23cf9c; 3d698612-bdd9-4612-ba05-db53ab0f2b6d; a8a24b08-ee33-4f07-870d-6998d981dcc0; 3c3e4dbe-d831-4e2e-b19c-43796fbe6109; 3a689510-f91e-4bef-95c5-62048e1075cf; 9960f50a-9db5-4206-a7b7-9ea1911a9448; 8d7dbb7b-ca7b-4a33-a371-d63756f6b65f; 0910145c-a132-45eb-a79b-01b3a21f95cb	sample
+sample_preservation_method	category	25726	1	n/a (fresh)	sample
+tissue_ontology_term_id	category	25726	1	UBERON:0002370	tissue
+development_stage_ontology_term_id	category	25726	13	HsapDv:0000061; HsapDv:0000057; HsapDv:0000176; HsapDv:0000262; HsapDv:0000179; HsapDv:0000183; HsapDv:0000054; HsapDv:0000049; HsapDv:0000052; HsapDv:0000051; HsapDv:0000050; HsapDv:0000055	age_or_development
+sample_derivation_process	category	25726	2	dissection; resection	sample
+sample_source	category	25726	5	San Francisco General Hospital; unknown; Great Ormond Street Hospital for Children NHS; University of California, San Francisco; Newcastle Hospitals NHS	sample
+tissue_type	category	25726	1	tissue	tissue
+suspension_depletion_factors	category	25726	2	CD45; na	other
+suspension_depleted_cell_types	category	25726	2	leukocyte; na	cell_type
+suspension_derivation_process	category	25726	8	mechanical dissociation,enzymatic dissociation,negative magnetic affinity cell sorting; enzymatic dissociation,positive magnetic affinity cell sorting; mechanical dissociation,enzymatic dissociation; mechanical dissociation,enzymatic dissociation,positive magnetic affinity cell sorting; enzymatic dissociation,fluorescence-activated cell sorting; enzymatic dissociation; mechanical dissociation,enzymatic dissociation,negative magnetic affinity cell sorting,fluorescence-activated cell sorting; mechanical dissociation,enzymatic dissociation,fluorescence-activated cell sorting	other
+suspension_dissociation_reagent	category	25726	6	100 μg/ml Liberase TM; 1.6 mg/ml collagenase IV; 3.2 mg/ml Collagenase Type IV + 50 ug/ml liberase TH; 0.2 mg/ml liberase; 0.4 mg/mL Collagenase D, 0.6 mg/mL Dispase II; 3.2 mg/ml collagenase IV, 50 ug/ml liberase TH	age_or_development
+suspension_dissociation_time	category	25726	4	45-60 minute; 30 minute; unknown; 30-45 minute	other
+suspension_enriched_cell_types	category	25726	4	na; epithelial cell of thymus; cortical thymic epithelial cell; medullary thymic epithelial cell	cell_type
+suspension_enrichment_factors	category	25726	5	na; EpCAM; EpCAMlow,CD205+; EpCAMhigh,CD205-; EpCAM,CD205	other
+suspension_uuid	category	25726	30	2e70d7b5-2d74-43db-acc0-787cbe109a17; 82950b5a-f447-496c-bf47-3cb65b101ba4; 758d31de-3662-4875-a350-a9b69a73b86d; fe4edc1e-4a9f-4517-9f7b-89ef464ff3ee; f46638ff-3a62-4e3d-9000-47a66740b71a; cb7fba77-4de2-4fc0-8d6f-95857068dc5a; d53663fb-8d3c-49b5-80a8-6ecc2edc5ef9; 3e6a4dde-408c-4b2a-8965-c74c218a4b83; 64d4f483-b64d-4b42-987c-052daf107b78; 73cb2897-ed20-4edc-82b8-d84c68e16537; 66b51aef-47a1-4223-b14f-28bbee07f14c; 28603797-c464-41c6-9932-c8df6bb450af	other
+suspension_type	category	25726	1	cell	suspension_type
+library_uuid	category	25726	30	5dabbbcc-24af-43d4-b428-6c90f1595099; 0259273d-0959-478c-a312-f311e7b89981; a3433b42-05ce-4be8-b95b-82cf18d8f6ba; 7175f9ca-dddd-4a4a-a00a-45e7dd475487; 6a6a25e6-737f-40d3-89e8-3f9f1b067984; 700d57d4-2466-42f1-9605-88d5e8451c29; 23b7f9d6-4fb3-4d8d-a9d4-ecb03078b223; b1c20e6b-aa09-419a-b807-a0be91b0659e; 8c78bfc7-4e5c-45ca-b813-3498d5f0c23f; 42640a48-43a2-4023-9eed-1d6b2149e4c2; fd59bea8-e8d3-4b94-8b46-b4c72ebe8ef1; 330a23af-1bdc-434d-9445-83d6a9908212	sample
+assay_ontology_term_id	category	25726	4	EFO:0009899; EFO:0011025; EFO:0009900; EFO:0009922	assay
+sequencing_platform	category	25726	5	unknown; Illumina NextSeq 500; Illumina HiSeq 4000; Illumina HiSeq 2500; Illumina NovaSeq 6000	assay
+is_primary_data	bool	25726	1	False	other
+cell_type_ontology_term_id	category	25726	9	CL:0009075; CL:0009073; CL:0009072; CL:0009071; CL:0002364; CL:0009070; CL:0009076; CL:0000067; unknown	cell_type
+author_cell_type	category	25726	13	TEC-myo; mTECIII; mTECII; mTECI; cTECIII; cTECII; cTECI; mcTEC; mTECI-trans; TEC-neuro; TEC-cilliated; mcTEC-Prolif	cell_type
+cell_state	category	25726	2	na; proliferating	cell_type
+disease_ontology_term_id	category	25726	1	PATO:0000461	disease
+reported_diseases	category	25726	2	none; [congenital heart disease]	disease
+sex_ontology_term_id	category	25726	3	unknown; PATO:0000384; PATO:0000383	sex
+sample	category	25726	30	baut2; baut1; baut3; T07_TH_EPCAM_S3; U48-THY-0-SC-1_5GEX; U48-THY-0-SC-EPCP-1_5GEX; baut6; FCAImmP7179370; FCAImmP7198635; FCAImmP7277565; FCAImmP7528284; FCAImmP7528285	sample
+enrichment	category	25726	9	45N; EPCAM; TOT; MACS; CD205+CD49F+; CD205+CD49F-; EpCAM+CD49F+; EpCAM+CD49F-; FACS	other
+age_group	category	25726	2	fetal; paed(early)	age_or_development
+study	category	25726	4	Bautista2021; Park2020; HTSA_Sanger; Campinoti2020	other
+park_2020_cell_type	category	2147	7	epithelial cell of thymus; medullary thymic epithelial cell; cortical thymic epithelial cell; double negative thymocyte; fibroblast; CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell; dendritic cell	cell_type
+panfetal_2022_cell_type	category	112	5	MUSCLE_SATELLITE; KERATINOCYTE; ENTEROENDOCRINE_I; NEURON; LOW_QUALITY	cell_type
+cell_type_level_3	category	25726	12	TEC-myo; mTECIII; mTECII; mTECI; cTECIII; cTECII; cTECI; mcTEC; mTECI-trans; TEC-neuro; TEC-cilliated; see_lv4_explore	cell_type
+cell_type_level_2	category	25726	5	mTEC-mimetic; mTEC; cTEC; mcTEC; see_lv4_explore	cell_type
+cell_type_level_1	category	25726	3	TEC-mimetic; TEC; see_lv4_explore	cell_type
+cell_type_level_0	category	25726	2	Epithelial; see_lv4_explore	cell_type
+cell_type_level_4_explore	category	25726	13	TEC-myo; mTECIII; mTECII; mTECI; cTECIII; cTECII; cTECI; mcTEC; mTECI-trans; TEC-neuro; TEC-cilliated; mcTEC-Prolif	cell_type
+n_genes	float32	25726	5220	767.0; 1678.0; 1743.0; 1406.0; 1115.0; 2747.0; 1749.0; 470.0; 656.0; 448.0; 659.0; 1870.0	other
+n_counts	float32	25726	12450	1295.0; 3959.0; 3825.0; 3212.0; 2270.0; 6838.0; 4370.0; 937.0; 1648.0; 1125.0; 1051.0; 5859.0	other
+pct_counts_mt	float32	25726	22986	1.7760618; 1.8186411; 1.7254902; 1.6811955; 3.3920705; 3.5682948; 5.2402744; 0.0; 0.30339807; 2.9495718; 1.7238437; 1.9959267	other
+pct_counts_ribo	float32	25726	25304	31.04247; 31.017933; 26.745098; 32.814445; 12.555066; 23.63264; 31.853546; 26.040554; 28.519417; 26.666666; 13.701237; 43.164364	other
+doublet_score	float32	25726	1835	0.18819939; 0.028922345; 0.15286624; 0.20833333; 0.28405797; 0.24094881; 0.07055503; 0.045865417; 0.052785926; 0.049674544; 0.018292682; 0.105882354	other
+cell_type	category	25726	9	myo-medullary thymic epithelial cell; medullary thymic epithelial cell type 3; medullary thymic epithelial cell type 2; medullary thymic epithelial cell type 1; cortical thymic epithelial cell; corticomedullary thymic epithelial cell; neuro-medullary thymic epithelial cell; ciliated epithelial cell; unknown	cell_type
+assay	category	25726	4	10x 3' v2; 10x 5' v1; 10x 5' v2; 10x 3' v3	assay
+disease	category	25726	1	normal	disease
+sex	category	25726	3	unknown; male; female	sex
+tissue	category	25726	1	thymus	tissue
+self_reported_ethnicity	category	25726	1	unknown	other
+development_stage	category	25726	13	24th week post-fertilization stage; 20th week post-fertilization stage; 3-month-old stage; newborn stage (0-28 days); 6-month-old stage; 10-month-old stage; 17th week post-fertilization stage; 12th week post-fertilization stage; 15th week post-fertilization stage; 14th week post-fertilization stage; 13th week post-fertilization stage; 18th week post-fertilization stage	age_or_development
+observation_joinid	object	25726	25726	=;#)d!=>=4; VsMa7MVOB%; ^nG!!^n|73; *#h0xI^No#; M@RDU*;B34; le`=Uuq3~t; sEp}Ft)VEQ; Peam4Ya!Ts; MW!(*zb^u=; slVK5xu9&a; A(7*V|E%PI; r%Yw>Ls#ac	other

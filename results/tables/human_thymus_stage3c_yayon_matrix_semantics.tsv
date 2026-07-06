@@ -1,0 +1,25 @@
+metric	value
+h5ad_path	data\external\human_thymus\cellxgene_yayon_tec\yayon_tec.h5ad
+n_obs	25726
+n_vars	35477
+x_shape	(25726, 35477)
+x_dtype	float32
+x_storage	sparse
+x_class	anndata._core.sparse_dataset._CSRDataset
+raw_exists	no
+raw_x_shape	not_available
+raw_x_dtype	not_available
+raw_x_storage	not_available
+raw_x_class	not_available
+layers	none
+uns_keys	citation; default_embedding; is_pre_analysis; organism; organism_ontology_term_id; schema_reference; schema_version; title
+schema_reference	https://github.com/chanzuckerberg/single-cell-curation/blob/main/schema/7.1.0/schema.md
+schema_version	7.1.0
+title	thymus scRNA-seq atlas - thymic epithelial cell subset
+var_columns	feature_is_filtered; n_cells; feature_name; feature_reference; feature_biotype; feature_length; feature_type
+raw_var_columns	not_available
+matrix_semantics_clear	partial
+recommended_detection_matrix	X
+recommended_mean_value_matrix	not_selected
+mean_value_allowed	no
+reason	The object has no raw layer and no local matrix annotation sufficient to label X values for mean-value summaries.

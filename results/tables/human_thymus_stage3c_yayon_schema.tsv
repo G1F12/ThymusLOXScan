@@ -1,0 +1,12 @@
+metric	value
+h5ad_path	data\external\human_thymus\cellxgene_yayon_tec\yayon_tec.h5ad
+file_size_bytes	135051848
+n_obs	25726
+n_vars	35477
+raw_exists	no
+x_matrix_type	anndata._core.sparse_dataset._CSRDataset; shape=(25726, 35477); dtype=float32
+raw_x_matrix_type	not_available
+n_obs_columns	55
+n_var_columns	7
+n_layers	0
+uns_keys	citation; default_embedding; is_pre_analysis; organism; organism_ontology_term_id; schema_reference; schema_version; title

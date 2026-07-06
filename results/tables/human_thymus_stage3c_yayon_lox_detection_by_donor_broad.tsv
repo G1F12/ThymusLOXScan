@@ -1,0 +1,571 @@
+gene	donor_id	sample	development_stage	sex	cell_type_level_2	n_cells	n_detected	detection_fraction	matrix_used
+LOX	6m_thymus_donor	GSM4838951	6-month-old stage	female	cTEC	192	0	0	X
+LOX	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC	36	1	0.0277778	X
+LOX	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC-mimetic	31	0	0	X
+LOX	6m_thymus_donor	GSM4838951	6-month-old stage	female	mcTEC	17	0	0	X
+LOX	6m_thymus_donor	GSM4838952	6-month-old stage	female	cTEC	1011	0	0	X
+LOX	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC	14	0	0	X
+LOX	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC-mimetic	17	0	0	X
+LOX	6m_thymus_donor	GSM4838952	6-month-old stage	female	mcTEC	6	0	0	X
+LOX	6m_thymus_donor	GSM4838953	6-month-old stage	female	cTEC	2	0	0	X
+LOX	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC	309	0	0	X
+LOX	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC-mimetic	295	2	0.00677966	X
+LOX	6m_thymus_donor	GSM4838953	6-month-old stage	female	mcTEC	14	0	0	X
+LOX	6m_thymus_donor	GSM4838954	6-month-old stage	female	cTEC	4	0	0	X
+LOX	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC	237	0	0	X
+LOX	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC-mimetic	1485	5	0.003367	X
+LOX	6m_thymus_donor	GSM4838954	6-month-old stage	female	mcTEC	2	0	0	X
+LOX	F21	FCAImmP7179370	17th week post-fertilization stage	male	cTEC	7	0	0	X
+LOX	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC	22	0	0	X
+LOX	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC-mimetic	11	0	0	X
+LOX	F21	FCAImmP7179370	17th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOX	F23	FCAImmP7198635	12th week post-fertilization stage	male	cTEC	4	0	0	X
+LOX	F23	FCAImmP7198635	12th week post-fertilization stage	male	mcTEC	2	0	0	X
+LOX	F30	FCAImmP7277565	15th week post-fertilization stage	male	cTEC	4	0	0	X
+LOX	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC	9	1	0.111111	X
+LOX	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC-mimetic	3	0	0	X
+LOX	F30	FCAImmP7277565	15th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOX	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC	9	0	0	X
+LOX	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOX	F38	FCAImmP7528285	14th week post-fertilization stage	male	cTEC	1	0	0	X
+LOX	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC	10	0	0	X
+LOX	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOX	F45	FCAImmP7579231	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOX	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC	4	0	0	X
+LOX	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC-mimetic	3	0	0	X
+LOX	F45	FCAImmP7579231	13th week post-fertilization stage	female	mcTEC	2	0	0	X
+LOX	F64	FCAImmP7851890	12th week post-fertilization stage	male	cTEC	2	0	0	X
+LOX	F64	FCAImmP7851890	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOX	F64	FCAImmP7851890	12th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOX	F64	FCAImmP7851891	12th week post-fertilization stage	male	cTEC	3	0	0	X
+LOX	F64	FCAImmP7851891	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOX	F64	FCAImmP7851891	12th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOX	F67	FCAImmP7851895	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOX	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC	4	1	0.25	X
+LOX	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC-mimetic	1	0	0	X
+LOX	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	cTEC	87	2	0.0229885	X
+LOX	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC	175	17	0.0971429	X
+LOX	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC-mimetic	8	0	0	X
+LOX	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mcTEC	164	13	0.0792683	X
+LOX	T07	T07_TH_EPCAM_S3	3-month-old stage	male	cTEC	384	2	0.00520833	X
+LOX	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC	1151	21	0.018245	X
+LOX	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC-mimetic	25	0	0	X
+LOX	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mcTEC	251	18	0.0717131	X
+LOX	T07	T07_TH_TOT_1_S1	3-month-old stage	male	cTEC	56	0	0	X
+LOX	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC	46	1	0.0217391	X
+LOX	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC-mimetic	2	0	0	X
+LOX	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mcTEC	16	2	0.125	X
+LOX	T07	T07_TH_TOT_2_S2	3-month-old stage	male	cTEC	30	0	0	X
+LOX	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTEC	53	0	0	X
+LOX	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mcTEC	7	0	0	X
+LOX	U09	TA9260013	6-month-old stage	female	cTEC	102	0	0	X
+LOX	U09	TA9260013	6-month-old stage	female	mTEC	115	3	0.026087	X
+LOX	U09	TA9260013	6-month-old stage	female	mTEC-mimetic	9	0	0	X
+LOX	U09	TA9260013	6-month-old stage	female	mcTEC	4	1	0.25	X
+LOX	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	cTEC	880	30	0.0340909	X
+LOX	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC	169	3	0.0177515	X
+LOX	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC-mimetic	57	0	0	X
+LOX	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mcTEC	2160	137	0.0634259	X
+LOX	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	cTEC	1402	15	0.010699	X
+LOX	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC	1138	36	0.0316344	X
+LOX	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC-mimetic	70	0	0	X
+LOX	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mcTEC	393	26	0.0661578	X
+LOX	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	cTEC	6	0	0	X
+LOX	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC	5	0	0	X
+LOX	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC-mimetic	2	0	0	X
+LOX	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mcTEC	1	0	0	X
+LOX	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	cTEC	681	3	0.00440529	X
+LOX	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC	329	9	0.0273556	X
+LOX	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC-mimetic	55	0	0	X
+LOX	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mcTEC	44	3	0.0681818	X
+LOX	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	see_lv4_explore	1	0	0	X
+LOX	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	cTEC	685	0	0	X
+LOX	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC	342	14	0.0409357	X
+LOX	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC-mimetic	65	0	0	X
+LOX	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mcTEC	45	4	0.0888889	X
+LOX	Z11	TA9260017	2-year-old stage	female	mTEC	3	1	0.333333	X
+LOX	Z11	TA9260017	2-year-old stage	female	mTEC-mimetic	1	0	0	X
+LOX	Z11	TA9260017	2-year-old stage	female	mcTEC	4	0	0	X
+LOX	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	cTEC	3157	10	0.00316756	X
+LOX	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC	974	7	0.00718686	X
+LOX	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC-mimetic	131	4	0.0305344	X
+LOX	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mcTEC	2432	12	0.00493421	X
+LOX	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	see_lv4_explore	16	0	0	X
+LOX	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	cTEC	186	1	0.00537634	X
+LOX	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC	339	1	0.00294985	X
+LOX	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC-mimetic	468	1	0.00213675	X
+LOX	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mcTEC	277	4	0.0144404	X
+LOX	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	see_lv4_explore	23	0	0	X
+LOX	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	cTEC	243	0	0	X
+LOX	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC	367	1	0.0027248	X
+LOX	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC-mimetic	458	0	0	X
+LOX	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mcTEC	263	4	0.0152091	X
+LOX	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	see_lv4_explore	26	0	0	X
+LOX	postnatal_10m_donor	baut5	10-month-old stage	unknown	cTEC	48	0	0	X
+LOX	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC	134	3	0.0223881	X
+LOX	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC-mimetic	26	0	0	X
+LOX	postnatal_10m_donor	baut5	10-month-old stage	unknown	mcTEC	8	1	0.125	X
+LOX	postnatal_10m_donor	baut6	10-month-old stage	unknown	cTEC	227	1	0.00440529	X
+LOX	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC	511	9	0.0176125	X
+LOX	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC-mimetic	76	1	0.0131579	X
+LOX	postnatal_10m_donor	baut6	10-month-old stage	unknown	mcTEC	216	5	0.0231481	X
+LOX	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	cTEC	42	1	0.0238095	X
+LOX	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC	55	2	0.0363636	X
+LOX	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC-mimetic	1	0	0	X
+LOX	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mcTEC	2	0	0	X
+LOXL1	6m_thymus_donor	GSM4838951	6-month-old stage	female	cTEC	192	6	0.03125	X
+LOXL1	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC	36	3	0.0833333	X
+LOXL1	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC-mimetic	31	3	0.0967742	X
+LOXL1	6m_thymus_donor	GSM4838951	6-month-old stage	female	mcTEC	17	0	0	X
+LOXL1	6m_thymus_donor	GSM4838952	6-month-old stage	female	cTEC	1011	34	0.0336301	X
+LOXL1	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC	14	0	0	X
+LOXL1	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC-mimetic	17	1	0.0588235	X
+LOXL1	6m_thymus_donor	GSM4838952	6-month-old stage	female	mcTEC	6	0	0	X
+LOXL1	6m_thymus_donor	GSM4838953	6-month-old stage	female	cTEC	2	0	0	X
+LOXL1	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC	309	46	0.148867	X
+LOXL1	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC-mimetic	295	32	0.108475	X
+LOXL1	6m_thymus_donor	GSM4838953	6-month-old stage	female	mcTEC	14	0	0	X
+LOXL1	6m_thymus_donor	GSM4838954	6-month-old stage	female	cTEC	4	0	0	X
+LOXL1	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC	237	22	0.092827	X
+LOXL1	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC-mimetic	1485	51	0.0343434	X
+LOXL1	6m_thymus_donor	GSM4838954	6-month-old stage	female	mcTEC	2	0	0	X
+LOXL1	F21	FCAImmP7179370	17th week post-fertilization stage	male	cTEC	7	0	0	X
+LOXL1	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC	22	2	0.0909091	X
+LOXL1	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC-mimetic	11	1	0.0909091	X
+LOXL1	F21	FCAImmP7179370	17th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOXL1	F23	FCAImmP7198635	12th week post-fertilization stage	male	cTEC	4	1	0.25	X
+LOXL1	F23	FCAImmP7198635	12th week post-fertilization stage	male	mcTEC	2	1	0.5	X
+LOXL1	F30	FCAImmP7277565	15th week post-fertilization stage	male	cTEC	4	0	0	X
+LOXL1	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC	9	0	0	X
+LOXL1	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC-mimetic	3	0	0	X
+LOXL1	F30	FCAImmP7277565	15th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOXL1	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC	9	0	0	X
+LOXL1	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOXL1	F38	FCAImmP7528285	14th week post-fertilization stage	male	cTEC	1	0	0	X
+LOXL1	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC	10	0	0	X
+LOXL1	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOXL1	F45	FCAImmP7579231	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOXL1	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC	4	0	0	X
+LOXL1	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC-mimetic	3	0	0	X
+LOXL1	F45	FCAImmP7579231	13th week post-fertilization stage	female	mcTEC	2	0	0	X
+LOXL1	F64	FCAImmP7851890	12th week post-fertilization stage	male	cTEC	2	0	0	X
+LOXL1	F64	FCAImmP7851890	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOXL1	F64	FCAImmP7851890	12th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOXL1	F64	FCAImmP7851891	12th week post-fertilization stage	male	cTEC	3	1	0.333333	X
+LOXL1	F64	FCAImmP7851891	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOXL1	F64	FCAImmP7851891	12th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOXL1	F67	FCAImmP7851895	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOXL1	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC	4	0	0	X
+LOXL1	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC-mimetic	1	0	0	X
+LOXL1	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	cTEC	87	4	0.045977	X
+LOXL1	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC	175	19	0.108571	X
+LOXL1	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC-mimetic	8	1	0.125	X
+LOXL1	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mcTEC	164	14	0.0853659	X
+LOXL1	T07	T07_TH_EPCAM_S3	3-month-old stage	male	cTEC	384	6	0.015625	X
+LOXL1	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC	1151	173	0.150304	X
+LOXL1	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC-mimetic	25	5	0.2	X
+LOXL1	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mcTEC	251	28	0.111554	X
+LOXL1	T07	T07_TH_TOT_1_S1	3-month-old stage	male	cTEC	56	1	0.0178571	X
+LOXL1	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC	46	10	0.217391	X
+LOXL1	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC-mimetic	2	0	0	X
+LOXL1	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mcTEC	16	2	0.125	X
+LOXL1	T07	T07_TH_TOT_2_S2	3-month-old stage	male	cTEC	30	1	0.0333333	X
+LOXL1	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTEC	53	8	0.150943	X
+LOXL1	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mcTEC	7	1	0.142857	X
+LOXL1	U09	TA9260013	6-month-old stage	female	cTEC	102	1	0.00980392	X
+LOXL1	U09	TA9260013	6-month-old stage	female	mTEC	115	13	0.113043	X
+LOXL1	U09	TA9260013	6-month-old stage	female	mTEC-mimetic	9	2	0.222222	X
+LOXL1	U09	TA9260013	6-month-old stage	female	mcTEC	4	0	0	X
+LOXL1	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	cTEC	880	43	0.0488636	X
+LOXL1	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC	169	16	0.0946746	X
+LOXL1	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC-mimetic	57	2	0.0350877	X
+LOXL1	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mcTEC	2160	96	0.0444444	X
+LOXL1	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	cTEC	1402	125	0.0891583	X
+LOXL1	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC	1138	130	0.114236	X
+LOXL1	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC-mimetic	70	8	0.114286	X
+LOXL1	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mcTEC	393	7	0.0178117	X
+LOXL1	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	cTEC	6	1	0.166667	X
+LOXL1	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC	5	0	0	X
+LOXL1	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC-mimetic	2	0	0	X
+LOXL1	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mcTEC	1	0	0	X
+LOXL1	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	cTEC	681	35	0.051395	X
+LOXL1	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC	329	40	0.121581	X
+LOXL1	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC-mimetic	55	7	0.127273	X
+LOXL1	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mcTEC	44	3	0.0681818	X
+LOXL1	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	see_lv4_explore	1	0	0	X
+LOXL1	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	cTEC	685	26	0.0379562	X
+LOXL1	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC	342	42	0.122807	X
+LOXL1	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC-mimetic	65	7	0.107692	X
+LOXL1	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mcTEC	45	7	0.155556	X
+LOXL1	Z11	TA9260017	2-year-old stage	female	mTEC	3	0	0	X
+LOXL1	Z11	TA9260017	2-year-old stage	female	mTEC-mimetic	1	0	0	X
+LOXL1	Z11	TA9260017	2-year-old stage	female	mcTEC	4	0	0	X
+LOXL1	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	cTEC	3157	107	0.0338929	X
+LOXL1	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC	974	48	0.0492813	X
+LOXL1	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC-mimetic	131	9	0.0687023	X
+LOXL1	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mcTEC	2432	108	0.0444079	X
+LOXL1	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	see_lv4_explore	16	0	0	X
+LOXL1	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	cTEC	186	13	0.0698925	X
+LOXL1	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC	339	16	0.0471976	X
+LOXL1	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC-mimetic	468	31	0.0662393	X
+LOXL1	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mcTEC	277	18	0.0649819	X
+LOXL1	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	see_lv4_explore	23	2	0.0869565	X
+LOXL1	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	cTEC	243	5	0.0205761	X
+LOXL1	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC	367	10	0.027248	X
+LOXL1	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC-mimetic	458	23	0.0502183	X
+LOXL1	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mcTEC	263	9	0.0342205	X
+LOXL1	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	see_lv4_explore	26	0	0	X
+LOXL1	postnatal_10m_donor	baut5	10-month-old stage	unknown	cTEC	48	0	0	X
+LOXL1	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC	134	8	0.0597015	X
+LOXL1	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC-mimetic	26	2	0.0769231	X
+LOXL1	postnatal_10m_donor	baut5	10-month-old stage	unknown	mcTEC	8	1	0.125	X
+LOXL1	postnatal_10m_donor	baut6	10-month-old stage	unknown	cTEC	227	3	0.0132159	X
+LOXL1	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC	511	28	0.0547945	X
+LOXL1	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC-mimetic	76	1	0.0131579	X
+LOXL1	postnatal_10m_donor	baut6	10-month-old stage	unknown	mcTEC	216	6	0.0277778	X
+LOXL1	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	cTEC	42	2	0.047619	X
+LOXL1	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC	55	1	0.0181818	X
+LOXL1	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC-mimetic	1	0	0	X
+LOXL1	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mcTEC	2	0	0	X
+LOXL2	6m_thymus_donor	GSM4838951	6-month-old stage	female	cTEC	192	0	0	X
+LOXL2	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC	36	1	0.0277778	X
+LOXL2	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC-mimetic	31	0	0	X
+LOXL2	6m_thymus_donor	GSM4838951	6-month-old stage	female	mcTEC	17	0	0	X
+LOXL2	6m_thymus_donor	GSM4838952	6-month-old stage	female	cTEC	1011	0	0	X
+LOXL2	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC	14	0	0	X
+LOXL2	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC-mimetic	17	0	0	X
+LOXL2	6m_thymus_donor	GSM4838952	6-month-old stage	female	mcTEC	6	0	0	X
+LOXL2	6m_thymus_donor	GSM4838953	6-month-old stage	female	cTEC	2	0	0	X
+LOXL2	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC	309	11	0.0355987	X
+LOXL2	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC-mimetic	295	89	0.301695	X
+LOXL2	6m_thymus_donor	GSM4838953	6-month-old stage	female	mcTEC	14	0	0	X
+LOXL2	6m_thymus_donor	GSM4838954	6-month-old stage	female	cTEC	4	0	0	X
+LOXL2	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC	237	5	0.021097	X
+LOXL2	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC-mimetic	1485	36	0.0242424	X
+LOXL2	6m_thymus_donor	GSM4838954	6-month-old stage	female	mcTEC	2	0	0	X
+LOXL2	F21	FCAImmP7179370	17th week post-fertilization stage	male	cTEC	7	0	0	X
+LOXL2	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC	22	0	0	X
+LOXL2	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC-mimetic	11	0	0	X
+LOXL2	F21	FCAImmP7179370	17th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOXL2	F23	FCAImmP7198635	12th week post-fertilization stage	male	cTEC	4	0	0	X
+LOXL2	F23	FCAImmP7198635	12th week post-fertilization stage	male	mcTEC	2	0	0	X
+LOXL2	F30	FCAImmP7277565	15th week post-fertilization stage	male	cTEC	4	0	0	X
+LOXL2	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC	9	0	0	X
+LOXL2	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC-mimetic	3	1	0.333333	X
+LOXL2	F30	FCAImmP7277565	15th week post-fertilization stage	male	mcTEC	5	1	0.2	X
+LOXL2	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC	9	0	0	X
+LOXL2	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOXL2	F38	FCAImmP7528285	14th week post-fertilization stage	male	cTEC	1	0	0	X
+LOXL2	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC	10	0	0	X
+LOXL2	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC-mimetic	2	1	0.5	X
+LOXL2	F45	FCAImmP7579231	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOXL2	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC	4	0	0	X
+LOXL2	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC-mimetic	3	0	0	X
+LOXL2	F45	FCAImmP7579231	13th week post-fertilization stage	female	mcTEC	2	0	0	X
+LOXL2	F64	FCAImmP7851890	12th week post-fertilization stage	male	cTEC	2	0	0	X
+LOXL2	F64	FCAImmP7851890	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOXL2	F64	FCAImmP7851890	12th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOXL2	F64	FCAImmP7851891	12th week post-fertilization stage	male	cTEC	3	0	0	X
+LOXL2	F64	FCAImmP7851891	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOXL2	F64	FCAImmP7851891	12th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOXL2	F67	FCAImmP7851895	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOXL2	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC	4	0	0	X
+LOXL2	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC-mimetic	1	0	0	X
+LOXL2	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	cTEC	87	3	0.0344828	X
+LOXL2	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC	175	23	0.131429	X
+LOXL2	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC-mimetic	8	3	0.375	X
+LOXL2	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mcTEC	164	10	0.0609756	X
+LOXL2	T07	T07_TH_EPCAM_S3	3-month-old stage	male	cTEC	384	2	0.00520833	X
+LOXL2	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC	1151	18	0.0156386	X
+LOXL2	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC-mimetic	25	12	0.48	X
+LOXL2	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mcTEC	251	12	0.0478088	X
+LOXL2	T07	T07_TH_TOT_1_S1	3-month-old stage	male	cTEC	56	1	0.0178571	X
+LOXL2	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC	46	1	0.0217391	X
+LOXL2	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC-mimetic	2	1	0.5	X
+LOXL2	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mcTEC	16	2	0.125	X
+LOXL2	T07	T07_TH_TOT_2_S2	3-month-old stage	male	cTEC	30	0	0	X
+LOXL2	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTEC	53	1	0.0188679	X
+LOXL2	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mcTEC	7	2	0.285714	X
+LOXL2	U09	TA9260013	6-month-old stage	female	cTEC	102	0	0	X
+LOXL2	U09	TA9260013	6-month-old stage	female	mTEC	115	2	0.0173913	X
+LOXL2	U09	TA9260013	6-month-old stage	female	mTEC-mimetic	9	0	0	X
+LOXL2	U09	TA9260013	6-month-old stage	female	mcTEC	4	0	0	X
+LOXL2	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	cTEC	880	7	0.00795455	X
+LOXL2	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC	169	3	0.0177515	X
+LOXL2	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC-mimetic	57	9	0.157895	X
+LOXL2	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mcTEC	2160	30	0.0138889	X
+LOXL2	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	cTEC	1402	23	0.0164051	X
+LOXL2	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC	1138	25	0.0219684	X
+LOXL2	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC-mimetic	70	22	0.314286	X
+LOXL2	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mcTEC	393	3	0.00763359	X
+LOXL2	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	cTEC	6	0	0	X
+LOXL2	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC	5	0	0	X
+LOXL2	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC-mimetic	2	1	0.5	X
+LOXL2	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mcTEC	1	0	0	X
+LOXL2	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	cTEC	681	0	0	X
+LOXL2	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC	329	6	0.0182371	X
+LOXL2	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC-mimetic	55	9	0.163636	X
+LOXL2	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mcTEC	44	0	0	X
+LOXL2	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	see_lv4_explore	1	0	0	X
+LOXL2	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	cTEC	685	3	0.00437956	X
+LOXL2	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC	342	12	0.0350877	X
+LOXL2	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC-mimetic	65	12	0.184615	X
+LOXL2	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mcTEC	45	1	0.0222222	X
+LOXL2	Z11	TA9260017	2-year-old stage	female	mTEC	3	0	0	X
+LOXL2	Z11	TA9260017	2-year-old stage	female	mTEC-mimetic	1	0	0	X
+LOXL2	Z11	TA9260017	2-year-old stage	female	mcTEC	4	0	0	X
+LOXL2	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	cTEC	3157	8	0.00253405	X
+LOXL2	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC	974	13	0.013347	X
+LOXL2	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC-mimetic	131	13	0.0992366	X
+LOXL2	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mcTEC	2432	22	0.00904605	X
+LOXL2	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	see_lv4_explore	16	0	0	X
+LOXL2	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	cTEC	186	2	0.0107527	X
+LOXL2	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC	339	8	0.0235988	X
+LOXL2	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC-mimetic	468	45	0.0961538	X
+LOXL2	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mcTEC	277	4	0.0144404	X
+LOXL2	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	see_lv4_explore	23	0	0	X
+LOXL2	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	cTEC	243	2	0.00823045	X
+LOXL2	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC	367	11	0.0299728	X
+LOXL2	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC-mimetic	458	47	0.10262	X
+LOXL2	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mcTEC	263	2	0.00760456	X
+LOXL2	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	see_lv4_explore	26	0	0	X
+LOXL2	postnatal_10m_donor	baut5	10-month-old stage	unknown	cTEC	48	0	0	X
+LOXL2	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC	134	1	0.00746269	X
+LOXL2	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC-mimetic	26	4	0.153846	X
+LOXL2	postnatal_10m_donor	baut5	10-month-old stage	unknown	mcTEC	8	0	0	X
+LOXL2	postnatal_10m_donor	baut6	10-month-old stage	unknown	cTEC	227	0	0	X
+LOXL2	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC	511	2	0.00391389	X
+LOXL2	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC-mimetic	76	7	0.0921053	X
+LOXL2	postnatal_10m_donor	baut6	10-month-old stage	unknown	mcTEC	216	2	0.00925926	X
+LOXL2	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	cTEC	42	0	0	X
+LOXL2	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC	55	0	0	X
+LOXL2	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC-mimetic	1	0	0	X
+LOXL2	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mcTEC	2	0	0	X
+LOXL3	6m_thymus_donor	GSM4838951	6-month-old stage	female	cTEC	192	0	0	X
+LOXL3	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC	36	1	0.0277778	X
+LOXL3	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC-mimetic	31	1	0.0322581	X
+LOXL3	6m_thymus_donor	GSM4838951	6-month-old stage	female	mcTEC	17	0	0	X
+LOXL3	6m_thymus_donor	GSM4838952	6-month-old stage	female	cTEC	1011	0	0	X
+LOXL3	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC	14	0	0	X
+LOXL3	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC-mimetic	17	0	0	X
+LOXL3	6m_thymus_donor	GSM4838952	6-month-old stage	female	mcTEC	6	0	0	X
+LOXL3	6m_thymus_donor	GSM4838953	6-month-old stage	female	cTEC	2	0	0	X
+LOXL3	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC	309	3	0.00970874	X
+LOXL3	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC-mimetic	295	16	0.0542373	X
+LOXL3	6m_thymus_donor	GSM4838953	6-month-old stage	female	mcTEC	14	0	0	X
+LOXL3	6m_thymus_donor	GSM4838954	6-month-old stage	female	cTEC	4	0	0	X
+LOXL3	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC	237	0	0	X
+LOXL3	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC-mimetic	1485	33	0.0222222	X
+LOXL3	6m_thymus_donor	GSM4838954	6-month-old stage	female	mcTEC	2	0	0	X
+LOXL3	F21	FCAImmP7179370	17th week post-fertilization stage	male	cTEC	7	0	0	X
+LOXL3	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC	22	0	0	X
+LOXL3	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC-mimetic	11	0	0	X
+LOXL3	F21	FCAImmP7179370	17th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOXL3	F23	FCAImmP7198635	12th week post-fertilization stage	male	cTEC	4	0	0	X
+LOXL3	F23	FCAImmP7198635	12th week post-fertilization stage	male	mcTEC	2	0	0	X
+LOXL3	F30	FCAImmP7277565	15th week post-fertilization stage	male	cTEC	4	0	0	X
+LOXL3	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC	9	0	0	X
+LOXL3	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC-mimetic	3	0	0	X
+LOXL3	F30	FCAImmP7277565	15th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOXL3	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC	9	0	0	X
+LOXL3	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOXL3	F38	FCAImmP7528285	14th week post-fertilization stage	male	cTEC	1	0	0	X
+LOXL3	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC	10	0	0	X
+LOXL3	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOXL3	F45	FCAImmP7579231	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOXL3	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC	4	0	0	X
+LOXL3	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC-mimetic	3	1	0.333333	X
+LOXL3	F45	FCAImmP7579231	13th week post-fertilization stage	female	mcTEC	2	0	0	X
+LOXL3	F64	FCAImmP7851890	12th week post-fertilization stage	male	cTEC	2	0	0	X
+LOXL3	F64	FCAImmP7851890	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOXL3	F64	FCAImmP7851890	12th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOXL3	F64	FCAImmP7851891	12th week post-fertilization stage	male	cTEC	3	0	0	X
+LOXL3	F64	FCAImmP7851891	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOXL3	F64	FCAImmP7851891	12th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOXL3	F67	FCAImmP7851895	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOXL3	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC	4	1	0.25	X
+LOXL3	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC-mimetic	1	0	0	X
+LOXL3	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	cTEC	87	0	0	X
+LOXL3	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC	175	2	0.0114286	X
+LOXL3	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC-mimetic	8	0	0	X
+LOXL3	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mcTEC	164	1	0.00609756	X
+LOXL3	T07	T07_TH_EPCAM_S3	3-month-old stage	male	cTEC	384	0	0	X
+LOXL3	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC	1151	8	0.00695048	X
+LOXL3	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC-mimetic	25	2	0.08	X
+LOXL3	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mcTEC	251	3	0.0119522	X
+LOXL3	T07	T07_TH_TOT_1_S1	3-month-old stage	male	cTEC	56	0	0	X
+LOXL3	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC	46	0	0	X
+LOXL3	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC-mimetic	2	0	0	X
+LOXL3	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mcTEC	16	0	0	X
+LOXL3	T07	T07_TH_TOT_2_S2	3-month-old stage	male	cTEC	30	0	0	X
+LOXL3	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTEC	53	0	0	X
+LOXL3	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mcTEC	7	0	0	X
+LOXL3	U09	TA9260013	6-month-old stage	female	cTEC	102	1	0.00980392	X
+LOXL3	U09	TA9260013	6-month-old stage	female	mTEC	115	0	0	X
+LOXL3	U09	TA9260013	6-month-old stage	female	mTEC-mimetic	9	0	0	X
+LOXL3	U09	TA9260013	6-month-old stage	female	mcTEC	4	0	0	X
+LOXL3	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	cTEC	880	7	0.00795455	X
+LOXL3	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC	169	0	0	X
+LOXL3	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC-mimetic	57	0	0	X
+LOXL3	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mcTEC	2160	21	0.00972222	X
+LOXL3	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	cTEC	1402	6	0.0042796	X
+LOXL3	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC	1138	9	0.00790861	X
+LOXL3	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC-mimetic	70	0	0	X
+LOXL3	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mcTEC	393	1	0.00254453	X
+LOXL3	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	cTEC	6	0	0	X
+LOXL3	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC	5	0	0	X
+LOXL3	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC-mimetic	2	0	0	X
+LOXL3	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mcTEC	1	0	0	X
+LOXL3	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	cTEC	681	3	0.00440529	X
+LOXL3	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC	329	4	0.0121581	X
+LOXL3	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC-mimetic	55	2	0.0363636	X
+LOXL3	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mcTEC	44	0	0	X
+LOXL3	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	see_lv4_explore	1	0	0	X
+LOXL3	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	cTEC	685	2	0.00291971	X
+LOXL3	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC	342	3	0.00877193	X
+LOXL3	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC-mimetic	65	2	0.0307692	X
+LOXL3	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mcTEC	45	1	0.0222222	X
+LOXL3	Z11	TA9260017	2-year-old stage	female	mTEC	3	0	0	X
+LOXL3	Z11	TA9260017	2-year-old stage	female	mTEC-mimetic	1	0	0	X
+LOXL3	Z11	TA9260017	2-year-old stage	female	mcTEC	4	1	0.25	X
+LOXL3	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	cTEC	3157	8	0.00253405	X
+LOXL3	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC	974	0	0	X
+LOXL3	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC-mimetic	131	2	0.0152672	X
+LOXL3	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mcTEC	2432	3	0.00123355	X
+LOXL3	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	see_lv4_explore	16	0	0	X
+LOXL3	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	cTEC	186	1	0.00537634	X
+LOXL3	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC	339	1	0.00294985	X
+LOXL3	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC-mimetic	468	11	0.0235043	X
+LOXL3	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mcTEC	277	0	0	X
+LOXL3	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	see_lv4_explore	23	0	0	X
+LOXL3	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	cTEC	243	0	0	X
+LOXL3	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC	367	0	0	X
+LOXL3	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC-mimetic	458	3	0.00655022	X
+LOXL3	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mcTEC	263	0	0	X
+LOXL3	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	see_lv4_explore	26	0	0	X
+LOXL3	postnatal_10m_donor	baut5	10-month-old stage	unknown	cTEC	48	0	0	X
+LOXL3	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC	134	0	0	X
+LOXL3	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC-mimetic	26	0	0	X
+LOXL3	postnatal_10m_donor	baut5	10-month-old stage	unknown	mcTEC	8	0	0	X
+LOXL3	postnatal_10m_donor	baut6	10-month-old stage	unknown	cTEC	227	0	0	X
+LOXL3	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC	511	2	0.00391389	X
+LOXL3	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC-mimetic	76	2	0.0263158	X
+LOXL3	postnatal_10m_donor	baut6	10-month-old stage	unknown	mcTEC	216	1	0.00462963	X
+LOXL3	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	cTEC	42	0	0	X
+LOXL3	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC	55	0	0	X
+LOXL3	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC-mimetic	1	0	0	X
+LOXL3	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mcTEC	2	0	0	X
+LOXL4	6m_thymus_donor	GSM4838951	6-month-old stage	female	cTEC	192	1	0.00520833	X
+LOXL4	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC	36	0	0	X
+LOXL4	6m_thymus_donor	GSM4838951	6-month-old stage	female	mTEC-mimetic	31	1	0.0322581	X
+LOXL4	6m_thymus_donor	GSM4838951	6-month-old stage	female	mcTEC	17	0	0	X
+LOXL4	6m_thymus_donor	GSM4838952	6-month-old stage	female	cTEC	1011	0	0	X
+LOXL4	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC	14	0	0	X
+LOXL4	6m_thymus_donor	GSM4838952	6-month-old stage	female	mTEC-mimetic	17	1	0.0588235	X
+LOXL4	6m_thymus_donor	GSM4838952	6-month-old stage	female	mcTEC	6	0	0	X
+LOXL4	6m_thymus_donor	GSM4838953	6-month-old stage	female	cTEC	2	0	0	X
+LOXL4	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC	309	20	0.0647249	X
+LOXL4	6m_thymus_donor	GSM4838953	6-month-old stage	female	mTEC-mimetic	295	3	0.0101695	X
+LOXL4	6m_thymus_donor	GSM4838953	6-month-old stage	female	mcTEC	14	1	0.0714286	X
+LOXL4	6m_thymus_donor	GSM4838954	6-month-old stage	female	cTEC	4	0	0	X
+LOXL4	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC	237	1	0.00421941	X
+LOXL4	6m_thymus_donor	GSM4838954	6-month-old stage	female	mTEC-mimetic	1485	13	0.00875421	X
+LOXL4	6m_thymus_donor	GSM4838954	6-month-old stage	female	mcTEC	2	0	0	X
+LOXL4	F21	FCAImmP7179370	17th week post-fertilization stage	male	cTEC	7	0	0	X
+LOXL4	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC	22	1	0.0454545	X
+LOXL4	F21	FCAImmP7179370	17th week post-fertilization stage	male	mTEC-mimetic	11	0	0	X
+LOXL4	F21	FCAImmP7179370	17th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOXL4	F23	FCAImmP7198635	12th week post-fertilization stage	male	cTEC	4	0	0	X
+LOXL4	F23	FCAImmP7198635	12th week post-fertilization stage	male	mcTEC	2	0	0	X
+LOXL4	F30	FCAImmP7277565	15th week post-fertilization stage	male	cTEC	4	0	0	X
+LOXL4	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC	9	0	0	X
+LOXL4	F30	FCAImmP7277565	15th week post-fertilization stage	male	mTEC-mimetic	3	0	0	X
+LOXL4	F30	FCAImmP7277565	15th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOXL4	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC	9	0	0	X
+LOXL4	F38	FCAImmP7528284	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOXL4	F38	FCAImmP7528285	14th week post-fertilization stage	male	cTEC	1	0	0	X
+LOXL4	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC	10	0	0	X
+LOXL4	F38	FCAImmP7528285	14th week post-fertilization stage	male	mTEC-mimetic	2	0	0	X
+LOXL4	F45	FCAImmP7579231	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOXL4	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC	4	0	0	X
+LOXL4	F45	FCAImmP7579231	13th week post-fertilization stage	female	mTEC-mimetic	3	0	0	X
+LOXL4	F45	FCAImmP7579231	13th week post-fertilization stage	female	mcTEC	2	0	0	X
+LOXL4	F64	FCAImmP7851890	12th week post-fertilization stage	male	cTEC	2	0	0	X
+LOXL4	F64	FCAImmP7851890	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOXL4	F64	FCAImmP7851890	12th week post-fertilization stage	male	mcTEC	5	0	0	X
+LOXL4	F64	FCAImmP7851891	12th week post-fertilization stage	male	cTEC	3	0	0	X
+LOXL4	F64	FCAImmP7851891	12th week post-fertilization stage	male	mTEC	1	0	0	X
+LOXL4	F64	FCAImmP7851891	12th week post-fertilization stage	male	mcTEC	3	0	0	X
+LOXL4	F67	FCAImmP7851895	13th week post-fertilization stage	female	cTEC	1	0	0	X
+LOXL4	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC	4	0	0	X
+LOXL4	F67	FCAImmP7851895	13th week post-fertilization stage	female	mTEC-mimetic	1	0	0	X
+LOXL4	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	cTEC	87	0	0	X
+LOXL4	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC	175	11	0.0628571	X
+LOXL4	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTEC-mimetic	8	0	0	X
+LOXL4	F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mcTEC	164	2	0.0121951	X
+LOXL4	T07	T07_TH_EPCAM_S3	3-month-old stage	male	cTEC	384	3	0.0078125	X
+LOXL4	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC	1151	72	0.0625543	X
+LOXL4	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTEC-mimetic	25	2	0.08	X
+LOXL4	T07	T07_TH_EPCAM_S3	3-month-old stage	male	mcTEC	251	23	0.0916335	X
+LOXL4	T07	T07_TH_TOT_1_S1	3-month-old stage	male	cTEC	56	0	0	X
+LOXL4	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC	46	1	0.0217391	X
+LOXL4	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTEC-mimetic	2	1	0.5	X
+LOXL4	T07	T07_TH_TOT_1_S1	3-month-old stage	male	mcTEC	16	0	0	X
+LOXL4	T07	T07_TH_TOT_2_S2	3-month-old stage	male	cTEC	30	0	0	X
+LOXL4	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTEC	53	4	0.0754717	X
+LOXL4	T07	T07_TH_TOT_2_S2	3-month-old stage	male	mcTEC	7	0	0	X
+LOXL4	U09	TA9260013	6-month-old stage	female	cTEC	102	0	0	X
+LOXL4	U09	TA9260013	6-month-old stage	female	mTEC	115	3	0.026087	X
+LOXL4	U09	TA9260013	6-month-old stage	female	mTEC-mimetic	9	0	0	X
+LOXL4	U09	TA9260013	6-month-old stage	female	mcTEC	4	0	0	X
+LOXL4	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	cTEC	880	7	0.00795455	X
+LOXL4	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC	169	6	0.035503	X
+LOXL4	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTEC-mimetic	57	9	0.157895	X
+LOXL4	U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mcTEC	2160	77	0.0356481	X
+LOXL4	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	cTEC	1402	4	0.00285307	X
+LOXL4	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC	1138	35	0.0307557	X
+LOXL4	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTEC-mimetic	70	2	0.0285714	X
+LOXL4	U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mcTEC	393	14	0.0356234	X
+LOXL4	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	cTEC	6	0	0	X
+LOXL4	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC	5	0	0	X
+LOXL4	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTEC-mimetic	2	0	0	X
+LOXL4	U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mcTEC	1	1	1	X
+LOXL4	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	cTEC	681	3	0.00440529	X
+LOXL4	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC	329	20	0.0607903	X
+LOXL4	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTEC-mimetic	55	3	0.0545455	X
+LOXL4	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mcTEC	44	1	0.0227273	X
+LOXL4	U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	see_lv4_explore	1	0	0	X
+LOXL4	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	cTEC	685	1	0.00145985	X
+LOXL4	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC	342	18	0.0526316	X
+LOXL4	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTEC-mimetic	65	8	0.123077	X
+LOXL4	U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mcTEC	45	2	0.0444444	X
+LOXL4	Z11	TA9260017	2-year-old stage	female	mTEC	3	0	0	X
+LOXL4	Z11	TA9260017	2-year-old stage	female	mTEC-mimetic	1	0	0	X
+LOXL4	Z11	TA9260017	2-year-old stage	female	mcTEC	4	1	0.25	X
+LOXL4	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	cTEC	3157	8	0.00253405	X
+LOXL4	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC	974	9	0.00924025	X
+LOXL4	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTEC-mimetic	131	0	0	X
+LOXL4	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mcTEC	2432	7	0.00287829	X
+LOXL4	fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	see_lv4_explore	16	0	0	X
+LOXL4	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	cTEC	186	1	0.00537634	X
+LOXL4	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC	339	0	0	X
+LOXL4	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTEC-mimetic	468	2	0.0042735	X
+LOXL4	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mcTEC	277	2	0.00722022	X
+LOXL4	fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	see_lv4_explore	23	0	0	X
+LOXL4	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	cTEC	243	0	0	X
+LOXL4	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC	367	0	0	X
+LOXL4	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTEC-mimetic	458	0	0	X
+LOXL4	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mcTEC	263	1	0.00380228	X
+LOXL4	fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	see_lv4_explore	26	0	0	X
+LOXL4	postnatal_10m_donor	baut5	10-month-old stage	unknown	cTEC	48	0	0	X
+LOXL4	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC	134	1	0.00746269	X
+LOXL4	postnatal_10m_donor	baut5	10-month-old stage	unknown	mTEC-mimetic	26	0	0	X
+LOXL4	postnatal_10m_donor	baut5	10-month-old stage	unknown	mcTEC	8	1	0.125	X
+LOXL4	postnatal_10m_donor	baut6	10-month-old stage	unknown	cTEC	227	2	0.00881057	X
+LOXL4	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC	511	24	0.0469667	X
+LOXL4	postnatal_10m_donor	baut6	10-month-old stage	unknown	mTEC-mimetic	76	7	0.0921053	X
+LOXL4	postnatal_10m_donor	baut6	10-month-old stage	unknown	mcTEC	216	8	0.037037	X
+LOXL4	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	cTEC	42	0	0	X
+LOXL4	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC	55	2	0.0363636	X
+LOXL4	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTEC-mimetic	1	0	0	X
+LOXL4	postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mcTEC	2	0	0	X

@@ -1,0 +1,262 @@
+donor_id	sample	development_stage	sex	cell_type_level_4_explore	n_cells
+6m_thymus_donor	GSM4838951	6-month-old stage	female	TEC-cilliated	10
+6m_thymus_donor	GSM4838951	6-month-old stage	female	TEC-myo	1
+6m_thymus_donor	GSM4838951	6-month-old stage	female	TEC-neuro	20
+6m_thymus_donor	GSM4838951	6-month-old stage	female	cTECI	20
+6m_thymus_donor	GSM4838951	6-month-old stage	female	cTECII	42
+6m_thymus_donor	GSM4838951	6-month-old stage	female	cTECIII	130
+6m_thymus_donor	GSM4838951	6-month-old stage	female	mTECI	27
+6m_thymus_donor	GSM4838951	6-month-old stage	female	mTECI-trans	4
+6m_thymus_donor	GSM4838951	6-month-old stage	female	mTECIII	5
+6m_thymus_donor	GSM4838951	6-month-old stage	female	mcTEC	16
+6m_thymus_donor	GSM4838951	6-month-old stage	female	mcTEC-Prolif	1
+6m_thymus_donor	GSM4838952	6-month-old stage	female	TEC-cilliated	2
+6m_thymus_donor	GSM4838952	6-month-old stage	female	TEC-neuro	15
+6m_thymus_donor	GSM4838952	6-month-old stage	female	cTECI	18
+6m_thymus_donor	GSM4838952	6-month-old stage	female	cTECII	214
+6m_thymus_donor	GSM4838952	6-month-old stage	female	cTECIII	779
+6m_thymus_donor	GSM4838952	6-month-old stage	female	mTECI	2
+6m_thymus_donor	GSM4838952	6-month-old stage	female	mTECII	1
+6m_thymus_donor	GSM4838952	6-month-old stage	female	mTECIII	11
+6m_thymus_donor	GSM4838952	6-month-old stage	female	mcTEC	3
+6m_thymus_donor	GSM4838952	6-month-old stage	female	mcTEC-Prolif	3
+6m_thymus_donor	GSM4838953	6-month-old stage	female	TEC-cilliated	22
+6m_thymus_donor	GSM4838953	6-month-old stage	female	TEC-myo	159
+6m_thymus_donor	GSM4838953	6-month-old stage	female	TEC-neuro	114
+6m_thymus_donor	GSM4838953	6-month-old stage	female	cTECI	2
+6m_thymus_donor	GSM4838953	6-month-old stage	female	mTECI	216
+6m_thymus_donor	GSM4838953	6-month-old stage	female	mTECI-trans	88
+6m_thymus_donor	GSM4838953	6-month-old stage	female	mTECII	1
+6m_thymus_donor	GSM4838953	6-month-old stage	female	mTECIII	4
+6m_thymus_donor	GSM4838953	6-month-old stage	female	mcTEC	14
+6m_thymus_donor	GSM4838954	6-month-old stage	female	TEC-cilliated	382
+6m_thymus_donor	GSM4838954	6-month-old stage	female	TEC-myo	105
+6m_thymus_donor	GSM4838954	6-month-old stage	female	TEC-neuro	998
+6m_thymus_donor	GSM4838954	6-month-old stage	female	cTECIII	4
+6m_thymus_donor	GSM4838954	6-month-old stage	female	mTECI	73
+6m_thymus_donor	GSM4838954	6-month-old stage	female	mTECI-trans	79
+6m_thymus_donor	GSM4838954	6-month-old stage	female	mTECII	24
+6m_thymus_donor	GSM4838954	6-month-old stage	female	mTECIII	61
+6m_thymus_donor	GSM4838954	6-month-old stage	female	mcTEC	2
+F21	FCAImmP7179370	17th week post-fertilization stage	male	TEC-cilliated	2
+F21	FCAImmP7179370	17th week post-fertilization stage	male	TEC-myo	4
+F21	FCAImmP7179370	17th week post-fertilization stage	male	TEC-neuro	5
+F21	FCAImmP7179370	17th week post-fertilization stage	male	cTECI	3
+F21	FCAImmP7179370	17th week post-fertilization stage	male	cTECII	4
+F21	FCAImmP7179370	17th week post-fertilization stage	male	mTECI	9
+F21	FCAImmP7179370	17th week post-fertilization stage	male	mTECI-trans	12
+F21	FCAImmP7179370	17th week post-fertilization stage	male	mTECII	1
+F21	FCAImmP7179370	17th week post-fertilization stage	male	mcTEC	3
+F23	FCAImmP7198635	12th week post-fertilization stage	male	cTECI	4
+F23	FCAImmP7198635	12th week post-fertilization stage	male	mcTEC-Prolif	2
+F30	FCAImmP7277565	15th week post-fertilization stage	male	TEC-myo	2
+F30	FCAImmP7277565	15th week post-fertilization stage	male	TEC-neuro	1
+F30	FCAImmP7277565	15th week post-fertilization stage	male	cTECI	4
+F30	FCAImmP7277565	15th week post-fertilization stage	male	mTECI	7
+F30	FCAImmP7277565	15th week post-fertilization stage	male	mTECI-trans	1
+F30	FCAImmP7277565	15th week post-fertilization stage	male	mTECIII	1
+F30	FCAImmP7277565	15th week post-fertilization stage	male	mcTEC	5
+F38	FCAImmP7528284	14th week post-fertilization stage	male	TEC-myo	1
+F38	FCAImmP7528284	14th week post-fertilization stage	male	TEC-neuro	1
+F38	FCAImmP7528284	14th week post-fertilization stage	male	mTECI	9
+F38	FCAImmP7528285	14th week post-fertilization stage	male	TEC-myo	1
+F38	FCAImmP7528285	14th week post-fertilization stage	male	TEC-neuro	1
+F38	FCAImmP7528285	14th week post-fertilization stage	male	cTECI	1
+F38	FCAImmP7528285	14th week post-fertilization stage	male	mTECI	9
+F38	FCAImmP7528285	14th week post-fertilization stage	male	mTECI-trans	1
+F45	FCAImmP7579231	13th week post-fertilization stage	female	TEC-myo	1
+F45	FCAImmP7579231	13th week post-fertilization stage	female	TEC-neuro	2
+F45	FCAImmP7579231	13th week post-fertilization stage	female	cTECI	1
+F45	FCAImmP7579231	13th week post-fertilization stage	female	mTECI	3
+F45	FCAImmP7579231	13th week post-fertilization stage	female	mTECII	1
+F45	FCAImmP7579231	13th week post-fertilization stage	female	mcTEC	2
+F64	FCAImmP7851890	12th week post-fertilization stage	male	cTECI	1
+F64	FCAImmP7851890	12th week post-fertilization stage	male	cTECII	1
+F64	FCAImmP7851890	12th week post-fertilization stage	male	mTECI	1
+F64	FCAImmP7851890	12th week post-fertilization stage	male	mcTEC	4
+F64	FCAImmP7851890	12th week post-fertilization stage	male	mcTEC-Prolif	1
+F64	FCAImmP7851891	12th week post-fertilization stage	male	cTECI	3
+F64	FCAImmP7851891	12th week post-fertilization stage	male	mTECI-trans	1
+F64	FCAImmP7851891	12th week post-fertilization stage	male	mcTEC	3
+F67	FCAImmP7851895	13th week post-fertilization stage	female	TEC-neuro	1
+F67	FCAImmP7851895	13th week post-fertilization stage	female	cTECI	1
+F67	FCAImmP7851895	13th week post-fertilization stage	female	mTECI	3
+F67	FCAImmP7851895	13th week post-fertilization stage	female	mTECI-trans	1
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	TEC-myo	5
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	TEC-neuro	3
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	cTECI	44
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	cTECII	43
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTECI	137
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTECI-trans	7
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTECII	19
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mTECIII	12
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mcTEC	153
+F83	F83_TH_EPCAM	18th week post-fertilization stage	female	mcTEC-Prolif	11
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	TEC-cilliated	3
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	TEC-myo	14
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	TEC-neuro	8
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	cTECI	74
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	cTECII	110
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	cTECIII	200
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTECI	738
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTECI-trans	30
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTECII	259
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	mTECIII	124
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	mcTEC	237
+T07	T07_TH_EPCAM_S3	3-month-old stage	male	mcTEC-Prolif	14
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	TEC-myo	2
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	cTECI	5
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	cTECII	15
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	cTECIII	36
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTECI	28
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTECI-trans	1
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTECII	9
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	mTECIII	8
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	mcTEC	14
+T07	T07_TH_TOT_1_S1	3-month-old stage	male	mcTEC-Prolif	2
+T07	T07_TH_TOT_2_S2	3-month-old stage	male	cTECI	4
+T07	T07_TH_TOT_2_S2	3-month-old stage	male	cTECII	7
+T07	T07_TH_TOT_2_S2	3-month-old stage	male	cTECIII	19
+T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTECI	31
+T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTECI-trans	1
+T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTECII	14
+T07	T07_TH_TOT_2_S2	3-month-old stage	male	mTECIII	7
+T07	T07_TH_TOT_2_S2	3-month-old stage	male	mcTEC	7
+U09	TA9260013	6-month-old stage	female	TEC-cilliated	1
+U09	TA9260013	6-month-old stage	female	TEC-myo	5
+U09	TA9260013	6-month-old stage	female	TEC-neuro	3
+U09	TA9260013	6-month-old stage	female	cTECI	6
+U09	TA9260013	6-month-old stage	female	cTECII	35
+U09	TA9260013	6-month-old stage	female	cTECIII	61
+U09	TA9260013	6-month-old stage	female	mTECI	69
+U09	TA9260013	6-month-old stage	female	mTECI-trans	5
+U09	TA9260013	6-month-old stage	female	mTECII	18
+U09	TA9260013	6-month-old stage	female	mTECIII	23
+U09	TA9260013	6-month-old stage	female	mcTEC	4
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	TEC-cilliated	3
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	TEC-myo	53
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	TEC-neuro	1
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	cTECI	830
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	cTECII	25
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	cTECIII	25
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTECI	118
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTECI-trans	1
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTECII	25
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mTECIII	25
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mcTEC	2128
+U40	U40-THY-0-SC-F-1	newborn stage (0-28 days)	female	mcTEC-Prolif	32
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	TEC-cilliated	15
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	TEC-myo	44
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	TEC-neuro	11
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	cTECI	748
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	cTECII	550
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	cTECIII	104
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTECI	876
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTECI-trans	62
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTECII	133
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mTECIII	67
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mcTEC	382
+U40	U40-THY-0-SC-F-2	newborn stage (0-28 days)	female	mcTEC-Prolif	11
+U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	TEC-myo	1
+U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	TEC-neuro	1
+U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	cTECI	2
+U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	cTECIII	4
+U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTECI	1
+U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTECII	3
+U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mTECIII	1
+U40	U48-THY-0-SC-1_5GEX	newborn stage (0-28 days)	female	mcTEC	1
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	TEC-cilliated	7
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	TEC-myo	32
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	TEC-neuro	16
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	TEC-tuft	1
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	cTECI	83
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	cTECII	252
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	cTECIII	346
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTECI	208
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTECI-trans	26
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTECII	72
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mTECIII	23
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mcTEC	42
+U48	U48-THY-0-SC-EPCP-1_5GEX	6-month-old stage	male	mcTEC-Prolif	2
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	TEC-cilliated	14
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	TEC-myo	39
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	TEC-neuro	12
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	cTECI	82
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	cTECII	275
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	cTECIII	328
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTECI	219
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTECI-trans	14
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTECII	81
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mTECIII	28
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mcTEC	41
+U48	U48-THY-0-SC-EPCP-2_5GEX	6-month-old stage	male	mcTEC-Prolif	4
+Z11	TA9260017	2-year-old stage	female	TEC-neuro	1
+Z11	TA9260017	2-year-old stage	female	mTECI	3
+Z11	TA9260017	2-year-old stage	female	mcTEC	4
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	TEC-cilliated	1
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	TEC-myo	101
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	TEC-neuro	29
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	TEC-tuft	16
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	cTECI	2907
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	cTECII	250
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTECI	743
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTECI-trans	114
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTECII	80
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mTECIII	37
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mcTEC	2051
+fetal_19w_donor	baut1	20th week post-fertilization stage	unknown	mcTEC-Prolif	381
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	TEC-cilliated	78
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	TEC-myo	209
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	TEC-neuro	181
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	TEC-tuft	23
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	cTECI	172
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	cTECII	14
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTECI	56
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTECI-trans	136
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTECII	50
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mTECIII	97
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mcTEC	246
+fetal_23w_donor	baut2	24th week post-fertilization stage	unknown	mcTEC-Prolif	31
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	TEC-cilliated	62
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	TEC-myo	222
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	TEC-neuro	174
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	TEC-tuft	26
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	cTECI	229
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	cTECII	14
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTECI	59
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTECI-trans	150
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTECII	53
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mTECIII	105
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mcTEC	237
+fetal_23w_donor	baut3	24th week post-fertilization stage	unknown	mcTEC-Prolif	26
+postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	TEC-neuro	1
+postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	cTECI	3
+postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	cTECII	1
+postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	cTECIII	38
+postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTECI	5
+postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTECII	8
+postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mTECIII	42
+postnatal_6d_donor	baut4	newborn stage (0-28 days)	unknown	mcTEC	2
+postnatal_10m_donor	baut5	10-month-old stage	unknown	TEC-cilliated	7
+postnatal_10m_donor	baut5	10-month-old stage	unknown	TEC-myo	9
+postnatal_10m_donor	baut5	10-month-old stage	unknown	TEC-neuro	10
+postnatal_10m_donor	baut5	10-month-old stage	unknown	cTECI	2
+postnatal_10m_donor	baut5	10-month-old stage	unknown	cTECII	17
+postnatal_10m_donor	baut5	10-month-old stage	unknown	cTECIII	29
+postnatal_10m_donor	baut5	10-month-old stage	unknown	mTECI	10
+postnatal_10m_donor	baut5	10-month-old stage	unknown	mTECI-trans	1
+postnatal_10m_donor	baut5	10-month-old stage	unknown	mTECII	10
+postnatal_10m_donor	baut5	10-month-old stage	unknown	mTECIII	113
+postnatal_10m_donor	baut5	10-month-old stage	unknown	mcTEC	8
+postnatal_10m_donor	baut6	10-month-old stage	unknown	TEC-cilliated	14
+postnatal_10m_donor	baut6	10-month-old stage	unknown	TEC-myo	43
+postnatal_10m_donor	baut6	10-month-old stage	unknown	TEC-neuro	19
+postnatal_10m_donor	baut6	10-month-old stage	unknown	cTECI	107
+postnatal_10m_donor	baut6	10-month-old stage	unknown	cTECII	72
+postnatal_10m_donor	baut6	10-month-old stage	unknown	cTECIII	48
+postnatal_10m_donor	baut6	10-month-old stage	unknown	mTECI	253
+postnatal_10m_donor	baut6	10-month-old stage	unknown	mTECI-trans	19
+postnatal_10m_donor	baut6	10-month-old stage	unknown	mTECII	35
+postnatal_10m_donor	baut6	10-month-old stage	unknown	mTECIII	204
+postnatal_10m_donor	baut6	10-month-old stage	unknown	mcTEC	212
+postnatal_10m_donor	baut6	10-month-old stage	unknown	mcTEC-Prolif	4

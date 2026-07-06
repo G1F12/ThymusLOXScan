@@ -1,0 +1,3 @@
+matrix_name	available	matrix_type	notes
+X	yes	anndata._core.sparse_dataset._CSRDataset; shape=(25726, 35477); dtype=float32	Primary matrix present; value semantics require audit before mean summaries.
+raw.X	no	not_available	Raw object status recorded from AnnData.

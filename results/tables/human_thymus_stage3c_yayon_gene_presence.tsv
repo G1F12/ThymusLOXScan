@@ -1,0 +1,6 @@
+target_gene	present	match_location	matching_var_ids	notes
+LOX	yes	feature_name	ENSG00000113083	Detected by exact feature-name match.
+LOXL1	yes	feature_name	ENSG00000129038	Detected by exact feature-name match.
+LOXL2	yes	feature_name	ENSG00000134013	Detected by exact feature-name match.
+LOXL3	yes	feature_name	ENSG00000115318	Detected by exact feature-name match.
+LOXL4	yes	feature_name	ENSG00000138131	Detected by exact feature-name match.

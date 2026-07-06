@@ -1,0 +1,6 @@
+gene	donor_id	sample	development_stage	sex	cell_type_level_4_explore	n_cells	mean_value	median_value	nonzero_mean_value	matrix_used	value_semantics_label	not_generated_reason
+LOX										not_generated	not_generated	The object has no raw layer and no local matrix annotation sufficient to label X values for mean-value summaries.
+LOXL1										not_generated	not_generated	The object has no raw layer and no local matrix annotation sufficient to label X values for mean-value summaries.
+LOXL2										not_generated	not_generated	The object has no raw layer and no local matrix annotation sufficient to label X values for mean-value summaries.
+LOXL3										not_generated	not_generated	The object has no raw layer and no local matrix annotation sufficient to label X values for mean-value summaries.
+LOXL4										not_generated	not_generated	The object has no raw layer and no local matrix annotation sufficient to label X values for mean-value summaries.

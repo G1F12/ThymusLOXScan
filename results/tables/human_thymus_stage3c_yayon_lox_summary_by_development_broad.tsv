@@ -1,0 +1,261 @@
+gene	development_stage	cell_type_level_2	donor_count	sample_count	donor_sample_group_count	total_cells	median_detection_fraction	mean_detection_fraction	mean_value_summary	value_semantics_label
+LOX	10-month-old stage	cTEC	1	2	2	275	0.00220265	0.00220265	not_generated	not_generated
+LOX	10-month-old stage	mTEC	1	2	2	645	0.0200003	0.0200003	not_generated	not_generated
+LOX	10-month-old stage	mTEC-mimetic	1	2	2	102	0.00657895	0.00657895	not_generated	not_generated
+LOX	10-month-old stage	mcTEC	1	2	2	224	0.0740741	0.0740741	not_generated	not_generated
+LOX	12th week post-fertilization stage	cTEC	2	3	3	9	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	mTEC	1	2	2	2	0	0	not_generated	not_generated
+LOX	12th week post-fertilization stage	mcTEC	2	3	3	10	0	0	not_generated	not_generated
+LOX	13th week post-fertilization stage	cTEC	2	2	2	2	0	0	not_generated	not_generated
+LOX	13th week post-fertilization stage	mTEC	2	2	2	8	0.125	0.125	not_generated	not_generated
+LOX	13th week post-fertilization stage	mTEC-mimetic	2	2	2	4	0	0	not_generated	not_generated
+LOX	13th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOX	14th week post-fertilization stage	cTEC	1	1	1	1	0	0	not_generated	not_generated
+LOX	14th week post-fertilization stage	mTEC	1	2	2	19	0	0	not_generated	not_generated
+LOX	14th week post-fertilization stage	mTEC-mimetic	1	2	2	4	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	cTEC	1	1	1	4	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	mTEC	1	1	1	9	0.111111	0.111111	not_generated	not_generated
+LOX	15th week post-fertilization stage	mTEC-mimetic	1	1	1	3	0	0	not_generated	not_generated
+LOX	15th week post-fertilization stage	mcTEC	1	1	1	5	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	mTEC	1	1	1	22	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	mTEC-mimetic	1	1	1	11	0	0	not_generated	not_generated
+LOX	17th week post-fertilization stage	mcTEC	1	1	1	3	0	0	not_generated	not_generated
+LOX	18th week post-fertilization stage	cTEC	1	1	1	87	0.0229885	0.0229885	not_generated	not_generated
+LOX	18th week post-fertilization stage	mTEC	1	1	1	175	0.0971429	0.0971429	not_generated	not_generated
+LOX	18th week post-fertilization stage	mTEC-mimetic	1	1	1	8	0	0	not_generated	not_generated
+LOX	18th week post-fertilization stage	mcTEC	1	1	1	164	0.0792683	0.0792683	not_generated	not_generated
+LOX	2-year-old stage	mTEC	1	1	1	3	0.333333	0.333333	not_generated	not_generated
+LOX	2-year-old stage	mTEC-mimetic	1	1	1	1	0	0	not_generated	not_generated
+LOX	2-year-old stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOX	20th week post-fertilization stage	cTEC	1	1	1	3157	0.00316756	0.00316756	not_generated	not_generated
+LOX	20th week post-fertilization stage	mTEC	1	1	1	974	0.00718686	0.00718686	not_generated	not_generated
+LOX	20th week post-fertilization stage	mTEC-mimetic	1	1	1	131	0.0305344	0.0305344	not_generated	not_generated
+LOX	20th week post-fertilization stage	mcTEC	1	1	1	2432	0.00493421	0.00493421	not_generated	not_generated
+LOX	20th week post-fertilization stage	see_lv4_explore	1	1	1	16	0	0	not_generated	not_generated
+LOX	24th week post-fertilization stage	cTEC	1	2	2	429	0.00268817	0.00268817	not_generated	not_generated
+LOX	24th week post-fertilization stage	mTEC	1	2	2	706	0.00283732	0.00283732	not_generated	not_generated
+LOX	24th week post-fertilization stage	mTEC-mimetic	1	2	2	926	0.00106838	0.00106838	not_generated	not_generated
+LOX	24th week post-fertilization stage	mcTEC	1	2	2	540	0.0148248	0.0148248	not_generated	not_generated
+LOX	24th week post-fertilization stage	see_lv4_explore	1	2	2	49	0	0	not_generated	not_generated
+LOX	3-month-old stage	cTEC	1	3	3	470	0	0.00173611	not_generated	not_generated
+LOX	3-month-old stage	mTEC	1	3	3	1250	0.018245	0.013328	not_generated	not_generated
+LOX	3-month-old stage	mTEC-mimetic	1	2	2	27	0	0	not_generated	not_generated
+LOX	3-month-old stage	mcTEC	1	3	3	274	0.0717131	0.065571	not_generated	not_generated
+LOX	6-month-old stage	cTEC	3	7	7	2677	0	0.000629327	not_generated	not_generated
+LOX	6-month-old stage	mTEC	3	7	7	1382	0.026087	0.0174509	not_generated	not_generated
+LOX	6-month-old stage	mTEC-mimetic	3	7	7	1957	0	0.00144952	not_generated	not_generated
+LOX	6-month-old stage	mcTEC	3	7	7	132	0	0.058153	not_generated	not_generated
+LOX	6-month-old stage	see_lv4_explore	1	1	1	1	0	0	not_generated	not_generated
+LOX	newborn stage (0-28 days)	cTEC	2	4	4	2330	0.0172542	0.0171499	not_generated	not_generated
+LOX	newborn stage (0-28 days)	mTEC	2	4	4	1367	0.0246929	0.0214374	not_generated	not_generated
+LOX	newborn stage (0-28 days)	mTEC-mimetic	2	4	4	130	0	0	not_generated	not_generated
+LOX	newborn stage (0-28 days)	mcTEC	2	4	4	2556	0.0317129	0.0323959	not_generated	not_generated
+LOXL1	10-month-old stage	cTEC	1	2	2	275	0.00660795	0.00660795	not_generated	not_generated
+LOXL1	10-month-old stage	mTEC	1	2	2	645	0.057248	0.057248	not_generated	not_generated
+LOXL1	10-month-old stage	mTEC-mimetic	1	2	2	102	0.0450405	0.0450405	not_generated	not_generated
+LOXL1	10-month-old stage	mcTEC	1	2	2	224	0.0763889	0.0763889	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	cTEC	2	3	3	9	0.25	0.194444	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	mTEC	1	2	2	2	0	0	not_generated	not_generated
+LOXL1	12th week post-fertilization stage	mcTEC	2	3	3	10	0	0.166667	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	cTEC	2	2	2	2	0	0	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	mTEC	2	2	2	8	0	0	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	mTEC-mimetic	2	2	2	4	0	0	not_generated	not_generated
+LOXL1	13th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOXL1	14th week post-fertilization stage	cTEC	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	14th week post-fertilization stage	mTEC	1	2	2	19	0	0	not_generated	not_generated
+LOXL1	14th week post-fertilization stage	mTEC-mimetic	1	2	2	4	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	cTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	mTEC	1	1	1	9	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	mTEC-mimetic	1	1	1	3	0	0	not_generated	not_generated
+LOXL1	15th week post-fertilization stage	mcTEC	1	1	1	5	0	0	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	mTEC	1	1	1	22	0.0909091	0.0909091	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	mTEC-mimetic	1	1	1	11	0.0909091	0.0909091	not_generated	not_generated
+LOXL1	17th week post-fertilization stage	mcTEC	1	1	1	3	0	0	not_generated	not_generated
+LOXL1	18th week post-fertilization stage	cTEC	1	1	1	87	0.045977	0.045977	not_generated	not_generated
+LOXL1	18th week post-fertilization stage	mTEC	1	1	1	175	0.108571	0.108571	not_generated	not_generated
+LOXL1	18th week post-fertilization stage	mTEC-mimetic	1	1	1	8	0.125	0.125	not_generated	not_generated
+LOXL1	18th week post-fertilization stage	mcTEC	1	1	1	164	0.0853659	0.0853659	not_generated	not_generated
+LOXL1	2-year-old stage	mTEC	1	1	1	3	0	0	not_generated	not_generated
+LOXL1	2-year-old stage	mTEC-mimetic	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	2-year-old stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL1	20th week post-fertilization stage	cTEC	1	1	1	3157	0.0338929	0.0338929	not_generated	not_generated
+LOXL1	20th week post-fertilization stage	mTEC	1	1	1	974	0.0492813	0.0492813	not_generated	not_generated
+LOXL1	20th week post-fertilization stage	mTEC-mimetic	1	1	1	131	0.0687023	0.0687023	not_generated	not_generated
+LOXL1	20th week post-fertilization stage	mcTEC	1	1	1	2432	0.0444079	0.0444079	not_generated	not_generated
+LOXL1	20th week post-fertilization stage	see_lv4_explore	1	1	1	16	0	0	not_generated	not_generated
+LOXL1	24th week post-fertilization stage	cTEC	1	2	2	429	0.0452343	0.0452343	not_generated	not_generated
+LOXL1	24th week post-fertilization stage	mTEC	1	2	2	706	0.0372228	0.0372228	not_generated	not_generated
+LOXL1	24th week post-fertilization stage	mTEC-mimetic	1	2	2	926	0.0582288	0.0582288	not_generated	not_generated
+LOXL1	24th week post-fertilization stage	mcTEC	1	2	2	540	0.0496012	0.0496012	not_generated	not_generated
+LOXL1	24th week post-fertilization stage	see_lv4_explore	1	2	2	49	0.0434783	0.0434783	not_generated	not_generated
+LOXL1	3-month-old stage	cTEC	1	3	3	470	0.0178571	0.0222718	not_generated	not_generated
+LOXL1	3-month-old stage	mTEC	1	3	3	1250	0.150943	0.172879	not_generated	not_generated
+LOXL1	3-month-old stage	mTEC-mimetic	1	2	2	27	0.1	0.1	not_generated	not_generated
+LOXL1	3-month-old stage	mcTEC	1	3	3	274	0.125	0.12647	not_generated	not_generated
+LOXL1	6-month-old stage	cTEC	3	7	7	2677	0.03125	0.0234336	not_generated	not_generated
+LOXL1	6-month-old stage	mTEC	3	7	7	1382	0.113043	0.097494	not_generated	not_generated
+LOXL1	6-month-old stage	mTEC-mimetic	3	7	7	1957	0.107692	0.107943	not_generated	not_generated
+LOXL1	6-month-old stage	mcTEC	3	7	7	132	0	0.0319625	not_generated	not_generated
+LOXL1	6-month-old stage	see_lv4_explore	1	1	1	1	0	0	not_generated	not_generated
+LOXL1	newborn stage (0-28 days)	cTEC	2	4	4	2330	0.069011	0.088077	not_generated	not_generated
+LOXL1	newborn stage (0-28 days)	mTEC	2	4	4	1367	0.0564282	0.0567731	not_generated	not_generated
+LOXL1	newborn stage (0-28 days)	mTEC-mimetic	2	4	4	130	0.0175438	0.0373434	not_generated	not_generated
+LOXL1	newborn stage (0-28 days)	mcTEC	2	4	4	2556	0.00890585	0.015564	not_generated	not_generated
+LOXL2	10-month-old stage	cTEC	1	2	2	275	0	0	not_generated	not_generated
+LOXL2	10-month-old stage	mTEC	1	2	2	645	0.00568829	0.00568829	not_generated	not_generated
+LOXL2	10-month-old stage	mTEC-mimetic	1	2	2	102	0.122976	0.122976	not_generated	not_generated
+LOXL2	10-month-old stage	mcTEC	1	2	2	224	0.00462963	0.00462963	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	cTEC	2	3	3	9	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	mTEC	1	2	2	2	0	0	not_generated	not_generated
+LOXL2	12th week post-fertilization stage	mcTEC	2	3	3	10	0	0	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	cTEC	2	2	2	2	0	0	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	mTEC	2	2	2	8	0	0	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	mTEC-mimetic	2	2	2	4	0	0	not_generated	not_generated
+LOXL2	13th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOXL2	14th week post-fertilization stage	cTEC	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	14th week post-fertilization stage	mTEC	1	2	2	19	0	0	not_generated	not_generated
+LOXL2	14th week post-fertilization stage	mTEC-mimetic	1	2	2	4	0.25	0.25	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	cTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	mTEC	1	1	1	9	0	0	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	mTEC-mimetic	1	1	1	3	0.333333	0.333333	not_generated	not_generated
+LOXL2	15th week post-fertilization stage	mcTEC	1	1	1	5	0.2	0.2	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	mTEC	1	1	1	22	0	0	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	mTEC-mimetic	1	1	1	11	0	0	not_generated	not_generated
+LOXL2	17th week post-fertilization stage	mcTEC	1	1	1	3	0	0	not_generated	not_generated
+LOXL2	18th week post-fertilization stage	cTEC	1	1	1	87	0.0344828	0.0344828	not_generated	not_generated
+LOXL2	18th week post-fertilization stage	mTEC	1	1	1	175	0.131429	0.131429	not_generated	not_generated
+LOXL2	18th week post-fertilization stage	mTEC-mimetic	1	1	1	8	0.375	0.375	not_generated	not_generated
+LOXL2	18th week post-fertilization stage	mcTEC	1	1	1	164	0.0609756	0.0609756	not_generated	not_generated
+LOXL2	2-year-old stage	mTEC	1	1	1	3	0	0	not_generated	not_generated
+LOXL2	2-year-old stage	mTEC-mimetic	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	2-year-old stage	mcTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL2	20th week post-fertilization stage	cTEC	1	1	1	3157	0.00253405	0.00253405	not_generated	not_generated
+LOXL2	20th week post-fertilization stage	mTEC	1	1	1	974	0.013347	0.013347	not_generated	not_generated
+LOXL2	20th week post-fertilization stage	mTEC-mimetic	1	1	1	131	0.0992366	0.0992366	not_generated	not_generated
+LOXL2	20th week post-fertilization stage	mcTEC	1	1	1	2432	0.00904605	0.00904605	not_generated	not_generated
+LOXL2	20th week post-fertilization stage	see_lv4_explore	1	1	1	16	0	0	not_generated	not_generated
+LOXL2	24th week post-fertilization stage	cTEC	1	2	2	429	0.00949158	0.00949158	not_generated	not_generated
+LOXL2	24th week post-fertilization stage	mTEC	1	2	2	706	0.0267858	0.0267858	not_generated	not_generated
+LOXL2	24th week post-fertilization stage	mTEC-mimetic	1	2	2	926	0.0993869	0.0993869	not_generated	not_generated
+LOXL2	24th week post-fertilization stage	mcTEC	1	2	2	540	0.0110225	0.0110225	not_generated	not_generated
+LOXL2	24th week post-fertilization stage	see_lv4_explore	1	2	2	49	0	0	not_generated	not_generated
+LOXL2	3-month-old stage	cTEC	1	3	3	470	0.00520833	0.00768848	not_generated	not_generated
+LOXL2	3-month-old stage	mTEC	1	3	3	1250	0.0188679	0.0187485	not_generated	not_generated
+LOXL2	3-month-old stage	mTEC-mimetic	1	2	2	27	0.49	0.49	not_generated	not_generated
+LOXL2	3-month-old stage	mcTEC	1	3	3	274	0.125	0.152841	not_generated	not_generated
+LOXL2	6-month-old stage	cTEC	3	7	7	2677	0	0.000625651	not_generated	not_generated
+LOXL2	6-month-old stage	mTEC	3	7	7	1382	0.021097	0.0221699	not_generated	not_generated
+LOXL2	6-month-old stage	mTEC-mimetic	3	7	7	1957	0.0242424	0.0963126	not_generated	not_generated
+LOXL2	6-month-old stage	mcTEC	3	7	7	132	0	0.0031746	not_generated	not_generated
+LOXL2	6-month-old stage	see_lv4_explore	1	1	1	1	0	0	not_generated	not_generated
+LOXL2	newborn stage (0-28 days)	cTEC	2	4	4	2330	0.00397727	0.00608991	not_generated	not_generated
+LOXL2	newborn stage (0-28 days)	mTEC	2	4	4	1367	0.00887575	0.00992998	not_generated	not_generated
+LOXL2	newborn stage (0-28 days)	mTEC-mimetic	2	4	4	130	0.236091	0.243045	not_generated	not_generated
+LOXL2	newborn stage (0-28 days)	mcTEC	2	4	4	2556	0.00381679	0.00538062	not_generated	not_generated
+LOXL3	10-month-old stage	cTEC	1	2	2	275	0	0	not_generated	not_generated
+LOXL3	10-month-old stage	mTEC	1	2	2	645	0.00195694	0.00195694	not_generated	not_generated
+LOXL3	10-month-old stage	mTEC-mimetic	1	2	2	102	0.0131579	0.0131579	not_generated	not_generated
+LOXL3	10-month-old stage	mcTEC	1	2	2	224	0.00231482	0.00231482	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	cTEC	2	3	3	9	0	0	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	mTEC	1	2	2	2	0	0	not_generated	not_generated
+LOXL3	12th week post-fertilization stage	mcTEC	2	3	3	10	0	0	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	cTEC	2	2	2	2	0	0	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	mTEC	2	2	2	8	0.125	0.125	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	mTEC-mimetic	2	2	2	4	0.166666	0.166666	not_generated	not_generated
+LOXL3	13th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOXL3	14th week post-fertilization stage	cTEC	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	14th week post-fertilization stage	mTEC	1	2	2	19	0	0	not_generated	not_generated
+LOXL3	14th week post-fertilization stage	mTEC-mimetic	1	2	2	4	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	cTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	mTEC	1	1	1	9	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	mTEC-mimetic	1	1	1	3	0	0	not_generated	not_generated
+LOXL3	15th week post-fertilization stage	mcTEC	1	1	1	5	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	mTEC	1	1	1	22	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	mTEC-mimetic	1	1	1	11	0	0	not_generated	not_generated
+LOXL3	17th week post-fertilization stage	mcTEC	1	1	1	3	0	0	not_generated	not_generated
+LOXL3	18th week post-fertilization stage	cTEC	1	1	1	87	0	0	not_generated	not_generated
+LOXL3	18th week post-fertilization stage	mTEC	1	1	1	175	0.0114286	0.0114286	not_generated	not_generated
+LOXL3	18th week post-fertilization stage	mTEC-mimetic	1	1	1	8	0	0	not_generated	not_generated
+LOXL3	18th week post-fertilization stage	mcTEC	1	1	1	164	0.00609756	0.00609756	not_generated	not_generated
+LOXL3	2-year-old stage	mTEC	1	1	1	3	0	0	not_generated	not_generated
+LOXL3	2-year-old stage	mTEC-mimetic	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	2-year-old stage	mcTEC	1	1	1	4	0.25	0.25	not_generated	not_generated
+LOXL3	20th week post-fertilization stage	cTEC	1	1	1	3157	0.00253405	0.00253405	not_generated	not_generated
+LOXL3	20th week post-fertilization stage	mTEC	1	1	1	974	0	0	not_generated	not_generated
+LOXL3	20th week post-fertilization stage	mTEC-mimetic	1	1	1	131	0.0152672	0.0152672	not_generated	not_generated
+LOXL3	20th week post-fertilization stage	mcTEC	1	1	1	2432	0.00123355	0.00123355	not_generated	not_generated
+LOXL3	20th week post-fertilization stage	see_lv4_explore	1	1	1	16	0	0	not_generated	not_generated
+LOXL3	24th week post-fertilization stage	cTEC	1	2	2	429	0.00268817	0.00268817	not_generated	not_generated
+LOXL3	24th week post-fertilization stage	mTEC	1	2	2	706	0.00147492	0.00147492	not_generated	not_generated
+LOXL3	24th week post-fertilization stage	mTEC-mimetic	1	2	2	926	0.0150273	0.0150273	not_generated	not_generated
+LOXL3	24th week post-fertilization stage	mcTEC	1	2	2	540	0	0	not_generated	not_generated
+LOXL3	24th week post-fertilization stage	see_lv4_explore	1	2	2	49	0	0	not_generated	not_generated
+LOXL3	3-month-old stage	cTEC	1	3	3	470	0	0	not_generated	not_generated
+LOXL3	3-month-old stage	mTEC	1	3	3	1250	0	0.00231683	not_generated	not_generated
+LOXL3	3-month-old stage	mTEC-mimetic	1	2	2	27	0.04	0.04	not_generated	not_generated
+LOXL3	3-month-old stage	mcTEC	1	3	3	274	0	0.00398407	not_generated	not_generated
+LOXL3	6-month-old stage	cTEC	3	7	7	2677	0	0.00244699	not_generated	not_generated
+LOXL3	6-month-old stage	mTEC	3	7	7	1382	0.00877193	0.00834522	not_generated	not_generated
+LOXL3	6-month-old stage	mTEC-mimetic	3	7	7	1957	0.0307692	0.0251215	not_generated	not_generated
+LOXL3	6-month-old stage	mcTEC	3	7	7	132	0	0.0031746	not_generated	not_generated
+LOXL3	6-month-old stage	see_lv4_explore	1	1	1	1	0	0	not_generated	not_generated
+LOXL3	newborn stage (0-28 days)	cTEC	2	4	4	2330	0.0021398	0.00305854	not_generated	not_generated
+LOXL3	newborn stage (0-28 days)	mTEC	2	4	4	1367	0	0.00197715	not_generated	not_generated
+LOXL3	newborn stage (0-28 days)	mTEC-mimetic	2	4	4	130	0	0	not_generated	not_generated
+LOXL3	newborn stage (0-28 days)	mcTEC	2	4	4	2556	0.00127227	0.00306669	not_generated	not_generated
+LOXL4	10-month-old stage	cTEC	1	2	2	275	0.00440529	0.00440529	not_generated	not_generated
+LOXL4	10-month-old stage	mTEC	1	2	2	645	0.0272147	0.0272147	not_generated	not_generated
+LOXL4	10-month-old stage	mTEC-mimetic	1	2	2	102	0.0460527	0.0460527	not_generated	not_generated
+LOXL4	10-month-old stage	mcTEC	1	2	2	224	0.0810185	0.0810185	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	cTEC	2	3	3	9	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	mTEC	1	2	2	2	0	0	not_generated	not_generated
+LOXL4	12th week post-fertilization stage	mcTEC	2	3	3	10	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	cTEC	2	2	2	2	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	mTEC	2	2	2	8	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	mTEC-mimetic	2	2	2	4	0	0	not_generated	not_generated
+LOXL4	13th week post-fertilization stage	mcTEC	1	1	1	2	0	0	not_generated	not_generated
+LOXL4	14th week post-fertilization stage	cTEC	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	14th week post-fertilization stage	mTEC	1	2	2	19	0	0	not_generated	not_generated
+LOXL4	14th week post-fertilization stage	mTEC-mimetic	1	2	2	4	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	cTEC	1	1	1	4	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	mTEC	1	1	1	9	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	mTEC-mimetic	1	1	1	3	0	0	not_generated	not_generated
+LOXL4	15th week post-fertilization stage	mcTEC	1	1	1	5	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	cTEC	1	1	1	7	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	mTEC	1	1	1	22	0.0454545	0.0454545	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	mTEC-mimetic	1	1	1	11	0	0	not_generated	not_generated
+LOXL4	17th week post-fertilization stage	mcTEC	1	1	1	3	0	0	not_generated	not_generated
+LOXL4	18th week post-fertilization stage	cTEC	1	1	1	87	0	0	not_generated	not_generated
+LOXL4	18th week post-fertilization stage	mTEC	1	1	1	175	0.0628571	0.0628571	not_generated	not_generated
+LOXL4	18th week post-fertilization stage	mTEC-mimetic	1	1	1	8	0	0	not_generated	not_generated
+LOXL4	18th week post-fertilization stage	mcTEC	1	1	1	164	0.0121951	0.0121951	not_generated	not_generated
+LOXL4	2-year-old stage	mTEC	1	1	1	3	0	0	not_generated	not_generated
+LOXL4	2-year-old stage	mTEC-mimetic	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	2-year-old stage	mcTEC	1	1	1	4	0.25	0.25	not_generated	not_generated
+LOXL4	20th week post-fertilization stage	cTEC	1	1	1	3157	0.00253405	0.00253405	not_generated	not_generated
+LOXL4	20th week post-fertilization stage	mTEC	1	1	1	974	0.00924025	0.00924025	not_generated	not_generated
+LOXL4	20th week post-fertilization stage	mTEC-mimetic	1	1	1	131	0	0	not_generated	not_generated
+LOXL4	20th week post-fertilization stage	mcTEC	1	1	1	2432	0.00287829	0.00287829	not_generated	not_generated
+LOXL4	20th week post-fertilization stage	see_lv4_explore	1	1	1	16	0	0	not_generated	not_generated
+LOXL4	24th week post-fertilization stage	cTEC	1	2	2	429	0.00268817	0.00268817	not_generated	not_generated
+LOXL4	24th week post-fertilization stage	mTEC	1	2	2	706	0	0	not_generated	not_generated
+LOXL4	24th week post-fertilization stage	mTEC-mimetic	1	2	2	926	0.00213675	0.00213675	not_generated	not_generated
+LOXL4	24th week post-fertilization stage	mcTEC	1	2	2	540	0.00551125	0.00551125	not_generated	not_generated
+LOXL4	24th week post-fertilization stage	see_lv4_explore	1	2	2	49	0	0	not_generated	not_generated
+LOXL4	3-month-old stage	cTEC	1	3	3	470	0	0.00260417	not_generated	not_generated
+LOXL4	3-month-old stage	mTEC	1	3	3	1250	0.0625543	0.053255	not_generated	not_generated
+LOXL4	3-month-old stage	mTEC-mimetic	1	2	2	27	0.29	0.29	not_generated	not_generated
+LOXL4	3-month-old stage	mcTEC	1	3	3	274	0	0.0305445	not_generated	not_generated
+LOXL4	6-month-old stage	cTEC	3	7	7	2677	0	0.00158192	not_generated	not_generated
+LOXL4	6-month-old stage	mTEC	3	7	7	1382	0.026087	0.029779	not_generated	not_generated
+LOXL4	6-month-old stage	mTEC-mimetic	3	7	7	1957	0.0322581	0.0410897	not_generated	not_generated
+LOXL4	6-month-old stage	mcTEC	3	7	7	132	0	0.0198	not_generated	not_generated
+LOXL4	6-month-old stage	see_lv4_explore	1	1	1	1	0	0	not_generated	not_generated
+LOXL4	newborn stage (0-28 days)	cTEC	2	4	4	2330	0.00142654	0.00270191	not_generated	not_generated
+LOXL4	newborn stage (0-28 days)	mTEC	2	4	4	1367	0.0331294	0.0256556	not_generated	not_generated
+LOXL4	newborn stage (0-28 days)	mTEC-mimetic	2	4	4	130	0.0142857	0.0466166	not_generated	not_generated
+LOXL4	newborn stage (0-28 days)	mcTEC	2	4	4	2556	0.0356358	0.267818	not_generated	not_generated
