@@ -27,6 +27,8 @@ E-MTAB-8560 provides independent mTEC-focused transcript-level context. The clea
 
 Exploratory public human TEC/epithelial datasets provide transcript-level context for LOX-family genes, but they do not establish human conservation or validate the mouse mTEC1 candidate signal.
 
+A controlled GSE231906 pilot made aged-human thymus LOX-family transcript context technically evaluable. The LOXL2 mTEC-like context was mixed, supporting the need for orthogonal mouse LOXL2 IHC/IF or RNA-ISH.
+
 ## Critical Missing Experiment
 
 Mouse thymus LOXL2 IHC/IF or RNA-ISH across young and aged biological animals, ideally with epithelial/medullary markers.
@@ -50,6 +52,6 @@ This project does not claim human conservation, validation of the mouse result, 
 ## Links
 
 - GitHub repository: https://github.com/G1F12/ThymusLOXScan
-- GitHub release tag: `v5.5-external-mtec-context`
-- Public manuscript source: `manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
-- Public manuscript PDF: `manuscript/pdf/LOX_thymus_aging_public_preprint_v5_5_external_context.pdf`
+- GitHub release tag: `v5.6-gse231906-human-context`
+- Public manuscript source: `manuscript/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.md`
+- Public manuscript PDF: `manuscript/pdf/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.pdf`

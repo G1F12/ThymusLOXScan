@@ -8,18 +8,19 @@ This repository analyzes public single-cell RNA-seq data from CD45-negative muri
 
 Current manuscript:
 
-`manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
+`manuscript/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.md`
 
 Current release:
 
-`v5.5-external-mtec-context`
+`v5.6-gse231906-human-context`
 
 Current public PDF:
 
-`manuscript/pdf/LOX_thymus_aging_public_preprint_v5_5_external_context.pdf`
+`manuscript/pdf/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.pdf`
 
 Previous releases:
 
+- `v5.5-external-mtec-context`: previous external mTEC-focused context update.
 - `v5.2-dropout-protein-feasibility`: previous dropout/depth and protein-feasibility update.
 - `v5.0-external-validation`: previous external-validation update.
 - `v4.2-final-safe`: previous stable cautious release.
@@ -28,12 +29,12 @@ Older manuscript files are retained as working drafts or historical versions.
 
 ## Latest Analyses
 
-Recent audit work improved the official GSE240016 GEO/SRA metadata mapping, but did not rule out batch confounding. The E-MTAB-8560 R/Bioconductor reanalysis was completed as external mTEC-focused transcript-level context. E-MTAB-8560 is mixed/inconclusive overall, with the clearest aged-lower `Loxl2` pattern in mTEClo and cTEC and weaker support in mTEChi. No protein, functional, or causal validation is claimed.
+Recent audit work improved the official GSE240016 GEO/SRA metadata mapping, but did not rule out batch confounding. The E-MTAB-8560 R/Bioconductor reanalysis was completed as external mTEC-focused transcript-level context. E-MTAB-8560 is mixed/inconclusive overall, with the clearest aged-lower `Loxl2` pattern in mTEClo and cTEC and weaker support in mTEChi. A controlled GSE231906 pilot makes aged-human thymus LOX-family transcript context technically evaluable; LOXL2 mTEC-like context is mixed; this is not human validation or conservation. No protein, functional, or causal validation is claimed.
 
 ## Key Outputs
 
-- Current public manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
-- Current public PDF: `manuscript/pdf/LOX_thymus_aging_public_preprint_v5_5_external_context.pdf`
+- Current public manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.md`
+- Current public PDF: `manuscript/pdf/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.pdf`
 - One-page collaborator summary: `one_page_summary.md`
 - Wet-lab validation plan: `wet_lab_validation_plan.md`
 - Main pseudobulk table: `results/tables/lox_pseudobulk_complete_results.tsv`
@@ -148,10 +149,11 @@ ThymusLOXScan/
 - License: `LICENSE`
 - One-page summary: `one_page_summary.md`
 - Wet-lab validation plan: `wet_lab_validation_plan.md`
-- Current v5.5 manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md`
-- Current v5.5 public PDF: `manuscript/pdf/LOX_thymus_aging_public_preprint_v5_5_external_context.pdf`
+- Current v5.6 manuscript: `manuscript/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.md`
+- Current v5.6 public PDF: `manuscript/pdf/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.pdf`
 - Releases: https://github.com/G1F12/ThymusLOXScan/releases
-- Current release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.5-external-mtec-context
+- Current release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.6-gse231906-human-context
+- Previous v5.5 release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.5-external-mtec-context
 - Previous v5.2 release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.2-dropout-protein-feasibility
 - Previous external-validation update: https://github.com/G1F12/ThymusLOXScan/releases/tag/v5.0-external-validation
 - Previous stable cautious release: https://github.com/G1F12/ThymusLOXScan/releases/tag/v4.2-final-safe

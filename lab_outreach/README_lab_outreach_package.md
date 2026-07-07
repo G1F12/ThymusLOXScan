@@ -19,3 +19,5 @@ This directory contains a public-safe outreach package for discussing possible m
 Use the one-page pitch for first contact. Send the detailed proposal and technical appendix only after a lab or core facility expresses interest. Use the tracking template to record public contact URLs, dates, status, and notes.
 
 The package is intentionally cautious: it frames LOXL2 as a candidate-level mouse transcript signal requiring orthogonal testing, not as an established protein, functional, mechanistic, therapeutic, or human-conserved result.
+
+Current human-context update: a controlled GSE231906 pilot made aged-human thymus LOX-family transcript context technically evaluable. The LOXL2 mTEC-like context was mixed, supporting the need for orthogonal mouse LOXL2 IHC/IF or RNA-ISH.

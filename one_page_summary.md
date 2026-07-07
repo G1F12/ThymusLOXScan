@@ -21,7 +21,7 @@ LOX-family transcript differences in aging thymic stroma appear subtype-dependen
 - GSE223049: broad sorted mouse thymic fibroblast and epithelial directional context.
 - E-MTAB-8560: TEC/mTEC-like Loxl2 age-series context.
 - E-MTAB-8560 adds independent mTEC-focused transcript-level context, with an aged-lower Loxl2 pattern clearest in mTEClo/cTEC but overall mixed/inconclusive and not an exact GSE240016 mTEC1 validation.
-- GSE231906: metadata-only human candidate dataset; no expression-level human conservation claim.
+- GSE231906 controlled pilot: technically usable aged-human thymus transcript-level context; LOX-family genes and TEC/mTEC-like compartments recoverable; LOXL2 mTEC-like context mixed; not human validation.
 
 ## Technical caveats
 - mTEC1 Loxl2 dropout/depth risk is Partial / unresolved.
@@ -47,7 +47,7 @@ LOXL2 IHC or IF on young versus aged mouse thymus sections, ideally co-stained w
 https://github.com/G1F12/ThymusLOXScan
 
 ## Current manuscript
-manuscript/LOX_thymus_aging_public_preprint_v5_5_external_context.md
+manuscript/LOX_thymus_aging_public_preprint_v5_6_gse231906_human_context.md
 
 ## Current release
-v5.5-external-mtec-context
+v5.6-gse231906-human-context

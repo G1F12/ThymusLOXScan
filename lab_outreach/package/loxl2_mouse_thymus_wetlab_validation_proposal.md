@@ -17,6 +17,10 @@ The primary mouse observation is a candidate-level `Loxl2` transcript signal in 
 - Batch/sample confounding is not ruled out.
 - No protein, spatial, activity, function, or causal assay has been performed.
 
+## Updated Human Context
+
+A controlled GSE231906 pilot made aged-human thymus LOX-family transcript context technically evaluable. The LOXL2 mTEC-like context was mixed, supporting the need for orthogonal mouse LOXL2 IHC/IF or RNA-ISH.
+
 ## Experimental Question
 
 Is LOXL2 protein or `Loxl2` RNA detectable in mouse thymic epithelial/medullary regions, and does the signal differ between young and aged animals?

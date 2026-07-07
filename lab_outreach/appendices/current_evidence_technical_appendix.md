@@ -46,6 +46,12 @@ GSE147520 epithelial provides sample-aware epithelial context. Donor and sex fie
 
 Stage 3E supports exploratory human TEC/epithelial transcript-level context only. It does not support aged-adult human thymus behavior or cross-species conclusions.
 
+## GSE231906 Controlled Pilot Summary
+
+A controlled GSE231906 pilot made aged-human thymus LOX-family transcript context technically evaluable. LOX-family genes and TEC/mTEC-like compartments were recoverable after metadata-to-expression joining. The LOXL2 mTEC-like context was mixed, supporting the need for orthogonal mouse LOXL2 IHC/IF or RNA-ISH.
+
+This is mixed aged-human transcript-level context only. It does not establish human conservation and does not validate the mouse GSE240016 mTEC1 `Loxl2` candidate signal.
+
 ## Why Wet-Lab Is Needed
 
 The current computational evidence is transcript-level and dataset-limited. Wet-lab LOXL2 IHC/IF, RNA-ISH, or sorted TEC/mTEC qPCR/ddPCR is needed to test whether the candidate signal is detectable and age-associated in mouse thymic epithelial/medullary regions.
