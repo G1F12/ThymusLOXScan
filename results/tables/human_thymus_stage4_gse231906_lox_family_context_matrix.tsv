@@ -1,0 +1,41 @@
+context	gene	n_donor_sample_units	age_groups	older_minus_younger_detection_fraction	descriptive_direction
+Endo_context	LOX	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0350877192982456	higher_in_older_group
+Endo_context	LOXL1	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+Endo_context	LOXL2	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	-0.0332080200501253	lower_in_older_group
+Endo_context	LOXL3	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+Endo_context	LOXL4	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+Epi_overall	LOX	30	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+Epi_overall	LOXL1	30	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+Epi_overall	LOXL2	30	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+Epi_overall	LOXL3	30	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+Epi_overall	LOXL4	30	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+Mes_Fb_context	LOX	31	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.18232541396688268	higher_in_older_group
+Mes_Fb_context	LOXL1	31	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	-0.20087221521647752	lower_in_older_group
+Mes_Fb_context	LOXL2	31	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	-0.0386416861826698	lower_in_older_group
+Mes_Fb_context	LOXL3	31	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	-0.14383649308055355	lower_in_older_group
+Mes_Fb_context	LOXL4	31	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0287769784172661	higher_in_older_group
+cTEC_like	LOX	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+cTEC_like	LOXL1	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0178571428571428	higher_in_older_group
+cTEC_like	LOXL2	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+cTEC_like	LOXL3	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+cTEC_like	LOXL4	28	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+immature_TEC	LOX	21	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+immature_TEC	LOXL1	21	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+immature_TEC	LOXL2	21	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+immature_TEC	LOXL3	21	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+immature_TEC	LOXL4	21	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+mTEC_like	LOX	26	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+mTEC_like	LOXL1	26	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.15	higher_in_older_group
+mTEC_like	LOXL2	26	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+mTEC_like	LOXL3	26	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+mTEC_like	LOXL4	26	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+other	LOX	59	fetal_or_infant_lt1y; pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+other	LOXL1	59	fetal_or_infant_lt1y; pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+other	LOXL2	59	fetal_or_infant_lt1y; pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	-0.0013706140350877	lower_in_older_group
+other	LOXL3	59	fetal_or_infant_lt1y; pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	-0.0014800197335964	lower_in_older_group
+other	LOXL4	59	fetal_or_infant_lt1y; pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+post_AIRE_mTEC	LOX	14	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+post_AIRE_mTEC	LOXL1	14	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+post_AIRE_mTEC	LOXL2	14	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+post_AIRE_mTEC	LOXL3	14	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians
+post_AIRE_mTEC	LOXL4	14	pediatric_1_17y; young_adult_18_39y; adult_40_64y; older_adult_65plus	0.0	no_difference_in_group_medians

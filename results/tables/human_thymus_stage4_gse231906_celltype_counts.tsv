@@ -1,0 +1,130 @@
+sheet	broad_compartment	fine_cell_type	n_cells	n_unique_cell_ids	n_donors	n_samples	age_groups	compartments
+ETP_TP_metadata			4870	4870	31	31	age_unknown	other
+ETP_TP_metadata		Thy1	1055	1055	18	18	age_unknown	other
+ETP_TP_metadata		Thy2a	6015	6015	18	18	age_unknown	other
+ETP_TP_metadata		Thy2b	5911	5911	18	18	age_unknown	other
+ETP_TP_metadata		Thy2c	12542	12542	18	18	age_unknown	other
+ETP_TP_metadata		Thy3	5975	5975	18	18	age_unknown	other
+PBMC_metadata	ABC	ABC	785	785	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	HSPC	HSPC	93	93	21	21	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	MK	MK	4913	4913	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Memory_B	Memory_B	5583	5583	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Mono1	Mono1	23245	23245	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Mono2	Mono2	5101	5101	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Mono3	Mono3	83	83	11	11	fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	NK	CD56_Bright_NK	867	867	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	NK	CD56_Dim_NK	6327	6327	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	NK	LAG3+NK	13071	13071	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Naive_B	Naive_B	13527	13527	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Plasma	Plasma	1206	1206	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD4+CTL	10464	10464	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD4+RTE	2488	2488	20	20	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD4+TCM	7867	7867	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD4+TEFF	4872	4872	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD4+TEM	2968	2968	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD4+TN	20206	20206	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD8+RTE	922	922	16	16	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD8+TCM	2256	2256	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD8+TEM-B	11641	11641	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD8+TEM-K	7926	7926	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	CD8+TN	9586	9586	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	IFN_T	1136	1136	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	MAIT	1948	1948	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	T_un	1265	1265	20	20	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	Tex	674	674	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	Treg	3491	3491	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	Vδ1T-1	994	994	20	20	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	Vδ1T-2	3186	3186	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	Tcell	Vδ2Vγ9T	2867	2867	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	cDC	cDC	1940	1940	22	22	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+PBMC_metadata	pDC	pDC	644	644	21	21	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+Table Caption			4	4	1	1	age_unknown	other
+stromal_cell_metadata		Ciliated	445	445	36	36	age_unknown	other
+stromal_cell_metadata		Endo	17399	17399	55	55	age_unknown	endothelial
+stromal_cell_metadata		Fb_1	33707	33707	58	58	age_unknown	mesenchymal_or_fibroblast_like
+stromal_cell_metadata		Fb_2	11680	11680	55	55	age_unknown	mesenchymal_or_fibroblast_like
+stromal_cell_metadata		Immature_TEC	2768	2768	35	35	age_unknown	epithelial_or_epi;immature_TEC
+stromal_cell_metadata		Ionocyte	138	138	25	25	age_unknown	other
+stromal_cell_metadata		MKI67+Endo	266	266	8	8	age_unknown	endothelial
+stromal_cell_metadata		MKI67+Fb	36	36	9	9	age_unknown	mesenchymal_or_fibroblast_like
+stromal_cell_metadata		MKI67+VSMCs	35	35	8	8	age_unknown	mesenchymal_or_fibroblast_like
+stromal_cell_metadata		MKI67+cTEC	55	55	12	12	age_unknown	epithelial_or_epi;ctec_like
+stromal_cell_metadata		MKI67+mTEC	85	85	11	11	age_unknown	epithelial_or_epi;mtec_like
+stromal_cell_metadata		TEC(myo)	278	278	33	33	age_unknown	epithelial_or_epi
+stromal_cell_metadata		TEC(neuron)	1028	1028	41	41	age_unknown	epithelial_or_epi
+stromal_cell_metadata		Tuft	29	29	12	12	age_unknown	other
+stromal_cell_metadata		VSMCs	8458	8458	46	46	age_unknown	mesenchymal_or_fibroblast_like
+stromal_cell_metadata		cTEC_hi	2892	2892	36	36	age_unknown	epithelial_or_epi;ctec_like
+stromal_cell_metadata		cTEC_lo	7736	7736	41	41	age_unknown	epithelial_or_epi;ctec_like
+stromal_cell_metadata		mTEC_hi	686	686	32	32	age_unknown	epithelial_or_epi;mtec_like
+stromal_cell_metadata		mTEC_lo	3376	3376	35	35	age_unknown	epithelial_or_epi;mtec_like
+stromal_cell_metadata		post_AIRE_mTEC	1121	1121	33	33	age_unknown	epithelial_or_epi;mtec_like;post_AIRE_mTEC
+thymocyte_metadata	Endo	Endo	1943	1943	28	28	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	endothelial
+thymocyte_metadata	Endo	MKI67+Endo	6	6	3	3	adult_40_64y	endothelial
+thymocyte_metadata	Epi	Ciliated	349	349	25	25	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi
+thymocyte_metadata	Epi	Immature_TEC	1345	1345	21	21	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi;immature_TEC
+thymocyte_metadata	Epi	Ionocyte	71	71	16	16	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi
+thymocyte_metadata	Epi	MKI67+cTEC	19	19	6	6	adult_40_64y; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi;ctec_like
+thymocyte_metadata	Epi	MKI67+mTEC	19	19	4	4	adult_40_64y	epithelial_or_epi;mtec_like
+thymocyte_metadata	Epi	TEC(myo)	80	80	19	19	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi
+thymocyte_metadata	Epi	TEC(neuron)	723	723	28	28	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi
+thymocyte_metadata	Epi	Tuft	16	16	5	5	adult_40_64y; older_adult_65plus	epithelial_or_epi
+thymocyte_metadata	Epi	cTEC_hi	1513	1513	24	24	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi;ctec_like
+thymocyte_metadata	Epi	cTEC_lo	4468	4468	27	27	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi;ctec_like
+thymocyte_metadata	Epi	mTEC_hi	218	218	22	22	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi;mtec_like
+thymocyte_metadata	Epi	mTEC_lo	1328	1328	21	21	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi;mtec_like
+thymocyte_metadata	Epi	post_AIRE_mTEC	488	488	14	14	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	epithelial_or_epi;mtec_like;post_AIRE_mTEC
+thymocyte_metadata	Hema	Agonist_1	3995	3995	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	Agonist_2	750	750	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	CD4 SOX4hi SP	2510	2510	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	CD4 SOX4lo SP	1447	1447	17	17	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	CD8 SOX4hi SP	2019	2019	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	CD8 SOX4lo SP	554	554	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	DC1	118	118	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	DC1P	99	99	16	16	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	DC2	178	178	16	16	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	DN_P	19244	19244	36	36	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	DN_Q1	23142	23142	34	34	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	DN_Q2	11710	11710	32	32	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	DP_P	13187	13187	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	DP_Q	48215	48215	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	ETP	2273	2273	13	13	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	GNG4+CD8ααT	128	128	17	17	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	HSP_DP	1695	1695	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	IFN_CD8ααT	32	32	13	13	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	IFN_response	717	717	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	ISP-like	197	197	19	19	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	ImmatureNK	68	68	14	14	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	Lti	122	122	15	15	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	Macrophage	103	103	17	17	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	Mast	28	28	10	10	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	MatureNK	314	314	15	15	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	MemoryB	4501	4501	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	MemoryNK	108	108	16	16	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	Monocyte	61	61	13	13	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	NKT_like_CD8ααT	296	296	16	16	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	NaiveB	393	393	17	17	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	Neutrophil	48	48	10	10	adult_40_64y; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	Plasma	290	290	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	TP1	2275	2275	26	26	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	TP2	5753	5753	37	37	adult_40_64y; fetal_or_infant_lt1y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	Treg	627	627	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	ZNF683+CD8ααT	80	80	16	16	adult_40_64y; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	aDC	140	140	17	17	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	memory-like CD4 T	2608	2608	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	memory-like CD8 T	2565	2565	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	pDC	143	143	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	pre-CD4 T	2437	2437	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	pre-CD8 T	1246	1246	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	pre_Treg1	1258	1258	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	pre_Treg2	386	386	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	αβ_Entry	5038	5038	17	17	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	γδT_1	157	157	17	17	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	γδT_2	145	145	17	17	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	γδT_3	176	176	18	18	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Hema	γδT_P	799	799	26	26	adult_40_64y; fetal_or_infant_lt1y; pediatric_1_17y; young_adult_18_39y	other
+thymocyte_metadata	Mes	Fb_1	25618	25618	31	31	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	mesenchymal_or_fibroblast_like
+thymocyte_metadata	Mes	Fb_2	10002	10002	29	29	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	mesenchymal_or_fibroblast_like
+thymocyte_metadata	Mes	MKI67+Fb	31	31	4	4	adult_40_64y	mesenchymal_or_fibroblast_like
+thymocyte_metadata	Mes	MKI67+VSMCs	2	2	2	2	adult_40_64y; young_adult_18_39y	mesenchymal_or_fibroblast_like
+thymocyte_metadata	Mes	VSMCs	1006	1006	26	26	adult_40_64y; older_adult_65plus; pediatric_1_17y; young_adult_18_39y	mesenchymal_or_fibroblast_like

@@ -1,0 +1,103 @@
+donor_id	sample_id	n_cells	age_raw	age_years_min	age_years_max	age_group	sex	broad_compartments	fine_cell_type_count	target_compartments
+		4				age_unknown			1	other
+A16_TH_TOT_1	A16_TH_TOT_1	15				age_unknown			3	endothelial; mesenchymal_or_fibroblast_like
+A16_TH_TOT_2	A16_TH_TOT_2	17				age_unknown			5	endothelial; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like
+A16_TH_TOT_3	A16_TH_TOT_3	12				age_unknown			4	endothelial; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like
+A16_TH_TOT_4	A16_TH_TOT_4	10				age_unknown			4	endothelial; mesenchymal_or_fibroblast_like; other
+A16_TH_TOT_5	A16_TH_TOT_5	93				age_unknown			8	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+A16_TH_TOT_5GEX_1	A16_TH_TOT_5GEX_1	8				age_unknown			3	endothelial; mesenchymal_or_fibroblast_like
+A16_TH_TOT_5GEX_2	A16_TH_TOT_5GEX_2	13				age_unknown			5	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; mesenchymal_or_fibroblast_like
+A16_TH_TOT_5GEX_3	A16_TH_TOT_5GEX_3	16				age_unknown			4	endothelial; mesenchymal_or_fibroblast_like; other
+A16_TH_TOT_5GEX_4	A16_TH_TOT_5GEX_4	19				age_unknown			5	endothelial; epithelial_or_epi; mesenchymal_or_fibroblast_like
+A16_TH_TOT_5GEX_5	A16_TH_TOT_5GEX_5	86				age_unknown			4	endothelial; mesenchymal_or_fibroblast_like
+A16_TH_TOT_5GEX_6	A16_TH_TOT_5GEX_6	68				age_unknown			8	endothelial; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+A16_TH_TOT_5GEX_7	A16_TH_TOT_5GEX_7	74				age_unknown			6	endothelial; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like
+A16_TH_TOT_5GEX_8	A16_TH_TOT_5GEX_8	76				age_unknown			7	endothelial; epithelial_or_epi; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like
+A16_TH_TOT_6	A16_TH_TOT_6	93				age_unknown			11	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+A16_TH_TOT_7	A16_TH_TOT_7	84				age_unknown			5	endothelial; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like
+A16_TH_TOT_8	A16_TH_TOT_8	98				age_unknown			5	endothelial; epithelial_or_epi; mesenchymal_or_fibroblast_like
+A43_TH_45NM_5GEX_1	A43_TH_45NM_5GEX_1	8314				age_unknown			19	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+A43_TH_45NM_5GEX_2	A43_TH_45NM_5GEX_2	8602				age_unknown			19	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+A43_TH_TOT_5GEX_1	A43_TH_TOT_5GEX_1	367				age_unknown			12	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like
+A43_TH_TOT_5GEX_2	A43_TH_TOT_5GEX_2	41				age_unknown			6	endothelial; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like
+GSM4127993	GSM4127993	1697				age_unknown			5	other
+GSM4299783	GSM4299783	976				age_unknown			5	other
+GSM4299784	GSM4299784	278				age_unknown			5	other
+GSM4299785	GSM4299785	920				age_unknown			5	other
+GSM4299786	GSM4299786	3895				age_unknown			5	other
+GSM4299787	GSM4299787	5445				age_unknown			5	other
+GSM4299788	GSM4299788	4446				age_unknown			5	other
+GSM4299789	GSM4299789	4650				age_unknown			5	other
+GSM4466783	GSM4466783	362				age_unknown			15	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+GSM4466784	GSM4466784	500				age_unknown			16	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+GSM4466785	GSM4466785	5094				age_unknown			20	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+GSM4466786	GSM4466786	16469				age_unknown			19	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+GSM4505165	GSM4505165	1117				age_unknown			5	other
+GSM4505166	GSM4505166	2165				age_unknown			5	other
+GSM4505168	GSM4505168	337				age_unknown			5	other
+GSM4505169	GSM4505169	141				age_unknown			5	other
+T03_TH_TOT_5GEX_1	T03_TH_TOT_5GEX_1	4				age_unknown			3	epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like
+T03_TH_TOT_5GEX_2	T03_TH_TOT_5GEX_2	4				age_unknown			2	epithelial_or_epi;ctec_like; mesenchymal_or_fibroblast_like
+T06_TH_TOT_5GEX_3	T06_TH_TOT_5GEX_3	2				age_unknown			2	epithelial_or_epi; epithelial_or_epi;mtec_like;post_AIRE_mTEC
+T07_TH_EPCAM_5GEX	T07_TH_EPCAM_5GEX	2055				age_unknown			17	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+T07_TH_TOT_5GEX_1	T07_TH_TOT_5GEX_1	205				age_unknown			16	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+T07_TH_TOT_5GEX_2	T07_TH_TOT_5GEX_2	172				age_unknown			13	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like
+donor1	donor1	5115	56 years	56.0	56.0	adult_40_64y; age_unknown	Female	Endo; Hema; Mes	43	endothelial; mesenchymal_or_fibroblast_like; other
+donor10-1	donor10-1	3720	35 years	35.0	35.0	young_adult_18_39y	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	33	other
+donor10-2	donor10-2	2590	35 years	35.0	35.0	age_unknown; young_adult_18_39y	Female	Epi; Hema; Mes	49	epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor11-1	donor11-1	8466	9 years	9.0	9.0	pediatric_1_17y	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor11-2	donor11-2	6357	9 years	9.0	9.0	age_unknown; pediatric_1_17y	Male	Endo; Epi; Hema; Mes	54	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor12-1	donor12-1	8778	22 years	22.0	22.0	young_adult_18_39y	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor12-2	donor12-2	4462	22 years	22.0	22.0	age_unknown; young_adult_18_39y	Male	Endo; Epi; Hema; Mes	56	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor13-1	donor13-1	9483	4 years	4.0	4.0	pediatric_1_17y	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor13-2	donor13-2	6323	4 years	4.0	4.0	age_unknown; pediatric_1_17y	Female	Endo; Epi; Hema; Mes	54	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor14-1	donor14-1	6657	69 years	69.0	69.0	older_adult_65plus	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor14-2	donor14-2	6401	69 years	69.0	69.0	age_unknown; older_adult_65plus	Male	Endo; Epi; Hema; Mes	53	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; mesenchymal_or_fibroblast_like; other
+donor15-1	donor15-1	6414	53 years	53.0	53.0	adult_40_64y	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor15-2	donor15-2	4897	53 years	53.0	53.0	adult_40_64y; age_unknown	Male	Endo; Epi; Hema; Mes	49	endothelial; epithelial_or_epi; mesenchymal_or_fibroblast_like; other
+donor16-1	donor16-1	7335	46 years	46.0	46.0	adult_40_64y	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	31	other
+donor16-2	donor16-2	6468	46 years	46.0	46.0	adult_40_64y; age_unknown	Female	Endo; Epi; Hema; Mes	55	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor17	donor17	5206	21 months	1.75	1.75	age_unknown; pediatric_1_17y	Female	Epi; Hema; Mes	52	epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor18	donor18	10553	64 years	64.0	64.0	adult_40_64y; age_unknown	Female	Endo; Epi; Hema; Mes	59	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor19	donor19	5921	105 years	105.0	105.0	older_adult_65plus	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor2	donor2	8076	48 years	48.0	48.0	adult_40_64y; age_unknown	Female	Endo; Epi; Hema; Mes	57	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor20	donor20	9825	100 years	100.0	100.0	older_adult_65plus	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor21	donor21	5138	105 years	105.0	105.0	older_adult_65plus	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor22	donor22	9468	104 years	104.0	104.0	older_adult_65plus	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	31	other
+donor23	donor23	8258	100 years	100.0	100.0	older_adult_65plus	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor24	donor24	1257	103 years	103.0	103.0	older_adult_65plus	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	29	other
+donor25	donor25	979	102 years	102.0	102.0	older_adult_65plus	Female	ABC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC	27	other
+donor26	donor26	12974	1 years	1.0	1.0	pediatric_1_17y	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	33	other
+donor27	donor27	11513	5 years	5.0	5.0	pediatric_1_17y	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	33	other
+donor28	donor28	11329	10 months	0.8333333333333334	0.8333333333333334	fetal_or_infant_lt1y	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	33	other
+donor29	donor29	10080	4 years	4.0	4.0	pediatric_1_17y	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	33	other
+donor3	donor3	7010	24 years	24.0	24.0	age_unknown; young_adult_18_39y	Female	Endo; Epi; Hema; Mes	60	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor30	donor30	11395	1 years	1.0	1.0	pediatric_1_17y	Male	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	33	other
+donor31	donor31	9609	3 years	3.0	3.0	age_unknown; pediatric_1_17y	Male	Hema	12	other
+donor32	donor32	11368	1 month	0.08333333333333333	0.08333333333333333	age_unknown; fetal_or_infant_lt1y	Male	Hema	13	other
+donor33	donor33	7289	3 years	3.0	3.0	age_unknown; pediatric_1_17y	Female	Hema	11	other
+donor34	donor34	9532	12 days	0.03285420944558522	0.03285420944558522	age_unknown; fetal_or_infant_lt1y	Male	Hema	11	other
+donor35	donor35	11556	3 years	3.0	3.0	age_unknown; pediatric_1_17y	Female	Hema	11	other
+donor36	donor36	8719	2 months	0.16666666666666666	0.16666666666666666	age_unknown; fetal_or_infant_lt1y	Female	Hema	11	other
+donor37	donor37	4627	35 years	35.0	35.0	age_unknown; young_adult_18_39y	Male	Endo; Epi; Hema; Mes	19	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor38	donor38	25341	61 years	61.0	61.0	adult_40_64y; age_unknown	Male	Endo; Epi; Hema; Mes	18	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor39	donor39	17256	61 years	61.0	61.0	adult_40_64y; age_unknown	Male	Endo; Epi; Hema; Mes	24	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor4	donor4	9423	5 years	5.0	5.0	age_unknown; pediatric_1_17y	Female	Endo; Epi; Hema; Mes	59	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor40-1	donor40-1	1994	70 years	70.0	70.0	age_unknown; older_adult_65plus	Male	Endo; Epi; Hema; Mes	20	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor40-2	donor40-2	3586	70 years	70.0	70.0	age_unknown; older_adult_65plus	Male	Endo; Epi; Hema; Mes	22	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor41-1	donor41-1	3632	57 years	57.0	57.0	adult_40_64y; age_unknown	Male	Endo; Epi; Hema; Mes	23	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor41-2	donor41-2	8990	57 years	57.0	57.0	adult_40_64y; age_unknown	Male	Endo; Epi; Hema; Mes	22	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor42	donor42	10362	61 years	61.0	61.0	adult_40_64y; age_unknown	Male	Endo; Epi; Hema; Mes	25	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor43	donor43	2781	51years	51.0	51.0	adult_40_64y; age_unknown	Male	Endo; Epi; Hema; Mes	19	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor44	donor44	1956	37years	37.0	37.0	age_unknown; young_adult_18_39y	Male	Endo; Epi; Hema; Mes	13	endothelial; epithelial_or_epi; epithelial_or_epi;immature_TEC; mesenchymal_or_fibroblast_like; other
+donor45	donor45	2296	54 years	54.0	54.0	adult_40_64y; age_unknown	Female	Endo; Epi; Hema; Mes	19	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor46	donor46	15167	55 years	55.0	55.0	adult_40_64y; age_unknown	Male	Endo; Epi; Hema; Mes	23	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor47	donor47	3500	38 years	38.0	38.0	age_unknown; young_adult_18_39y	Female	Endo; Epi; Hema; Mes	17	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor5	donor5	6960	12 years	12.0	12.0	age_unknown; pediatric_1_17y	Female	Endo; Epi; Hema; Mes	62	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; epithelial_or_epi;mtec_like;post_AIRE_mTEC; mesenchymal_or_fibroblast_like; other
+donor6	donor6	8623	35 years	35.0	35.0	age_unknown; young_adult_18_39y	Female	Endo; Epi; Hema; Mes	56	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor7-1	donor7-1	8245	56 years	56.0	56.0	adult_40_64y	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor7-2	donor7-2	6495	56 years	56.0	56.0	adult_40_64y; age_unknown	Female	Endo; Epi; Hema; Mes	58	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor8-1	donor8-1	8174	35 years	35.0	35.0	young_adult_18_39y	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; NK; Naive_B; Plasma; Tcell; cDC; pDC	32	other
+donor8-2	donor8-2	5056	35 years	35.0	35.0	age_unknown; young_adult_18_39y	Female	Endo; Epi; Hema; Mes	58	endothelial; epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other
+donor9-1	donor9-1	8733	24 years	24.0	24.0	young_adult_18_39y	Female	ABC; HSPC; MK; Memory_B; Mono1; Mono2; Mono3; NK; Naive_B; Plasma; Tcell; cDC; pDC	33	other
+donor9-2	donor9-2	3590	24 years	24.0	24.0	age_unknown; young_adult_18_39y	Female	Epi; Hema; Mes	56	epithelial_or_epi; epithelial_or_epi;ctec_like; epithelial_or_epi;immature_TEC; epithelial_or_epi;mtec_like; mesenchymal_or_fibroblast_like; other

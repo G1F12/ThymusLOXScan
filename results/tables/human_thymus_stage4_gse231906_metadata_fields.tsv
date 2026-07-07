@@ -1,0 +1,26 @@
+sheet	field_name	candidate_role	dtype	non_null_count	unique_count	example_values	field_hint
+Table Caption	Sheet	other	object	4	4	thymocyte_metadata; PBMC_metadata; ETP_TP_metadata; stromal_cell_metadata	sheet
+Table Caption	Description	other	object	4	4	Metadata includes donor information and cell type for each thymocyte in this study.; Metadata includes donor information and cell type for each PBMC in this study.; Metadata includes cell type, sample/donor information and data source of the integrated ETP-TP cells, related to Figure 2 and Extended Data Figure 2.; Metadata includes cell type, sample/donor information and data source of the integrated thymic stromal cells, related to Figure 4 and Extended Data Figure 4.	description
+thymocyte_metadata	barcode	cell_id	object	213620	213620	TAGATCGAGCATTGTC-1_donor47; TAGATCGTCTAACGGT-1_donor47; TACTTGTGTGACACGA-1_donor47; TACTTGTGTTGCGTAT-1_donor47; TACTTACGTTAGGGAC-1_donor47; TACTTGTCATGGATCT-1_donor47; TAGACTGAGCCTAACT-1_donor47; TAGACTGAGGACTTCT-1_donor47; TAGACCAGTGGTACAG-1_donor47; TAGACTGAGCACTAGG-1_donor47	barcode
+thymocyte_metadata	geo_sample_id	sample_id	object	213620	37	donor47; donor37; donor44; donor41-2; donor42; donor40-1; donor45; donor46; donor41-1; donor40-2	geo_sample_id
+thymocyte_metadata	Sex	sex	object	213620	2	Female; Male	sex
+thymocyte_metadata	Age	age	object	213620	26	38 years; 35 years; 37years; 57 years; 61 years; 70 years; 54 years; 55 years; 51years; 3 years	age
+thymocyte_metadata	id_lv1	broad	object	213620	4	Mes; Endo; Epi; Hema	id_lv1
+thymocyte_metadata	id_lv2	other	object	213620	10	Mes; Endo; Epi; ETP_DN; DP; Myeloid; SP; Bcell; Innate_T; NK & ILC	id_lv2
+thymocyte_metadata	id_lv3	other	object	213620	65	Fb_1; Fb_2; Endo; VSMCs; post_AIRE_mTEC; TEC(neuron); mTEC_lo; cTEC_lo; ETP-TP; DN_P	id_lv3
+thymocyte_metadata	id_lv4	fine	object	213620	69	Fb_1; Fb_2; Endo; VSMCs; post_AIRE_mTEC; TEC(neuron); mTEC_lo; cTEC_lo; ETP; TP1	id_lv4
+PBMC_metadata	barcode	cell_id	object	174142	174142	ACGCAGCAGCCCGAAA-1_donor19; ACGCAGCAGACAGACC-1_donor19; ACGAGGATCTGATACG-1_donor19; ACGATACAGCGCCTTG-1_donor19; ACGATGTTCGTCTGAA-1_donor19; ACGATACCAAGTCATC-1_donor19; ACGATACCACGGCGTT-1_donor19; ACGATACAGACTCGGA-1_donor19; ACGCAGCAGGATTCGG-1_donor19; ACGATACGTTACTGAC-1_donor19	barcode
+PBMC_metadata	geo_sample_id	sample_id	object	174142	22	donor19; donor20; donor21; donor22; donor23; donor24; donor25; donor7-1; donor8-1; donor9-1	geo_sample_id
+PBMC_metadata	Sex	sex	object	174142	2	Female; Male	sex
+PBMC_metadata	Age	age	object	174142	17	105 years; 100 years; 104 years; 103 years; 102 years; 56 years; 35 years; 24 years; 9 years; 22 years	age
+PBMC_metadata	id_lv1	broad	object	174142	13	Tcell; NK; Mono1; Mono2; cDC; pDC; HSPC; Mono3; Naive_B; Memory_B	id_lv1
+PBMC_metadata	id_lv2	fine	object	174142	33	CD8+TEM-K; LAG3+NK; CD4+TN; CD4+TEFF; Vδ1T-2; CD8+TEM-B; CD56_Dim_NK; CD4+TCM; CD4+CTL; CD4+TEM	id_lv2
+ETP_TP_metadata	barcode	cell_id	object	36368	36368	AAACCCACACCAATTG-1_donor47; AAAGTCCGTTATCCAG-1_donor47; AAATGGAGTGTGAATA-1_donor47; AACCATGTCGCAGTCG-1_donor47; AACCTTTTCCCAATAG-1_donor47; AACCTTTTCCGCTGTT-1_donor47; AAGAACAGTTAGAAGT-1_donor47; AAGACAAGTTATGTCG-1_donor47; AAGATAGAGTCACGAG-1_donor47; AATGGAATCCCTCGTA-1_donor47	barcode
+ETP_TP_metadata	sample_id	sample_id	object	36368	49	donor47; donor37; donor44; donor41-2; donor42; donor40-1; donor45; donor46; donor41-1; donor40-2	sample_id
+ETP_TP_metadata	identity	other	object	36368	3	ETP; TP1; TP2	identity
+ETP_TP_metadata	phenotypical_id	fine	object	31498	5	Thy2c; Thy3; Thy2b; Thy2a; Thy1	phenotypical_id
+ETP_TP_metadata	source	batch	object	36368	3	Deng et al.; Le et al.; Lavaert et al.	source
+stromal_cell_metadata	barcode	cell_id	object	92218	92218	4861STDY7462257-ACGATGTAGTATCGAA; 4861STDY7462257-AGCGGTCCACGGACAA; 4861STDY7462257-AGTCTTTCAGGTCGTC; 4861STDY7462257-AGTGAGGGTCCATCCT; 4861STDY7462257-CAAGAAAGTCCTCCAT; 4861STDY7462257-CCATGTCTCATGCAAC; 4861STDY7462257-CCCTCCTTCGGGAGTA; 4861STDY7462257-CGATGGCGTTATGCGT; 4861STDY7462257-CTTGGCTGTGGTACAG; 4861STDY7462257-GATCGATAGTTACGGG	barcode
+stromal_cell_metadata	identity	fine	object	92218	20	Fb_2; Fb_1; Endo; VSMCs; post_AIRE_mTEC; mTEC_lo; Ciliated; TEC(myo); cTEC_lo; Ionocyte	identity
+stromal_cell_metadata	sample_id	sample_id	object	92218	61	A16_TH_TOT_1; A16_TH_TOT_2; A16_TH_TOT_3; A16_TH_TOT_4; A16_TH_TOT_5; A16_TH_TOT_6; A16_TH_TOT_7; A16_TH_TOT_8; A16_TH_TOT_5GEX_1; A16_TH_TOT_5GEX_2	sample_id
+stromal_cell_metadata	source	batch	object	92218	3	Park et al.; Bautista et al.; Deng et al.	source

@@ -1,0 +1,166 @@
+context	gene	age_group	n_donor_sample_units	median_detection_fraction	min_age_years	max_age_years	fine_cell_types
+Endo_context	LOX	adult_40_64y	14	0.01875	46.0	64.0	Endo; MKI67+Endo
+Endo_context	LOX	older_adult_65plus	3	0.0350877192982456	69.0	70.0	Endo
+Endo_context	LOX	pediatric_1_17y	4	0.0	4.0	12.0	Endo
+Endo_context	LOX	young_adult_18_39y	7	0.0	22.0	38.0	Endo
+Endo_context	LOXL1	adult_40_64y	14	0.0	46.0	64.0	Endo; MKI67+Endo
+Endo_context	LOXL1	older_adult_65plus	3	0.0	69.0	70.0	Endo
+Endo_context	LOXL1	pediatric_1_17y	4	0.0	4.0	12.0	Endo
+Endo_context	LOXL1	young_adult_18_39y	7	0.0	22.0	38.0	Endo
+Endo_context	LOXL2	adult_40_64y	14	0.0105263157894736	46.0	64.0	Endo; MKI67+Endo
+Endo_context	LOXL2	older_adult_65plus	3	0.0263157894736842	69.0	70.0	Endo
+Endo_context	LOXL2	pediatric_1_17y	4	0.0595238095238095	4.0	12.0	Endo
+Endo_context	LOXL2	young_adult_18_39y	7	0.0	22.0	38.0	Endo
+Endo_context	LOXL3	adult_40_64y	14	0.0	46.0	64.0	Endo; MKI67+Endo
+Endo_context	LOXL3	older_adult_65plus	3	0.0	69.0	70.0	Endo
+Endo_context	LOXL3	pediatric_1_17y	4	0.0	4.0	12.0	Endo
+Endo_context	LOXL3	young_adult_18_39y	7	0.0	22.0	38.0	Endo
+Endo_context	LOXL4	adult_40_64y	14	0.0	46.0	64.0	Endo; MKI67+Endo
+Endo_context	LOXL4	older_adult_65plus	3	0.0	69.0	70.0	Endo
+Endo_context	LOXL4	pediatric_1_17y	4	0.0	4.0	12.0	Endo
+Endo_context	LOXL4	young_adult_18_39y	7	0.0	22.0	38.0	Endo
+Epi_overall	LOX	adult_40_64y	13	0.0	46.0	64.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOX	older_adult_65plus	3	0.0	69.0	70.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOX	pediatric_1_17y	5	0.0	1.75	12.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOX	young_adult_18_39y	9	0.0	22.0	38.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOXL1	adult_40_64y	13	0.0	46.0	64.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOXL1	older_adult_65plus	3	0.0	69.0	70.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOXL1	pediatric_1_17y	5	0.0	1.75	12.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOXL1	young_adult_18_39y	9	0.0	22.0	38.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOXL2	adult_40_64y	13	0.0	46.0	64.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOXL2	older_adult_65plus	3	0.0	69.0	70.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOXL2	pediatric_1_17y	5	0.0	1.75	12.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOXL2	young_adult_18_39y	9	0.0	22.0	38.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOXL3	adult_40_64y	13	0.0	46.0	64.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOXL3	older_adult_65plus	3	0.0	69.0	70.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOXL3	pediatric_1_17y	5	0.0	1.75	12.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOXL3	young_adult_18_39y	9	0.0	22.0	38.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOXL4	adult_40_64y	13	0.0	46.0	64.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOXL4	older_adult_65plus	3	0.0	69.0	70.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron); Tuft
+Epi_overall	LOXL4	pediatric_1_17y	5	0.0	1.75	12.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Epi_overall	LOXL4	young_adult_18_39y	9	0.0	22.0	38.0	Ciliated; Ionocyte; TEC(myo); TEC(neuron)
+Mes_Fb_context	LOX	adult_40_64y	14	0.25	46.0	64.0	Fb_1; Fb_2; MKI67+Fb; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOX	older_adult_65plus	3	0.265658747300216	69.0	70.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOX	pediatric_1_17y	5	0.0833333333333333	1.75	12.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOX	young_adult_18_39y	9	0.25168463611859837	22.0	38.0	Fb_1; Fb_2; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOXL1	adult_40_64y	14	0.1085972850678733	46.0	64.0	Fb_1; Fb_2; MKI67+Fb; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOXL1	older_adult_65plus	3	0.0907944514501891	69.0	70.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOXL1	pediatric_1_17y	5	0.29166666666666663	1.75	12.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOXL1	young_adult_18_39y	9	0.1215704651120054	22.0	38.0	Fb_1; Fb_2; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOXL2	adult_40_64y	14	0.0588235294117647	46.0	64.0	Fb_1; Fb_2; MKI67+Fb; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOXL2	older_adult_65plus	3	0.0327868852459016	69.0	70.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOXL2	pediatric_1_17y	5	0.0714285714285714	1.75	12.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOXL2	young_adult_18_39y	9	0.0685300207039337	22.0	38.0	Fb_1; Fb_2; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOXL3	adult_40_64y	14	0.013953488372093	46.0	64.0	Fb_1; Fb_2; MKI67+Fb; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOXL3	older_adult_65plus	3	0.0302375809935205	69.0	70.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOXL3	pediatric_1_17y	5	0.17407407407407405	1.75	12.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOXL3	young_adult_18_39y	9	0.0181444991789819	22.0	38.0	Fb_1; Fb_2; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOXL4	adult_40_64y	14	0.0195227765726681	46.0	64.0	Fb_1; Fb_2; MKI67+Fb; MKI67+VSMCs; VSMCs
+Mes_Fb_context	LOXL4	older_adult_65plus	3	0.0287769784172661	69.0	70.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOXL4	pediatric_1_17y	5	0.0	1.75	12.0	Fb_1; Fb_2; VSMCs
+Mes_Fb_context	LOXL4	young_adult_18_39y	9	0.02779922779922775	22.0	38.0	Fb_1; Fb_2; MKI67+VSMCs; VSMCs
+cTEC_like	LOX	adult_40_64y	12	0.0	46.0	64.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOX	older_adult_65plus	3	0.0	69.0	70.0	cTEC_hi; cTEC_lo
+cTEC_like	LOX	pediatric_1_17y	5	0.0	1.75	12.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOX	young_adult_18_39y	8	0.0	22.0	38.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL1	adult_40_64y	12	0.0	46.0	64.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL1	older_adult_65plus	3	0.0178571428571428	69.0	70.0	cTEC_hi; cTEC_lo
+cTEC_like	LOXL1	pediatric_1_17y	5	0.0	1.75	12.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL1	young_adult_18_39y	8	0.0	22.0	38.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL2	adult_40_64y	12	0.0	46.0	64.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL2	older_adult_65plus	3	0.0	69.0	70.0	cTEC_hi; cTEC_lo
+cTEC_like	LOXL2	pediatric_1_17y	5	0.0	1.75	12.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL2	young_adult_18_39y	8	0.0	22.0	38.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL3	adult_40_64y	12	0.0	46.0	64.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL3	older_adult_65plus	3	0.0	69.0	70.0	cTEC_hi; cTEC_lo
+cTEC_like	LOXL3	pediatric_1_17y	5	0.0	1.75	12.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL3	young_adult_18_39y	8	0.0	22.0	38.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL4	adult_40_64y	12	0.0	46.0	64.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL4	older_adult_65plus	3	0.0	69.0	70.0	cTEC_hi; cTEC_lo
+cTEC_like	LOXL4	pediatric_1_17y	5	0.0	1.75	12.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+cTEC_like	LOXL4	young_adult_18_39y	8	0.0	22.0	38.0	MKI67+cTEC; cTEC_hi; cTEC_lo
+immature_TEC	LOX	adult_40_64y	10	0.0	46.0	64.0	Immature_TEC
+immature_TEC	LOX	older_adult_65plus	3	0.0	69.0	70.0	Immature_TEC
+immature_TEC	LOX	pediatric_1_17y	3	0.0	4.0	12.0	Immature_TEC
+immature_TEC	LOX	young_adult_18_39y	5	0.0	24.0	37.0	Immature_TEC
+immature_TEC	LOXL1	adult_40_64y	10	0.056615450277422055	46.0	64.0	Immature_TEC
+immature_TEC	LOXL1	older_adult_65plus	3	0.0	69.0	70.0	Immature_TEC
+immature_TEC	LOXL1	pediatric_1_17y	3	0.0	4.0	12.0	Immature_TEC
+immature_TEC	LOXL1	young_adult_18_39y	5	0.0	24.0	37.0	Immature_TEC
+immature_TEC	LOXL2	adult_40_64y	10	0.0	46.0	64.0	Immature_TEC
+immature_TEC	LOXL2	older_adult_65plus	3	0.0	69.0	70.0	Immature_TEC
+immature_TEC	LOXL2	pediatric_1_17y	3	0.0	4.0	12.0	Immature_TEC
+immature_TEC	LOXL2	young_adult_18_39y	5	0.0	24.0	37.0	Immature_TEC
+immature_TEC	LOXL3	adult_40_64y	10	0.0	46.0	64.0	Immature_TEC
+immature_TEC	LOXL3	older_adult_65plus	3	0.0	69.0	70.0	Immature_TEC
+immature_TEC	LOXL3	pediatric_1_17y	3	0.0	4.0	12.0	Immature_TEC
+immature_TEC	LOXL3	young_adult_18_39y	5	0.0	24.0	37.0	Immature_TEC
+immature_TEC	LOXL4	adult_40_64y	10	0.0	46.0	64.0	Immature_TEC
+immature_TEC	LOXL4	older_adult_65plus	3	0.0	69.0	70.0	Immature_TEC
+immature_TEC	LOXL4	pediatric_1_17y	3	0.0	4.0	12.0	Immature_TEC
+immature_TEC	LOXL4	young_adult_18_39y	5	0.0	24.0	37.0	Immature_TEC
+mTEC_like	LOX	adult_40_64y	11	0.0	46.0	64.0	MKI67+mTEC; mTEC_hi; mTEC_lo
+mTEC_like	LOX	older_adult_65plus	2	0.0	70.0	70.0	mTEC_hi; mTEC_lo
+mTEC_like	LOX	pediatric_1_17y	5	0.0	1.75	12.0	mTEC_hi; mTEC_lo
+mTEC_like	LOX	young_adult_18_39y	8	0.0	22.0	38.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL1	adult_40_64y	11	0.0	46.0	64.0	MKI67+mTEC; mTEC_hi; mTEC_lo
+mTEC_like	LOXL1	older_adult_65plus	2	0.15	70.0	70.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL1	pediatric_1_17y	5	0.0	1.75	12.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL1	young_adult_18_39y	8	0.0	22.0	38.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL2	adult_40_64y	11	0.0	46.0	64.0	MKI67+mTEC; mTEC_hi; mTEC_lo
+mTEC_like	LOXL2	older_adult_65plus	2	0.0	70.0	70.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL2	pediatric_1_17y	5	0.0	1.75	12.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL2	young_adult_18_39y	8	0.0	22.0	38.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL3	adult_40_64y	11	0.0	46.0	64.0	MKI67+mTEC; mTEC_hi; mTEC_lo
+mTEC_like	LOXL3	older_adult_65plus	2	0.0	70.0	70.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL3	pediatric_1_17y	5	0.0	1.75	12.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL3	young_adult_18_39y	8	0.0	22.0	38.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL4	adult_40_64y	11	0.0	46.0	64.0	MKI67+mTEC; mTEC_hi; mTEC_lo
+mTEC_like	LOXL4	older_adult_65plus	2	0.0	70.0	70.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL4	pediatric_1_17y	5	0.0	1.75	12.0	mTEC_hi; mTEC_lo
+mTEC_like	LOXL4	young_adult_18_39y	8	0.0	22.0	38.0	mTEC_hi; mTEC_lo
+other	LOX	adult_40_64y	17	0.0	46.0	64.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOX	fetal_or_infant_lt1y	4	0.0	0.0328542094455852	0.8333333333333334	ABC; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN; DN_P; DN_Q1; DN_Q2; ETP; HSPC; IFN_T
+other	LOX	older_adult_65plus	11	0.0	69.0	105.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOX	pediatric_1_17y	14	0.0	1.0	12.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOX	young_adult_18_39y	13	0.0	22.0	38.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL1	adult_40_64y	17	0.0	46.0	64.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL1	fetal_or_infant_lt1y	4	0.0	0.0328542094455852	0.8333333333333334	ABC; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN; DN_P; DN_Q1; DN_Q2; ETP; HSPC; IFN_T
+other	LOXL1	older_adult_65plus	11	0.0	69.0	105.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL1	pediatric_1_17y	14	0.0	1.0	12.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL1	young_adult_18_39y	13	0.0	22.0	38.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL2	adult_40_64y	17	0.0	46.0	64.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL2	fetal_or_infant_lt1y	4	0.0013706140350877	0.0328542094455852	0.8333333333333334	ABC; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN; DN_P; DN_Q1; DN_Q2; ETP; HSPC; IFN_T
+other	LOXL2	older_adult_65plus	11	0.0	69.0	105.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL2	pediatric_1_17y	14	0.0	1.0	12.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL2	young_adult_18_39y	13	0.0	22.0	38.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL3	adult_40_64y	17	0.0	46.0	64.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL3	fetal_or_infant_lt1y	4	0.0014800197335964	0.0328542094455852	0.8333333333333334	ABC; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN; DN_P; DN_Q1; DN_Q2; ETP; HSPC; IFN_T
+other	LOXL3	older_adult_65plus	11	0.0	69.0	105.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL3	pediatric_1_17y	14	0.0	1.0	12.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL3	young_adult_18_39y	13	0.0	22.0	38.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL4	adult_40_64y	17	0.0	46.0	64.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL4	fetal_or_infant_lt1y	4	0.0	0.0328542094455852	0.8333333333333334	ABC; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN; DN_P; DN_Q1; DN_Q2; ETP; HSPC; IFN_T
+other	LOXL4	older_adult_65plus	11	0.0	69.0	105.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL4	pediatric_1_17y	14	0.0	1.0	12.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+other	LOXL4	young_adult_18_39y	13	0.0	22.0	38.0	ABC; Agonist_1; Agonist_2; CD4 SOX4hi SP; CD4 SOX4lo SP; CD4+CTL; CD4+RTE; CD4+TCM; CD4+TEFF; CD4+TEM; CD4+TN; CD56_Bright_NK; CD56_Dim_NK; CD8 SOX4hi SP; CD8 SOX4lo SP; CD8+RTE; CD8+TCM; CD8+TEM-B; CD8+TEM-K; CD8+TN
+post_AIRE_mTEC	LOX	adult_40_64y	9	0.0714285714285714	48.0	61.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOX	older_adult_65plus	1	0.0	70.0	70.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOX	pediatric_1_17y	1	0.0	12.0	12.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOX	young_adult_18_39y	3	0.0	22.0	38.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL1	adult_40_64y	9	0.0526315789473684	48.0	61.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL1	older_adult_65plus	1	0.0	70.0	70.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL1	pediatric_1_17y	1	0.0	12.0	12.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL1	young_adult_18_39y	3	0.0	22.0	38.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL2	adult_40_64y	9	0.0	48.0	61.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL2	older_adult_65plus	1	0.0	70.0	70.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL2	pediatric_1_17y	1	0.0	12.0	12.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL2	young_adult_18_39y	3	0.0	22.0	38.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL3	adult_40_64y	9	0.0	48.0	61.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL3	older_adult_65plus	1	0.0	70.0	70.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL3	pediatric_1_17y	1	0.0	12.0	12.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL3	young_adult_18_39y	3	0.0	22.0	38.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL4	adult_40_64y	9	0.0	48.0	61.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL4	older_adult_65plus	1	0.0	70.0	70.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL4	pediatric_1_17y	1	0.0	12.0	12.0	post_AIRE_mTEC
+post_AIRE_mTEC	LOXL4	young_adult_18_39y	3	0.0	22.0	38.0	post_AIRE_mTEC

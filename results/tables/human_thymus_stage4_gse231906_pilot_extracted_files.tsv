@@ -1,0 +1,4 @@
+unit_key	member_name	local_path	size_bytes	extraction_role
+GSM8945751_donor3	GSM8945751_donor3_matrix.mtx.gz	data/external/human_thymus/GSE231906/pilot_extract/GSM8945751_donor3_matrix.mtx.gz	33973987	matrix
+GSM8945751_donor3	GSM8945751_donor3_features.tsv.gz	data/external/human_thymus/GSE231906/pilot_extract/GSM8945751_donor3_features.tsv.gz	304728	features
+GSM8945751_donor3	GSM8945751_donor3_barcodes.tsv.gz	data/external/human_thymus/GSE231906/pilot_extract/GSM8945751_donor3_barcodes.tsv.gz	38563	barcodes
