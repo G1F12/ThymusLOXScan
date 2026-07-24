@@ -1,9 +1,9 @@
 manuscript_section	manuscript_statement	numerical_value	unit	authoritative_source	source_row_or_key	verification_status	notes
 Abstract	Primary dataset cell count	22932	cells	manifests/datasets_v6.tsv	GSE240016	VERIFIED_EXACT	Primary source object
-Abstract	mTEC1 Loxl2 aged-versus-young estimate	-3.286	log2 fold change	D:/ThymusLOXScan_phase9_final/results/tables/final_focal_results_v6.tsv	mTEC1 Loxl2	VERIFIED_ROUNDED	Canonical frozen value
-Results	capsFB Lox estimate	-1.456	log2 fold change	D:/ThymusLOXScan_phase9_final/results/tables/final_focal_results_v6.tsv	capsFB Lox	VERIFIED_ROUNDED	Canonical frozen value
-Results	medFB Loxl2 estimate	-0.992	log2 fold change	D:/ThymusLOXScan_phase9_final/results/tables/final_focal_results_v6.tsv	medFB Loxl2	VERIFIED_ROUNDED	Canonical frozen value
-Results	medFB Loxl1 estimate	0.752	log2 fold change	D:/ThymusLOXScan_phase9_final/results/tables/final_focal_results_v6.tsv	medFB Loxl1	VERIFIED_ROUNDED	Canonical frozen value
+Abstract	mTEC1 Loxl2 aged-versus-young estimate	-3.286	log2 fold change	results/tables/final_focal_results_v6.tsv	mTEC1 Loxl2	VERIFIED_ROUNDED	Canonical frozen value
+Results	capsFB Lox estimate	-1.456	log2 fold change	results/tables/final_focal_results_v6.tsv	capsFB Lox	VERIFIED_ROUNDED	Canonical frozen value
+Results	medFB Loxl2 estimate	-0.992	log2 fold change	results/tables/final_focal_results_v6.tsv	medFB Loxl2	VERIFIED_ROUNDED	Canonical frozen value
+Results	medFB Loxl1 estimate	0.752	log2 fold change	results/tables/final_focal_results_v6.tsv	medFB Loxl1	VERIFIED_ROUNDED	Canonical frozen value
 Methods and limitations	Fibroblast biological design	3+3	sample labels per age	manifests/datasets_v6.tsv	GSE240016	VERIFIED_EXACT	Biological-unit proxies
 Methods and limitations	mTEC1 biological design	2+2	sample labels per age	manifests/datasets_v6.tsv	GSE240016	VERIFIED_EXACT	Biological-unit proxies
 GSE231906 context	Strict unique barcode matches	387762	barcodes	results/tables/gse231906_barcode_join_audit_v6.tsv	aggregate	VERIFIED_EXACT	Historical 388986 excluded

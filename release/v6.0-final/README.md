@@ -7,13 +7,20 @@ External datasets provide broad, related-subtype, mixed, or detection-only conte
 ## Contents
 
 - `manuscript/`: final Markdown, PDF, HTML, and editable DOCX.
+- `figures/`: three reader-facing figures in PNG and PDF formats.
 - `tables/`: the three compact authoritative tables cited in the manuscript and the GSE231906 strict join audit.
 - `governance/`: compact datasets, claims, output-authority, and GSE231906 authority records.
 - `reproducibility/`: environment specifications, requirements, input acquisition guidance, and frozen-output checks.
 
 ## Inspection and reuse
 
-Read the PDF first, then compare its tables with the compact source tables and governance records. Obtain public inputs from GEO or BioStudies using the accessions in `governance/datasets_v6.tsv`. The release provides environment specifications, scripts, input provenance and frozen output checks. A fully independent clean-room reproduction was not completed before this release.
+Read the PDF first, then compare its figures and tables with the compact source tables and governance records. Obtain public inputs from GEO or BioStudies using the accessions in `governance/datasets_v6.tsv`.
+
+Two isolated `FULL_LOCAL` attempts reproduced the available Python core but remained partial because specified external inputs and the R/Bioconductor environment were unavailable. `RELEASE_DERIVED` checks completed without numerical invariant failures. The release therefore does not claim complete clean-room reproduction of every historical workflow.
+
+The frozen consolidation command is documented for controlled reuse:
+
+`python scripts/run_phase9_final_computational_freeze.py`
 
 ## Citation and contact
 

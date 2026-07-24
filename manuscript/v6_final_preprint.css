@@ -1,0 +1,148 @@
+@page {
+  size: A4;
+  margin: 18mm 18mm 21mm 18mm;
+}
+
+:root {
+  color: #171717;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.42;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 178mm;
+  color: #171717;
+  background: white;
+}
+
+h1 {
+  margin: 0 0 0.35em;
+  color: #17365d;
+  font-size: 23pt;
+  line-height: 1.14;
+}
+
+h2 {
+  margin: 1.15em 0 0.45em;
+  border-bottom: 1px solid #b9c7d8;
+  padding-bottom: 0.16em;
+  color: #17365d;
+  font-size: 15.5pt;
+  line-height: 1.2;
+  break-after: avoid-page;
+}
+
+h3 {
+  margin: 1em 0 0.35em;
+  color: #244f78;
+  font-size: 12.5pt;
+  line-height: 1.25;
+  break-after: avoid-page;
+}
+
+p {
+  margin: 0.45em 0 0.65em;
+  orphans: 3;
+  widows: 3;
+}
+
+a {
+  color: #244f78;
+  text-decoration: none;
+}
+
+code {
+  font-family: "Courier New", monospace;
+  font-size: 0.92em;
+}
+
+table {
+  width: 100%;
+  margin: 0.6em 0 1em;
+  border-collapse: collapse;
+  font-size: 8.7pt;
+  line-height: 1.28;
+  break-inside: avoid-page;
+}
+
+thead {
+  display: table-header-group;
+}
+
+th {
+  background: #17365d;
+  color: white;
+  font-weight: 700;
+}
+
+th,
+td {
+  border: 1px solid #c8d0d8;
+  padding: 0.38em 0.45em;
+  vertical-align: top;
+}
+
+tbody tr:nth-child(even) {
+  background: #f5f7f9;
+}
+
+img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 190mm;
+  margin: 0.6em auto 0.35em;
+  object-fit: contain;
+}
+
+figure,
+.figure-block {
+  margin: 1em 0 1.1em;
+  break-inside: avoid-page;
+  page-break-inside: avoid;
+}
+
+.figure-block p {
+  margin-top: 0.3em;
+}
+
+blockquote {
+  margin: 0.8em 0;
+  border-left: 3px solid #b9c7d8;
+  padding-left: 1em;
+  color: #444;
+}
+
+ol,
+ul {
+  margin-top: 0.4em;
+}
+
+li {
+  margin-bottom: 0.25em;
+}
+
+@media screen {
+  body {
+    padding: 16mm 18mm;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.12);
+  }
+}
+
+@media print {
+  body {
+    max-width: none;
+  }
+
+  h1,
+  h2,
+  h3,
+  table,
+  figure,
+  .figure-block {
+    break-inside: avoid-page;
+  }
+}
