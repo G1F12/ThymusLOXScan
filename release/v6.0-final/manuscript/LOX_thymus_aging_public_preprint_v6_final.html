@@ -1,0 +1,1228 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc 3.10" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>LOX_thymus_aging_public_preprint_v6_final</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      white-space: pre-wrap;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<h1
+id="subtype-dependent-lox-family-transcript-changes-in-aging-murine-thymic-stroma">Subtype-dependent
+LOX-family transcript changes in aging murine thymic stroma</h1>
+<p><strong>Aliaksandr Karatseyeu</strong><br />
+Independent researcher, Warsaw, Poland<br />
+ORCID: <a
+href="https://orcid.org/0009-0006-3385-0054">0009-0006-3385-0054</a><br />
+Correspondence: <a
+href="https://github.com/G1F12/ThymusLOXScan">ThymusLOXScan
+repository</a></p>
+<p><strong>Manuscript version:</strong> v6.0 final computational
+preprint<br />
+<strong>Status:</strong> Public-release package prepared; version DOI
+not assigned</p>
+<h2 id="abstract">Abstract</h2>
+<p>Age-associated thymic involution involves changes in epithelial and
+mesenchymal stromal compartments, but the behavior of
+extracellular-matrix-associated lysyl oxidase (LOX) family transcripts
+at stromal-subtype resolution is incompletely described. We performed a
+computational reanalysis of the public GSE240016 single-cell
+RNA-sequencing dataset of 22,932 CD45-negative thymic stromal cells from
+young and aged female mice, using sample-level pseudobulk inference and
+frozen sensitivity assessments. Four focal aged-versus-young estimates
+were retained: lower <code>Lox</code> in capsular fibroblasts (log2 fold
+change -1.456; three young and three aged samples), lower
+<code>Loxl2</code> in medullary fibroblasts (-0.992; 3+3), higher
+<code>Loxl1</code> in medullary fibroblasts (+0.752; 3+3), and lower
+<code>Loxl2</code> in mTEC1 (-3.286; 2+2). Their grades A, B+, B, and C,
+respectively, describe internal computational robustness only. The
+frozen quality-control, leave-one-library-out, sparse-gene, and
+annotation-confidence assessments preserved focal directions where
+estimable, while retaining small-sample, sparse-detection, annotation,
+and unresolved age-batch limitations. Independent mouse datasets
+supplied broad fibroblast, broad epithelial, or related TEC-subtype
+context; none supplied an exact capsFB, medFB, or mTEC1 comparison. An
+integrity-gated analysis of GSE231906 was limited to
+within-expression-unit human detection context among uniquely joined
+barcodes because independent donor identity could not be established.
+External evidence was mixed or contextual. This study is
+hypothesis-generating, and orthogonal experimental follow-up is
+required. These results support a narrow conclusion: GSE240016 contains
+subtype-associated LOX-family mouse age-direction estimates, including a
+candidate aged-lower mTEC1 <code>Loxl2</code> transcript pattern.</p>
+<h2 id="introduction">Introduction</h2>
+<p>The thymus supports T-cell development through a specialized stromal
+microenvironment composed of thymic epithelial cells, fibroblasts,
+endothelial cells, and other non-hematopoietic populations. With age,
+thymic involution reduces the production of naïve T cells and is
+accompanied by changes in epithelial organization, mesenchymal states,
+extracellular matrix, and inflammatory signaling [1-6]. Recent
+single-cell and spatial studies have resolved stromal heterogeneity that
+is obscured by whole-tissue or broad-compartment measurements. This
+resolution matters because an age-associated shift observed after
+pooling cell states can arise from altered composition, altered
+expression within a subtype, or both.</p>
+<p>The lysyl oxidase family comprises <code>Lox</code> and the four
+LOX-like genes <code>Loxl1</code>-<code>Loxl4</code>. Their protein
+products are copper-dependent amine oxidases associated with collagen
+and elastin crosslinking and with extracellular-matrix organization
+[7-10]. Individual family members also have distinct tissue
+associations: LOXL1 contributes to elastic-fiber homeostasis, and LOXL2
+has been studied in basement-membrane collagen crosslinking and vascular
+or fibrotic remodeling [11-13]. These biological roles make LOX-family
+transcripts plausible candidates for exploratory analysis in an aging
+stromal atlas, but transcript differences alone do not establish protein
+abundance, enzymatic activity, matrix remodeling, or physiological
+consequence.</p>
+<p>Single-cell RNA sequencing creates an additional inferential
+challenge. Cells sampled from the same animal or library are not
+independent biological replicates. Treating each cell as an independent
+unit can underestimate uncertainty and produce anticonservative
+differential-expression results [14-16]. A sample-level pseudobulk
+design is therefore preferable when the scientific comparison concerns
+biological samples. Even then, small biological sample sizes, sparse
+gene detection, annotation uncertainty, and batch structure limit
+interpretation.</p>
+<p>This study is a computational reanalysis of public data, not a new
+dataset search or a new biological experiment. Its primary objective was
+to characterize four accepted subtype-associated LOX-family
+age-direction estimates in GSE240016 and to determine how those
+estimates behave under prespecified internal robustness analyses.
+Secondary objectives were to place the estimates within broad or
+related-subtype mouse context, to define a strictly limited human
+detection context, and to organize experimental follow-up without
+treating prioritization scores as evidence. The scope is explicitly
+exploratory. The analysis does not test causality, protein localization,
+tissue mechanics, thymic function, or treatment response.</p>
+<h2 id="materials-and-methods">Materials and Methods</h2>
+<h3 id="study-design-and-datasets">Study design and datasets</h3>
+<p>The computational chain used four principal public datasets and
+retained developmental human resources only as optional context.
+GSE240016 was the primary discovery dataset: a processed annotated
+single-cell RNA-sequencing object containing CD45-negative thymic
+stromal cells from 2-month and 18-month female C57BL/6 mice [5,6]. The
+analytical biological unit was the repository <code>sample</code> label,
+used as a proxy for an individual biological unit because an explicit
+mouse-to-library key was unavailable. The focal fibroblast analyses
+included three sample labels per age, and the mTEC1 analysis included
+two per age.</p>
+<p>GSE223049 was used as an independent mouse sorted-bulk RNA-sequencing
+dataset spanning young 2-month and aged 22-24-month samples. Its broad
+<code>Thymic_fibroblasts</code> and <code>Thymic_epithelial</code>
+populations could provide compartment-level directional context but
+could not reproduce capsFB, medFB, or mTEC1 definitions. Exact
+permutations of the available sample labels were used for the accepted
+small-sample external summaries; their interpretation remained
+descriptive because the population definitions and age design differed
+from GSE240016.</p>
+<p>E-MTAB-8560 was used as an independent mouse TEC Smart-seq2 age
+series with broad TEC, cTEC, mTEClo, mTEChi, and combined mTEC-like
+summaries [19]. Official SDRF metadata and a Bioconductor-derived
+<code>MouseThymusAgeing</code> export enabled mouse-level aggregation
+for the accepted analysis. The dataset spans developmental and
+early-aging contrasts through approximately the first year of life, has
+platform and batch limitations, and contains no fibroblast compartment.
+Its mTEC-related labels are related to, but not identical with,
+GSE240016 mTEC1.</p>
+<p>GSE231906 was used only after a Phase 0/6A integrity gate [20]. It
+contains 59 expression units and cell-level metadata, but the available
+person/sample identifiers did not establish high-confidence independent
+persons. A strict unit-scoped barcode join linked 387,762 of 590,533
+expression barcodes uniquely. The expression representation was
+classified <code>COUNT_LIKE_PROBABLE</code>. Therefore, the accepted
+endpoint was LOX-family detection within joined expression units, not
+donor-level aging inference, cross-species effect comparison, or human
+aging evidence.</p>
+<p>Earlier human developmental thymus datasets and public protein or
+spatial resources were retained as optional background or feasibility
+context when present in the repository. They were not used to upgrade
+any focal grade and were not treated as independent aging evidence.
+Dataset roles, checksums, availability, and clean-room staging status
+are recorded in the final dataset input manifest.</p>
+<h3 id="gse240016-input-and-annotation">GSE240016 input and
+annotation</h3>
+<p>The authoritative input was
+<code>data/raw/GSE240016_CD45neg_thymic_stroma_d0+annotation.h5ad</code>,
+corresponding to the GEO supplementary H5AD file [6]. Its recorded
+SHA-256 checksum is
+<code>a5cf4baeb408412947de2ae1867b4ad42271088c34c9dd212479c8b19e119fb1</code>.
+The object contained 22,932 cells. The accepted analysis used integer
+counts from <code>.raw.X</code>, while processed expression in
+<code>.X</code> was used only for explicitly descriptive or robustness
+summaries.</p>
+<p>Metadata fields included <code>stage</code>, <code>sample</code>,
+broad <code>cell_type</code>, fine <code>cell_type_subset</code>,
+<code>n_genes_by_counts</code>, <code>total_counts</code>, and
+<code>mito_frac</code>. The published annotations were retained rather
+than re-inferred. Focal labels were <code>3:capsFB</code>,
+<code>5:medFB</code>, and <code>13:mTEC1</code>; <code>4:intFB</code>
+was included in annotation and composition checks. Age was encoded as
+<code>02mo</code> and <code>18mo</code>, and the available design
+information described female C57BL/6 mice. Sample labels were treated as
+biological-unit proxies, not proven animal identifiers. No authoritative
+public key was available to map each mouse unambiguously to every
+analytical library.</p>
+<p>The repository audit compared raw and processed objects, recorded
+their roles, and avoided using prior generated results as hidden inputs.
+Available preparation and run metadata did not resolve whether age and
+batch were separable. The age-batch status was consequently fixed as
+<code>UNKNOWN</code>; sensitivity analyses were not interpreted as
+removing that uncertainty.</p>
+<h3 id="primary-pseudobulk-analysis">Primary pseudobulk analysis</h3>
+<p>The primary inferential unit was a subtype-by-sample pseudobulk.
+Integer counts from <code>.raw.X</code> were summed for each gene within
+each accepted subtype and sample label. Sample-subtype groups with fewer
+than 10 cells were excluded. Biological sample labels, not cells, served
+as replicates. The model was implemented with PyDESeq2 using design
+<code>~ stage</code>, reference level <code>02mo</code>, and contrast
+<code>18mo</code> versus <code>02mo</code> [17,18]. Positive log2 fold
+changes indicate higher expression in aged samples.</p>
+<p>The canonical v5.6 analysis applied its accepted gene filtering
+before model fitting and reported <code>baseMean</code>, log2 fold
+change, standard error, Wald statistic, nominal P value, and
+Benjamini-Hochberg adjusted P value [21]. The four values frozen for
+this manuscript are the canonical v5.6 results, not the slightly
+different Phase 2 robustness-filter estimates. Phase 2 intentionally
+used accepted robustness filtering and reruns to test direction
+stability; those values are sensitivity estimates and do not replace the
+canonical focal values.</p>
+<p>The LOX-family target set comprised <code>Lox</code>,
+<code>Loxl1</code>, <code>Loxl2</code>, <code>Loxl3</code>, and
+<code>Loxl4</code>. Multiple testing within the authoritative
+differential-expression results used the Benjamini-Hochberg procedure.
+Statistical significance in the small dataset was not treated as proof
+of a biological mechanism, and grades were assigned from the complete
+internal-evidence framework rather than from adjusted P values
+alone.</p>
+<h3 id="sample-level-descriptive-summaries">Sample-level descriptive
+summaries</h3>
+<p>For each subtype, sample, and target gene, the workflow recorded
+contributing cell count, total raw counts, library size, counts per
+million (CPM), log2(CPM+1), number of positive cells, and detection
+fraction defined as the proportion of cells with raw count greater than
+zero. Samples were ordered by age and stable sample identifier. These
+summaries supported visual inspection of direction and detection
+architecture but did not replace pseudobulk inference.</p>
+<p>Processed-expression summaries and raw-count CPM summaries were kept
+distinct. Per-cell tests and correlations inherited within-sample
+dependence and were therefore descriptive. They were retained from v5.6
+as historical/supporting material where their lineage was known, but
+Phase 9 did not use them to create or strengthen a focal claim.</p>
+<h3 id="phase-2-robustness-analysis">Phase 2 robustness analysis</h3>
+<p>Phase 2 evaluated the four focal directions within GSE240016 using
+accepted configurations only. A prespecified quality-control grid varied
+cell-level gene-count, total-count, and mitochondrial-fraction
+thresholds. Focal sample-subtype groups were reaggregated after
+filtering, and the sign of each eligible estimate was compared with the
+accepted direction. Raw-count and processed-object summaries were also
+compared to determine whether a direction depended on one expression
+representation.</p>
+<p>Leave-one-sample-out refits were performed only when at least two
+samples per age group remained after omission. The accepted
+log2-fold-change ranges were -1.908 to -1.225 for capsFB
+<code>Lox</code>, -1.120 to -0.881 for medFB <code>Loxl2</code>, and
++0.501 to +0.886 for medFB <code>Loxl1</code>. A leave-one-out refit was
+not estimable for mTEC1 <code>Loxl2</code>, because its starting design
+was 2+2 and omission would leave one replicate in one age group.</p>
+<p>The accepted Python/PyDESeq2 pipeline was reproducible in the
+available environment. Rscript and the required Bioconductor stack were
+unavailable, so edgeR/limma comparisons remained
+<code>BLOCKED_RSCRIPT_UNAVAILABLE</code>. Phase 9 did not install an
+arbitrary R environment or add an alternative statistical result. The
+same-cohort robustness grid and leave-one-out checks were interpreted
+only as internal computational sensitivity.</p>
+<h3 id="phase-3-sparse-gene-null">Phase 3 sparse-gene null</h3>
+<p>Phase 3 examined whether the mTEC1 <code>Loxl2</code> pattern was
+unusual relative to similarly sparse genes without using age-effect
+statistics to construct the matched pool. The eligible universe was
+defined from raw-count abundance, detection, and technical support
+variables in the mTEC1 data. Primary matching used abundance and
+detection features, with separate abundance-only, detection-only, and
+tighter joint sensitivity specifications. Each specification selected a
+200-gene matched pool under a fixed seed and documented matching
+distances and eligibility.</p>
+<p>The primary combined-extremeness score integrated absolute pseudobulk
+effect, aged-lower direction, detection decrease, logCPM decrease,
+sample ordering, and direction retention after accepted thinning
+summaries. In the primary pool, <code>Loxl2</code> was at the 98.5th
+empirical percentile; the conditional equal-or-more-extreme tail was 3
+of 200 genes, or 0.0199005 with the accepted finite-sample calculation.
+<code>Cdh2</code>, <code>Rasl10a</code>, and <code>Wdr72</code> were the
+three primary genes at least as extreme under the combined score,
+preserving interpretable matched controls rather than presenting
+<code>Loxl2</code> as unique.</p>
+<p>Depth-thinning simulation used 5,000 fixed-seed iterations to ask
+whether the accepted downsampling mechanism reproduced the joint event.
+There were 0 events in 5,000 iterations. The corrected add-one estimate
+was 0.00019996, with an accepted upper 95% bound of 0.000598967. A zero
+observed count was not reported as zero probability. The simulation
+approximated sequencing-depth loss through binomial thinning and did not
+model all biological or technical sources of sparse detection.</p>
+<p>The matched null was conditional on the eligible universe and
+matching variables, and the empirical tail was not a general-population
+P value. The final verdict remained
+<code>UNUSUAL_SPARSE_GENE_SIGNAL</code>; internal grade C was not
+upgraded. The analysis did not remove the n=2+2, age-batch, annotation,
+or external-replication limitations.</p>
+<h3 id="phase-4-annotation-confidence-audit">Phase 4
+annotation-confidence audit</h3>
+<p>Phase 4 assessed whether the focal signs depended on low-confidence
+cells within the published annotations. Marker sets were predefined for
+capsFB (<code>Dpp4</code>, <code>Smpd3</code>, <code>Pi16</code>,
+<code>Pdgfra</code>), intFB (<code>Inmt</code>, <code>Gpx3</code>,
+<code>Pdgfra</code>), medFB (<code>Ptn</code>, <code>Postn</code>,
+<code>Pdgfra</code>), and mTEC1 (<code>Ccl21a</code>,
+<code>Itgb4</code>, <code>Ly6a</code>, <code>Epcam</code>,
+<code>H2-Aa</code>, <code>Krt8</code>, <code>Krt5</code>). Target-marker
+scores summarized scaled expression and detection across the designated
+markers; anti-lineage or mixed-identity scores recorded incompatible
+marker support. Leave-one-marker-out scores tested dependence on any
+single marker.</p>
+<p>Cells were assigned published-label, moderate-confidence,
+high-confidence, and high-confidence-non-doublet tiers using the
+accepted marker-score, minimum-detection, and mixed/doublet-like rules.
+Pseudobulk estimates were recomputed across valid tiers without
+redefining the focal labels. All required libraries were retained: 3+3
+for capsFB and medFB and 2+2 for mTEC1. In the
+high-confidence-non-doublet tier, cell-retention fractions were 0.982
+for capsFB, 0.915 for medFB, and 0.982 for mTEC1.</p>
+<p>The medFB audit retained an important asymmetry: high-confidence
+retention was lower in aged than young medFB cells (0.880 versus 0.970;
+absolute difference 0.089), and sample-level retention range was 0.140.
+Focal signs nevertheless persisted across descriptive, PyDESeq2, and
+leave-one-marker-out analyses. This supports robustness to the accepted
+filtering scheme but does not establish annotation truth.</p>
+<p>Independent reference mapping could not be completed with the
+accepted local inputs and was recorded as blocked. No new mapping
+workflow was substituted. All four final annotation verdicts remained
+<code>ROBUST_TO_ANNOTATION_FILTERING</code>, explicitly as same-cohort
+sensitivity with no grade upgrade.</p>
+<h3 id="external-mouse-datasets">External mouse datasets</h3>
+<p>For GSE223049, accepted counts for sorted broad thymic fibroblast and
+epithelial samples were normalized by library size to CPM and
+transformed as log2(CPM+1). High-age minus low-age differences were
+calculated from sample-level values. Exact enumeration of the available
+age-label permutations avoided asymptotic assumptions in the small
+groups. The dataset’s broad sorting, older aged group, and lack of
+capsFB, medFB, and mTEC1 labels constrained all interpretations to
+compartment-level context.</p>
+<p>For E-MTAB-8560, official SDRF information was joined to the accepted
+processed Smart-seq2 resource and expression was aggregated by mouse.
+Predefined comparisons summarized younger and older ages for broad TEC,
+cTEC, mTEClo, mTEChi, and combined mTEC-like populations. The accepted
+results were mixed across TEC definitions, age contrasts, and
+batch-aware models. No E-MTAB fibroblast mapping exists, and none was
+inferred.</p>
+<p>External rows were assigned an evidence class before synthesis:
+broad-compartment context, related-subtype context, exact-subtype
+candidate, or not eligible. Differences in technology, age range, cell
+definition, and biological unit were retained in every mapping. No
+external row met exact-subtype eligibility for any of the four focal
+claims.</p>
+<h3 id="gse231906-integrity-gated-human-context">GSE231906
+integrity-gated human context</h3>
+<p>Phase 0/6A first inventoried GSE231906 archives, metadata, and
+expression units and computed checksums for available inputs. The
+accepted join was strict and unit-scoped: an expression barcode was
+linked only within its originating expression unit, duplicate metadata
+keys were not silently resolved across units, and ambiguous keys were
+excluded. Of 590,533 expression barcodes across 59 units, 387,762 joined
+uniquely.</p>
+<p>Identity fields were audited separately from barcode linkage.
+Duplicate or reused metadata identifiers prevented a defensible
+reconstruction of independent donor counts, and the number of
+high-confidence persons was zero. Missing authoritative person/sample
+keys were classified as <code>MISSING_SCOPE_EXPANSION_INPUT</code>: they
+would be required for donor-level age modeling, but their absence does
+not invalidate the accepted detection-only endpoint.</p>
+<p>Matrix characteristics supported the label
+<code>COUNT_LIKE_PROBABLE</code>, not a stronger assertion about raw UMI
+semantics. The accepted summaries used presence/absence of LOX-family
+expression within uniquely joined barcodes and within-unit descriptive
+expression. No cells were treated as independent donors, no donor-level
+aging model was fitted, and no cross-species effect size was inferred.
+Developmental human datasets and protein resources, when mentioned,
+supply only optional detectability or anatomical context.</p>
+<h3 id="cross-dataset-evidence-synthesis">Cross-dataset evidence
+synthesis</h3>
+<p>Phase 7 converted the accepted outputs into 23 evidence atoms linked
+to four focal claims. Each atom recorded dataset, population, endpoint,
+direction, exactness, analytical role, limitations, and an independence
+group. The 23 atoms collapsed into five biological evidence families
+after dependencies were made explicit. Same-cohort QC, reaggregation,
+sparse-null, and annotation audits were not counted as new biological
+cohorts.</p>
+<p>An external atom was eligible for exact replication only if it used
+an independent biological dataset, matched the focal subtype and gene,
+provided an age contrast with a compatible biological unit, and had
+adequate lineage. The number of exact-replication-eligible external
+atoms was zero. The synthesis therefore allowed wording such as
+“internally directionally stable,” “supportive broad context,” “opposite
+broad context,” and “related-subtype context.” It did not allow external
+subtype replication, human aging support, or conservation language.</p>
+<p>The four internal grades were frozen as
+<code>INTERNAL_COMPUTATIONAL_ROBUSTNESS_ONLY</code>. They summarize
+accepted same-cohort behavior and known limitations; they are not
+evidence-strength grades across species or datasets.</p>
+<h3 id="reproducibility-documentation">Reproducibility
+documentation</h3>
+<p>Phase 1 constructed isolated execution roots containing tracked files
+from the accepted base commit, explicit input manifests, separate output
+roots, and separate cache and temporary roots. Inputs were classified as
+direct computational, explicit synthesis, audit inventory, historical
+non-authoritative, optional context, or missing scope expansion.
+Checksums were required for available computational inputs, and
+inventory-only files were not misclassified as missing computational
+inputs.</p>
+<p>The release includes environment specifications, scripts, input
+provenance, and frozen-output checks to support inspection and future
+reproduction. A fully independent clean-room reproduction was not
+completed before this release. Missing person identity metadata affects
+only expanded donor-level claims, not the accepted detection-only
+endpoint.</p>
+<p>Outputs were assigned byte-identical, numerically identical,
+semantically equivalent, blocked, failed, or not-applicable policies
+before comparison. Numerical comparisons used predetermined absolute and
+relative tolerances no wider than 1e-8 unless specifically justified,
+with key alignment, ordering, NaN, and formatting rules recorded in the
+audit. Two independent FULL_LOCAL runs and two independent
+RELEASE_DERIVED runs used empty output, cache, and temporary
+directories. No cross-run reads, hidden-state dependence, or numeric
+invariant failure was found. Rscript/Bioconductor unavailability was
+recorded independently and did not invalidate the Python CORE
+result.</p>
+<h3 id="candidate-prioritization">Candidate prioritization</h3>
+<p>Phase 8 translated the frozen evidence and uncertainty records into
+an experimental-planning framework. Candidate-assay pairs received
+component scores for internal robustness, expected information gain,
+feasibility, interpretability, and risk. Three scenarios—evidence-first,
+information-gain-first, and practical-first—used predefined weights.
+Sensitivity analysis assessed how scenario ranks changed within the
+accepted weight definitions.</p>
+<p>The resulting scores are decision aids, not biological observations.
+They do not change a focal grade, add an evidence atom, establish a
+reagent, or imply that a higher-ranked candidate is more biologically
+important. Reagent availability and specificity require manual
+verification before any experiment.</p>
+<h2 id="results">Results</h2>
+<h3 id="four-focal-gse240016-transcript-associations">Four focal
+GSE240016 transcript associations</h3>
+<p>The final focal matrix retained four GSE240016 aged-versus-young
+estimates (Table 1). capsFB <code>Lox</code> was lower in aged samples
+(log2 fold change -1.456; 3+3 sample labels; grade A). medFB
+<code>Loxl2</code> was lower (-0.992; 3+3; B+), whereas medFB
+<code>Loxl1</code> was higher (+0.752; 3+3; B). mTEC1 <code>Loxl2</code>
+was lower (-3.286; 2+2; C). These are the authoritative v5.6 numerical
+values.</p>
+<p><strong>Table 1. Frozen focal GSE240016 estimates.</strong></p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr>
+<th>Focal comparison</th>
+<th style="text-align: right;">Aged vs young log2FC</th>
+<th style="text-align: right;">Biological n</th>
+<th style="text-align: right;">Internal grade</th>
+<th>Exact external replication</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>capsFB <code>Lox</code></td>
+<td style="text-align: right;">-1.456</td>
+<td style="text-align: right;">3+3</td>
+<td style="text-align: right;">A</td>
+<td>Not established</td>
+</tr>
+<tr>
+<td>medFB <code>Loxl2</code></td>
+<td style="text-align: right;">-0.992</td>
+<td style="text-align: right;">3+3</td>
+<td style="text-align: right;">B+</td>
+<td>Not established</td>
+</tr>
+<tr>
+<td>medFB <code>Loxl1</code></td>
+<td style="text-align: right;">+0.752</td>
+<td style="text-align: right;">3+3</td>
+<td style="text-align: right;">B</td>
+<td>Not established</td>
+</tr>
+<tr>
+<td>mTEC1 <code>Loxl2</code></td>
+<td style="text-align: right;">-3.286</td>
+<td style="text-align: right;">2+2</td>
+<td style="text-align: right;">C</td>
+<td>Not established</td>
+</tr>
+</tbody>
+</table>
+<p>Every grade in Table 1 means
+<code>INTERNAL_COMPUTATIONAL_ROBUSTNESS_ONLY</code>. Grade A for capsFB
+<code>Lox</code> does not mean external evidence is stronger than for
+the other candidates; it means that the accepted internal checks were
+more complete and less fragile. Grade C for mTEC1 <code>Loxl2</code>
+retains the sparse expression and 2+2 design limitations despite its
+large estimated fold change.</p>
+<p>The focal pattern was subtype-dependent rather than uniform. In
+particular, medFB contained opposite directions for two family members,
+with higher <code>Loxl1</code> and lower <code>Loxl2</code> in aged
+samples. These results are transcript associations within published
+labels. They do not establish a shared enzymatic program or a
+compartment-wide matrix phenotype.</p>
+<h3 id="phase-2-internal-robustness">Phase 2 internal robustness</h3>
+<p>The Phase 2 quality-control grid retained the focal signs across all
+accepted, estimable configurations. Raw-count CPM and processed-object
+descriptive representations also retained the directions, although
+effect magnitudes differed as expected between representations and
+filtering rules. This distinction is why the v5.6 canonical values
+remain the headline estimates and the Phase 2 estimates remain
+sensitivity outputs.</p>
+<p>Leave-one-sample-out refits retained negative capsFB <code>Lox</code>
+estimates from -1.908 to -1.225, negative medFB <code>Loxl2</code>
+estimates from -1.120 to -0.881, and positive medFB <code>Loxl1</code>
+estimates from +0.501 to +0.886. The exercise showed that no single
+eligible sample label alone determined those signs. It did not create an
+independent cohort. mTEC1 <code>Loxl2</code> had no valid leave-one-out
+result because a refit would reduce one group to a single
+biological-unit proxy.</p>
+<p>The robustness audit did not resolve batch. Age-batch status remains
+<code>UNKNOWN</code>, and sample labels remain biological-unit proxies.
+Cross-method checking with edgeR/limma remains blocked by unavailable
+Rscript/Bioconductor. The accepted grades incorporate these unresolved
+conditions.</p>
+<h3 id="mtec1-loxl2-sparse-gene-assessment">mTEC1 Loxl2 sparse-gene
+assessment</h3>
+<p>The Phase 3 primary matched pool contained 200 genes chosen without
+age-effect leakage. The <code>Loxl2</code> combined-extremeness score
+was at the 98.5th empirical percentile. Three matched
+genes—<code>Cdh2</code>, <code>Rasl10a</code>, and
+<code>Wdr72</code>—were equal or more extreme, yielding a conditional
+tail of 0.0199005 under the accepted finite-pool calculation.
+Sensitivity pools based on abundance only, detection only, or tighter
+joint matching retained an unusual ranking, but the exact tail depended
+on how sparse-gene comparability was defined.</p>
+<p>No joint simulation event occurred in 5,000 fixed-seed depth-thinning
+iterations. The corrected estimate was 0.00019996 and the upper 95%
+bound was 0.000598967. This result argues that the specified thinning
+mechanism rarely reproduced the full observed pattern; it does not
+exclude unmodeled batch, biology, cell selection, annotation error, or
+other technical mechanisms.</p>
+<p>The final Phase 3 verdict was
+<code>UNUSUAL_SPARSE_GENE_SIGNAL</code>. The result remained grade C.
+The combination of a large pseudobulk estimate, ordered sample
+summaries, low aged detection, and an unusual matched-null position
+makes the observation useful for a discriminating follow-up assay, but
+its 2+2 design and sparse expression make it high risk.</p>
+<h3 id="annotation-confidence-robustness">Annotation-confidence
+robustness</h3>
+<p>All four focal signs were preserved across every valid
+annotation-confidence tier. The high-confidence-non-doublet filter
+retained 98.2% of published capsFB cells, 91.5% of medFB cells, and
+98.2% of mTEC1 cells, while preserving all focal libraries. The
+corresponding Phase 4 verdict for each focal comparison was
+<code>ROBUST_TO_ANNOTATION_FILTERING</code>.</p>
+<p>medFB required a more qualified interpretation. Aged medFB cells had
+lower high-confidence retention than young cells (0.880 versus 0.970),
+and sample retention varied more than in capsFB or mTEC1. Both medFB
+focal signs persisted, but the age-asymmetric filtering shows that
+marker coherence itself changed with age or sample composition. The
+audit therefore reduces concern about one simple low-confidence-cell
+explanation without demonstrating an immutable medFB identity.</p>
+<p>Positive-cell summaries for mTEC1 <code>Loxl2</code> remained sparse
+across tiers and did not supply additional independent replication.
+Leave-one-marker-out analyses showed that the focal directions were not
+tied to a single marker in the accepted set. Independent reference
+mapping remained blocked, so annotation robustness was not upgraded to
+annotation corroboration.</p>
+<h3 id="broad-and-related-subtype-external-evidence">Broad and
+related-subtype external evidence</h3>
+<p>External mappings were claim-specific (Table 2). For C002, capsFB
+<code>Lox</code>, GSE223049 broad thymic fibroblasts had an aged-lower
+delta log2(CPM+1) of -0.354, providing supportive broad context. Broad
+thymic epithelial <code>Lox</code> was -0.038 and was retained
+separately as weak/null epithelial context rather than merged with the
+fibroblast result.</p>
+<p>For C003, medFB <code>Loxl1</code>, GSE223049 broad fibroblasts had a
+weak aged-lower delta of -0.112, opposite to the positive medFB
+estimate. This was classified
+<code>APPARENT_COMPARTMENT_DIFFERENCE</code>: broad aggregation cannot
+resolve whether the difference reflects subtype composition,
+subtype-specific regulation, or another design difference.</p>
+<p>For C004, medFB <code>Loxl2</code>, broad fibroblast
+<code>Loxl2</code> was aged-lower by -1.206 and supplied supportive
+broad context. For C005, mTEC1 <code>Loxl2</code>, broad epithelial
+<code>Loxl2</code> was aged-lower by -0.588. E-MTAB-8560 added mixed
+mTEClo, mTEChi, cTEC, and combined TEC context, with population- and
+contrast-dependent results.</p>
+<p><strong>Table 2. Accepted external mapping of the four focal
+claims.</strong></p>
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 25%" />
+<col style="width: 18%" />
+</colgroup>
+<thead>
+<tr>
+<th>Claim</th>
+<th>Internal focal estimate</th>
+<th>External comparison</th>
+<th style="text-align: right;">External delta</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C002 capsFB <code>Lox</code></td>
+<td>-1.456</td>
+<td>GSE223049 broad fibroblast</td>
+<td style="text-align: right;">-0.354</td>
+<td>Supportive broad context</td>
+</tr>
+<tr>
+<td>C002 capsFB <code>Lox</code></td>
+<td>-1.456</td>
+<td>GSE223049 broad epithelium</td>
+<td style="text-align: right;">-0.038</td>
+<td>Separate weak/null context</td>
+</tr>
+<tr>
+<td>C003 medFB <code>Loxl1</code></td>
+<td>+0.752</td>
+<td>GSE223049 broad fibroblast</td>
+<td style="text-align: right;">-0.112</td>
+<td>Opposite broad context; apparent compartment difference</td>
+</tr>
+<tr>
+<td>C004 medFB <code>Loxl2</code></td>
+<td>-0.992</td>
+<td>GSE223049 broad fibroblast</td>
+<td style="text-align: right;">-1.206</td>
+<td>Supportive broad context</td>
+</tr>
+<tr>
+<td>C005 mTEC1 <code>Loxl2</code></td>
+<td>-3.286</td>
+<td>GSE223049 broad epithelium</td>
+<td style="text-align: right;">-0.588</td>
+<td>Supportive broad context</td>
+</tr>
+<tr>
+<td>C005 mTEC1 <code>Loxl2</code></td>
+<td>-3.286</td>
+<td>E-MTAB-8560 TEC subsets</td>
+<td style="text-align: right;">Mixed</td>
+<td>Related-subtype context</td>
+</tr>
+</tbody>
+</table>
+<p>Exact external subtype replication was not established for C002,
+C003, C004, or C005. GSE223049 is broad sorted bulk, and E-MTAB-8560 has
+no fibroblast mapping and no exact mTEC1 label. The external results
+therefore constrain interpretation rather than convert internal
+sensitivity into replication.</p>
+<h3 id="human-detection-context">Human detection context</h3>
+<p>The GSE231906 integrity gate found 590,533 expression barcodes across
+59 units, of which 387,762 joined uniquely to unit-scoped metadata.
+Duplicate metadata keys and non-independent person identifiers prevented
+donor reconstruction; zero high-confidence persons were available. The
+matrix was classified <code>COUNT_LIKE_PROBABLE</code>.</p>
+<p>LOX-family genes and epithelial or mTEC-like labels were detectable
+among the uniquely joined barcodes, supporting only technical
+feasibility for sample-unit detection summaries. The analysis made no
+donor-level age comparison, no cell-level inferential test, and no
+human-versus-mouse effect comparison. Consequently, GSE231906 is
+<code>DETECTION_CONTEXT_ONLY</code>, not human aging evidence.</p>
+<h3 id="evidence-hierarchy">Evidence hierarchy</h3>
+<p>Directly estimated evidence consists of the four sample-level
+GSE240016 pseudobulk contrasts and their descriptive sample summaries.
+Internally supported evidence comprises the accepted QC grid,
+raw/processed representation checks, leave-one-sample-out estimates,
+Phase 3 matched-null and thinning analyses, and Phase 4
+annotation-confidence analyses. These layers share the same biological
+cohort.</p>
+<p>Externally contextualized evidence comprises GSE223049 broad sorted
+populations and E-MTAB-8560 related TEC populations. These datasets are
+biologically independent but do not match the focal subtype definitions.
+GSE231906 belongs to a separate human detection-context layer and is not
+part of the mouse age-effect evidence.</p>
+<p>Candidate interpretation includes the statement that a focal
+association may be useful for an experimental follow-up. No evidence
+supports protein change, spatial redistribution, altered LOX activity,
+extracellular-matrix crosslinking, a causal role in involution,
+treatment response, human conservation, or exact subtype
+replication.</p>
+<h3 id="experimental-prioritization">Experimental prioritization</h3>
+<p>The evidence-first scenario ranked C004, medFB <code>Loxl2</code>,
+first because it combines a B+ internal grade with supportive broad
+fibroblast context. The information-gain scenario ranked C003, medFB
+<code>Loxl1</code>, first because its internally positive subtype
+direction and opposite broad direction make subtype-resolved measurement
+especially informative. The practical-pilot scenario ranked C002, capsFB
+<code>Lox</code>, first because of grade A internal robustness and a
+comparatively straightforward broad-context direction. C005, mTEC1
+<code>Loxl2</code>, remained a high-information, high-risk candidate
+because an orthogonal subtype-resolved measurement could resolve an
+unusual sparse signal, but the present 2+2 evidence is fragile.</p>
+<p>These rankings organize possible assays; they do not prove that the
+leaders are stronger biological effects. The selected scenario changes
+the leader, underscoring that the ranking is conditional on planning
+priorities. No reagent-specific claim is made without manual
+verification.</p>
+<h2 id="discussion">Discussion</h2>
+<p>The accepted results describe a subtype-dependent pattern rather than
+a uniform LOX-family response in aging thymic stroma. capsFB
+<code>Lox</code>, medFB <code>Loxl2</code>, and mTEC1 <code>Loxl2</code>
+were lower in aged samples, whereas medFB <code>Loxl1</code> was higher.
+The divergence within medFB is especially important: pooling fibroblast
+subtypes can conceal or reverse a subtype-associated direction, so a
+broad fibroblast average is not a neutral substitute for subtype
+resolution.</p>
+<p>The medFB <code>Loxl1</code> result illustrates this aggregation
+problem. GSE240016 medFB showed a positive aged-versus-young estimate,
+while GSE223049 broad fibroblasts showed a weak negative difference. The
+external observation is not a direct contradiction of the medFB estimate
+because the broad sorted population combines multiple states and uses a
+different age design and technology. It is nevertheless informative: it
+argues against describing medFB <code>Loxl1</code> as a fibroblast-wide
+aged-higher pattern and motivates a subtype-resolved assay that can
+distinguish cell abundance from within-state expression.</p>
+<p>Internal robustness and external replication answer different
+questions. The QC grid, leave-one-out analysis, sparse-null assessment,
+and annotation-confidence filtering test whether a direction is
+sensitive to selected analytical choices within GSE240016. Directional
+persistence makes a one-setting computational artifact less likely under
+those specific checks. It cannot create new animals, resolve an unknown
+batch structure, or test the same subtype in an independent cohort.
+Conversely, GSE223049 and E-MTAB-8560 add biological independence but
+lose exact subtype comparability. Neither layer substitutes for the
+other.</p>
+<p>The mTEC1 <code>Loxl2</code> result is the most statistically and
+biologically fragile focal association. Its large negative estimate is
+accompanied by sparse detection, lower aged depth, only two sample
+labels per age, and no estimable leave-one-out analysis. Phase 3 adds a
+useful observation: the joint pattern was unusual among technically
+matched sparse genes and was rarely reproduced by the specified thinning
+model. This finding narrows one artifact hypothesis but does not remove
+the broader uncertainties. The grade therefore remains C, and a
+subtype-resolved detection assay with independently sampled animals
+would be more informative than further reuse of the same cells.</p>
+<p>The external mouse datasets add context at the resolution they
+actually contain. GSE223049 supports broad aged-lower fibroblast
+<code>Lox</code> and <code>Loxl2</code> and broad aged-lower epithelial
+<code>Loxl2</code>, while exposing the broad-versus-medFB difference for
+<code>Loxl1</code>. E-MTAB-8560 shows that <code>Loxl2</code> behavior
+in TEC compartments varies across subtype definition, age contrast, and
+analytical model. These results help prevent overgeneralization. They do
+not supply capsFB, medFB, or exact mTEC1 replication.</p>
+<p>The human data have a still narrower role. The GSE231906 join
+demonstrates that LOX-family detection can be summarized within uniquely
+linked expression units and annotated human thymic compartments. Without
+a defensible independent-person key, a donor-level age model would risk
+pseudoreplication. The correct contribution of this dataset is therefore
+integrity-gated detectability and workflow feasibility, not evidence
+that the mouse associations extend to aging humans.</p>
+<p>The Phase 8 framework converts these uncertainties into experimental
+choices. C004 offers the strongest balance of internal robustness and
+broad mouse context; C003 offers a high-value test of
+subtype-versus-compartment direction; C002 offers a practical internally
+stable pilot; and C005 offers potentially large information gain with
+substantial failure risk. Such prioritization is useful only if its
+evidentiary boundary is preserved. A score is not a measured biological
+quantity.</p>
+<p>The most direct next step would be an independent, balanced mouse
+cohort with explicit animal-to-library mapping and subtype-resolved
+measurement. RNA in situ hybridization, spatial transcriptomics,
+sorted-cell or nucleus-based quantification, and carefully qualified
+immunostaining could address localization and biological-unit
+replication. Protein abundance, enzymatic activity, matrix crosslinking,
+tissue mechanics, and thymic-output assays would be separate questions.
+The present work establishes neither those endpoints nor a therapeutic
+direction.</p>
+<h2 id="limitations">Limitations</h2>
+<p><strong>Table 3. Principal limitations and reproducibility
+disposition.</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>Domain</th>
+<th>Frozen limitation</th>
+<th>Consequence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Biological unit</td>
+<td>Sample labels are proxies; explicit mouse-to-library key is
+missing</td>
+<td>Animal-level lineage cannot be independently reconstructed</td>
+</tr>
+<tr>
+<td>Design</td>
+<td>Age-batch status is unknown</td>
+<td>Batch confounding is not excluded</td>
+</tr>
+<tr>
+<td>Sample size</td>
+<td>Fibroblast n=3+3; mTEC1 n=2+2</td>
+<td>Limited precision and leave-one-out feasibility</td>
+</tr>
+<tr>
+<td>Sparse signal</td>
+<td>mTEC1 <code>Loxl2</code> is detection- and depth-sensitive</td>
+<td>Grade remains C</td>
+</tr>
+<tr>
+<td>Methods</td>
+<td>Rscript/Bioconductor unavailable</td>
+<td>edgeR/limma comparison remains blocked</td>
+</tr>
+<tr>
+<td>Annotation</td>
+<td>Reference mapping blocked; medFB retention is age-asymmetric</td>
+<td>Same-cohort filter robustness only</td>
+</tr>
+<tr>
+<td>External evidence</td>
+<td>Broad or related subtypes only</td>
+<td>Exact subtype replication not established</td>
+</tr>
+<tr>
+<td>Human context</td>
+<td>Zero high-confidence persons in GSE231906</td>
+<td>Detection context only</td>
+</tr>
+<tr>
+<td>Reproduction</td>
+<td>CORE and RELEASE_DERIVED pass; FULL_LOCAL partial</td>
+<td>No claim of full local reproduction</td>
+</tr>
+<tr>
+<td>Orthogonal evidence</td>
+<td>No protein, spatial, mechanistic, or functional assay</td>
+<td>Transcript associations only</td>
+</tr>
+</tbody>
+</table>
+<p>The study is a reanalysis of public data centered on one primary
+single-cell dataset. The <code>sample</code> labels were used as
+biological-unit proxies because an explicit mouse-to-library key was
+unavailable. Although the source design describes female C57BL/6 mice,
+the repository cannot independently prove every animal-library mapping.
+The status of age versus sequencing or preparation batch is
+<code>UNKNOWN</code>, so age-batch confounding was not excluded.</p>
+<p>Biological sample sizes are small. The three fibroblast contrasts
+have 3+3 sample labels, and mTEC1 <code>Loxl2</code> has only 2+2. A
+PyDESeq2 dispersion warning occurred in the small-sample workflow and is
+retained as an environment/model limitation rather than suppressed.
+Leave-one-sample-out analysis was not valid for mTEC1. Adjusted P values
+and large fold changes should therefore be read together with
+sample-level behavior and the full uncertainty record.</p>
+<p>Sparse detection and depth differences are central for mTEC1
+<code>Loxl2</code> and relevant to other LOX-family summaries. The
+matched-gene null is conditional on its eligible universe, matching
+features, and distance rules. Binomial thinning models a specific
+loss-of-depth mechanism and cannot reproduce batch effects, biological
+heterogeneity, ambient RNA, annotation error, or all count-generation
+processes. The 0/5000 simulation count does not imply zero
+probability.</p>
+<p>The primary method was Python/PyDESeq2. Rscript and the required
+Bioconductor packages were unavailable in the accepted Phase 1
+environment, so edgeR/limma cross-method checks remain blocked. No
+replacement package versions were installed in Phase 9, and no new
+statistical estimate was introduced to fill that gap.</p>
+<p>The analysis relies on published cell annotations. Phase 4 marker
+scores, confidence tiers, mixed/doublet-like flags, and
+leave-one-marker-out checks test robustness to one predefined filtering
+framework. Independent reference mapping was blocked. medFB showed
+age-asymmetric high-confidence retention, which may reflect altered
+state, composition, annotation coherence, or technical quality. The
+preserved focal signs do not resolve those alternatives.</p>
+<p>External datasets differ in technology, population definition, age
+range, batch structure, and biological unit. GSE223049 contains broad
+sorted fibroblast and epithelial samples, not capsFB, medFB, or mTEC1.
+E-MTAB-8560 contains TEC-related populations and no fibroblast mapping;
+its age design and mTEC labels are not identical to GSE240016. Exact
+subtype replication is absent for all four focal claims.</p>
+<p>GSE231906 has substantial identity and join constraints. Only 387,762
+of 590,533 barcodes joined uniquely within expression units, metadata
+keys were duplicated, and zero high-confidence persons could be
+established. Its matrix was classified <code>COUNT_LIKE_PROBABLE</code>.
+The accepted endpoint is within-unit detection context only. It cannot
+support donor-level aging inference, human aging support, or
+conservation.</p>
+<p>The study contains no protein, spatial, mechanistic, functional, or
+causal evidence. It does not measure LOX secretion, enzymatic activity,
+collagen or elastin crosslinking, extracellular-matrix organization,
+tissue mechanics, thymic output, intervention response, or rejuvenation.
+Correlation or transcript direction cannot substitute for those
+measurements.</p>
+<p>Clean-room reproducibility is also bounded. <code>CORE</code> and
+<code>RELEASE_DERIVED</code> pass, with no numeric invariant failures or
+hidden-state dependence. <code>FULL_LOCAL</code> remains
+<code>PARTIAL_REPRODUCTION</code> because some audit-inventory and
+scope-expansion inputs were unavailable and R/Bioconductor was absent.
+That status does not invalidate the reproduced Python core, but it
+prevents a claim that every historical local workflow was fully
+reproduced.</p>
+<h2 id="conclusions">Conclusions</h2>
+<p>GSE240016 contains four focal subtype-associated mouse age-direction
+estimates that remain directionally stable across accepted internal
+sensitivity analyses. Independent mouse datasets provide broad or
+related-subtype context, but no exact subtype replication. The four
+grades describe internal computational robustness only, GSE231906
+contributes detection context only, and experimental prioritization
+remains a planning layer. Independent biological-unit replication and
+orthogonal measurements are required before stronger biological
+interpretation.</p>
+<h2 id="reproducibility-and-code-availability">Reproducibility and code
+availability</h2>
+<p>The repository provides a top-level freeze command:</p>
+<p><code>python scripts/run_phase9_final_computational_freeze.py</code></p>
+<p>This command validates frozen inputs and accepted artifacts, performs
+the authorized Phase 3 provenance normalization and Phase 5 report
+regeneration, builds final tables and registries, renders the
+manuscript, runs cross-file and wording checks, audits checksums, and
+exits nonzero on a critical inconsistency. The Phase 1 clean-room audit
+records exact package versions, input checksums, dependency lineage,
+comparison policies, numerical tolerances, two-run hidden-state checks,
+blockers, and mode-specific verdicts.</p>
+<p>Version 6.0 has no assigned DOI. Code and manuscript sources are
+maintained at <a
+href="https://github.com/G1F12/ThymusLOXScan">github.com/G1F12/ThymusLOXScan</a>.</p>
+<h2 id="data-availability">Data availability</h2>
+<p>GSE240016, GSE223049, and GSE231906 are available from the NCBI Gene
+Expression Omnibus under their accession records [6,20,22]. E-MTAB-8560
+is available through ArrayExpress/BioStudies and its associated
+processed resource [19]. Third-party datasets remain subject to their
+source licenses and distribution terms. The final dataset input manifest
+records dataset role, local availability, size, checksum, clean-room
+staging status, provenance, and the effect of absence. Large public
+inputs are not necessarily redistributed in the release candidate.</p>
+<h2 id="author-contributions">Author contributions</h2>
+<p>Aliaksandr Karatseyeu conceived the reanalysis, implemented and
+audited the computational workflows, interpreted the accepted results,
+and wrote the manuscript.</p>
+<h2 id="competing-interests">Competing interests</h2>
+<p>The author declares no competing interests.</p>
+<h2 id="funding">Funding</h2>
+<p>This work received no external funding.</p>
+<h2 id="references">References</h2>
+<ol type="1">
+<li>Palmer DB. The effect of age on thymic function. <em>Front
+Immunol.</em> 2013;4:316. <a
+href="https://doi.org/10.3389/fimmu.2013.00316">doi:10.3389/fimmu.2013.00316</a>.</li>
+<li>Thomas R, Wang W, Su DM. Contributions of age-related thymic
+involution to immunosenescence and inflammaging. <em>Immun Ageing.</em>
+2020;17:2. <a
+href="https://doi.org/10.1186/s12979-020-0173-8">doi:10.1186/s12979-020-0173-8</a>.</li>
+<li>Ki S, Park D, Selden HJ, Seita J, Chung H, Kim J, et al. Global
+transcriptional profiling reveals distinct functions of thymic stromal
+subsets and age-related changes during thymic involution. <em>Cell
+Rep.</em> 2014;9:402-415. <a
+href="https://doi.org/10.1016/j.celrep.2014.08.070">doi:10.1016/j.celrep.2014.08.070</a>.</li>
+<li>Hamazaki Y. Adult thymic epithelial cell progenitors and stem cells:
+models and mechanisms for development and maintenance. <em>Eur J
+Immunol.</em> 2015;45:2985-2993. <a
+href="https://doi.org/10.1002/eji.201545844">doi:10.1002/eji.201545844</a>.</li>
+<li>Kousa AI, Jahn L, Zhao K, Flores AE, Acenas D, Lederer E, et
+al. Age-related epithelial defects limit thymic function and
+regeneration. <em>Nat Immunol.</em> 2024;25:1593-1606. <a
+href="https://doi.org/10.1038/s41590-024-01915-9">doi:10.1038/s41590-024-01915-9</a>.</li>
+<li>NCBI Gene Expression Omnibus. GSE240016: Age-related epithelial
+defects limit thymic function and regeneration. <a
+href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE240016">GEO
+accession GSE240016</a>.</li>
+<li>Lucero HA, Kagan HM. Lysyl oxidase: an oxidative enzyme and effector
+of cell function. <em>Cell Mol Life Sci.</em> 2006;63:2304-2316. <a
+href="https://doi.org/10.1007/s00018-006-6149-9">doi:10.1007/s00018-006-6149-9</a>.</li>
+<li>Vallet SD, Guéroult M, Belloy N, Dauchez M, Ricard-Blum S. Lysyl
+oxidases: from enzyme activity to extracellular matrix cross-links.
+<em>Essays Biochem.</em> 2019;63:349-364. <a
+href="https://doi.org/10.1042/EBC20180050">doi:10.1042/EBC20180050</a>.</li>
+<li>Cox TR, Erler JT. Remodeling and homeostasis of the extracellular
+matrix: implications for fibrotic diseases and cancer. <em>Dis Model
+Mech.</em> 2011;4:165-178. <a
+href="https://doi.org/10.1242/dmm.004077">doi:10.1242/dmm.004077</a>.</li>
+<li>Tschumperlin DJ, Ligresti G, Hilscher MB, Shah VH. Mechanosensing
+and fibrosis. <em>J Clin Invest.</em> 2018;128:74-84. <a
+href="https://doi.org/10.1172/JCI93561">doi:10.1172/JCI93561</a>.</li>
+<li>Liu X, Zhao Y, Gao J, Pawlyk B, Starcher B, Spencer JA, et
+al. Elastic fiber homeostasis requires lysyl oxidase-like 1 protein.
+<em>Nat Genet.</em> 2004;36:178-182. <a
+href="https://doi.org/10.1038/ng1297">doi:10.1038/ng1297</a>.</li>
+<li>Añazco C, López-Jiménez AJ, Rafi M, Vega-Montoto L, Zhang MZ, Hudson
+BG, Vanacore RM. Lysyl oxidase-like-2 cross-links collagen IV of
+glomerular basement membrane. <em>J Biol Chem.</em>
+2016;291:25999-26012. <a
+href="https://doi.org/10.1074/jbc.M116.738856">doi:10.1074/jbc.M116.738856</a>.</li>
+<li>Bignon M, Pichol-Thievend C, Hardouin J, Malbouyres M, Brechot N,
+Nasciutti L, et al. Lysyl oxidase-like protein-2 regulates sprouting
+angiogenesis and type IV collagen assembly. <em>Blood.</em>
+2011;118:3979-3989. <a
+href="https://doi.org/10.1182/blood-2010-10-313296">doi:10.1182/blood-2010-10-313296</a>.</li>
+<li>Crowell HL, Soneson C, Germain PL, Calini D, Collin L, Raposo C, et
+al. muscat detects subpopulation-specific state transitions from
+multi-sample multi-condition single-cell transcriptomics data. <em>Nat
+Commun.</em> 2020;11:6077. <a
+href="https://doi.org/10.1038/s41467-020-19894-4">doi:10.1038/s41467-020-19894-4</a>.</li>
+<li>Squair JW, Gautier M, Kathe C, Anderson MA, James ND, Hutson TH, et
+al. Confronting false discoveries in single-cell differential
+expression. <em>Nat Commun.</em> 2021;12:5692. <a
+href="https://doi.org/10.1038/s41467-021-25960-2">doi:10.1038/s41467-021-25960-2</a>.</li>
+<li>Murphy AE, Skene NG. A balanced measure shows superior performance
+of pseudobulk methods in single-cell RNA-sequencing analysis. <em>Nat
+Commun.</em> 2022;13:7851. <a
+href="https://doi.org/10.1038/s41467-022-35519-4">doi:10.1038/s41467-022-35519-4</a>.</li>
+<li>Love MI, Huber W, Anders S. Moderated estimation of fold change and
+dispersion for RNA-seq data with DESeq2. <em>Genome Biol.</em>
+2014;15:550. <a
+href="https://doi.org/10.1186/s13059-014-0550-8">doi:10.1186/s13059-014-0550-8</a>.</li>
+<li>Muzellec B, Telenczuk M, Cabeli V, Andreux M. PyDESeq2: a Python
+package for bulk RNA-seq differential expression analysis.
+<em>Bioinformatics.</em> 2023;39:btad547. <a
+href="https://doi.org/10.1093/bioinformatics/btad547">doi:10.1093/bioinformatics/btad547</a>.</li>
+<li>Baran-Gale J, Morgan MD, Maio S, Dhalla F, Calvo-Asensio I, Deadman
+ME, et al. Ageing compromises mouse thymus function and remodels
+epithelial cell differentiation. <em>eLife.</em> 2020;9:e56221. <a
+href="https://doi.org/10.7554/eLife.56221">doi:10.7554/eLife.56221</a>;
+dataset <a
+href="https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-8560">E-MTAB-8560</a>.</li>
+<li>NCBI Gene Expression Omnibus. GSE231906: Human thymus single-cell
+expression and metadata resource. <a
+href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231906">GEO
+accession GSE231906</a>.</li>
+<li>Benjamini Y, Hochberg Y. Controlling the false discovery rate: a
+practical and powerful approach to multiple testing. <em>J R Stat Soc
+B.</em> 1995;57:289-300. <a
+href="https://doi.org/10.1111/j.2517-6161.1995.tb02031.x">doi:10.1111/j.2517-6161.1995.tb02031.x</a>.</li>
+<li>NCBI Gene Expression Omnibus. GSE223049: Mouse thymic aging
+sorted-cell RNA-sequencing resource. <a
+href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223049">GEO
+accession GSE223049</a>.</li>
+<li>Phipson B, Smyth GK. Permutation P-values should never be zero:
+calculating exact P-values when permutations are randomly drawn.
+<em>Stat Appl Genet Mol Biol.</em> 2010;9:Article39. <a
+href="https://doi.org/10.2202/1544-6115.1585">doi:10.2202/1544-6115.1585</a>.</li>
+</ol>
+<h2 id="supplementary-materials-map">Supplementary materials map</h2>
+<ul>
+<li>Input and environment lineage:
+<code>manifests/final_dataset_input_manifest_v6.tsv</code>,
+<code>manifests/phase1_cleanroom_input_manifest_v6.tsv</code>, and
+<code>manifests/phase1_cleanroom_environment_v6.json</code>.</li>
+<li>Primary focal estimates:
+<code>results/tables/final_focal_results_v6.tsv</code> and the accepted
+GSE240016 pseudobulk tables.</li>
+<li>Phase 2 robustness: QC-grid, raw-versus-processed, leave-one-out,
+blocker, and focal-grade tables under <code>results/tables/</code>.</li>
+<li>Phase 3 sparse-null outputs: matched-pool, extremeness,
+thinning-simulation, invariant, and final-verdict tables, with
+<code>reports/MTEC1_LOXL2_PHASE3_SPARSE_NULL_v6.md</code>.</li>
+<li>Phase 4 annotation outputs: confidence-tier, leave-one-marker-out,
+retention-asymmetry, pseudobulk, and final-verdict tables.</li>
+<li>External evidence:
+<code>results/tables/final_external_evidence_v6.tsv</code> and accepted
+GSE223049/E-MTAB-8560 Phase 5 tables.</li>
+<li>Human detection context: the GSE231906 join, identity,
+count-semantics, detection, and Phase 0/6A integrity tables.</li>
+<li>Cross-dataset synthesis:
+<code>results/tables/phase7_evidence_atom_registry_v6.tsv</code>,
+<code>results/tables/phase7_claim_evidence_matrix_v6.tsv</code>, and
+<code>manifests/final_claim_registry_v6.tsv</code>.</li>
+<li>Experimental planning: Phase 8 component-score, scenario-weight,
+ranking, sensitivity, assay, and validation-plan tables.</li>
+<li>Clean-room audit:
+<code>reports/PHASE1_CLEAN_ROOM_REPRODUCIBILITY_v6.md</code>, its
+acceptance record, input/output manifests, invariant checks,
+hidden-state audit, and blocker registry.</li>
+<li>Final freeze:
+<code>manifests/final_authoritative_file_registry_v6.tsv</code>,
+release-asset manifest, checksum index, cross-file consistency table,
+and Phase 9 reports.</li>
+</ul>
+</body>
+</html>

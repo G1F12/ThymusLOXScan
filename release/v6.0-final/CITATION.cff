@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Subtype-dependent LOX-family transcript changes in aging murine thymic stroma"
+version: "6.0"
+authors:
+  - family-names: "Karatseyeu"
+    given-names: "Aliaksandr"
+repository-code: "https://github.com/G1F12/ThymusLOXScan"
+license: "MIT"
+preferred-citation:
+  type: manuscript
+  title: "Subtype-dependent LOX-family transcript changes in aging murine thymic stroma"
+  authors:
+    - family-names: "Karatseyeu"
+      given-names: "Aliaksandr"
+  version: "6.0"

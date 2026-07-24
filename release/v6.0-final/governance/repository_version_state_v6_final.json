@@ -1,0 +1,16 @@
+{
+  "schema": "thymusloxscan.release_state.v6",
+  "source_branch": "human-relevance-and-wetlab-plan",
+  "source_head_at_build": "6264d1f4be2a7a377782f2dc66f7f8bf39c5d421",
+  "dirty_tree_at_build": true,
+  "release_snapshot_checksum_sha256": "c3589689b98b6a426a0a7f9879f91bac03e3d6d7f3cf1ddf88f375002ffe53a0",
+  "snapshot_checksum_scope": "all release assets excluding this state record, RELEASE_MANIFEST.tsv, and checksums/SHA256SUMS.txt to avoid self-reference",
+  "final_manuscript_checksum_sha256": "ff616cb4426ab74b219b17906f5d8d5d9f56cf36690c06272ffd1607ce5a77d8",
+  "release_manifest_checksum_sha256": "fbb1b93c3fbbf50937ed9f260c679983d2ccfd265f884c4da1f2de83f46bd29d",
+  "intended_tag": "v6.0-final",
+  "release_commit": null,
+  "release_tag_status": "PROPOSED_NOT_CREATED",
+  "scientific_computations_executed_during_assembly": 0,
+  "numerical_outputs_changed_during_assembly": 0,
+  "final_snapshot_status": "READY_WITH_DOCUMENTATION_WARNINGS"
+}

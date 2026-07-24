@@ -1,0 +1,25 @@
+name: thymus-loxscan
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pip
+  - numpy>=2.2.6
+  - pandas>=2.3.1
+  - scipy>=1.16.1
+  - matplotlib>=3.10.5
+  - seaborn>=0.13.2
+  - statsmodels>=0.14.6
+  - anndata>=0.12.18
+  - scanpy>=1.11.5
+  - python-igraph>=0.11
+  - leidenalg>=0.10
+  - jupyter
+  - pip:
+      - pydeseq2>=0.5.4
+      - magic-impute>=3.0.0
+      - gseapy>=1.1
+      - pyreadr>=0.5.6
+      - rdata>=1.1.0
+      - openpyxl>=3.1.5

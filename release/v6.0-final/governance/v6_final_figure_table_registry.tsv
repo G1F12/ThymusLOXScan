@@ -1,0 +1,4 @@
+item_id	type	manuscript_number	title	source_path	source_table	authority_status	included_in_manuscript	public_release_path	checksum	notes
+TABLE_1	table	1	Frozen focal GSE240016 transcript associations	manuscript/LOX_thymus_aging_public_preprint_v6_final.md	results/tables/final_focal_results_v6.tsv	CURRENT	YES	tables/final_focal_results_v6.tsv	PENDING_FINAL_CHECKSUM	Three accepted focal transcript estimates
+TABLE_2	table	2	External evidence mapping	manuscript/LOX_thymus_aging_public_preprint_v6_final.md	results/tables/final_external_evidence_v6.tsv	CURRENT	YES	tables/final_external_evidence_v6.tsv	PENDING_FINAL_CHECKSUM	Context only; no exact replication
+TABLE_3	table	3	Limitations and reproducibility	manuscript/LOX_thymus_aging_public_preprint_v6_final.md	results/tables/final_known_limitations_v6.tsv	CURRENT	YES	tables/final_known_limitations_v6.tsv	PENDING_FINAL_CHECKSUM	No figure included

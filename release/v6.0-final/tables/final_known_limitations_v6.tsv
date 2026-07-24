@@ -1,0 +1,13 @@
+limitation_id	class	statement	claim_linkage
+L01	BIOLOGICAL_UNIT	Sample labels are biological-unit proxies; an explicit mouse-to-library key is unavailable.	ALL
+L02	DESIGN	Age-batch status is UNKNOWN because preparation/run fields do not establish separation.	ALL
+L03	SMALL_N	mTEC1 Loxl2 uses n=2+2 inferential libraries and remains sparse/depth-limited.	C005
+L04	ENVIRONMENT	edgeR/limma remain BLOCKED_RSCRIPT_UNAVAILABLE; no Phase 9 statistical result was added.	ALL
+L05	EXTERNAL	Exact external subtype replication is NOT_ESTABLISHED for all four claims.	ALL
+L06	GSE231906	GSE231906 is sample-unit detection context among uniquely joined barcodes only.	ALL
+L07	IDENTITY	GSE231906 has zero high-confidence independent persons; no donor-level aging inference is allowed.	ALL
+L08	ASSAY	No protein, spatial, mechanistic, functional or causal assay was performed.	ALL
+L09	EXTERNAL_TECH	GSE223049 is broad sorted bulk; E-MTAB-8560 is related TEC context and contains no fibroblast mapping.	ALL
+L10	REPRODUCIBILITY	CORE and RELEASE_DERIVED pass; FULL_LOCAL remains PARTIAL_REPRODUCTION for documented inventory/environment scope.	ALL
+L11	ANNOTATION	Phase 4 is same-cohort annotation sensitivity; medFB filtering asymmetry is retained.	C003;C004
+L12	PRIORITIZATION	Phase 8 rankings are experimental planning outputs, not scientific evidence.	ALL
